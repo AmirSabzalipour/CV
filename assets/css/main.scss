@@ -3,23 +3,3 @@
 
 @import "type-on-strap";
 
-/* Example CSS */
-.text-box {
-    position: absolute;
-    top: 50%; /* Adjust as needed */
-    left: 50%; /* Adjust as needed */
-    transform: translate(-50%, -50%);
-    background-color: rgba(255, 255, 255, 0.7); /* Adjust background color and opacity */
-    padding: 20px;
-    text-align: center;
-    border-radius: 10px;
-}
-
-.text-box h2 {
-    margin-top: 0;
-}
-
-.text-box p {
-    margin-bottom: 0;
-}
-
