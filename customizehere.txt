@@ -6,3 +6,6 @@ navigation bar : D:\Job_Applications\Documents\github\git4\Type-on-Strap\_sass\i
 deactive "Type on Strap" on the navigation bar :  D:\Job_Applications\Documents\github\git4\Type-on-Strap\_data\menu
 
 change the avatar image : saas/includes/_nbar
+
+go to _layout > home to add text to the home page
+
