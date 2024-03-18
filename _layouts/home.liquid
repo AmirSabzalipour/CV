@@ -19,18 +19,29 @@ layout: default
             }
         }
         {% endif %}
+        .text-box {
+            position: relative;
+            top: -300px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 400px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border: 1px solid #ddd;
+            font-size: 15px;
+            color: #2171b5;
+            font-family: 'Avenir Next LT Pro';
+        }
     </style>
     <div id="main" class="call-out call-out_img">
-        <h1> {{ site.header_text | default: ""}} </h1>
+        <h1>{{ site.header_text | default: ""}}</h1>
     </div>
 
     <!-- Text box -->
-    <div style="position: absolute; top: -300px; left: 0px; width: 400px; padding: 10px 10px 500px;">
-        <div id="color-post" class="post-content" style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro';">
-            <p>
-                As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
-            </p>
-        </div>
+    <div class="text-box">
+        <p>
+            As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
+        </p>
     </div>
 
     {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
