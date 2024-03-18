@@ -14,18 +14,11 @@
 }
 
 .site-header {
-  position: absolute;
-  top: 20px; /* Align the top of the header with the top of the page */
-  left: 60%; /* Align the left edge of the header with the center of the page */
-  transform: translateX(-50%); /* Move the header left by half of its own width to center it horizontally */
-  width: 60%; /* Set the width of the header */
-  padding: 10px;
-  background: rgba(255, 255, 255, .3); /* Background color */
-  border: 0px dashed lightgray; /* Border */
-  border-radius: 17px; /* Border radius */
-  font-family: Calibri, 'Trebuchet MS', sans-serif; /* Font family */
-  font-size: 1em;
-  color: white;
+  padding: 2% 2% 1% 2%;
+  background: var(--background);
+  display: inline-block;
+  float: left;
+  width: 80%;
 
   .separator {
     user-select: none;
@@ -55,7 +48,7 @@
     float: left;
     font-weight: bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif; /* Change font family here */
-    font-size: 25px; /* Change font size here */
+    font-size: 24px; /* Change font size here */
   }
 }
 
@@ -82,15 +75,17 @@ nav {
         color: var(--header-link); /* Set the default color */
         font-family: Arial, sans-serif; /* Change font family here */
         font-size: 16px; /* Change font size here */
-        /* Add additional properties here to ensure color override */
 
         &:hover {
           color: var(--link);
         }
 
-        /* Ensure color is set with sufficient specificity */
-        #main nav ul li a {
-          color: var(--header-link) !important;
+        &#pull {
+          i {
+            margin-top: 22px;
+            margin-right: 18px;
+            float: right;
+          }
         }
       }
     }
