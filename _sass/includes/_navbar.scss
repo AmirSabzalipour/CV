@@ -47,7 +47,7 @@
   .site-title {
     float: left;
     font-weight: bold;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif; /* Change font family here */
+    font-family: Arial, Helvetica, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif; /* Change font family here */
     font-size: 24px; /* Change font size here */
   }
 }
@@ -74,7 +74,7 @@ nav {
       a {
         color: var(--header-link); /* Set the default color */
         font-family: Arial, sans-serif; /* Change font family here */
-        font-size: 16px; /* Change font size here */
+        font-size: 20px; /* Change font size here */
 
         &:hover {
           color: var(--link);
