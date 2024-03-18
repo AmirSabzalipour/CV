@@ -1,0 +1,2 @@
+home setting: "D:\Job_Applications\Documents\github\git4\Type-on-Strap\_layouts\home.liquid"
+home setting: _config
