@@ -1,3 +1,4 @@
+---
 layout: default
 ---
 <div class="home">
@@ -17,34 +18,6 @@ layout: default
             display: flex;
             flex-direction: column;
         }
-        {% if site.header_feature_image_responsive %}
-        @media screen and (max-width: 768px) {
-            .call-out_img {
-                background-image: url('{{ site.header_feature_image | relative_url | split: '.' | join: '-medium.' | default: site.header_feature_image }}');
-            }
-        }
-        @media screen and (max-width: 576px) {
-            .call-out_img {
-                background-image: url('{{ site.header_feature_image | relative_url | split: '.' | join: '-small.' }}');
-            }
-        }
-        {% endif %}
-    </style>
-
-    <div id="main" class="call-out call-out_img">
-        <h1>{{ site.header_text | default: ""}}</h1>
-    </div>
-
-    <!-- Text box -->
-    <div class="text-box">
-        <p>
-            As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
-        </p>
-    </div>
-
-    {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
-    {{ _blog | split: " " | join: " "}}
-</div>
 
         .text-box {
             position: relative;
@@ -60,6 +33,7 @@ layout: default
             font-family: 'Avenir Next LT Pro';
         }
     </style>
+
     <div id="main" class="call-out call-out_img">
         <h1>{{ site.header_text | default: ""}}</h1>
     </div>
