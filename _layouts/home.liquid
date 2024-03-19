@@ -33,30 +33,25 @@ layout: default
             font-family: 'Avenir Next LT Pro';
         }
 
-        .text-box2 {
+           .text-box2 {
             position: relative;
-            top: -100px;
+            top: -150px;
             left: 40%;
             transform: translateX(-50%);
             width: 400px;
-            padding: 10px; /* Add padding to create space between image and border */
-            background-color: #f0f0f0;
-            border: 2px solid #ddd; /* Add border */
-            border-radius: 10px; /* Add border-radius for rounded corners */
-            overflow: hidden; /* Ensure the border encloses floated elements */
-        }
+            padding: 0px;
+            border: 0px solid #ddd;
+            font-size: 0px;
+                             }
 
-        .image-container {
-            text-align: center; /* Center the image horizontally */
-        }
 
-        .image-container img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            margin-top: -200px; /* Adjust as needed to align the image with text */
-            margin-left: -120px; /* Adjust as needed to align the image with text */
-        }
+
+
+
+
+
+
+
     </style>
 
     <div id="main" class="call-out call-out_img">
@@ -70,11 +65,11 @@ layout: default
         </p>
     </div>
 
-     <!-- Image box -->
+     <!-- Text box -->
     <div class="text-box2">
-        <div class="image-container">
-            <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar">
-        </div>
+        <p>
+      <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="width: 180px; height: 150px; border-radius: 50%; position: relative; top: -100px; left: -120px;">
+        </p>
     </div>
 
     {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
