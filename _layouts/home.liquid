@@ -3,45 +3,52 @@ layout: default
 ---
 <div class="home">
     <style scoped>
-        .image-container {
-            position: relative;
+        {% assign image = site.header_feature_image | relative_url | split: '.' %}
+        .call-out_img {
+            background-image: url('{{ image | join: '.' }}');
             margin: 0;
-            padding: 0;
-            background-image: url('/assets/img/header/machin.jpg'); /* Adjust the path to your image */
-            background-size: cover;
+            padding: 0px; /* Adjust padding as needed */
+            background-size: 100% 100%; /* Set the width to 100% and the height to 100% */
             background-position: center;
             min-height: 50vh;
             display: flex;
             flex-direction: column;
         }
-
+        {% if site.header_feature_image_responsive %}
+        @media screen and (max-width: 768px) {
+            .call-out_img {
+                background-image: url('{{ image[0] | append: '-medium.' | append: image[1] | default: image}}');
+            }
+        }
+        @media screen and (max-width: 576px) {
+            .call-out_img {
+                background-image: url('{{ image[0] | append: '-small.' | append: image[1] }}');
+            }
+        }
+        {% endif %}
         .text-box {
-            position: absolute;
-            top: 50%;
+            position: relative;
+            top: 40px;
             left: 50%;
-            transform: translate(-50%, -50%);
-            width: 70%;
-            padding: 20px;
-            background-color: rgba(240, 240, 240, 0.8); /* Adjust background color and opacity */
-            border: 1px solid #ddd;
+            transform: translateX(-50%);
+            width: 700px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border: 0px solid #ddd;
             font-size: 15px;
             color: #2171b5;
             font-family: 'Avenir Next LT Pro';
-            text-align: center;
         }
     </style>
+    <div id="main" class="call-out call-out_img">
+        <h1>{{ site.header_text | default: ""}}</h1>
+    </div>
 
-    <div class="image-container">
-        <!-- Image -->
-        <img src="/assets/img/header/amir.jpg" alt="Your Image">
-
-        <!-- Text box -->
-        <div class="text-box">
-            <h1>{{ site.header_text | default: "" }}</h1>
-            <p>
-                As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
-            </p>
-        </div>
+    <!-- Text box -->
+    <div class="text-box">
+        <p>
+            As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
+        </p>
     </div>
 
     {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
