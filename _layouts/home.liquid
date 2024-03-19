@@ -8,17 +8,17 @@ layout: default
             padding: 0;
         }
 
-        .call-out_img {
-            background-image: url('{{ site.header_feature_image | relative_url }}');
-            margin: 0;
-            padding: 0;
-            background-size: 100% 120%; /* Adjust as needed */
-            background-position: center;
-            min-height: 50vh;
-            display: flex;
-            flex-direction: column;
-            
-        }
+    .call-out_img {
+    background-image: url('{{ site.header_feature_image | relative_url }}');
+    margin: 0;
+    padding: 0;
+    background-size: cover; /* Adjust as needed */
+    background-position: center;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+}
+
 
         .text-box {
             position: relative;
