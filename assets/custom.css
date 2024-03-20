@@ -16,28 +16,3 @@ body {
   z-index: 4; /* Ensure the content is above the background image */
 }
 
-/* Styles for the text boxes */
-.text-box {
-  position: absolute;
-  padding: 10px;
-  z-index: 1; /* Ensure the text boxes are above the background image */
-}
-
-.red-box {
-  top: 20px;
-  left: -40px;
-  width: 180px;
-  background-color: rgba(255, 255, 255, 0.001); /* Transparent white background */
-}
-
-.gray-box {
-  top: 0px; /* Adjust the top position to increase the distance from the top */
-  left: -800px;
-  width: 700px;
-  background-color: rgba(255, 255, 255, 0); /* Transparent background */
-  padding-bottom: 80px;
-  text-align: justify;
-  z-index: 1;
-}
-
-
