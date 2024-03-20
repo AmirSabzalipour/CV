@@ -1,0 +1,47 @@
+/* Reset default margin and padding */
+body {
+  margin: 0;
+  padding: 40px;
+  background-image: url('assets/img/header/machin.jpg');
+  background-repeat: no-repeat;
+  background-position: center 10px; /* Adjusted background position */
+  background-size: 1000px 300px; /* Ensure the background image covers the entire viewport */
+}
+
+/* Define styles for the post content */
+.post-content {
+  margin: 100px;
+  color: gray;
+  position: relative;
+  z-index: 4; /* Ensure the content is above the background image */
+}
+
+/* Styles for the text boxes */
+.text-box {
+  position: absolute;
+  padding: 10px;
+  z-index: 1; /* Ensure the text boxes are above the background image */
+}
+
+.red-box {
+  top: 20px;
+  left: -40px;
+  width: 180px;
+  background-color: rgba(255, 255, 255, 0.001); /* Transparent white background */
+}
+
+.gray-box {
+  top: 0px; /* Adjust the top position to increase the distance from the top */
+  left: -800px;
+  width: 700px;
+  background-color: rgba(255, 255, 255, 0); /* Transparent background */
+  padding-bottom: 80px;
+  text-align: justify;
+  z-index: 1;
+}
+
+footer {
+  position: relative;
+  z-index: 2; /* Ensure the footer is above the background image */
+}
+
