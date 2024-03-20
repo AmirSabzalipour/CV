@@ -15,7 +15,7 @@
 
 .site-header {
   position: absolute;
-  top: 200px; /* Align the top of the header with the top of the page */
+  top: 20px; /* Align the top of the header with the top of the page */
   left: 50%; /* Align the left edge of the header with the center of the page */
   transform: translateX(-50%); /* Move the header left by half of its own width to center it horizontally */
   width: 90%; /* Set the width of the header */
@@ -157,6 +157,4 @@ nav ul li#pull i {
   }
   
 }
-
-
 

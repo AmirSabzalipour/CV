@@ -1,3 +1,5 @@
+layout: page
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,20 +11,21 @@
   <style>
     /* Reset default margin and padding */
     body {
-      margin: 0;
-      padding: 0;
-      background-image: url('assets/img/header/machin.jpg');
-      background-size: cover; /* Adjusted to cover the entire viewport */
-      background-position: center;
-      min-height: 100vh; /* Set minimum height to cover the entire viewport */
-      display: flex;
-      flex-direction: column;
-    }
+  margin: 0;
+  padding: 0px; /* Adjust padding as needed */
+  background-image: url('assets/img/header/machin.jpg');
+  background-size: 90% 0%; /* Set the width to 150% and the height to 100% */
+  background-position: center;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+}
+
 
     /* Define styles for the post content */
     .post-content {
       margin: 10px; /* Add margin to the post content */
-      color: gray; /* Change text color to gray */
+      color: gray; /* Change text color to white */
       position: absolute; /* Set the position to absolute */
       top: 350px; /* Adjust top position */
       left: 40px; /* Adjust left position */
@@ -41,10 +44,10 @@
 </head>
 <body>
   <div style="position: absolute; top: -150px; left: 40px; width: 300px; padding: 10px;">
-    <h2></h2>
-    <!-- Add class="avatar" to your avatar image -->
-    <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="width: 180px; height: 150px; border-radius: 50%; position: relative; top: -100px; left: -120px;">
-  </div>
+      <h2></h2>
+      <!-- Add class="avatar" to your avatar image -->
+      <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="width: 180px; height: 150px; border-radius: 50%; position: relative; top: -100px; left: -120px;">
+   </div>
 
   <div style="position: absolute; top: -100px; left: 0px; width: 400px; padding: 10px 10px 500px;"> <!-- Increase the padding from the bottom -->
     <div id="color-post" class="post-content" style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro';">
@@ -53,5 +56,11 @@
       </p>
     </div>
   </div>
+  
 </body>
+
+
+
+
+
 </html>
