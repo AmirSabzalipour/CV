@@ -5,7 +5,7 @@ body {
   background-image: url('assets/img/header/machin.jpg');
   background-repeat: no-repeat;
   background-position: center 1000px; /* Adjusted background position */
-  background-size: 10px 20px; /* Ensure the background image covers the entire viewport */
+  background-size: 0px 0px; /* Ensure the background image covers the entire viewport */
 }
 
 /* Define styles for the post content */
