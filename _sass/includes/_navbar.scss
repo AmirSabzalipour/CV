@@ -1,4 +1,4 @@
-// To clear things when we float the element inside nav and ul
+/* To clear things when we float the element inside nav and ul */
 .clear {
   *zoom: 1;
 
@@ -13,37 +13,23 @@
   }
 }
 
+/* Styling for the site header */
 .site-header {
   position: absolute;
-  top: 20px; /* Align the top of the header with the top of the page */
-  left: 50%; /* Align the left edge of the header with the center of the page */
-  transform: translateX(-50%); /* Move the header left by half of its own width to center it horizontally */
-  width: 90%; /* Set the width of the header */
-  padding-top: 20px; /* Top padding */
-  padding-bottom: 10px; /* Bottom padding */
-  padding-left: 5px; /* Left padding */
-  padding-right: 5px; 
-  background: rgba(255, 255, 255, 1); /* Background color */
-  border: 2px solid lightgray; /* Border */
-  border-radius: 25px; /* Border radius */
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Trebuchet MS', sans-serif; /* Font family */
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  padding: 20px 5px 10px;
+  background: rgba(255, 255, 255, 1);
+  border: 2px solid lightgray;
+  border-radius: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Trebuchet MS', sans-serif;
   font-size: 1em;
-  color: #A7C7E7; /* Font color */
-}
-
-.site-header .separator {
-  user-select: none;
-  opacity: 0;
-
-  &:first-child {
-    display: none;
-  }
-}
-
-.site-header a {
   color: #A7C7E7;
 }
 
+/* Styling for the avatar */
 .site-header .avatar {
   height: 3em;
   width: 3em;
@@ -51,15 +37,17 @@
   margin-top: -13px;
   border-radius: 50%;
   margin-right: 0.5em;
-  padding: 0px 0px;
+  padding: 0px;
 }
 
+/* Styling for the site title */
 .site-header .site-title {
   float: left;
   font-weight: bold;
   font-size: 1.3em;
 }
 
+/* Navigation styling */
 nav {
   list-style: none;
   margin: 0;
@@ -92,18 +80,7 @@ nav ul li#pull i {
   float: right;
 }
 
-/* ---- Responsive ---- */
-
-@media (min-width: $break) {
-  a#pull {
-    display: none;
-  }
-
-  .navbar-label-with-icon {
-    display: none;
-  }
-}
-
+/* Responsive styling */
 @media screen and (max-width: $break) {
   .site-header {
     img.avatar {
@@ -118,15 +95,9 @@ nav ul li#pull i {
   nav {
     height: auto;
 
-    .separator {
-      display: none !important;
-    }
-
     ul {
       width: 100%;
       overflow: hidden;
-
-      /* fade out, then shrink */
       transition: opacity .25s 0s, font-size .25s 0s;
       transition-delay: 0s;
 
@@ -155,9 +126,6 @@ nav ul li#pull i {
         margin: 0;
         display: block;
       }
-
     }
   }
-  
 }
-
