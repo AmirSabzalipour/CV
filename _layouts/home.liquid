@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<div class="home">
+    <style scoped>
+        body {
+            margin: 0;
+            padding: 0;
+        }
 
  .call-out_img {
     background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
@@ -41,18 +47,9 @@ layout: default
                              }
 
 
-
-
-
-
-
-
-
     </style>
 
-    <div id="main" class="call-out call-out_img">
-        <h1>{{ site.header_text | default: ""}}</h1>
-    </div>
+  
 
     <!-- Text box -->
     <div class="text-box">
