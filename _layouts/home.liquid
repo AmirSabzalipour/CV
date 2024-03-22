@@ -1,12 +1,6 @@
 ---
 layout: default
 ---
-<div class="home">
-    <style scoped>
-        body {
-            margin: 0;
-            padding: 0;
-        }
 
  .call-out_img {
     background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
@@ -75,5 +69,6 @@ layout: default
     <p>Amir Sabzalipour</p>
      </div>
 
-   
+    {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
+    {{ _blog | split: " " | join: " "}}
 </div>
