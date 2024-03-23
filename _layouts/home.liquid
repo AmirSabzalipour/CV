@@ -9,19 +9,21 @@ layout: default
         }
 
 .call-out_img {
- .call-out_img {
-    background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
-    background-repeat: no-repeat; /* Prevents background image from repeating */
-    background-size: 100% 100%; /* Resizes the background image to cover the entire container */
+  background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
+   margin: 0 auto;
+   margin-top: 140px; 
+   background-repeat: no-repeat; /* Prevents background image from repeating */
+    background-size: cover; /* Resizes the background image to cover the entire container */
     background-position: center; /* Centers the background image horizontally and vertically */
-    margin: 140px auto 0; /* Centers the container horizontally and sets the top margin */
+    margin: 0 auto; /* Centers the container horizontally */
     max-width: 500px; /* Adjust this value to your desired width */
-    min-height: 80vh; /* Minimum height of 80% of the viewport height */
-    max-height: 800px; /* Maximum height of 800 pixels */
-    display: flex; /* Use flexbox for layout */
-    flex-direction: column; /* Arrange children in a column */
-}
- 
+    margin-top: 140px; 
+  background-position: center;  
+   background-size: 100% 100%; /* Set the width to 150% and the height to 100% */
+ min-height: 80vh;
+  max-height: 800px;
+  display: flex;
+  flex-direction: column;  
    }
 
 
