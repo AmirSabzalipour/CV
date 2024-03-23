@@ -1,10 +1,15 @@
-/* To clear things when we float the element inside nav and ul */
-.clear:after {
-  clear: both;
-}
-.clear:before, .clear:after {
-  content: " ";
-  display: table;
+.clear {
+  *zoom: 1;
+
+  &:after {
+    clear: both;
+  }
+
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
 }
 
 /* Styling for the site header */
@@ -18,7 +23,7 @@
   background: linear-gradient(#D3D3D3 10%, #D3D3D3 10%, #D3D3D3 10%); /* Gradient background from bottom to top */
   border: 2px solid white;
   border-radius: 25px;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif, "Trebuchet MS", sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Trebuchet MS', sans-serif;
   font-size: 1em;
   color: #A7C7E7;
 }
@@ -38,7 +43,7 @@
 .site-header .site-title {
   float: left;
   font-weight: bold;
-  font-size: 1 em;
+  font-size: 1em;
 }
 
 /* Navigation styling */
@@ -53,9 +58,7 @@ nav ul {
   padding: 0;
   list-style: none;
   line-height: 2;
-  float: right;
-  text-align: right;
-  display: block;
+  /* Float removed for small screens (media query) */
 }
 
 nav ul li {
@@ -68,4 +71,13 @@ nav ul li a:hover {
   color: #A7C7E7;
 }
 
-/*# sourceMappingURL=nabar.css.map */
+/* Navigation styling for small screens (adjust min-width as needed) */
+@media (max-width: 768px) {
+  nav ul {
+    float: none;  /* Remove float on small screens */
+  }
+
+  nav ul li {
+    display: block;  /* Change display to block for stacking */
+  }
+}
