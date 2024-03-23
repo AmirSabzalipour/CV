@@ -12,6 +12,12 @@ layout: default
   background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
    margin: 0 auto;
    margin-top: 140px; 
+   background-repeat: no-repeat; /* Prevents background image from repeating */
+    background-size: cover; /* Resizes the background image to cover the entire container */
+    background-position: center; /* Centers the background image horizontally and vertically */
+    margin: 0 auto; /* Centers the container horizontally */
+    max-width: 500px; /* Adjust this value to your desired width */
+    margin-top: 140px; 
   background-position: center;  
    background-size: 100% 100%; /* Set the width to 150% and the height to 100% */
  min-height: 80vh;
