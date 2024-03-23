@@ -1,7 +1,4 @@
 /* To clear things when we float the element inside nav and ul */
-.clear {
-  *zoom: 1;
-}
 .clear:after {
   clear: both;
 }
@@ -67,6 +64,8 @@ nav ul li {
   margin-right: 0.7em;
 }
 
-
+nav ul li a:hover {
+  color: #A7C7E7;
+}
 
 /*# sourceMappingURL=nabar.css.map */
