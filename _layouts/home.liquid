@@ -9,16 +9,17 @@ layout: default
         }
 
 .call-out_img {
-    background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
+    background-image: url('/assets/img/header/machin.jpg'); /* Added url() function */
     width: 100%;
     margin: 0 auto;
-   padding: 400px 0 300px 0; /* Adjust padding-top to increase space */
+    padding: 400px 0 300px 0; /* Adjust padding-top to increase space */
     background-size: 90%;
-    background-position: 400px 200px; /* This line sets the position of the background image */
+    background-position: center top; /* Adjusted background position */
     min-height: 100px;
     display: flex;
     flex-direction: column;
 }
+
 
 
 
