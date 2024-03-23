@@ -9,20 +9,21 @@ layout: default
         }
 
 .call-out_img {
-    background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
-    width: 80%;
-    clip: rect(0px, auto, auto, 30%);
-    margin-top: 140px;
-    margin-left: 140px;
-    margin-right: 140px;
-    margin: 30 30;
-    padding: 0px 0px; /* Adjust padding-top and padding-bottom */
-    background-size: contain;
-    background-position: 20px 20px; /* This line sets the position of the background image */
-    min-height: 400px;
-    display: flex;
-    flex-direction: column;
-    background-color: transparent;
+  background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
+  width: 80%;
+  clip: rect(0px, auto, auto, 30%);
+  margin-top: 140px;
+  margin-left: 140px;
+  margin-right: 140px;
+  /* margin: 30 30;  Removed unnecessary declaration */
+  padding: 0px 0px; /* Adjust padding-top and padding-bottom */
+  background-size: contain;
+  background-position: 20px 20px; /* This line sets the position of the background image */
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  background-color: transparent;
+  border: none;  /* Remove any potential borders */
 }
 
 
