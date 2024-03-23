@@ -9,11 +9,14 @@ layout: default
         }
 
 .call-out_img {
-  background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
-   margin: 0 auto;
-   margin-top: 140px; 
-  background-position: center;    
-  }
+    background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
+    background-repeat: no-repeat; /* Prevents background image from repeating */
+    background-size: contain; /* Scales the background image to fit within the container */
+    background-position: center; /* Centers the background image horizontally and vertically */
+    margin: 0 auto; /* Centers the container horizontally */
+    max-width: 500px; /* Adjust this value to your desired width */
+    margin-top: 140px; /* Adjust this value to your desired top margin */
+}
 
 
 
