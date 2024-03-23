@@ -10,29 +10,21 @@ layout: default
 
 .call-out_img {
   background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
-   background-size: cover;
-   width: 90%;
+  
+  margin: 0;
+  padding: 40px; /* Adjust padding as needed */
+  background-image: url('assets/img/header/machin.jpg');
+  background-size: 100% 100%; /* Set the width to 150% and the height to 100% */
+  background-position: center;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+
   margin-top: 140px;
   margin-left: 140px;
   margin-right: 140px;
-   min-height: 800px;
-  background-color: transparent;
-
-  padding: -30px -500px; /* Adjust padding-top and padding-bottom */
- 
-  background-position: 0px 0px; /* This line sets the position of the background image */
- 
-  display: flex;
-  flex-direction: column;
   
-  border: none;  /* Remove any potential borders */
-
-
-
-
-
-
-    
+      
   }
 
 
