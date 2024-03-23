@@ -1,29 +1,78 @@
 ---
-layout: home
+layout: page
 ---
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
-    <!-- Link to your CSS file -->
-    <link rel="stylesheet" href="nabar.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <!-- Add any additional meta tags, stylesheets, or scripts here -->
+  <link rel="stylesheet" href="assets/custom.css"> <!-- Correct path to your custom CSS file -->
+  <style>
+    /* Reset default margin and padding */
+    body {
+  margin: 0;
+  padding: 40px; /* Adjust padding as needed */
+  background-image: url('assets/img/header/machin.jpg');
+  background-size: 100% 100%; /* Set the width to 150% and the height to 100% */
+  background-position: center;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+    /* Define styles for the post content */
+    .post-content {
+      margin: 10px; /* Add margin to the post content */
+      color: gray; /* Change text color to white */
+      position: absolute; /* Set the position to absolute */
+      top: 350px; /* Adjust top position */
+      left: 40px; /* Adjust left position */
+      width: 500px; /* Adjust width */
+      padding: 10px; /* Adjust padding */
+    }
+
+    /* Define styles for the footer */
+    footer {
+      background-color: #333; /* Example background color */
+      color: #fff; /* Example text color */
+      text-align: center; /* Example: Center the content horizontally */
+      padding: 70px; /* Example: Adjust padding for content alignment */
+    }
+  </style>
 </head>
 <body>
-
-<!-- Navigation Bar -->
-<nav>
-    <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="/blog">Blog</a></li>
-        <!-- Add more navigation items as needed -->
-    </ul>
-</nav>
-
-<!-- Your content goes here -->
-
+  <div style="position: absolute; top: -150px; left: 10px; width: 300px; padding: 10px;">
+      <h2></h2>
+      <!-- Add class="avatar" to your avatar image -->
+      <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="width: 180px; height: 150px; border-radius: 50%; position: relative; top: -100px; left: -120px;">
+   </div>
 </body>
+
+<body>
+  <div style="position: absolute; top: -300px; left: 0px; width: 400px; padding: 10px 10px 500px;"> <!-- Increase the padding from the bottom -->
+    <div id="color-post" class="post-content" style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro';">
+      <p>
+        As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
+      </p>
+    </div>
+  </div>
+
+
+  <div class="navbar">
+    <a href="pages/education.html">My Education</a>
+    <a href="pages/workexperience.html">My Work Experience</a>
+    <a href="pages/skills.html">My Skills</a>
+  </div>
+  
+
+  
+</body>
+
+
+
+
+
 </html>
