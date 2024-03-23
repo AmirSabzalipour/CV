@@ -4,15 +4,20 @@ layout: default
 <div class="home">
     <style scoped>
         body {
-            margin: 0;
-            padding: 0;
+            margin: 40;
+            padding: 40;
         }
 
 .call-out_img {
     background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
-    background-repeat: no-repeat;
-background-size: cover;
-background-attachment: fixed;
+    width: 100%;
+    margin: 0 auto;
+    padding: 500px 0; /* Adjust padding-top and padding-bottom */
+    background-size: 90%;
+    background-position: 400px 200px; /* This line sets the position of the background image */
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
 }
 
 
