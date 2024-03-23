@@ -24,14 +24,14 @@
   border: 2px solid white;
   border-radius: 25px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Trebuchet MS', sans-serif;
-  font-size: 1em;
+  font-size: .8em;
   color: #A7C7E7;
 }
 
 /* Styling for the avatar */
 .site-header .avatar {
-  height: 3em;
-  width: 3em;
+  height: 2em;
+  width: 2em;
   float: left;
   margin-top: -13px;
   border-radius: 50%;
@@ -43,7 +43,7 @@
 .site-header .site-title {
   float: left;
   font-weight: bold;
-  font-size: 1em;
+  font-size: .8em;
 }
 
 /* Navigation styling */
@@ -57,7 +57,7 @@ nav ul {
   margin: 0;
   padding: 0;
   list-style: none;
-  line-height: 2;
+  line-height:1;
   /* Float removed for small screens (media query) */
 }
 
