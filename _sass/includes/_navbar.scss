@@ -35,13 +35,14 @@
   }
 
   .avatar {
-    height: 3em;
-    width:  3em;
+    height: 2em;
+    width: 2em;
     float: left;
-    margin-top: 3px;
-    border-radius: 50%;  /* This line creates a circular avatar */
+    margin-top: -13px;
+    border-radius: 50%; 
+    border-radius: 0.2em;
     margin-right: 0.5em;
-    padding: 9px 9px 4px 4px;
+    padding: 0px 0px;
   }
 
   
