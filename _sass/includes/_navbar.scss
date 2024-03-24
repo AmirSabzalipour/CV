@@ -16,10 +16,11 @@
 .site-header {
   padding: 1% 1% 1% 1%;
   background: var(--background);
-  display: block;
+  display:  inline-block;;
   float: left;
   background-size: cover;
   width: 100%;
+  border: 1px solid #ccc; /* Add a 1px solid border around the site header */
 
   .separator {
     user-select: none;
