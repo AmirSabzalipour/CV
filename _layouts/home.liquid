@@ -3,74 +3,26 @@ layout: default
 ---
 <div class="home">
     <style scoped>
-        body {
-            margin: 40;
-            padding: 40;
+        {% assign image = site.header_feature_image | relative_url | split: '.' %}
+        .call-out_img {
+            background-image: url('{{ image | join: '.' }}');
         }
-
-.call-out_img {
-    background-image: url('{{ site.header_feature_image | relative_url }}'); /* Sets the background image */
-    margin: 0 auto;
-    margin-top: 100px; 
-    background-repeat: no-repeat; /* Prevents background image from repeating */
-    background-position: center; /* Centers the background image horizontally and vertically */
-    width: 400px; /* Adjust this value to your desired width */
-    background-size: contain; /* Set the width to 150% and the height to 100% */
-    min-height: 40vh;
-    max-height: 400px;
-    display: flex;
-    flex-direction: column;  
-      padding: 0; /* Added to remove potential padding */
-background-color: #fff
-   }
-
-
-
-    .text-box {
-        position: relative;
-        top: 40px;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 700px;
-        padding: 10px;
-        border: 0px solid #ddd;
-        font-size: 15px;
-        color: #2171b5;
-        font-family: 'Avenir Next LT Pro';
+        {% if site.header_feature_image_responsive %}
+        @media screen and (max-width: 768px) {
+            .call-out_img {
+                background-image: url('{{ image[0] | append: '-medium.' | append: image[1] | default: image}}');
+            }
         }
-
-           .text-box2 {
-            position: relative;
-            top: 250px;
-            left: 30%;
-            transform: translateX(-50%);
-            width: 100px;
-            padding: 0px;
-            border: 10px solid #ddd;
-            font-size: 0px;
-                             }
-
-
+        @media screen and (max-width: 576px) {
+            .call-out_img {
+                background-image: url('{{ image[0] | append: '-small.' | append: image[1] }}');
+            }
+        }
+        {% endif %}
     </style>
-
     <div id="main" class="call-out call-out_img">
+        <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
     </div>
-
-    <!-- Text box -->
-    <div class="text-box">
-        <h2>About Me</h2>
-        <p>
-            I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
-        </p>
-    </div>
-
-    <div class="text-box2">
-    <p>
-        <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="width: 220px; height: 150px; border-radius: 50%; position: relative; top: -150px; left: -120px;">
-    </p>
-    <p>Amir Sabzalipour</p>
-     </div>
-
     {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
     {{ _blog | split: " " | join: " "}}
 </div>
