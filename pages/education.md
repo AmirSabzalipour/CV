@@ -3,7 +3,7 @@ layout: page
 title: My Education
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-position: 2
+position: 1
 tags: [Page]
 ---
 
