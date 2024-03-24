@@ -1,6 +1,7 @@
 // To clear things when we float the element inside nav and ul
-CSS
 .clear {
+  *zoom: 1;
+
   &:after {
     clear: both;
   }
@@ -18,9 +19,9 @@ CSS
   display: inline-block;
   float: left;
   width: 100%;
-  font-size: 1.6em;
-  font-family: Calibri; /* Add this line for Calibri font */
-  color: royalblue; /* Add this line for royalblue color */
+  font-size: 1.6em; 
+  font-family: Calibri;
+  
 
   .separator {
     user-select: none;
@@ -32,7 +33,67 @@ CSS
   }
 }
 
-/* Rest of the code remains unchanged... */
+  a {
+    color: var(--header-link);
+  }
+
+  .avatar {
+    height: 3em;
+    width: 3em;
+    float: left;
+    margin-top: -3px;
+    border-radius: 50%; 
+    margin-right: 0.5em;
+    padding: 8px 8px;
+  }
+
+  
+
+  .site-title {
+    float: left;
+    font-weight: bold;
+    font-family: Calibri;
+    font-size: 1.1em;
+  }
+
+
+nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: 1.5;
+    float: right;
+    text-align: right;
+    display: block;
+  }
+
+  li {
+    display: inline;
+    float: left;
+    margin-right: 0.4em;
+  }
+
+  a {
+    &:hover {
+      color: var(--link);
+    }
+
+    &#pull {
+      i {
+        margin-top: 22px;
+        margin-right: 18px;
+        float: right;
+      }
+    }
+  }
+}
+
+/* ---- Responsive ---- */
 
 @media (min-width: $break) {
   a#pull {
@@ -45,13 +106,57 @@ CSS
 }
 
 @media screen and (max-width: $break) {
+  .site-header {
+    img.avatar {
+      margin-top: -7px
+    }
+
+    .site-title {
+      margin-top: 7px;
+    }
+  }
+
   nav {
-    height: auto;  /* Add semicolon here */
+    height: auto;
 
     .separator {
       display: none !important;
     }
 
-    /* Rest of the code in this media query... */
+    ul {
+      width: 100%;
+      overflow: hidden;
+
+      /* fade out, then shrink */
+      transition: opacity .25s 0s, font-size .25s 0s;
+      transition-delay: 0s;
+
+      &.hide {
+        font-size: 0;
+        margin: 0;
+        opacity: 0;
+        padding: 0;
+      }
+    }
+
+    li {
+      width: 100%;
+      text-align: center;
+      font-size: 1em;
+      position: relative;
+      background-color: var(--background);
+      backdrop-filter: brightness(0.98);
+
+      &:nth-of-type(4n) {
+        background-color: var(--background);
+      }
+
+      a {
+        width: 100%;
+        margin: 0;
+        display: block;
+      }
+
+    }
   }
 }
