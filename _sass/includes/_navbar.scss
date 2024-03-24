@@ -14,14 +14,15 @@
 }
 
 .site-header {
-  padding: 1% 1% 1% 1%;
-  background: var(--background);
-  display: inline-block;
-   background-size: 100% 200px; /* Adjust the background size as needed */
-  width: 100%; /* Set the width of the container */
-  height: 200px; /* Set the height of the container */
-  border: 1px solid #ccc; /* Add a 1px solid border around the site header */
-
+  margin: 0;
+  padding: 40px; /* Adjust padding as needed */
+  background-image: url('assets/img/header/machin.jpg');
+  background-size: 100% 100%; /* Set the width to 150% and the height to 100% */
+  background-position: center;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  
   .separator {
     user-select: none;
     opacity: 0;
