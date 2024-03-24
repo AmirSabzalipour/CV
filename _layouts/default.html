@@ -13,5 +13,7 @@
     <div class="content">
       {{ content }}
     </div>
-    </body>
+    {% capture _footer %}{% include default/footer.liquid %}{% endcapture %}
+    {{ _footer | split: " " | join: " "}}
+  </body>
 </html>

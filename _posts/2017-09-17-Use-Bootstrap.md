@@ -4,7 +4,6 @@ title: "Bootstrap"
 bootstrap: true
 tags: [Test]
 categories: Demo
-published: false
 ---
 
 This theme is compatible with Bootstrap if you choose to use it in your pages or posts.

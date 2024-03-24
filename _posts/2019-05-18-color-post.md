@@ -6,7 +6,6 @@ color: brown
 author: sylhare
 categories: Example
 excerpt_separator: <!--more-->
-published: false
 ---
 
 # What a colorful post!
