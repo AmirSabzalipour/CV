@@ -20,7 +20,7 @@
   float: left;
   width: 100%;
   font-size: 1.3em; 
-  font-family: Calibri;color: #0067a5;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;color: #0067a5;
   
   
 
@@ -34,8 +34,8 @@
   }
 }
 
-  a {
-    color: #0067a5;
+  a {font-size: 1.3em; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;color: #0067a5;
   }
 
   .avatar {
@@ -44,7 +44,7 @@
     float: left;
     margin-top: -3px;
     border-radius: 50%; 
-    margin-right:1.5 em;
+    margin-right:1.5em;
     padding: 2px 2px;
   }
 
