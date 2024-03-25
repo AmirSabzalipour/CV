@@ -1,3 +1,4 @@
+// To clear things when we float the element inside nav and ul
 .clear {
   *zoom: 1;
 
@@ -13,58 +14,78 @@
 }
 
 .site-header {
-  position: absolute;
-  top: 20px; /* Align the top of the header with the top of the page */
-  left: 50%; /* Align the left edge of the header with the center of the page */
-  transform: translateX(-50%); /* Move the header left by half of its own width to center it horizontally */
-  width: 90%; /* Set the width of the header */
-  padding: 10px;
-  background: rgba(255, 255, 255, .8); /* Background color */
-  border: 0px dashed lightgray; /* Border */
-  border-radius: 17px; /* Border radius */
-  font-family: Calibri;
-  font-size: 1.1em;
-  color: #0067a5;
-  font-weight: bold;
-  display: flex; /* Use flexbox for layout */
-  justify-content: space-between; /* Space out the items */
-  align-items: center; /* Align items vertically */
-}
+  padding: 2% 2% 1% 2%;
+  background: var(--background);
+  display: inline-block;
+  float: left;
+  width: 100%;
 
-.site-title {
-  font-weight: bold;
-  font-family: Calibri;
-  font-size: 1.2em;
-  color: #0067a5;
-}
+  .separator {
+    user-select: none;
+    opacity: 0;
 
-.avatar {
-  height: 2.5em;
-  width: 2.5em;
-  margin-top: 0;
-  border-radius: 50%; 
-  margin-right:1em;
+    &:first-child {
+      display: none;
+    }
+  }
+
+  a {
+    color: var(--header-link);
+  }
+
+  .avatar {
+    height: 3em;
+    width: 3em;
+    float: left;
+    margin-top: -13px;
+    border-radius: 0.2em;
+    margin-right: 0.5em;
+    padding: 10px 10px;
+
+  }
+
+  .site-title {
+    float: left;
+    font-weight: bold;
+    font-family: $font-family-logo;
+    font-size: 1.3em;
+  }
 }
 
 nav {
   list-style: none;
-  display: flex; /* Use flexbox for layout */
-  align-items: center; /* Align items vertically */
-}
+  margin: 0;
+  padding: 0;
 
-ul {
-  display: flex; /* Use flexbox for layout */
-  align-items: center; /* Align items vertically */
-}
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: 1.5;
+    float: right;
+    text-align: right;
+    display: block;
+  }
 
-li {
-  font-size: 1em;
-  margin: 0 10px;
-}
+  li {
+    display: inline;
+    float: left;
+    margin-right: 0.4em;
+  }
 
-a {
-  color: navy;
-  font-family: Calibri, Cochin, Georgia, Times, 'Times New Roman', serif;
+  a {
+    &:hover {
+      color: var(--link);
+    }
+
+    &#pull {
+      i {
+        margin-top: 22px;
+        margin-right: 18px;
+        float: right;
+      }
+    }
+  }
 }
 
 /* ---- Responsive ---- */
@@ -82,7 +103,7 @@ a {
 @media screen and (max-width: $break) {
   .site-header {
     img.avatar {
-      margin-top: -7px;
+      margin-top: -7px
     }
 
     .site-title {
@@ -98,9 +119,6 @@ a {
     }
 
     ul {
-      width: 100%; /* Remove fixed width */
-      display: flex; /* Keep flexbox for layout */
-      flex-wrap: wrap;
       width: 100%;
       overflow: hidden;
 
@@ -117,6 +135,7 @@ a {
     }
 
     li {
+      width: 100%;
       text-align: center;
       font-size: 1em;
       position: relative;
@@ -128,9 +147,11 @@ a {
       }
 
       a {
+        width: 100%;
         margin: 0;
         display: block;
       }
+
     }
   }
 }
