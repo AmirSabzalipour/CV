@@ -145,6 +145,9 @@ nav {
     }
 
     ul {
+      width: 100%; /* Remove fixed width */
+      display: flex; /* Keep flexbox for layout */
+      flex-wrap: wrap;
       width: 100%;
       overflow: hidden;
 
@@ -161,6 +164,8 @@ nav {
     }
 
     li {
+      flex: 1; /* Allow items to flex and share available space */
+      text-align: center;
       width: 100%;
       text-align: center;
       font-size: 1em;
