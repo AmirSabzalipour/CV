@@ -1,6 +1,6 @@
 --- 
 layout: page
-title : My Work Experience 
+title : Work Experience 
 permalink: /portfolio/
 subtitle: "" 
 feature-img: "assets/img/pexels/computer.jpeg"

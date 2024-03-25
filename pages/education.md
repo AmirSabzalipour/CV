@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Education
+title: Education
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 position: 1
