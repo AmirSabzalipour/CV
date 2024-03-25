@@ -50,7 +50,7 @@
   .site-title {
     float: left;
     font-weight: bold;
-    font-family: $font-family-logo;
+    font-family: calibri;
     font-size: 1.3em;
   }
 }
@@ -74,6 +74,9 @@ nav {
     display: inline;
     float: left;
     margin-right: 0.4em;
+    font-size: 16px; /* Change the font size as desired */
+    font-family: calibri, sans-serif; /* Change the font family as desired */
+    font-weight: bold;
   }
 
   a {
