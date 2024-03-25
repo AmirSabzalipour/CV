@@ -3,7 +3,7 @@ baseurl: "/blog4"
 url: "https://github.com/AmirSabzalipour/blog4"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Homepage                                    # site's title
+title: Home                                    # site's title
 description: "A Sabzalipour"      # used by search engines
 avatar: assets/img/header/motivation.jpg                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
