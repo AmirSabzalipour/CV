@@ -34,11 +34,6 @@
   }
 }
 
-nav a {
-  /* ... other styles */
-  font-size: 1em;  /* Adjust font size as needed */
-}
-
 
   a {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;color: #0067a5;
   }
@@ -76,13 +71,14 @@ nav {
     margin: 0;
     padding: 0;
     list-style: none;
-    line-height: 1.5;
+    line-height: 1;
     float: right;
     text-align: right;
     display: block;
   }
 
   li {
+    font-size: 1em;
     display: inline;
     float: left;
     margin-right: 0.4em;
