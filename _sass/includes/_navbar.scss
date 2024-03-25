@@ -83,7 +83,6 @@ nav {
     padding: 0;
     list-style: none;
     line-height: 1;
-      text-align: right;
     width: 100%; /* Remove fixed width */
     display: flex; /* Keep flexbox for layout */
     flex-wrap: wrap;
@@ -91,8 +90,6 @@ nav {
 
   li {
     font-size: 1em;
-    display: inline;
-    float: left;
     margin-right: 0em;
     flex: 2; /* Allow items to flex and share available space */
     text-align: center;
