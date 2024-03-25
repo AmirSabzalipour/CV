@@ -68,6 +68,9 @@ nav {
   padding: 0;
 
   ul {
+    display: flex; /* Enable flexbox */
+  justify-content: center; /* Center items horizontally */
+  align-items: center;
     margin: 0;
     padding: 0;
     list-style: none;
