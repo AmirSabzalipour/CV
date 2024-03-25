@@ -9,7 +9,7 @@ avatar: assets/img/header/motivation.jpg                         # Empty for no 
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code> # Change Blog header text
+header_text: welcome to my page # Change Blog header text
 header_feature_image: /assets/img/header/machin2.jpg   
 header_feature_image_responsive: True
   
