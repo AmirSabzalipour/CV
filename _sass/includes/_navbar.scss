@@ -14,13 +14,18 @@
 }
 
 .site-header {
-  padding: 0 2% 0 2%;
-  background: white;
-  display: inline-block;
-   width: 100%;
-  font-size: 1.1em; 
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;color: #0067a5;
-  
+  position: absolute;
+  top: 20px; /* Align the top of the header with the top of the page */
+  left: 60%; /* Align the left edge of the header with the center of the page */
+  transform: translateX(-50%); /* Move the header left by half of its own width to center it horizontally */
+  width: 60%; /* Set the width of the header */
+  padding: 10px;
+  background: rgba(255, 255, 255, .3); /* Background color */
+  border: 0px dashed lightgray; /* Border */
+  border-radius: 17px; /* Border radius */
+  font-family: Calibri, 'Trebuchet MS', sans-serif; /* Font family */
+  font-size: 1em;
+  color: white;
   
 
   .separator {
