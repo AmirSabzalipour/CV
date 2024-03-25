@@ -62,7 +62,6 @@
   
 
   .site-title {
-    float: left;
     font-weight: bold;
     font-family: Calibri;
     font-size: 1.2em;
@@ -77,7 +76,7 @@ nav {
 
   ul {
     display: flex; /* Enable flexbox */
-   justify-content: center; /* Center items horizontally */
+   justify-content: space-between; /* Center items horizontally */
     align-items: center;
     margin: 0;
     padding: 0;
