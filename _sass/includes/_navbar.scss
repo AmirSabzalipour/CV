@@ -76,7 +76,7 @@ nav {
 
   ul {
     display: flex; /* Enable flexbox */
-   justify-content: space-between; /* Center items horizontally */
+   justify-content: center; /* Center items horizontally */
     align-items: center;
     margin: 0;
     padding: 0;
@@ -91,7 +91,7 @@ nav {
     font-size: 1em;
     margin: 0 10px;
     flex: 2; /* Allow items to flex and share available space */
-    text-align: center;
+    text-align: right;
   }
 
   a {
