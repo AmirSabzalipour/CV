@@ -17,8 +17,8 @@
   }
 
   /* --- Responsive --- */
-  @media screen and (max-width: $m-break) {
-    background-size: 170% auto;
+  @media screen and (max-width:450px) {
+    background-size: 800px auto;
   }
 
   @media screen and (max-width: 450px) {
