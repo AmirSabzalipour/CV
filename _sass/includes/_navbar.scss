@@ -19,6 +19,11 @@
   display: inline-block;
   float: left;
   width: 100%;
+  background: rgba(255, 255, 255, .3); /* Background color */
+  border: 0px dashed lightgray; /* Border */
+  border-radius: 17px; /* Border radius */
+  font-family: Calibri, 'Trebuchet MS', sans-serif; /* Font family */
+  font-size: 1em;
 
   .separator {
     user-select: none;
