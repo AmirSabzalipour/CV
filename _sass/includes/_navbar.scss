@@ -13,6 +13,21 @@
   }
 }
 
+.avatar {
+  height: 4em;
+  width: 4em;
+  float: left;
+  margin-top: -9px;
+  border-radius: 0.2em;
+  margin-right: 0.5em;
+  padding: 10px 10px;
+  border-radius: 50%;
+
+}
+
+
+
+
 .site-header {
   padding: 2% 2% 1% 2%;
   background: var(--background);
@@ -35,18 +50,7 @@
     color: var(--header-link);
   }
 
-  .avatar {
-    height: 4em;
-    width: 4em;
-    float: left;
-    margin-top: -9px;
-    border-radius: 0.2em;
-    margin-right: 0.5em;
-    padding: 10px 10px;
-    border-radius: 50%;
-
-  }
-
+ 
   .site-title {
     float: left;
     font-weight: bold;
