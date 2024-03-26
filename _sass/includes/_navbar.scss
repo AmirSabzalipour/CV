@@ -125,9 +125,8 @@ nav {
     }
 
     ul {
-      width: 100%;
-      float: right;
-      overflow: hidden;
+      display: flex; /* Use flexbox */
+      justify-content: flex-end;
 
       /* fade out, then shrink */
       transition: opacity .25s 0s, font-size .25s 0s;
