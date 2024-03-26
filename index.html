@@ -1,3 +1,6 @@
+---
+layout: page
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,15 +12,16 @@
   <style>
     /* Reset default margin and padding */
     body {
-      margin: 0;
-      padding: 40px; /* Adjust padding as needed */
-      background-image: url('assets/img/header/machin.jpg');
-      background-size: 90% 60%; /* Set the width to 150% and the height to 100% */
-      background-position: center;
-      min-height: 50vh;
-      display: flex;
-      flex-direction: column;
-    }
+  margin: 0;
+  padding: 40px; /* Adjust padding as needed */
+  background-image: url('assets/img/header/machin.jpg');
+  background-size: 90% 60%; /* Set the width to 150% and the height to 100% */
+  background-position: center;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+}
+
 
     /* Define styles for the post content */
     .post-content {
@@ -31,35 +35,27 @@
     }
 
     /* Define styles for the footer */
+ 
   </style>
 </head>
 <body>
-  <!-- Header Section -->
-  <div class="site-header">
-    <div class="avatar">
+  <div style="position: absolute; top: -15px; left: 10px; width: 300px; padding: 10px;">
+      <h2></h2>
+      <!-- Add class="avatar" to your avatar image -->
       <img src="assets/img/header/amir.jpg" alt="Avatar Image" class="avatar" style="width: 130px; height: 100px; border-radius: 50%; position: relative; top: 80px; left: -10px;">
-    </div>
-    <div class="site-info">
-      <h1 class="site-title">Your Site Title</h1>
-      <nav>
-        <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </nav>
-    </div>
-  </div>
-  
-  <!-- Rest of your HTML content -->
-  
-  <div style="position: absolute; top: -30px; left: 0px; width: 400px; padding: 10px 10px 500px;"> <!-- Increase the padding from the bottom -->
-    <div id="color-post" class="post-content" style="font-size: 20px; color:white; font-family: 'Avenir Next LT Pro';">
-      <p>
-        Amir 
-      </p>
-    </div>
-  </div>
+   </div>
+</body>
+
+<body>
+
+
+
+    <div style="position: absolute; top: -30px; left: 0px; width: 400px; padding: 10px 10px 500px;"> <!-- Increase the padding from the bottom -->
+        <div id="color-post" class="post-content" style="font-size: 20px; color:white; font-family: 'Avenir Next LT Pro';">
+          <p>
+            Amir 
+        </div>
+      </div>
 
   <div style="position: absolute; top: 300px; left: -20px; width: 300px; padding: 10px 10px 200px;"> <!-- Increase the padding from the bottom -->
     <div id="color-post" class="post-content" style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro';">
@@ -68,5 +64,11 @@
       </p>
     </div>
   </div>
+
 </body>
+
+
+
+
+
 </html>
