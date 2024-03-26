@@ -1,10 +1,9 @@
 {% if site.data.social.rss or site.theme_settings.rss %}
 <li>
-  /li>
-{% endif %}
+  {% endif %}
 
 {% for footer in site.data.icons %}
   {% unless footer[1] == nil %}
-    ... (code for generating social media icons) ...
+    
   {% endunless %}
 {% endfor %}
