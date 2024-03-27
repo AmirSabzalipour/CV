@@ -1,6 +1,5 @@
-<footer class="site-footer">
-    <p class="text">
-        {{ site.footer_text | default: "" }}</p>
+<footer class="site-footer" style="padding: 0; margin: 0;">
+    <p class="text">{{ site.footer_text | default: "" }}</p>
     <div class="footer-icons">
         <ul>
             <!-- Social icons from Font Awesome, if enabled -->
@@ -9,10 +8,8 @@
     </div>
     {% if site.mermaid %}
         <script type="module">
-          mermaid.initialize({ startOnLoad: false, theme: "default" });
-          mermaid.run({ nodes: [...document.querySelectorAll('.language-mermaid'), ...document.querySelectorAll('.mermaid')] });
+            mermaid.initialize({ startOnLoad: false, theme: "default" });
+            mermaid.run({ nodes: [...document.querySelectorAll('.language-mermaid'), ...document.querySelectorAll('.mermaid')] });
         </script>
     {% endif %}
 </footer>
-
-
