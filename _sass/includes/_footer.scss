@@ -1,11 +1,13 @@
 .site-footer {
-  @extend %padding-post;
-  z-index: -1;
-  display: inline-block;
+  @extend %padding-post; /* Assuming %padding-post extends a padding style */
+  z-index: -1; /* This might not be necessary and could cause the footer to appear behind other elements */
+  display: inline-block; /* Consider removing this property if it's not necessary */
   text-align: center;
   width: 100%;
   color: var(--meta);
   font-size: 0.9em;
+  margin: 0; /* Reset margin */
+  padding: 0; /* Reset padding */
 
   .footer-icons {
     ul {
