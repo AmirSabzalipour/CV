@@ -1,32 +1,26 @@
 .site-footer {
-  @extend %padding-post; /* Assuming %padding-post extends a padding style */
-  z-index: -1; /* This might not be necessary and could cause the footer to appear behind other elements */
-  display: inline-block; /* Consider removing this property if it's not necessary */
+  @extend %padding-post;
+  z-index: -1;
+  display: inline-block;
   text-align: center;
   width: 100%;
   color: var(--meta);
   font-size: 0.9em;
-  margin: 0; /* Reset margin */
-  padding: 0; /* Reset padding */
+}
 
-  .footer-icons {
-    ul {
-      list-style: none;
-      margin: 0;
+.site-footer .footer-icons ul {
+  list-style: none;
+  margin: 0;
+}
 
-      li {
-        display: inline;
-      }
+.site-footer .footer-icons ul li {
+  display: inline;
+}
 
-      a {
-        color: var(--link);
-      }
+.site-footer .footer-icons ul li a {
+  color: var(--link);
+}
 
-      a:hover {
-        .fa-circle {
-          filter: brightness(0.85);
-        }
-      }
-    }
-  }
+.site-footer .footer-icons ul li a:hover .fa-circle {
+  filter: brightness(0.85);
 }
