@@ -24,9 +24,6 @@
 
 }
 
-
-
-
 .site-header {
   width: 100%; /* Adjust the width to span the entire horizontal space */
   padding: 2% 2% 1% 2%;
@@ -75,8 +72,10 @@ nav {
   }
 
   li {
-    display: inline-block; 
-        margin-right: 0.4em;
+    flex-grow: 1
+    display: flex;
+    align-items: center;
+     margin-right: 0.4em;
     font-size: 20px; /* Change the font size as desired */
     font-family: calibri, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif; /* Change the font family as desired */
     font-weight: bold;
