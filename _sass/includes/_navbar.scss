@@ -66,13 +66,12 @@ nav {
 
   ul {
      /* Adjust the width to span the entire horizontal space */
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    line-height: 1.5;
-    float: right;
-    text-align: right;
-    display: flex;
+     margin: 0;
+     padding: 0;
+     list-style: none;
+     line-height: 1.5;
+     display: flex;
+     justify-content: flex-end;
   }
 
   li {
