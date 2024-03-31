@@ -72,11 +72,13 @@ nav {
   }
 
   li {
-    display: inline-block; /* Change display property to inline-block */
-    margin-right: 0.4em;
-    font-size: 20px; /* Change the font size as desired */
-    font-family: calibri, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif; /* Change the font family as desired */
-    font-weight: bold;
+    display: flex; /* Use flexbox for layout */
+  margin-right: 0.4em;
+  font-size: 16px; /* Adjust font size as needed */
+  text-overflow: ellipsis; /* Truncate long text */
+  white-space: nowrap; 
+  font-family: calibri, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif; /* Change the font family as desired */
+  font-weight: bold;
   }
 
   a {
@@ -127,8 +129,10 @@ nav {
     }
 
     ul {
+      justify-content: space-between; /* Distribute items with space */
+       flex-wrap: wrap;
       display: flex; /* Use flexbox */
-      justify-content: flex-end;
+     
 
       /* fade out, then shrink */
       transition: opacity .25s 0s, font-size .25s 0s;
