@@ -43,4 +43,8 @@ body {
   z-index: 1;
 }
 
+footer {
+  position: relative;
+  z-index: 4; /* Ensure the footer is above the background image */
+}
 
