@@ -34,7 +34,16 @@
     color: var(--header-link);
   }
 
+  .avatar {
+    height: 1.5em;
+    width: 1.5em;
+    float: left;
+    margin-top: 3px;
+    border-radius:50%;
+    margin-right: 9em;
+    padding: 0px 0px;
 
+  }
 
   .site-title {
     float: left;
