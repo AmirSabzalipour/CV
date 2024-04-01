@@ -56,6 +56,7 @@
 }
 
 nav {
+  text-align: center;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -72,7 +73,7 @@ nav {
 
   li {
     display: inline-block; /* Change from inline to inline-block */
-    margin-right: 0.4em;
+    margin-right: 20px;
   }
 
   a {
