@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 40px;
-  background-image: url('assets/img/header/machin.jpg');
+  background-image: url('assets/img/header/machine.jpeg');
   background-repeat: no-repeat;
   background-position: center 10px; /* Adjusted background position */
   background-size: 1000px 300px; /* Ensure the background image covers the entire viewport */
