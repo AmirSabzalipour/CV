@@ -12,19 +12,13 @@
     display: table;
   }
 }
-.site-title {
-  float: left;
-  font-weight: bold;
-  font-family: $font-family-logo;
-  font-size: 1.3em;
-  margin-right: 7px;
-  margin-left: 300px;
-}
+
 .site-header {
   padding: 0% 0% 0% 0%;
   background: var(--background);
   display: inline-block;
-  width: 100%;
+  float: left;
+  width: 80%;
   min-height: 30%;
 
   .separator {
@@ -52,7 +46,14 @@
 
   }
 
- 
+  .site-title {
+    float: left;
+    font-weight: bold;
+    font-family: $font-family-logo;
+    font-size: 1.3em;
+    margin-right: 60px;
+    margin-left: 55px;
+  }
 }
 
 nav {
