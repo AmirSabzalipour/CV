@@ -18,12 +18,7 @@ body {
   position: relative;
   z-index: 4; /* Ensure the content is above the background image */
 }
-.avatar {
-  height: 100px; /* Set the height of the avatar */
-  width: 100px; /* Set the width of the avatar */
-  border-radius: 50%; /* Make the avatar circular by setting border radius to 50% */
-  /* Add any additional styling properties for your avatar */
-}
+
 /* Styles for the text boxes */
 .text-box {
   position: absolute;
