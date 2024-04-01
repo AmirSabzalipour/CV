@@ -47,7 +47,7 @@ html, html[data-theme="light"] {
   --h4: #262626;
   --h5: #262626;
   --h6: #262626;
-  --border: transparent;
+  --border: none;
 }
 
 html[data-theme="dark"] {
@@ -69,7 +69,7 @@ html[data-theme="dark"] {
   --h4: #00af9e;
   --h5: #6bac00;
   --h6: #ff5c00;
-  --border: transparent; // border
+  --border: none; // border
   --cusdis--color-text-default: var(--text);
   --cusdis--color-comment-username-text: var(--link);
 }
