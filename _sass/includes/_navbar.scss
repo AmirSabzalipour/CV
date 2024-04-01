@@ -12,7 +12,14 @@
     display: table;
   }
 }
-
+.site-title {
+  float: left;
+  font-weight: bold;
+  font-family: $font-family-logo;
+  font-size: 1.3em;
+  margin-right: 70px;
+  margin-left: 55px;
+}
 .site-header {
   padding: 0% 0% 0% 0%;
   background: var(--background);
@@ -46,14 +53,7 @@
 
   }
 
-  .site-title {
-    float: left;
-    font-weight: bold;
-    font-family: $font-family-logo;
-    font-size: 1.3em;
-    margin-right: 70px;
-    margin-left: 55px;
-  }
+ 
 }
 
 nav {
