@@ -53,6 +53,8 @@
 }
 
 nav {
+  display: flex; /* Make the navigation bar a flex container */
+  justify-content: space-between;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -91,6 +93,9 @@ nav {
 /* ---- Responsive ---- */
 
 @media (min-width: $break) {
+  nav {
+    flex-wrap: wrap; /* Allow navigation items to wrap on smaller screens */
+  }
   a#pull {
     display: none;
   }
