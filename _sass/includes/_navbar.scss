@@ -70,6 +70,7 @@ nav {
 }
 
 nav ul {
+  overflow-x: auto;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -84,6 +85,7 @@ nav li {
   display: inline;
   float: left;
   margin-right: 0.4em;
+  font-size: 5em;
 }
 
 nav a {
