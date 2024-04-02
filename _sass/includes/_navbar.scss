@@ -101,6 +101,11 @@ nav {
 }
 
 @media screen and (max-width: $break) {
+
+  .avatar {
+    width: 80px; /* Adjusted width for small screens */
+    height: 80px; /* Adjusted height for small screens */
+  }
   .site-header {
     img.avatar {
       margin-top: -7px
