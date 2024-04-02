@@ -115,22 +115,13 @@ nav {
      
   nav {
     display: flex;
-     justify-content: space-between;
     height: auto;
-
-    #pull {
-      order: 0; /* Set order for hamburger icon (optional) */
-      display: block; /* Optional: Set to block for better layout */
-      margin-top: 5px; /* Optional: Adjust spacing */
-      margin-right: 10px;
-    }
 
     .separator {
       display: none !important;
     }
 
     ul {
-      order: 1;
       width: 100%;
       overflow: hidden;
 
