@@ -70,9 +70,8 @@ nav {
     margin: 0;
     padding: 0;
     list-style: none;
-    line-height: 1.5;
     display: inline-block; /* Change from float to inline-block */
-    vertical-align: middle; /* Vertically center the inline-block */
+    vertical-align: middle;/* Vertically center the inline-block */
   }
 
   li {
@@ -81,8 +80,11 @@ nav {
   }
 
   a {
+    text-decoration: none;
+    color: var(--link);
+
     &:hover {
-      color: var(--link);
+     color: var(--link);
     }
 
     &#pull {
@@ -92,7 +94,10 @@ nav {
         float: right;
       }
     }
-  }
+}
+
+nav li:last-child {
+  margin-right: 0;  
 }
 
 
