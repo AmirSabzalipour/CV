@@ -23,12 +23,14 @@
 nav {
   position: absolute;
   top: 15%;
-  left: 43%;
-  transform: translate(-50%, -50%);
+  left: 50%; /* Center the navigation horizontally */
+  transform: translateX(-50%);
   text-align: center;
   list-style: none;
   margin: 0;
   padding: 10px;
+  background-color: rgba(0, 0, 0, 0.5); /* Changeable transparency */
+  border-radius: 50%; /* Make the navigation bar round */
 }
 
 nav ul {
@@ -47,21 +49,17 @@ nav ul li:last-child {
 
 nav a {
   text-decoration: none;
-  color: var(--link);
+  color: white; /* Set the color of the navigation links */
 }
 
 nav a:hover {
-  color: var(--link);
+  color: white; /* Change the color of the navigation links on hover */
 }
 
 nav li:last-child {
   margin-right: 0; /* Ensure last li element has no margin */
 }
 
-nav li:last-child {
-    margin-right: 0; /* Ensure last li element has no margin */
-}
-/* ---- Responsive ---- */
 
 @media (min-width: $break) {
   a#pull {
