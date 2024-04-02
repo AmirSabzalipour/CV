@@ -14,18 +14,18 @@
 
 .site-header {
   /* Adjusted styles */
-  position: fixed;
-  top: 20px; /* Align the top of the header with the top of the page */
+  position: absolute;
+  top: 80px; /* Align the top of the header with the top of the page */
   left: 60%; /* Align the left edge of the header with the center of the page */
   transform: translateX(-70%); /* Move the header left by half of its own width to center it horizontally */
-  width: 100%; /* Set the width of the header */
-  padding: 8px;
+  width: 60%; /* Set the width of the header */
+  padding: 10px;
   background: rgba(255, 255, 255, .3); /* Background color */
   border: 0px dashed lightgray; /* Border */
-  border-radius: 15px; /* Border radius */
+  border-radius: 17px; /* Border radius */
   font-family: Calibri, 'Trebuchet MS', sans-serif; /* Font family */
   font-size: 1em;
-  color: royalblue;
+  color: white;
 }
 
 
@@ -67,19 +67,22 @@ nav {
   margin: 0;
   padding: 0;
   opacity: 0.7;
-  display: inline-block; 
 }
 
 nav ul {
-  margin: 0 auto; /* Center the navigation links */
+  margin: 0;
   padding: 0;
   list-style: none;
   line-height: 1.5;
+  float: right;
+  text-align: right;
+  display: block;
   color: white;
 }
 
 nav li {
-  display: inline-block; /* Display as inline block */
+  display: inline;
+  float: left;
   margin-right: 0.4em;
 }
 
