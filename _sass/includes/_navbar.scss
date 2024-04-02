@@ -13,94 +13,54 @@
   }
 }
 
-.site-header {
-  position: relative;
-  padding: 0% 0% 0% 0%;
-  background: var(--background);
-  display: inline-block;
-  width: 80%;
-  min-height: 20%;
-
-  .separator {
-    user-select: none;
-    opacity: 0;
-
-    &:first-child {
-      display: none;
-    }
-  }
-
-  a {
-    color: var(--header-link);
-  }
-
-  .avatar {
-    height:2em;
-    width: 2em;
-    float: left;
-    margin-top: 3px;
-    border-radius:50%;
-    margin-left: 15px;
-    margin-right: 15em;
-    padding: 2px 2px;
-
-  }
-
-  .site-title {
-    // float: left;
-    font-weight: bold;
-    font-family: $font-family-logo;
-    font-size: 1.3em;
-    margin-right: -30px;
-    margin-left: 160px;
-  }
+.site-title {
+  font-weight: bold;
+  font-family: $font-family-logo;
+  font-size: 1.3em;
+  margin: 0; /* Remove margin-right and margin-left */
 }
 
 nav {
-  position: absolute; /* Position the nav element absolutely */
-  top: 55%; /* Align the top edge of the nav to the vertical center of the header */
-  left: 50%; /* Align the left edge of the nav to the horizontal center of the header */
+  position: absolute;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
-  text-align: center; /* Center-align the items */
+  text-align: center;
   list-style: none;
   margin: 0;
   padding: 0;
+}
 
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    display: inline-block; /* Change from float to inline-block */
-    vertical-align: middle;/* Vertically center the inline-block */
-  }
+nav ul {
+  display: inline-block;
+  vertical-align: middle;
+}
 
-  li {
-    display: inline-block; /* Change from inline to inline-block */
-    margin-right: 20px;
-  }
+nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
 
-  a {
-    text-decoration: none;
-    color: var(--link);
+nav ul li:last-child {
+  margin-right: 0;
+}
 
-    &:hover {
-     color: var(--link);
-    }
+nav a {
+  text-decoration: none;
+  color: var(--link);
+}
 
-    &#pull {
-      i {
-        margin-top: 22px;
-        margin-right: 18px;
-        float: right;
-      }
-    }
+nav a:hover {
+  color: var(--link);
 }
 
 nav li:last-child {
-  margin-right: 0;  
-}
+  margin-right: 0; /* Ensure last li element has no margin */
 }
 
+nav li:last-child {
+    margin-right: 0; /* Ensure last li element has no margin */
+}
 /* ---- Responsive ---- */
 
 @media (min-width: $break) {
