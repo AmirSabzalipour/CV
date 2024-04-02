@@ -22,15 +22,15 @@
 
 nav {
   position: absolute;
-  top: 15%;
-  left: 50%; /* Center the navigation horizontally */
+  top: 10%;
+  left: 20%; /* Center the navigation horizontally */
   transform: translateX(-50%);
   text-align: center;
   list-style: none;
   margin: 0;
-  padding: 10px;
-  background-color: rgba(0, 0, 0, 0.8); /* Changeable transparency */
-  border-radius: 30px; /* Adjust the border-radius to make the edges rounded */
+  padding: 4px;
+  background-color: rgba(0.1, 0.1, 0.1, 0.8); /* Changeable transparency */
+  border-radius: 35px; /* Adjust the border-radius to make the edges rounded */
 }
 
 nav ul {
