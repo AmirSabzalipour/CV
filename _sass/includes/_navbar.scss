@@ -18,7 +18,6 @@
   padding: 2% 2% 1% 2%;
   background: var(--background);
   display: inline-block;
-  float: left;
   width: 100%;
 
   .separator {
@@ -109,11 +108,12 @@ nav {
 
 @media screen and (max-width: $break) {
 
-      .site-title {
-      margin-right: 20px;
-    }
-  }
 
+  .site-title {
+    margin-right: 20px; /* Increase the space between site title and hamburger icon */
+    float: none; /* Remove the float */
+  }
+     
   nav {
     height: auto;
 
