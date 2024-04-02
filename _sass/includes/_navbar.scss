@@ -115,7 +115,7 @@ nav {
      
   nav {
     display: flex;
-    justify-content: space-between;
+     justify-content: space-between;
     height: auto;
 
     #pull {
@@ -130,7 +130,6 @@ nav {
     }
 
     ul {
-      display: none;
       order: 1;
       width: 100%;
       overflow: hidden;
