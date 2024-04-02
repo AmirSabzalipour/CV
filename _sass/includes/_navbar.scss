@@ -108,20 +108,25 @@ nav {
 
 @media screen and (max-width: $break) {
   .site-title {
-    float: left;
-    margin-right: 40px; 
+   margin-right: 40px; 
     float: none; 
     font-size: small;
   }
      
   nav {
+    display: flex;
     height: auto;
+
+    #pull {
+      order: 0; /* Set order for hamburger icon (optional) */
+    }
 
     .separator {
       display: none !important;
     }
 
     ul {
+      order: 1;
       width: 100%;
       overflow: hidden;
 
