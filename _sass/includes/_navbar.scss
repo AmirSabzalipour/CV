@@ -108,8 +108,9 @@ nav {
 
 @media screen and (max-width: $break) {
   .site-title {
-    margin-right: 30px; /* Increase the space between site title and hamburger icon */
+    margin-right: 40px; /* Increase the space between site title and hamburger icon */
     float: none; /* Remove the float */
+    font-size: small;
   }
      
   nav {
