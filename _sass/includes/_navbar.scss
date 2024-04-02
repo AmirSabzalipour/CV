@@ -108,10 +108,7 @@ nav {
 }
 
 @media screen and (max-width: $break) {
-  .branding {
-    /* Add margin to the right side of the branding */
-    margin-right: 5px; /* Adjust the value as needed */
-  }
+  
   .clear {
     margin-top: -50px; /* Adjust the value for positioning */
   }
