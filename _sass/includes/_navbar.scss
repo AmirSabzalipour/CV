@@ -107,7 +107,9 @@ nav {
 }
 
 @media screen and (max-width: $break) {
-
+  .navigation-container {
+    background-color: transparent; /* Remove white background */
+  }
   .avatar {
     width: 30px; /* Adjusted width for small screens */
     height: 30px; /* Adjusted height for small screens */
