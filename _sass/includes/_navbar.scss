@@ -13,6 +13,25 @@
   }
 }
 
+.branding { /* Assuming this contains the site title */
+  margin-right: 10px; /* Add space between title and icon */
+}
+
+@media (max-width: $break) { /* Target screens smaller than $break */
+  .toggle {
+    float: right; /* Move toggle icon to right */
+  }
+}
+
+
+
+
+
+
+
+
+
+
 .site-header {
   padding: 2% 2% 1% 2%;
   background: var(--background);
