@@ -82,9 +82,16 @@ nav {
     
    
   }
-nav li a {
-  color: blue; /* Change this to the desired color */
+nav ul li a {
+  color: #4a90e2; /* Change this to the desired color */
 }
+
+nav ul li .submenu a {
+  color: #4a90e2; /* Light blue color for child links */
+}
+
+
+
   li {
     display: inline;
     padding: 5px;
