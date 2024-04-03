@@ -120,7 +120,16 @@ nav > ul {
 }
 
 nav > ul > li > a {
-  color: red; /* Change this to the desired color */
+  color: red;
+  font-weight: bold;
+  text-decoration: none; /* Remove underline */
+}
+
+/* Styling for the label */
+.navbar-label {
+  font-size: 20px;
+  color: #2171b5;
+  font-family: 'Avenir Next LT Pro';
 }
 
 li {
