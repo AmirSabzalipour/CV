@@ -73,7 +73,9 @@ nav {
     
    
   }
-
+  nav li a {
+    color:red; /* Change this to the desired color */
+  }
   li {
     display: inline;
     padding: 5px;
