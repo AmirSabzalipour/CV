@@ -6,19 +6,60 @@ layout: page
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Page Title</title>
-  <link rel="stylesheet" href="assets/custom.css"> </head>
+  <title>{{ page.title }}</title>
+  <!-- Add any additional meta tags, stylesheets, or scripts here -->
+  <link rel="stylesheet" href="assets/custom.css"> <!-- Correct path to your custom CSS file -->
+  <style>
+    /* Reset default margin and padding */
+    body {
+      margin: 0;
+      padding: 40px; /* Adjust padding as needed */
+      background-image: url('assets/img/header/machin.jpg');
+      background-size: 100% 100%; /* Set the width to 150% and the height to 100% */
+      background-position: center;
+      min-height: 50vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Define styles for the post content */
+    .post-content {
+      margin: 10px; /* Add margin to the post content */
+      color: black; /* Change text color to black */
+      position: absolute; /* Set the position to absolute */
+      top: 200px; /* Adjust top position */
+      left: 40px; /* Adjust left position */
+      padding: 10px; /* Adjust padding */
+      max-width: 700px;
+    }
+
+     /* Define styles for the avatar */
+     .avatar {
+      width: 250px; /* Adjust width of the avatar */
+      border-radius: 50%;
+      margin-right: 10px; /* Add space between avatar and text box */
+    }
+
+    /* Media query for small screens */
+    @media only screen and (max-width: 700px) {
+      .post-content {
+        max-width: calc(100% - 10px); /* Adjust maximum width for small screens */
+      }
+    }
+  </style>
+</head>
 <body>
-  <div class="header-container">
-    <div class="avatar">
-      <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar-image">
-    </div>
-    <div id="text-box">
-      <div id="color-post" class="post-content">
-        <p>
-          As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
-        </p>
-      </div>
+  <div style="position: absolute; top: -20px; left: 10px; width: 250px; padding: 0px;">
+    <h2></h2>
+    <!-- Add class="avatar" to your avatar image -->
+    <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="width: 100%; max-width: 60%; border-radius: 50%; position: relative; top: 0px; left: -80px;">
+  </div>
+
+  <div id="text-box">
+    <div id="color-post" class="post-content">
+      <p>
+        As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
+      </p>
     </div>
   </div>
 </body>
