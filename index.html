@@ -30,10 +30,22 @@ layout: page
       top: 200px; /* Adjust top position */
       left: 40px; /* Adjust left position */
       padding: 10px; /* Adjust padding */
+      max-width: 700px;
     }
 
-    /* Define styles for the footer */
- 
+     /* Define styles for the avatar */
+     .avatar {
+      width: 250px; /* Adjust width of the avatar */
+      border-radius: 50%;
+      margin-right: 10px; /* Add space between avatar and text box */
+    }
+
+    /* Media query for small screens */
+    @media only screen and (max-width: 600px) {
+      .post-content {
+        max-width: calc(100% - 80px); /* Adjust maximum width for small screens */
+      }
+    }
   </style>
 </head>
 <body>
@@ -43,20 +55,12 @@ layout: page
     <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="width: 100%; max-width: 60%; border-radius: 50%; position: relative; top: 0px; left: -80px;">
   </div>
 
-  <div id="text-box" style="position: absolute; top: 0; left: 0;width: 100%; max-width: 700px; padding: 10px;">
-    <div id="color-post" class="post-content" style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro';">
+  <div id="text-box">
+    <div id="color-post" class="post-content">
       <p>
         As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
       </p>
     </div>
   </div>
-
-  <!-- Script to dynamically set the width of the text box -->
-  <script>
-    window.onload = function() {
-      var headerImageWidth = document.querySelector('.avatar').offsetWidth;
-      document.getElementById('text-box').style.maxWidth = headerImageWidth + 'px';
-    };
-  </script>
 </body>
 </html>
