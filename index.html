@@ -13,43 +13,50 @@ layout: page
     /* Reset default margin and padding */
     body {
       margin: 0;
-      padding: 0; /* Adjust padding as needed */
+      padding: 40px; /* Adjust padding as needed */
       background-image: url('assets/img/header/machin.jpg');
-      background-size: cover; /* Cover the entire background */
-      min-height: 100vh;
+      background-size: 100% 100%; /* Set the width to 150% and the height to 100% */
+      background-position: center;
+      min-height: 50vh;
       display: flex;
       flex-direction: column;
-      align-items: center; /* Center content horizontally */
-      justify-content: center; /* Center content vertically */
     }
 
     /* Define styles for the post content */
     .post-content {
-      max-width: 90%; /* Adjust width as needed */
-      background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
-      padding: 20px; /* Adjust padding */
-      border-radius: 10px; /* Rounded corners */
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow */
-      text-align: center; /* Center text */
+      margin: 10px; /* Add margin to the post content */
+      color: black; /* Change text color to black */
+      position: absolute; /* Set the position to absolute */
+      top: 200px; /* Adjust top position */
+      left: 40px; /* Adjust left position */
+      padding: 10px; /* Adjust padding */
     }
 
-    /* Define styles for the avatar */
-    .avatar {
-      width: 200px; /* Adjust size as needed */
-      border-radius: 50%; /* Make it circular */
-      margin-bottom: 20px; /* Add space below the avatar */
-    }
+    /* Define styles for the footer */
+ 
   </style>
 </head>
 <body>
-  <!-- Avatar and Text Content -->
-  <div>
-    <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar">
-    <div class="post-content">
+  <div style="position: absolute; top: -20px; left: 10px; width: 250px; padding: 0px;">
+    <h2></h2>
+    <!-- Add class="avatar" to your avatar image -->
+    <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="width: 100%; max-width: 60%; border-radius: 50%; position: relative; top: 0px; left: -80px;">
+  </div>
+
+  <div id="text-box" style="position: absolute; top: 0; left: 0; max-width: 200px; padding: 10px;">
+    <div id="color-post" class="post-content" style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro';">
       <p>
         As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
       </p>
     </div>
   </div>
+
+  <!-- Script to dynamically set the width of the text box -->
+  <script>
+    window.onload = function() {
+      var headerImageWidth = document.querySelector('.avatar').offsetWidth;
+      document.getElementById('text-box').style.maxWidth = headerImageWidth + 'px';
+    };
+  </script>
 </body>
 </html>
