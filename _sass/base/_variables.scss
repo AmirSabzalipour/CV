@@ -27,29 +27,6 @@ $sm-break: 576px;
 $x-sm-break: 320px;
 
 
-html[data-theme="dark"] {
-  --background: #2c2c2c; // brand, background
-  --blockquote: #373e47; // blockquote
-  --selection: #545d68; // selection
-  --meta: #909dab; // meta
-  --link: royalblue; // theme, link, link shadow header bg
-  --header-background:#2c2c2c;; // Color before header image load
-  --header-text: #ffffff; // header text, feature img text
-  --header-link:white;// header link, search color
-  --code-background: #2A3444;
-  --code-inline: #d9b600;
-  --text-shadow: #2d333b; // text shadow
-  --text:white; // text
-  --h1: #d40059; // headers
-  --h2: #b37eff;
-  --h3: #ff66c2;
-  --h4: #00af9e;
-  --h5: #6bac00;
-  --h6: #ff5c00;
-  --border: none; // border
-  --cusdis--color-text-default: var(--text);
-  --cusdis--color-comment-username-text: var(--link);
-}
 
 /* THEME COLOR SCHEMES */
 html, html[data-theme="light"] {
@@ -74,6 +51,29 @@ html, html[data-theme="light"] {
   --border: none;
 }
 
+html[data-theme="dark"] {
+  --background: #2c2c2c; // brand, background
+  --blockquote: #373e47; // blockquote
+  --selection: #545d68; // selection
+  --meta: #909dab; // meta
+  --link: royalblue; // theme, link, link shadow header bg
+  --header-background:#2c2c2c;; // Color before header image load
+  --header-text: #ffffff; // header text, feature img text
+  --header-link:white;// header link, search color
+  --code-background: #2A3444;
+  --code-inline: #d9b600;
+  --text-shadow: #2d333b; // text shadow
+  --text:white; // text
+  --h1: #d40059; // headers
+  --h2: #b37eff;
+  --h3: #ff66c2;
+  --h4: #00af9e;
+  --h5: #6bac00;
+  --h6: #ff5c00;
+  --border: none; // border
+  --cusdis--color-text-default: var(--text);
+  --cusdis--color-comment-username-text: var(--link);
+}
 /* BASE16 CODE HIGHLIGHT */
 // Material Theme
 html, html[data-theme="light"] {
