@@ -11,13 +11,6 @@ body {
   
 }
 
-/* Define styles for the post content */
-.post-content {
-  margin: 100px;
-  color: gray;
-  position: relative;
-  z-index: 4; /* Ensure the content is above the background image */
-}
 
 /* Styles for the text boxes */
 .text-box {
@@ -49,3 +42,23 @@ footer {
   z-index: 4; /* Ensure the footer is above the background image */
 }
 
+.header-container {
+  display: flex;
+  align-items: center; /* Vertically center content */
+}
+
+
+
+.post-content {
+  margin: 10px; /* Adjust margin */
+  color: black; /* Text color */
+  /* Remove absolute positioning styles */
+  padding: 10px; /* Adjust padding */
+  max-width: 700px;
+}
+
+@media only screen and (max-width: 700px) {
+  .post-content {
+    max-width: 100%; /* Set to 100% for small screens */
+  }
+}
