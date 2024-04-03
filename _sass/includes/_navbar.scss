@@ -70,6 +70,7 @@ nav {
     float: right;
     text-align: right;
     display: block;
+    
    
   }
 
@@ -78,9 +79,11 @@ nav {
     padding: 5px;
     float: left;
     margin-right: 0.4em;
+    color: #8baaa7;
   }
 
   a {
+    color: #8baaa7;
     &:hover {
       color: var(--link);
     }
