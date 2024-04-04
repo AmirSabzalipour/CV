@@ -161,10 +161,10 @@ nav {
 @media screen and (max-width: $break) {
   
   nav ul li {
-    padding-left: 0px; /* Remove left padding */
-    padding-right: 0px;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-left: -10px; /* Remove left padding */
+    padding-right: -10px;
+    padding-top: 10px;
+    padding-bottom: 2px;
 
 
   }
