@@ -4041,7 +4041,7 @@
  }
  
  .nav-link.disabled {
-  color:red;
+   color: #6c757d;
    pointer-events: none;
    cursor: default;
  }
