@@ -130,8 +130,8 @@ nav {
 
     &#pull {
       i {
-        margin-top: 22px;
-        margin-right: 10px;
+        margin-top: 0px;
+        margin-right: 0px;
         float: right;
       }
     }
@@ -159,7 +159,7 @@ nav {
 
 @media screen and (max-width: $break) {
   .site-header {
-    width: 80%; /* Set the width to 100% to occupy the full width of the viewport */
+    width: 100%; /* Set the width to 100% to occupy the full width of the viewport */
   }
   .site-title {
    margin-right: 35px; 
