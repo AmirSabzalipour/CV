@@ -51,7 +51,6 @@
   
  
 
-
   .separator {
     user-select: none;
     opacity: 0;
@@ -88,14 +87,11 @@
     margin-bottom: 10px;
 
   }
-
-
   #pull {
-    margin-left: 30 30px 50px 80px; /* Adjust margin for the hamburger icon */
+    margin-left: 30px 30px 50px 80px; /* Adjust margin for the hamburger icon */
   }
-
-
 }
+
 
 
 nav {
@@ -132,7 +128,7 @@ nav {
 
     &#pull {
       i {
-        margin-top: 0px;
+        margin-top: 20px;
         margin-right: 0px;
         float: right;
       }
