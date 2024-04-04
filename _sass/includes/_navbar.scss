@@ -16,6 +16,23 @@
 #pull i {
   color: #000; /* Set the color of the hamburger icon */
 }
+
+#pull {
+  /* Adjust padding around the hamburger icon */
+  padding: 10px;
+}
+
+/* Adjust margin for the hamburger icon */
+#pull i {
+  margin-top: 22px;
+  margin-right: 2px;
+  float: right;
+}
+
+
+
+
+
 .site-header {
   margin: 0 auto;
   padding: 1% 1% 1% 1%;
@@ -25,6 +42,8 @@
   border-radius: 20px;
   margin: 5px 5px 5px 20px;
   background-color:#F8f8f8;
+  display: flex;
+  justify-content: center;
   
  
 
