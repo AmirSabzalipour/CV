@@ -161,7 +161,12 @@ nav {
 @media screen and (max-width: $break) {
   
   nav ul li {
-    padding: 0px; /* Adjusted padding for small screens */
+    padding-left: 0px; /* Remove left padding */
+    padding-right: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+
+
   }
   
    
