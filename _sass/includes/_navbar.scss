@@ -66,6 +66,7 @@
 
 }
 
+
 nav {
   display: flex; /* Make the navigation bar a flex container */
   justify-content: space-between;
@@ -93,7 +94,7 @@ nav {
   
 
   a {
-    color:green;
+     color:green;
     font-weight: bold;
     &:hover {
       color:red;
@@ -110,9 +111,7 @@ nav {
 }
   }
 }
-nav ul li a.nav-link {
-  color: green; /* Your desired default color */
-}
+
 
 
 
