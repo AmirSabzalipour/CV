@@ -169,7 +169,7 @@ nav {
       background-color: var(--background);
       backdrop-filter: brightness(0.9);
 
-      &:nth-of-type(4n) {
+      &:nth-of-type(n) {
         background-color: var(--background);
       }
 
