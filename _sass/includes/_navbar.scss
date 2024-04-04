@@ -158,7 +158,9 @@ nav {
 
 
 @media screen and (max-width: $break) {
- 
+  nav ul li a {
+    font-size:1.2em; /* Your desired font size */;
+  }
   .site-header {
     width: 100%; /* Set the width to 100% to occupy the full width of the viewport */
     border-radius: 0px;
@@ -167,7 +169,7 @@ nav {
    margin-right: 35px; 
    margin-left: 10px;
     float: none; 
-    font-size: 1em;
+    font-size: 1.4em;
   }
   
   .nav-container {
