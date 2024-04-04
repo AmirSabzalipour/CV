@@ -159,8 +159,9 @@ nav {
 }
 
 @media screen and (max-width: $break) {
-  
-    
+  .site-header {
+    width: 100%; /* Set the width to 100% to occupy the full width of the viewport */
+  }
   .site-title {
    margin-right: 35px; 
     float: none; 
