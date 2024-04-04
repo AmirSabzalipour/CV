@@ -72,7 +72,9 @@ nav {
   list-style: none;
   margin: 0;
   padding: 0;
-  nav > ul {
+  
+
+  ul {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -80,36 +82,46 @@ nav {
     float: right;
     text-align: right;
     display: block;
+    
+   
   }
-  
-  nav > ul > li > a {
-    color: red; /* Change this to the desired color */
-  }
-  
+nav ul li a {
+  color: #4a90e2; /* Change this to the desired color */
+  font-size: 40px;
+}
+
+nav ul li .submenu a {
+  color: #4a90e2; /* Light blue color for child links */
+}
+
+
+
   li {
     display: inline;
     padding: 5px;
     float: left;
     margin-right: 0.4em;
-    color: red;
+    color:green;
     font-weight: bold;
   }
-  
+
   a {
-    color: red;
+    color:yellow;
     font-weight: bold;
     &:hover {
       color: var(--link);
     }
-  
+
     &#pull {
       i {
         margin-top: 22px;
-        margin-right: 18px;
+        margin-right: 2px;
         float: right;
       }
     }
   }
+}
+
 /* ---- Responsive ---- */
 
 @media (min-width: $break) {
@@ -123,7 +135,6 @@ nav {
   .navbar-label-with-icon {
     display: none;
   }
-}
 }
 
 @media screen and (max-width: $break) {
