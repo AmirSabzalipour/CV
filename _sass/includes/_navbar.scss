@@ -72,9 +72,7 @@ nav {
   list-style: none;
   margin: 0;
   padding: 0;
-  
-
-  ul {
+  nav > ul {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -82,53 +80,36 @@ nav {
     float: right;
     text-align: right;
     display: block;
-    
-   
-  }
-  nav > ul > li {
-    display: inline;
-    padding: 5px;
-    margin-right: 0.4em;
   }
   
   nav > ul > li > a {
-    color: red;
-    font-weight: bold;
-    text-decoration: none; /* Remove underline */
+    color: red; /* Change this to the desired color */
   }
   
-nav ul li .submenu a {
-  color: #4a90e2; /* Light blue color for child links */
-}
-
-
-
   li {
     display: inline;
     padding: 5px;
     float: left;
     margin-right: 0.4em;
-    color:green;
+    color: red;
     font-weight: bold;
   }
-
+  
   a {
-    color:yellow;
+    color: red;
     font-weight: bold;
     &:hover {
       color: var(--link);
     }
-
+  
     &#pull {
       i {
         margin-top: 22px;
-        margin-right: 2px;
+        margin-right: 18px;
         float: right;
       }
     }
   }
-}
-
 /* ---- Responsive ---- */
 
 @media (min-width: $break) {
