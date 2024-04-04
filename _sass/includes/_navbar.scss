@@ -85,6 +85,19 @@ nav {
     
    
   }
+
+
+  nav li:nth-child(1) a {
+    color: #F73139;
+  }
+  
+  nav li:nth-child(2) a {
+    color: blue;
+  }
+  
+  nav li:nth-child(3) a {
+    color: yellow;
+  }
 nav ul li a {
   color: #4a90e2; /* Change this to the desired color */
   font-size: 40px;
@@ -94,17 +107,7 @@ nav ul li .submenu a {
   color: #4a90e2; /* Light blue color for child links */
 }
 
-nav li:nth-child(1) a {
-  color: #F73139;
-}
 
-nav li:nth-child(2) a {
-  color: blue;
-}
-
-nav li:nth-child(3) a {
-  color: yellow;
-}
 
   li {
     display: inline;
