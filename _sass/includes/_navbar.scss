@@ -155,12 +155,13 @@ nav {
   }
 }
 
+
+
 @media screen and (max-width: $break) {
- 
- 
  
   .site-header {
     width: 100%; /* Set the width to 100% to occupy the full width of the viewport */
+    border-radius: 0px;
   }
   .site-title {
    margin-right: 35px; 
@@ -170,7 +171,7 @@ nav {
   }
   
   .nav-container {
-    width: 100%; /* Adjust the width to fit within the site header */
+    width: 80%; /* Adjust the width to fit within the site header */
     max-width: 100%; /* Ensure the container doesn't overflow */
   }
     
