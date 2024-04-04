@@ -159,6 +159,12 @@ nav {
 }
 
 @media screen and (max-width: $break) {
+  
+  nav ul li {
+    padding: 0px; /* Adjusted padding for small screens */
+  }
+  
+   
   .site-title {
    margin-right: 35px; 
     float: none; 
