@@ -160,16 +160,7 @@ nav {
 
 @media screen and (max-width: $break) {
   
-  nav ul li {
-    padding-left: -10px; /* Remove left padding */
-    padding-right: -10px;
-    padding-top: 10px;
-    padding-bottom: 2px;
-
-
-  }
-  
-   
+    
   .site-title {
    margin-right: 35px; 
     float: none; 
@@ -206,7 +197,7 @@ nav {
       font-size: .7em;
       position: relative;
       background-color: var(--background);
-      backdrop-filter: brightness(0);
+      backdrop-filter: brightness(0.9);
 
       &:nth-of-type(1n) {
         background-color: var(--background);
