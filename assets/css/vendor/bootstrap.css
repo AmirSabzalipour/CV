@@ -4033,7 +4033,7 @@
  .nav-link {
    display: block;
    padding: 0.5rem 1rem;
-   color:red;
+   
  }
  
  .nav-link:hover, .nav-link:focus {
@@ -4041,7 +4041,7 @@
  }
  
  .nav-link.disabled {
-   color: #6c757d;
+  color:red;
    pointer-events: none;
    cursor: default;
  }
