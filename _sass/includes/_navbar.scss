@@ -14,18 +14,19 @@
 }
 
 #pull i {
-  color: #000; /* Set the color of the hamburger icon */
+  color:blue; /* Set the color of the hamburger icon */
 }
 
 #pull {
   /* Adjust padding around the hamburger icon */
-  padding: 10px;
+  padding: 0px;
 }
 
 /* Adjust margin for the hamburger icon */
 #pull i {
   margin-top: 22px;
   margin-right: 2px;
+  margin-left: 2px;
   float: right;
 }
 
