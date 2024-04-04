@@ -23,10 +23,7 @@
   border-radius: 20px;
   margin: 5px 5px 5px 20px;
 
-  .site-header .clear ul li a .child-element {
-    /* CSS properties to style the child elements */
-    color: #ff0000; /* Change this to your desired color */
-}
+ 
 
 
   .separator {
@@ -104,12 +101,12 @@ nav ul li .submenu a {
     padding: 5px;
     float: left;
     margin-right: 0.4em;
-    color: red;
+    color:green;
     font-weight: bold;
   }
 
   a {
-    color:red;
+    color:green;
     font-weight: bold;
     &:hover {
       color: var(--link);
