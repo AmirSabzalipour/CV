@@ -110,7 +110,12 @@ nav {
 }
   }
 }
-/* ---- Responsive ---- */
+nav ul li a.nav-link {
+  color: green; /* Your desired default color */
+}
+
+
+
 
 @media (min-width: $break) {
   nav {
