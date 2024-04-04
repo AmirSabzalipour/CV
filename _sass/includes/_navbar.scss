@@ -73,7 +73,6 @@ nav {
   margin: 0;
   padding: 0;
   
-
   ul {
     margin: 0;
     padding: 0;
@@ -83,21 +82,7 @@ nav {
     text-align: right;
     display: block;
     
-   
-  }
-
-
-nav ul li a {
-  color: red; /* Change this to the desired color */
-  font-size: 40px;
-}
-
-nav ul li .submenu a {
-  color: #4a90e2; /* Light blue color for child links */
-}
-
-
-
+  
   li {
     display: inline;
     padding: 5px;
@@ -105,15 +90,10 @@ nav ul li .submenu a {
     margin-right: 0.4em;
     color:green;
     font-weight: bold;
-  }
-
-
-
-
-
+  
 
   a {
-    color:yellow;
+    color:green;
     font-weight: bold;
     &:hover {
       color:red;
@@ -128,7 +108,8 @@ nav ul li .submenu a {
     }
   }
 }
-
+  }
+}
 /* ---- Responsive ---- */
 
 @media (min-width: $break) {
