@@ -23,6 +23,11 @@
   border-radius: 20px;
   margin: 5px 5px 5px 20px;
 
+  .clear ul li a {
+    /* CSS properties to style the child elements */
+    color: #ff0000; /* Change this to your desired color */
+  }
+
   .separator {
     user-select: none;
     opacity: 0;
