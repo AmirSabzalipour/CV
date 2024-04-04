@@ -17,9 +17,8 @@ tags: [Page]
    }
 </style>
 
-<h1 class="education-title" style="font-family: Cambria, serif;">My Education</h1>
+<h1 class="education-title" style="font-family: Cambria, serif;"></h1>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
