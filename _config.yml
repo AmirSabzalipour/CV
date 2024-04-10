@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/blog4"
-url: "https://github.com/AmirSabzalipour/blog4"
+baseurl: "/CV"
+url: "https://github.com/AmirSabzalipour/CV"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Home                                    # site's title
