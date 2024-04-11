@@ -7,7 +7,11 @@ excluded: true
 position: 3
 tags: [Page]
 ---
-
+<style>
+  body {
+    background-color: white;
+  }
+</style>
 <span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming Languages:</span><br>
 Python, C, Mathematica, and SQL (Structured Query Language).
 
