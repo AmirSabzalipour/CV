@@ -1,7 +1,7 @@
 --- 
 layout: page
 title : Projects 
-permalink: /portfolio/
+permalink: /projects/
 subtitle: "" 
 feature-img: "assets/img/pexels/travel.jpeg"
 position: 5
