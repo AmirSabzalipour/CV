@@ -36,14 +36,13 @@ tags: [Page]
 </div>
 
 </div>
- <ul style="font-size: 16px;"> <!-- Change the font-size here -->
+  <ul style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);"> 
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
   </ul>
 </div>
-  </div>
-
+ 
 
 
 <div style="background-color: white; border: 0.6px solid gray; border-radius: 20px; padding: 5px 20px; width: 99%; box-shadow: -8px -2px 2px rgba(128, 128, 128, 0.6);">
@@ -55,7 +54,7 @@ tags: [Page]
 </div>
 
 </div>
-    <ul style="font-size: 16px;"> <!-- Change the font-size here -->
+    <ul style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);"> 
       <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
       <li>Studding how substrate and gate voltage affect quantum transport in thin films of materials.</li>
       <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
@@ -75,8 +74,7 @@ tags: [Page]
 </div>
 
 </div>
-       <ul style="font-size: 16px;"> <!-- Change the font-size here -->
-      <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
+  <ul style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">       <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
       <li>Statistical and dynamical analysis of semiconductors under thermodynamic fluctuations.</li>
     </ul>
   </div>
@@ -93,8 +91,7 @@ tags: [Page]
 </div>
 
 </div>
-       <ul style="font-size: 16px;"> <!-- Change the font-size here -->
-      <li>Using Quantum Espresso to model 2D nanomaterials, such as self-consistent forces, stress calculations, and electronic properties such as band gap values.</li>
+  <ul style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">       <li>Using Quantum Espresso to model 2D nanomaterials, such as self-consistent forces, stress calculations, and electronic properties such as band gap values.</li>
     </ul>
   </div>
 
@@ -115,7 +112,7 @@ tags: [Page]
       <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">University of Antwerp, Antwerp, Belgium, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);">January 2020 - March 2021</span></p>
     </div>
   </div>
-   <ul style="font-size: 16px;"> <!-- Change the font-size here -->
+   <ul style="font-size: 17px;"> <!-- Change the font-size here -->
     <li>Developing alpha and beta prototypes for optical setups. For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
   </ul>
 </div>
@@ -130,8 +127,7 @@ tags: [Page]
       <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Institute for Advanced Studies in Basic Science, Zanjan, Iran, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);">January 2014 - September 2015</span></p>
     </div>
   </div>
-   <ul style="font-size: 16px;"> <!-- Change the font-size here -->
-    <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
+  <ul style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">     <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
   </ul>
 </div>
 
@@ -151,10 +147,10 @@ tags: [Page]
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
     <div style="display: flex; align-items: center;">
       <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Research Assistance,</p>
-      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Univeristy of Tehran, Tehran, Iran, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);">May 2008 - August 2009</span></p>
+      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Univeristy of Tehran, Tehran, Iran, </span><span style="font-family: 'Avenir Next LT Pro";font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);">May 2008 - August 2009</span></p>
      </div>
   </div>
- <ul style="font-size: 16px;"> <!-- Change the font-size here -->
+ <ul style="font-size: 17px; font-family: 'Avenir Next LT Pro'> <!-- Change the font-size here -->
       <li>Interferometric image processing to measure thin film surface roughness.</li>
       <li>Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
       <li>Atomic Force Microscopy characterization of thin films.</li>
