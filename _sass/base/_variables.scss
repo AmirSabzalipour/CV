@@ -134,3 +134,11 @@ html[data-theme="dark"] {
 //  --base0e: #ae81ff; // Integers, Boolean, Constants, XML Attributes, Markup Link Url
 //  --base0f: #cc6633; // Deprecated, Opening/Closing Embedded Language Tags e.g.
 //}
+.navbar a {
+  color: var(--link); /* Use the link color defined in the custom properties */
+}
+
+/* Dark mode */
+html[data-theme="dark"] .navbar a {
+  color: black; /* Change the color to black in dark mode */
+}
