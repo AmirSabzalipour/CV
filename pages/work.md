@@ -36,7 +36,7 @@ tags: [Page]
 </div>
 
 </div>
-  <ul style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);"> 
+  <ul style="font-family: 'Avenir Next LT Pro';  font-size: 18px; color: blue;"> 
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
