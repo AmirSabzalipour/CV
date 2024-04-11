@@ -35,8 +35,9 @@ tags: [Page]
     <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);"> October 2021 - January 2023</span></p>
 </div>
 
+
 </div>
-  <ul style="font-family: 'Avenir Next LT Pro';  font-size: 18px; color: blue;"> 
+  <ul style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;"> 
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
