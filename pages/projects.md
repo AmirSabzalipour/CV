@@ -8,34 +8,43 @@ position: 5
 tags: [Page]
 ---
 
+
+
+<style>
+  .education-title {
+   font-family: sans-serif; /* Font family */
+   font-size: 1em;
+   color: white;
+   font-weight: bold;
+   }
+</style>
+
+<h1 class="education-title" style="font-family: Cambria, serif;"></h1>
+
+<html lang="en">
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NLP Project</title>
+  <title>{{ page.title }}</title>
+  <!-- Add any additional meta tags, stylesheets, or scripts here -->
+  <link rel="stylesheet" href="assets/custom.css"> <!-- Correct path to your custom CSS file -->
   <style>
-    section {
-      font-size: 12.3px;
+    /* Reset default margin and padding */
+    body {
+      margin: 0;
+      padding: 10px;
+      background-image: url('assets/img/header/education.jpg');
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: 1100px 300px; /* Ensure the background image covers the entire viewport */
     }
-    .section-title {
-      font-size: 12.3px;
-      font-weight: bold;
-      color: olivine;
-    }
-    .tcolorbox {
-      background-color: white;
-      border: 0.4px solid gray;
-      border-radius: 15pt;
-      padding: 7pt;
-      margin-bottom: 10pt;
-      width: 99%;
-      box-shadow: -1pt -5pt 2pt gray;
-    }
-    .bluegray {
-      color: bluegray;
-    }
-  </style>
-</head>
-<body>
-  <section>
+
+
+
+  /* Define your CSS styles here */
+  /* Add your CSS styles if needed */
+</style>
+<section>
     <div class="section-title">Natural Language Processing (NLP)</div>
     <p><strong>Sentiment Analysis</strong></p>
     <p>In this sentiment analysis project, I examined a dataset comprising 50,000 online comments gathered from various platforms, including mobile reviews, Twitter sentiments, and Yelp reviews. The main objective was to classify each comment into one of three categories: positive, negative, or neutral. To accomplish this task, I employed a deep learning model. Below, I briefly provide the details of this project and the applied tools.</p>
@@ -62,4 +71,9 @@ tags: [Page]
       <span style="font-size: 10px;">Using metrics such as Accuracy, Precision, Recall, F1-score, Confusion Matrix</span></p>
     </div>
   </section>
-</body>
+
+
+
+
+
+
