@@ -42,99 +42,42 @@ tags: [Page]
   /* Define your CSS styles here */
   /* Add your CSS styles if needed */
 </style>
-
-<div style="background-color: white; border: 0.6px solid gray; border-radius: 20px; padding: 5px 20px; width: 99%; box-shadow: -8px -2px 2px rgba(128, 128, 128, 0.6);">
-  <div style="margin-left: 1em; margin-top: 1em;">
-    <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
-   <div style="display: flex; align-items: center;">
-    <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Visiting Researcher,</p>
-    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Institute for Research in Fundamental Sciences, Tehran, Iran, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);"> February 2016 - February 2017</span></p>
-</div>
-
-</div>
-      <ul>
-      <li>Investigation of vior.</li>
-      <li>Statisticaations.</li>
-    </ul>
-  </div>
-
-
-
-
-<div style="background-color: white; border: 0.6px solid gray; border-radius: 20px; padding: 5px 20px; width: 99%; box-shadow: -8px -2px 2px rgba(128, 128, 128, 0.6);">
-  <div style="margin-left: 1em; margin-top: 1em;">
-    <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
-   <div style="display: flex; align-items: center;">
-    <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Visiting Researcher,</p>
-    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Uppsala University, Uppsala, Sweden, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);"> October 2015 - January 2016</span></p>
-</div>
-
-</div>
-      <ul>
-      <li>Using Quantlues.</li>
-    </ul>
-  </div>
-
-<br>
-<section>
-<div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 21px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; II) Optical Design
-    </span>
-</div>
-<br><br>
-
-<div style="background-color: white; border: 0.6px solid gray; border-radius: 20px; padding: 5px 20px; width: 99%; box-shadow: -8px -2px 2px rgba(128, 128, 128, 0.6);">
-  <div style="margin-left: 1em; margin-top: 1em;">
-    <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
-    <div style="display: flex; align-items: center;">
-      <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Research Engineer,</p>
-      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">University of Antwerp, Antwerp, Belgium, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);">January 2020 - March 2021</span></p>
+<section style="color: lapislazuli; font-size: 15px; font-weight: bold;">
+  <h2>Education</h2>
+  <div style="margin-top: -0.1em;">
+    <div style="background-color: white; border: 0.4px solid gray; border-radius: 20px; padding: 6px 8px; width: 100%; box-shadow: 0px -5px 2px gray;">
+      <div style="font-size: 10.8px; color: black;">
+        <strong>09.2023 Present</strong> | <em>Master of Digital Text Analysis</em> | Faculty of Arts, University of Antwerp
+        <p style="font-size: 11px;">
+          Applying Natural Language Processing (NLP), Machine Learning (ML), and Data Science to analyze text, audio, and video content from various sources, including web content, books, audiobooks, and speeches.
+        </p>
+      </div>
+    </div>
+    <div style="margin-top: 0.5em; background-color: white; border: 0.4px solid gray; border-radius: 20px; padding: 6px 8px; width: 100%; box-shadow: 0px -5px 2px gray;">
+      <div style="font-size: 10.8px; color: black;">
+        <strong>03.2017 10.2021</strong> | <em>Ph.D. in Physics</em> | University of Antwerp, Belgium
+        <p style="font-size: 11px;">
+          Thesis title: <a href="https://repository.uantwerpen.be/docstore/d:irua:8696" style="color: lapislazuli;">"Charge Transport in Magnetic Topological Insulators"</a>
+        </p>
+      </div>
+    </div>
+    <div style="margin-top: 0.5em; background-color: white; border: 0.4px solid gray; border-radius: 20px; padding: 6px 8px; width: 100%; box-shadow: 0px -5px 2px gray;">
+      <div style="font-size: 10.8px; color: black;">
+        <strong>09.2011 04.2014</strong> | <em>M.Sc. in Physics</em> | Institute for Advanced Studies in Basic Science, Zanjan, Iran
+        <p>
+          Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.
+        </p>
+      </div>
+    </div>
+    <div style="margin-top: 0.5em; background-color: white; border: 0.4px solid gray; border-radius: 20px; padding: 6px 8px; width: 100%; box-shadow: 0px -5px 2px gray;">
+      <div style="font-size: 10.8px; color: black;">
+        <strong>09.2003 04.2008</strong> | <em>B.Sc in Physics</em> | University of Tehran, Tehran
+        <p>
+          Thin film fabrication by Physical Vapor Deposition (PVD) techniques.
+        </p>
+      </div>
     </div>
   </div>
-  <ul>
-    <li>Develo For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
-  </ul>
-</div>
+</section>
 
-
-
-<div style="background-color: white; border: 0.6px solid gray; border-radius: 20px; padding: 5px 20px; width: 99%; box-shadow: -8px -2px 2px rgba(128, 128, 128, 0.6);">
-  <div style="margin-left: 1em; margin-top: 1em;">
-    <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
-    <div style="display: flex; align-items: center;">
-      <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Optical Design Engineer,</p>
-      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Institute for Advanced Studies in Basic Science, Zanjan, Iran, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);">January 2014 - September 2015</span></p>
-    </div>
-  </div>
-  <ul>
-    <li>Designing and che public. Several optical phenomena demonstrated include holography, polarization, interference, diffrng others.</li>
-  </ul>
-</div>
-
-
-<br>
-<section>
-<div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 21px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; III) Material Characterization, Optical Metrology
-    </span>
-</div>
-<br><br>
-
-
-<div style="background-color: white; border: 0.6px solid gray; border-radius: 20px; padding: 5px 20px; width: 99%; box-shadow: -8px -2px 2px rgba(128, 128, 128, 0.6);">
-  <div style="margin-left: 1em; margin-top: 1em;">
-    <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
-    <div style="display: flex; align-items: center;">
-      <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Research Assistance,</p>
-      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Univeristy of Tehran, Tehran, Iran, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);">May 2008 - August 2009</span></p>
-     </div>
-  </div>
- <ul>
-      <li>Interferometric image processing to measure thin film surface roughness.</li>
-      <li>Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
-      <li>Atomic Force Microscopy characterization of thin films.</li>
- </ul>
-</div>
 
