@@ -50,11 +50,22 @@ layout: page
   </style>
 </head>
 <body>
+  <style>
+    @media screen and (max-width: 600px) {
+      .avatar {
+        width: 40%; /* Adjust the width for smaller screens */
+        top: 100px; /* Adjust the position for smaller screens */
+        left: -20px; /* Adjust the position for smaller screens */
+      }
+    }
+  </style>
+  
   <div style="position: absolute; top: -20px; left: 10px; width: 250px; padding: 0px;">
     <h2></h2>
     <!-- Add class="avatar" to your avatar image -->
-    <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="width: 60%; max-width: 100%; border-radius: 50%; position: relative; top: 120px; left: -30px;">
+    <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="max-width: 100%; border-radius: 50%; position: relative; top: 120px; left: -30px;">
   </div>
+  
 
   <style>
     #text-box {
