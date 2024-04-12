@@ -39,10 +39,6 @@
   background: var(--background);
   display: inline-block;
   width: 88%;
-  margin-top:0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
   border-radius: 22px;
   background-color: #f7f4f4;
   background-size: contain; /* Change background-size property */
@@ -173,10 +169,6 @@ html[data-theme="dark"] nav ul li a {
     font-size: 1em;
   }
   
-  .nav-container {
-    width: 80%; /* Adjust the width to fit within the site header */
-    max-width: 80%; /* Ensure the container doesn't overflow */
-  }
     
   nav {
     display: flex;
@@ -242,10 +234,4 @@ html[data-theme="dark"] nav ul li a {
     overflow-wrap: break-word;
     max-width: 100%;
   }
-}
-
-.nav-container {
-  width: 80%; /* Adjust the width to fit within the site header */
-  max-width: 80%; /* Ensure the container doesn't overflow */
-  margin: 0 auto; /* Center the container horizontally */
 }
