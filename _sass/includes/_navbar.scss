@@ -43,8 +43,11 @@
   background: var(--background);
   display: inline-block;
   width: 88%;
+  margin-top: -10px; /* Margin for the top side */
+  margin-right: 20px; /* Margin for the right side */
+  margin-bottom: 15px; /* Margin for the bottom side */
+  margin-left: 20px; 
   border-radius: 22px;
-  margin: 0px 0px 0px 0px;
   background-color:#f7f4f4;
   display: flex;
   justify-content: center;
