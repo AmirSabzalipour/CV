@@ -11,27 +11,16 @@ layout: page
   <link rel="stylesheet" href="assets/custom.css"> <!-- Correct path to your custom CSS file -->
   <style>
     /* Reset default margin and padding */
-    body {
-      margin: 0;
-      padding: 40px; /* Adjust padding as needed */
-      background-image: url('assets/img/header/machin.jpg');
-      background-size: 100% 100%; /* Set the width to 150% and the height to 100% */
-      background-position: center;
-      min-height: 50vh;
-      display: flex;
-      flex-direction: column;
-    }
-
-    /* Define styles for the post content */
+      /* Define styles for the post content */
     .post-content {
       margin: 10px; /* Add margin to the post content */
       color: royalblue; /* Change text color to black */
       position: absolute; /* Set the position to absolute */
-      top: 200px; /* Adjust top position */
-      left: 40px; /* Adjust left position */
+      top: 150px; /* Adjust top position */
+      left: -40px; /* Adjust left position */
       padding: 10px; /* Adjust padding */
-      width: 800px;
-      font-size: 18px; 
+      width: 700px;
+      font-size: 16px; 
     }
 
      /* Define styles for the avatar */
@@ -61,6 +50,42 @@ layout: page
     }
   </style>
   
+
+  <style>
+    body {
+      margin: 0;
+      padding: 40px; /* Adjust padding as needed */
+      background-image: url('assets/img/header/machin.jpg');
+      background-size: cover; /* Set the background image to cover the entire container */
+      background-position: center;
+      min-height: 50vh;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    @media screen and (max-width: 600px) {
+      body {
+        background-size: contain; /* Adjust the background size for smaller screens */
+      }
+    }
+  </style>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <div style="position: absolute; top: -20px; left: 10px; width: 140px; padding: 0px;">
     <h2></h2>
     <!-- Add class="avatar" to your avatar image -->
