@@ -80,25 +80,35 @@ layout: page
 
   <style>
     #text-box {
-    padding-top: 140px; /* Adjust top padding for smaller screens */
-    padding-bottom: 2000px; /* Adjust bottom padding for smaller screens */
-    padding-left: 0px; /* Adjust left padding for smaller screens */
-    padding-right: 200px;
-    margin:0px; /* Adjust margin for all sides */
-  }
-
+      padding-top: 140px; /* Adjust top padding */
+      padding-bottom: 20px; /* Adjust bottom padding */
+      padding-left: 0px; /* Adjust left padding */
+      padding-right: 200px; /* Adjust right padding */
+      margin: 0; /* Reset margin */
+      position: absolute; /* Set position to absolute */
+      top: 200px; /* Adjust top position */
+      left: 40px; /* Adjust left position */
+      width: 700px; /* Adjust width */
+    }
+  
     @media screen and (max-width: 600px) {
       #text-box {
-      padding-top: 0px;
-      padding-bottom: 2000px; 
-      padding-left: 0px; 
-      padding-right: 200px; 
+        padding-top: 10px; /* Adjust top padding for smaller screens */
+        padding-bottom: 20px; /* Adjust bottom padding for smaller screens */
+        padding-left: 10px; /* Adjust left padding for smaller screens */
+        padding-right: 10px; /* Adjust right padding for smaller screens */
+        width: auto; /* Adjust width for smaller screens */
+        top: 100px; /* Adjust top position for smaller screens */
+        left: 10px; /* Adjust left position for smaller screens */
+        right: 10px; /* Adjust right position for smaller screens */
       }
   
       ul {
         font-size: 10px; /* Reduce font size for smaller screens */
       }
     }
+  </style>
+  
   </style>
   
   <div id="text-box">
