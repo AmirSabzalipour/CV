@@ -250,3 +250,8 @@ html[data-theme="dark"] nav ul li a {
   }
 }
 
+.nav-container {
+  width: 80%; /* Adjust the width to fit within the site header */
+  max-width: 80%; /* Ensure the container doesn't overflow */
+  margin: 0 auto; /* Center the container horizontally */
+}
