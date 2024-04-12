@@ -43,13 +43,13 @@
   background: var(--background);
   display: inline-block;
   width: 88%;
-  margin-top:0px; /* Margin for the top side */
-  margin-right: 0px; /* Margin for the right side */
-  margin-bottom:0px; /* Margin for the bottom side */
-  margin-left: 0px; 
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
   border-radius: 22px;
-  background-color:#f7f4f4;
-  background-size: contain;
+  background-color: #f7f4f4;
+  background-size: cover; /* Change background-size property */
   display: flex;
   justify-content: center;
   
