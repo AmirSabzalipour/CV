@@ -39,14 +39,14 @@
 
 .site-header {
   margin: 0 auto;
-  padding: 1% 1% 1% 1%;
+  padding: 0% 0% 0% 0%;
   background: var(--background);
   display: inline-block;
   width: 88%;
-  margin-top: -10px; /* Margin for the top side */
-  margin-right: 20px; /* Margin for the right side */
-  margin-bottom: 15px; /* Margin for the bottom side */
-  margin-left: 20px; 
+  margin-top:0px; /* Margin for the top side */
+  margin-right: 0px; /* Margin for the right side */
+  margin-bottom:0px; /* Margin for the bottom side */
+  margin-left: 0px; 
   border-radius: 22px;
   background-color:#f7f4f4;
   display: flex;
