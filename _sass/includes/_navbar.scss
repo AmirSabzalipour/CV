@@ -38,12 +38,17 @@
   background: var(--background);
   display: flex; /* Combine the display properties */
   justify-content: space-between;
-  height: auto; 
+  // height: auto; 
   width: 90%;
   border-radius: 22px;
   background-color: #f7f4f4;
   background-size: cover; 
   margin-top: 25px;
+  position: relative;
+  background-image: url('assets/img/header/machin.jpg');
+  background-size: cover; /* Ensure image covers the entire header */
+  // height: 200px; 
+
   
    .separator {
     user-select: none;
