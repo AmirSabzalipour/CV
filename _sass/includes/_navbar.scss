@@ -6,7 +6,8 @@
   padding: 0% 13% 0% 13%;
   background: var(--background);
   display: flex; /* Assuming .site-header uses flexbox */
-    height: auto; 
+  justify-content: space-between;
+  height: auto; 
   width: 90%;
   border-radius: 22px;
   background-color: #f7f4f4;
@@ -23,6 +24,7 @@
     left: 50%;
     transform: translate(-50%, -50%); /* Center content within container */
     /* Other styles for nav-container (e.g., padding) */
+    
   }
   
   
