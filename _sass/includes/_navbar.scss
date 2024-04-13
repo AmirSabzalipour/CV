@@ -36,9 +36,11 @@
 .site-header {
   padding: 0% 13% 0% 13%;
   background: var(--background);
-  display: flex; /* Combine the display properties */
-  justify-content: space-between;
-  // height: auto; 
+  display: flex; /* Assuming .site-header uses flexbox */
+  justify-content: flex-start;  /* Align navigation to the left */
+  justify-content: center;   /* Center navigation horizontally */
+  justify-content: flex-end;
+  height: auto; 
   width: 90%;
   border-radius: 22px;
   background-color: #f7f4f4;
@@ -47,7 +49,7 @@
   position: relative;
   background-image: url('assets/img/header/machin.jpg');
   background-size: cover; /* Ensure image covers the entire header */
-  // height: 200px; 
+  
 
   .nav-container {
     position: absolute;
