@@ -1,37 +1,6 @@
 // To clear things when we float the element inside nav and ul
-.clear {
-  *zoom: 1;
 
-  &:after {
-    clear: both;
-  }
 
-  &:before,
-  &:after {
-    content: " ";
-    display: table;
-  }
-}
-
-#pull i {
-  color:darkolivegreen; /* Set the color of the hamburger icon */
-}
-
-#pull {
-  /* Adjust padding around the hamburger icon */
-  margin-top: 20px;
-  margin-right: 4px;
-  margin-left: 2px;
-}
-
-/* Adjust margin for the hamburger icon */
-#pull i {
-  margin-top: 4px;
-  margin-right: 4px;
-  margin-left: 2px;
-  float: right;
-
-}
 
 .site-header {
   padding: 0% 13% 0% 13%;
@@ -250,4 +219,23 @@ html[data-theme="dark"] nav ul li a {
     overflow-wrap: break-word;
     max-width: 100%;
   }
+}
+#pull i {
+  color:darkolivegreen; /* Set the color of the hamburger icon */
+}
+
+#pull {
+  /* Adjust padding around the hamburger icon */
+  margin-top: 20px;
+  margin-right: 4px;
+  margin-left: 2px;
+}
+
+/* Adjust margin for the hamburger icon */
+#pull i {
+  margin-top: 4px;
+  margin-right: 4px;
+  margin-left: 2px;
+  float: right;
+
 }
