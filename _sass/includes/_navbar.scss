@@ -6,10 +6,7 @@
   padding: 0% 13% 0% 13%;
   background: var(--background);
   display: flex; /* Assuming .site-header uses flexbox */
-  justify-content: flex-start;  /* Align navigation to the left */
-  justify-content: center;   /* Center navigation horizontally */
-  justify-content: flex-end;
-  height: auto; 
+    height: auto; 
   width: 80%;
   border-radius: 22px;
   background-color: #f7f4f4;
