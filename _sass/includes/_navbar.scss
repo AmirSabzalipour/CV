@@ -239,3 +239,10 @@ html[data-theme="dark"] nav ul li a {
   float: right;
 
 }
+.nav-container {
+  /* Existing styles for .nav-container... */
+  display: flex; /* Assuming .nav-container uses flexbox */
+  justify-content: flex-start; /* Align navigation to the left within .site-header */
+  justify-content: center;  /* Center navigation within .site-header */
+  justify-content: flex-end; /* Align navigation to the right within .site-header */
+}
