@@ -6,7 +6,7 @@
   position: absolute;
   top: 20px; /* Align the top of the header with the top of the page */
   left: 60%;
-  
+  background: rgba(255, 255, 255, .3); /* Background color */
   padding: 5px;
  background: var(--background);
   display: flex; /* Assuming .site-header uses flexbox */
