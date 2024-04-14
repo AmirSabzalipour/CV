@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skills
+title: MY Selected Skills
 permalink: /skills/
 gallery_path: "assets/img/pexels"
 excluded: true
