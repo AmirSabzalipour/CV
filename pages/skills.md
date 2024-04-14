@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MY Selected Skills
-permalink: /skills/
+title: Skills
+permalink: /My Selected skills/
 gallery_path: "assets/img/pexels"
 excluded: true
 position: 3
