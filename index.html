@@ -10,49 +10,8 @@ layout: page
   <!-- Add any additional meta tags, stylesheets, or scripts here -->
   <link rel="stylesheet" href=""> <!-- Correct path to your custom CSS file -->
   <style>
-    /* Reset default margin and padding */
-      /* Define styles for the post content */
-    .post-content {
-      margin: 10px; /* Add margin to the post content */
-      color: royalblue; /* Change text color to black */
-      position: absolute; /* Set the position to absolute */
-      top: 170px; /* Adjust top position */
-      left: -10px; /* Adjust left position */
-      padding: 10px; /* Adjust padding */
-      width: 800px;
-      font-size: 14px; 
-    }
 
-     /* Define styles for the avatar */
-     .avatar {
-      width: 250px; /* Adjust width of the avatar */
-      border-radius: 50%;
-      margin-right: 30px; /* Add space between avatar and text box */
-    }
-
-    /* Media query for small screens */
-    @media only screen and (max-width: 2000px) {
-      .post-content {
-        max-width: calc(100% - 40px); /* Adjust maximum width for small screens */
-      }
-    }
-  </style>
-</head>
-<body>
-  <style>
-    @media screen and (max-width: 600px) {
-      .avatar {
-        width: 70%; /* Adjust the width for smaller screens */
-        position: relative; /* Change the position to relative */
-        top: -200px; /* Adjust the top position for smaller screens */
-        left: 80px; /* Adjust the position for smaller screens */
-      }
-    }
-  </style>
-  
-
-  <style>
-    body {
+body {
     margin: 15px;
      padding:15px;
       background-image: url('assets/img/header/machin.jpg');
@@ -78,7 +37,41 @@ layout: page
         /* Adjust the background size for smaller screens */
       }
     }
-  </style>
+
+      .post-content {
+      margin: 10px; /* Add margin to the post content */
+      color: royalblue; /* Change text color to black */
+      position: absolute; /* Set the position to absolute */
+      top: 170px; /* Adjust top position */
+      left: -10px; /* Adjust left position */
+      padding: 10px; /* Adjust padding */
+      width: 800px;
+      font-size: 14px; 
+    }
+
+   
+    /* Media query for small screens */
+    @media only screen and (max-width: 2000px) {
+      .post-content {
+        max-width: calc(100% - 40px); /* Adjust maximum width for small screens */
+      }
+    }
+    
+    .avatar {
+      width: 250px; /* Adjust width of the avatar */
+      border-radius: 50%;
+      margin-right: 30px; /* Add space between avatar and text box */
+    }
+
+    @media screen and (max-width: 600px) {
+      .avatar {
+        width: 70%; /* Adjust the width for smaller screens */
+        position: relative; /* Change the position to relative */
+        top: -200px; /* Adjust the top position for smaller screens */
+        left: 80px; /* Adjust the position for smaller screens */
+      }
+    }
+   </style>
   
 
   <div style="position: absolute; top: -120px; left: 50px; width: 140px; padding: 0px;">
