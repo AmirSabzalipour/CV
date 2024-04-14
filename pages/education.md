@@ -16,10 +16,7 @@ tags: [Page]
    font-weight: bold;
    }
 
-   // To clear things when we float the element inside nav and ul
-
-
-
+   
 .site-header {
   position: absolute;
   top: 2.5px; /* Align the top of the header with the top of the page */
