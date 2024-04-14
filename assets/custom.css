@@ -4,7 +4,7 @@ body {
   padding: 40px;
   background-image: url('assets/img/header/machin.jpg');
   background-repeat: no-repeat;
-  background-position: center 0px; /* Adjusted background position */
+  background-position: center 10px; /* Adjusted background position */
   background-size: 1000px 300px; /* Ensure the background image covers the entire viewport */
   
   
@@ -50,11 +50,12 @@ footer {
 
 
 .post-content {
-  margin: 10px; /* Adjust margin */
+  margin: 100px; /* Adjust margin */
   color: black; /* Text color */
   /* Remove absolute positioning styles */
   padding: 10px; /* Adjust padding */
-  max-width: 700px;
+  position: relative;
+  z-index: 4;
 }
 
 @media only screen and (max-width: 700px) {
