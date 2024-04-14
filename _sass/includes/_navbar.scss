@@ -3,6 +3,10 @@
 
 
 .site-header {
+  position: absolute;
+  top: 20px; /* Align the top of the header with the top of the page */
+  left: 60%;
+  
   padding: 5px;
  background: var(--background);
   display: flex; /* Assuming .site-header uses flexbox */
