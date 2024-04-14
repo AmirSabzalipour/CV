@@ -1,23 +1,129 @@
---
+---
 layout: page
-title: My Personal Profile  ---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="style.css"> </head>
-<body>
-  <div class="background-container"> <img src="assets/img/header/machin.jpg" alt="Background Image" class="background-image"> </div>
-  <div id="content-container">
-    <div class="avatar-container">
-      <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar">
-    </div>
-    <div class="text-box">
-      <h2>About Me</h2>  <p class="profile-description">  I am a passionate researcher with a strong background in physics and data science. My expertise lies in the areas of mathematical modeling, computer simulations, data science, machine learning, natural language processing, and optimization. As a result of compelling professional work on computational, theoretical, data-driven, and experimental projects, I've developed a well-rounded skill set. I possess an analytical mindset, out-of-the-box problem-solving skills, and the ability to communicate complex problems effectively.
-      </p>
+  <!-- Add any additional meta tags, stylesheets, or scripts here -->
+  <link rel="stylesheet" href=""> <!-- Correct path to your custom CSS file -->
+  <style>
+
+body {
+    margin: 15px;
+     padding:15px;
+      background-image: url('assets/img/header/machin.jpg');
+      background-repeat: no-repeat;
+     background-size: 100% 100%; /* Change to cover */
+     background-position: center; /* Center the background image */
+     min-height: 100vh;
+     display: flex;
+     flex-direction: column;
+      
+    }
+    #content-container {
+      max-width: 100px; /* Adjust max-width as needed */
+      margin: 0 auto; /* Center the content horizontally */
+      padding: 10px; /* Add padding as needed */
+      box-sizing: border-box; /* Include padding in the width calculation */
+    }
+  
+    @media screen and (max-width: 600px) {
+      body {
+        background-size: contain; 
+        background-position: top;
+        /* Adjust the background size for smaller screens */
+      }
+    }
+
+      .post-content {
+      margin: 10px; /* Add margin to the post content */
+      color: royalblue; /* Change text color to black */
+      position: absolute; /* Set the position to absolute */
+      top: 170px; /* Adjust top position */
+      left: -10px; /* Adjust left position */
+      padding: 10px; /* Adjust padding */
+      width: 800px;
+      font-size: 14px; 
+    }
+
+   
+    /* Media query for small screens */
+    @media only screen and (max-width: 2000px) {
+      .post-content {
+        max-width: calc(100% - 40px); /* Adjust maximum width for small screens */
+      }
+    }
+    
+    .avatar {
+      width: 250px; /* Adjust width of the avatar */
+      border-radius: 50%;
+      margin-right: 30px; /* Add space between avatar and text box */
+    }
+
+    @media screen and (max-width: 600px) {
+      .avatar {
+        width: 70%; /* Adjust the width for smaller screens */
+        position: relative; /* Change the position to relative */
+        top: -200px; /* Adjust the top position for smaller screens */
+        left: 80px; /* Adjust the position for smaller screens */
+      }
+    }
+   </style>
+  
+
+  <div style="position: absolute; top: -120px; left: 50px; width: 140px; padding: 0px;">
+    <h2></h2>
+    <!-- Add class="avatar" to your avatar image -->
+    <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="max-width: 100%; border-radius: 50%; position: relative; top: 70px; left: -35px;">
+  </div>
+  
+
+  <style>
+    #text-box {
+      padding-top: 50px; /* Adjust top padding */
+      padding-bottom: 100px; /* Adjust bottom padding */
+      padding-left: 20px; /* Adjust left padding */
+      padding-right: 200px; /* Adjust right padding */
+      margin: 0; /* Reset margin */
+      position: absolute; /* Set position to absolute */
+      top: 30px; /* Adjust top position */
+      left: 120px; /* Adjust left position */
+      width: 800px; /* Adjust width */
+    }
+  
+    @media screen and (max-width: 600px) {
+      #text-box {
+        padding-top: 10px; /* Adjust top padding for smaller screens */
+        padding-bottom: 20px; /* Adjust bottom padding for smaller screens */
+        padding-left: 10px; /* Adjust left padding for smaller screens */
+        padding-right: 10px; /* Adjust right padding for smaller screens */
+        width: auto; /* Adjust width for smaller screens */
+        top: 100px; /* Adjust top position for smaller screens */
+        left: 10px; /* Adjust left position for smaller screens */
+        right: 10px; /* Adjust right position for smaller screens */
+      }
+  
+      ul {
+        font-size: 10px; /* Reduce font size for smaller screens */
+      }
+    }
+  </style>
+  
+  </style>
+  
+  <div id="text-box">
+    <div id="color-post" class="post-content">
+      <ul style="font-size: 16px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif; text-align: justify;"> 
+        I am a passionate researcher with a strong background in physics and data science.</li>
+        My expertise lies in the areas of mathematical modeling, computer simulations, data science, machine learning, natural language processing, and optimization.</li>
+        As a result of compelling professional work on computational, theoretical, data-driven, and experimental projects, I've developed a well-rounded skill set.</li>
+        I possess an analytical mindset, out-of-the-box problem-solving skills, and the ability to communicate complex problems effectively.</li>
+      </ul>
     </div>
   </div>
-</body>
-</html>
+  
+  
+</body> 
