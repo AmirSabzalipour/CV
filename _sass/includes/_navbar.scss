@@ -4,8 +4,8 @@
 
 .site-header {
   position: absolute;
-  top: 20px; /* Align the top of the header with the top of the page */
-  left: 60%;
+  top: 10px; /* Align the top of the header with the top of the page */
+  left: 2%;
   background: rgba(255, 255, 255, .3); /* Background color */
   padding: 5px;
  background: var(--background);
@@ -16,7 +16,7 @@
   border-radius: 22px;
   background-color: #f7f4f4;
   transform: translateX(3%);
-  margin-top: 15px;
+  margin-top: 4px;
   position: relative;
   background-image: url('assets/img/header/machin.jpg');
   background-size: cover; /* Ensure image covers the entire header */
