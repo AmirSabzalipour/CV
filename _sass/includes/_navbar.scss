@@ -28,6 +28,7 @@
     left: 50%;
     transform: translate(-50%, -50%); /* Center content within container */
     margin-left: auto;
+    opacity: 0.1;
   }
    
    .separator {
@@ -78,7 +79,7 @@ nav {
   justify-content: center;
   list-style: none;
   margin:0px;
-  opacity: 0.1;
+  
   
   
   ul {
