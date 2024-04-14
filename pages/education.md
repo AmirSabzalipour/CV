@@ -16,11 +16,14 @@ tags: [Page]
    font-weight: bold;
    }
 
-   
+ // To clear things when we float the element inside nav and ul
+
+
+
 .site-header {
   position: absolute;
-  top: 20px; /* Align the top of the header with the top of the page */
-  left: 0%;
+  top: -5px; /* Align the top of the header with the top of the page */
+  left: 1%;
   background: rgba(255, 255, 255, .3); /* Background color */
   padding: 5px;
  background: var(--background);
@@ -39,7 +42,7 @@ tags: [Page]
 
   .nav-container {
     position: absolute;
-    top: 20%;
+    top: 2%;
     left: 50%;
     transform: translate(-50%, -50%); /* Center content within container */
     margin-left: auto;
