@@ -7,7 +7,7 @@
   top: 3px; /* Align the top of the header with the top of the page */
   left: 2%;
   background: rgba(255, 255, 255, .3); /* Background color */
-  padding: 5px;
+  padding: 0px;
  background: var(--background);
   display: flex; /* Assuming .site-header uses flexbox */
   justify-content: space-between;
@@ -16,7 +16,7 @@
   border-radius: 22px;
   background-color: #f7f4f4;
   transform: translateX(3%);
-  margin-top: 4px;
+  margin-top: 0px;
   position: relative;
   background-image: url('assets/img/header/machin.jpg');
   background-size: cover; /* Ensure image covers the entire header */
@@ -24,7 +24,7 @@
 
   .nav-container {
     position: absolute;
-    top: 50%;
+    top: 20%;
     left: 50%;
     transform: translate(-50%, -50%); /* Center content within container */
     margin-left: auto;
