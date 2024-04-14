@@ -19,7 +19,7 @@ tags: [Page]
    
 .site-header {
   position: absolute;
-  top: 2.5px; /* Align the top of the header with the top of the page */
+  top: 20px; /* Align the top of the header with the top of the page */
   left: 0%;
   background: rgba(255, 255, 255, .3); /* Background color */
   padding: 5px;
