@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-permalink: /about/
+permalink: /Education/
 feature-img: "assets/img/pexels/travel.jpeg"
 position: 1
 tags: [Page]
