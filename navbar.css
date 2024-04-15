@@ -39,7 +39,7 @@
   color:black;
   font-weight: bold;
   font-size: 1.3em;
-  margin: 0 20px 0 20;
+  margin: 0 20px 0 30px;
 }
 .site-header #pull {
   margin-left: 30px 30px 50px 80px; /* Adjust margin for the hamburger icon */
