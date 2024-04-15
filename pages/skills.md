@@ -3,7 +3,7 @@ layout: page
 title: Skills
 permalink: /My Selected skills/
 subtitle: "" 
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/"
 excluded: true
 position: 3
 tags: [Page]
