@@ -7,7 +7,22 @@ feature-img: "assets/img/pexels/travel.jpeg"
 position: 2
 tags: [Page]
 ---
+ <style>
+    /* Reset default margin and padding */
+    body {
+      margin: 0;
+      padding: 10px;
+      background-image: url('assets/img/header/education.jpg');
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: 1100px 300px; /* Ensure the background image covers the entire viewport */
+    }
 
+
+
+  /* Define your CSS styles here */
+  /* Add your CSS styles if needed */
+</style>
 <html lang="en">
 <head>
   <meta charset="UTF-8">

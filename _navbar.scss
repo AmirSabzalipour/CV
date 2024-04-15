@@ -58,6 +58,7 @@
   .site-title {
     color:#3e5069;
     font-weight: bold;
+    font-family: $font-family-logo;
     font-size: 1.3em;
     margin: 0 20px 0 0;
 
@@ -117,4 +118,128 @@ nav {
 
 html[data-theme="dark"] nav ul li a {
   color: black; /* Change the color to black in dark mode */
+}
+
+
+@media (min-width: $break) {
+  nav {
+    flex-wrap: wrap; /* Allow navigation items to wrap on smaller screens */
+  }
+  a#pull {
+    display: none;
+  }
+
+  .navbar-label-with-icon {
+    display: none;
+  }
+}
+
+
+
+@media screen and (max-width: $break) {
+  nav ul li a {
+    font-size:1.2em; /* Your desired font size */;
+  }
+  .site-header {
+    width: 100%; /* Set the width to 100% to occupy the full width of the viewport */
+    border-radius: 0px;
+  }
+  .site-title {
+   margin-right: 35px; 
+   margin-left: 20px;
+    float: none; 
+    font-size: 1em;
+  }
+  
+    
+  nav {
+    display: flex;
+    height: auto;
+
+    .separator {
+      display: none !important;
+    }
+
+    ul {
+      width: 100%;
+      overflow: hidden;
+
+      /* fade out, then shrink */
+      transition: opacity .25s 0s, font-size .25s 0s;
+      transition-delay: 0s;
+
+      &.hide {
+        font-size: 0;
+        margin: 0;
+        opacity: 0;
+        padding: 0;
+      }
+    }
+
+    li {
+      width: 100%;
+      text-align: center;
+      font-size: 0.7em;
+      position: relative;
+      background-color: var(--background);
+      backdrop-filter: brightness(0.2);
+
+      &:nth-of-type(1n) {
+        background-color: var(--background);
+       
+      }
+     
+      a {
+        width: 100%;
+        margin: 0;
+        display: block;
+        font-size: .9em;
+      }
+
+    }
+    .clear {
+      *zoom: 1;
+    
+      &:after {
+        clear: both;
+      }
+    
+      &:before,
+      &:after {
+        content: " ";
+        display: table;
+      }
+    }
+    
+  }
+  #text-box {
+    overflow-wrap: break-word;
+    max-width: 100%;
+  }
+}
+#pull i {
+  color:darkolivegreen; /* Set the color of the hamburger icon */
+}
+
+#pull {
+  /* Adjust padding around the hamburger icon */
+  margin-top: 20px;
+  margin-right: 4px;
+  margin-left: 2px;
+}
+
+/* Adjust margin for the hamburger icon */
+#pull i {
+  margin-top: 4px;
+  margin-right: 4px;
+  margin-left: 2px;
+  float: right;
+
+}
+.nav-container {
+  /* Existing styles for .nav-container... */
+  display: flex; /* Assuming .nav-container uses flexbox */
+  justify-content: flex-start; /* Align navigation to the left within .site-header */
+  justify-content: center;  /* Center navigation within .site-header */
+  justify-content: flex-end; /* Align navigation to the right within .site-header */
 }
