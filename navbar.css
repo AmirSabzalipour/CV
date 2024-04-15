@@ -39,7 +39,7 @@
   color:black;
   font-weight: bold;
   font-size: 1.3em;
-  margin: 0 20px 0 50px;
+  margin: 0 20px 0 20px;
 }
 .site-header #pull {
   margin-left: 30px 30px 50px 80px; /* Adjust margin for the hamburger icon */
@@ -85,69 +85,3 @@ html[data-theme=dark] nav ul li a {
 }
 
 /*# sourceMappingURL=navbar.css.map */
-#content-wrapper {
-  margin-top: 60px; /* Same margin as body */
-  padding: 15px; /* Same padding as body */
- 
-  body {
-      margin-top: 60px;
-      padding:15px;
-      background-image: url('assets/img/header/machin.jpg');
-      background-repeat: no-repeat;
-      background-size: 100% 100%; /* Change to cover */
-      background-position: center; /* Center the background image */
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-        
-      }
-      #content-container {
-        max-width: 100px; /* Adjust max-width as needed */
-        margin: 0 auto; /* Center the content horizontally */
-        padding: 10px; /* Add padding as needed */
-        box-sizing: border-box; /* Include padding in the width calculation */
-      }
-    
-      @media screen and (max-width: 600px) {
-        body {
-          background-size: contain; 
-          background-position: top;
-          /* Adjust the background size for smaller screens */
-        }
-      }
-  
-        .post-content {
-        margin: 10px; /* Add margin to the post content */
-        color: royalblue; /* Change text color to black */
-        position: absolute; /* Set the position to absolute */
-        top: 170px; /* Adjust top position */
-        left: -10px; /* Adjust left position */
-        padding: 10px; /* Adjust padding */
-        width: 800px;
-        font-size: 14px; 
-      }
-  
-     
-      /* Media query for small screens */
-      @media only screen and (max-width: 2000px) {
-        .post-content {
-          max-width: calc(100% - 40px); /* Adjust maximum width for small screens */
-        }
-      }
-      
-      .avatar {
-        width: 250px; /* Adjust width of the avatar */
-        border-radius: 50%;
-        margin-right: 30px; /* Add space between avatar and text box */
-      }
-  
-      @media screen and (max-width: 600px) {
-        .avatar {
-          width: 70%; /* Adjust the width for smaller screens */
-          position: relative; /* Change the position to relative */
-          top: -200px; /* Adjust the top position for smaller screens */
-          left: 80px; /* Adjust the position for smaller screens */
-        }
-      }
-    
-}
