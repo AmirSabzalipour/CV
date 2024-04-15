@@ -1,0 +1,120 @@
+// To clear things when we float the element inside nav and ul
+
+
+
+.site-header {
+  position: absolute;
+  top: -5px; /* Align the top of the header with the top of the page */
+  left: 1%;
+  background: rgba(255, 255, 255, .3); /* Background color */
+  padding: 5px;
+ background: var(--background);
+  display: flex; /* Assuming .site-header uses flexbox */
+  justify-content: space-between;
+  height: auto; 
+  width: 95%;
+  border-radius: 22px;
+  background-color: #f7f4f4;
+  transform: translateX(3%);
+  margin-top: 0px;
+  position: relative;
+  background-image: url('assets/img/header/machin.jpg');
+  background-size: cover; /* Ensure image covers the entire header */
+  
+
+  .nav-container {
+    position: absolute;
+    top: 2%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center content within container */
+    margin-left: auto;
+    opacity: 0.1;
+    display: flex; /* Assuming .nav-container uses flexbox */
+    justify-content: space-between;
+  }
+   .separator {
+    user-select: none;
+    opacity: 0;
+
+    &:first-child {
+      display: none;
+    }
+  }
+
+  a {
+    color: var(--header-link);
+  }
+
+  .avatar {
+    height: 3em;
+    width: 3em;
+    margin-top: -13px;
+    border-radius: 0.2em;
+    margin: 0 10px 0 0;
+    padding: 10px 10px;
+
+  }
+
+  .site-title {
+    color:#3e5069;
+    font-weight: bold;
+    font-size: 1.3em;
+    margin: 0 20px 0 0;
+
+  }
+  #pull {
+    margin-left: 30px 30px 50px 80px; /* Adjust margin for the hamburger icon */
+  }
+}
+
+
+
+nav {
+  display: flex; /* Make the navigation bar a flex container */
+  justify-content: center;
+  list-style: none;
+  margin:0px;
+ 
+  
+  
+  
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: 1.5;
+    text-align: center;
+    display: block;
+    
+  
+  li { 
+   margin-right: 0.4em;
+    display: inline-block;
+    padding: 5px;
+    font-weight: bold;
+    
+  
+
+  a {font-size: 1em; padding: 0px 0px;
+    color: var(--link);
+    font-weight: normal;
+    &:hover {
+      color:blue;
+    }
+
+    &#pull {
+      i {
+        margin-top: 20px;
+        margin-right: 0px;
+        float: right;
+      }
+    }
+  }
+}
+  }
+}
+
+
+html[data-theme="dark"] nav ul li a {
+  color: black; /* Change the color to black in dark mode */
+}

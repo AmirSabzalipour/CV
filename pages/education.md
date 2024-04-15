@@ -7,26 +7,14 @@ position: 1
 tags: [Page]
 ---
 
-
-<style>
-  .education-title {
-   font-family: sans-serif; /* Font family */
-   font-size: 1em;
-   color: white;
-   font-weight: bold;
-   }
-</style>
- 
-
-<h1 class="education-title" style="font-family: Cambria, serif;"></h1>
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  <!-- Add any additional meta tags, stylesheets, or scripts here -->
-  <link rel="stylesheet" href="assets/custom.css"> <!-- Correct path to your custom CSS file -->
+  <link rel="stylesheet" href="navbar.css"> 
+ 
+ 
   <style>
     /* Reset default margin and padding */
     body {
@@ -43,6 +31,8 @@ tags: [Page]
   /* Define your CSS styles here */
   /* Add your CSS styles if needed */
 </style>
+
+
 <section style="color: lapislazuli; font-size: 15px; font-weight: bold;">
   <h2></h2>
   <div style="margin-top: 1em;">

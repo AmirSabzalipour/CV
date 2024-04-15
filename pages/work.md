@@ -10,18 +10,11 @@ tags: [Page]
 
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>HTML Conversion</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="navbar.css"> 
 
-<style>
-  .education-title {
-   font-family: sans-serif; /* Font family */
-   font-size: 1em;
-   color: white;
-   font-weight: bold;
-   }
-</style>
 </head>
 <body>
 <section>
