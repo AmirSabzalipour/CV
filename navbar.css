@@ -46,6 +46,7 @@
 }
 
 nav {
+  position: fixed;
   display: flex; /* Make the navigation bar a flex container */
   justify-content: center;
   list-style: none;
