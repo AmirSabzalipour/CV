@@ -4,7 +4,7 @@
 
 .site-header {
   position: absolute;
-  top: -5px; /* Align the top of the header with the top of the page */
+  top: -5px; 
   left: 1%;
   padding: 5px;
   display: flex; /* Assuming .site-header uses flexbox */
@@ -17,7 +17,7 @@
   transform: translateX(3%);
   margin-top: 0px;
   position: relative;
-  background-image: url('assets/img/header/machin.jpg');
+  // background-image: url('assets/img/header/machin.jpg');
   background-size: cover; /* Ensure image covers the entire header */
   
 
