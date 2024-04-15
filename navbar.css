@@ -8,7 +8,8 @@
   height: auto;
   width: 95%;
   border-radius: 22px;
-  background-color:rgb(243, 235, 235);
+  background-color:rgb(232, 11, 11);
+  opacity: 1;
   transform: translateX(3%);
   margin-top: 0px;
   position: relative;
