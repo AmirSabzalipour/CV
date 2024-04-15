@@ -17,7 +17,22 @@ tags: [Page]
 
 
 
+ <style>
+    /* Reset default margin and padding */
+    body {
+      margin: 0;
+      padding: 10px;
+      background-image: url('assets/img/header/education.jpg');
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: 1100px 300px; /* Ensure the background image covers the entire viewport */
+    }
 
+
+
+  /* Define your CSS styles here */
+  /* Add your CSS styles if needed */
+</style>
 <style>
   body {
     background-color: white;
