@@ -29,8 +29,9 @@
     transform: translate(-50%, -50%); /* Center content within container */
     margin-left: auto;
     opacity: 0.1;
+    display: flex; /* Assuming .nav-container uses flexbox */
+    justify-content: space-between;
   }
-   
    .separator {
     user-select: none;
     opacity: 0;
@@ -47,24 +48,19 @@
   .avatar {
     height: 3em;
     width: 3em;
-    float: left;
     margin-top: -13px;
     border-radius: 0.2em;
-    margin-right: 0.5em;
+    margin: 0 10px 0 0;
     padding: 10px 10px;
 
   }
 
   .site-title {
-    float: left;
     color:#3e5069;
     font-weight: bold;
     font-family: $font-family-logo;
     font-size: 1.3em;
-    margin-top: 2px;
-    margin-right: 20px;
-    margin-left: 10px;
-    margin-bottom: 10px;
+    margin: 0 20px 0 0;
 
   }
   #pull {
@@ -79,6 +75,7 @@ nav {
   justify-content: center;
   list-style: none;
   margin:0px;
+ 
   
   
   
@@ -87,16 +84,14 @@ nav {
     padding: 0;
     list-style: none;
     line-height: 1.5;
-    float: right;
-    text-align: right;
+    text-align: center;
     display: block;
     
   
   li { 
    margin-right: 0.4em;
-    display: inline;
+    display: inline-block;
     padding: 5px;
-    float: left;
     font-weight: bold;
     
   
