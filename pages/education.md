@@ -33,8 +33,7 @@ tags: [Page]
 </style>
 
 
-<section style="color: lapislazuli; font-size: 15px; font-weight: bold;">
-         <div style="font-size: 12px; color: black;">
+  <div style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">
         <strong>09.2023 Present</strong> | <em>Master of Digital Text Analysis</em> | Faculty of Arts, University of Antwerp
         <p style="font-size: 11px;">
           Applying Natural Language Processing (NLP), Machine Learning (ML), and Data Science to analyze text, audio, and video content from various sources, including web content, books, audiobooks, and speeches.
