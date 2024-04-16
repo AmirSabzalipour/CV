@@ -3,17 +3,8 @@ layout: page
 title : Work Experience 
 permalink: /portfolio/
 subtitle: "" 
-feature-img: "assets/img/pexels/"
-position: 2
-tags: [Page]
----
- --- 
-layout: page
-title : My Work Experience 
-permalink: /workexperience/
-subtitle: "" 
 feature-img: "assets/img/header/education.jpg"
-position: 4
+position: 2
 tags: [Page]
 ---
 
