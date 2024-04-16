@@ -2,7 +2,7 @@
   position: relative;
   top: 14px; /* Align the top of the header with the top of the page */
   left: 1%;
-  padding: 5px;
+  padding: 8px;
   display: flex; /* Assuming .site-header uses flexbox */
   justify-content: space-between;
   height: auto;
