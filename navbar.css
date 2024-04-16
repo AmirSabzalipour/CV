@@ -1,5 +1,5 @@
 .site-header {
-  position: absolute;
+  position: top;
   top: 0px; /* Align the top of the header with the top of the page */
   left: 1%;
   padding: 5px;
