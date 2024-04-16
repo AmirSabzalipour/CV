@@ -1,5 +1,5 @@
 .site-header {
-  position: top;
+  position: relative;
   top: 0px; /* Align the top of the header with the top of the page */
   left: 1%;
   padding: 5px;
@@ -14,7 +14,8 @@
   margin-top: 0px;
   position: relative;
   /* background-image: url("assets/img/header/machin.jpg"); */
-  background-size: cover; /* Ensure image covers the entire header */
+  background-size: cover; 
+  
 }
 
 .site-header .separator {
