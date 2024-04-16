@@ -29,8 +29,9 @@ tags: [Page]
     }
 </style>
 <span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming Languages:</span><br>
-Python, C, Mathematica, and SQL (Structured Query Language).
-
+<p style="font-size: 11px;">
+          Applying Natural Language Processing (NLP), Machine Learning (ML), and Data Science to analyze text, audio, and video content from various sources, including web content, books, audiobooks, and speeches.
+        </p>
 
 <span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span><br>
 Extensive experience in data science libraries such as NumPy,
