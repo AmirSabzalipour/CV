@@ -8,8 +8,7 @@ position: 5
 tags: [Page]
 ---
 
-
-
+ 
 <style>
   .education-title {
    font-family: sans-serif; /* Font family */
@@ -17,6 +16,16 @@ tags: [Page]
    color: white;
    font-weight: bold;
    }
+
+   body {
+      margin: 0;
+      padding: 10px;
+      background-image: url('assets/img/header/education.jpg');
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: 1100px 300px; /* Ensure the background image covers the entire viewport */
+    }
+
 </style>
 
 <h1 class="education-title" style="font-family: Cambria, serif;"></h1>
