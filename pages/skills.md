@@ -18,8 +18,8 @@ tags: [Page]
 
 
  <style>
-    /* Reset default margin and padding */
-    body {
+      body {
+      background-color: white;
       margin: 0;
       padding: 10px;
       background-image: url('assets/img/header/education.jpg');
@@ -27,16 +27,6 @@ tags: [Page]
       background-position: center center;
       background-size: 1100px 300px; /* Ensure the background image covers the entire viewport */
     }
-
-
-
-  /* Define your CSS styles here */
-  /* Add your CSS styles if needed */
-</style>
-<style>
-  body {
-    background-color: white;
-  }
 </style>
 <span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming Languages:</span><br>
 Python, C, Mathematica, and SQL (Structured Query Language).
