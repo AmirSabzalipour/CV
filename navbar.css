@@ -1,6 +1,6 @@
 .site-header {
   position: relative;
-  top: 10px; /* Align the top of the header with the top of the page */
+  top: 14px; /* Align the top of the header with the top of the page */
   left: 1%;
   padding: 5px;
   display: flex; /* Assuming .site-header uses flexbox */
