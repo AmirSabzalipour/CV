@@ -46,7 +46,7 @@ tags: [Page]
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
     <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Postdoctoral Researcher,</p>
-    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);"> October 2021 - January 2023</span></p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;"> October 2021 - January 2023</span></p>
 </div>
 
 
@@ -65,7 +65,7 @@ tags: [Page]
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
     <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Doctoral Researcher,</p>
-    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);"> March 2017 - October 2021</span></p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;"> March 2017 - October 2021</span></p>
 </div>
 
 </div>
@@ -85,7 +85,7 @@ tags: [Page]
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
     <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Visiting Researcher,</p>
-    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Institute for Research in Fundamental Sciences, Tehran, Iran, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);"> February 2016 - February 2017</span></p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;">Institute for Research in Fundamental Sciences, Tehran, Iran, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;"> February 2016 - February 2017</span></p>
 </div>
 
 </div>
@@ -102,7 +102,7 @@ tags: [Page]
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
     <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Visiting Researcher,</p>
-    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Uppsala University, Uppsala, Sweden, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);"> October 2015 - January 2016</span></p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;">Uppsala University, Uppsala, Sweden, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;"> October 2015 - January 2016</span></p>
 </div>
 
 </div>
@@ -124,7 +124,7 @@ tags: [Page]
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
     <div style="display: flex; align-items: center;">
       <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Research Engineer,</p>
-      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">University of Antwerp, Antwerp, Belgium, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);">January 2020 - March 2021</span></p>
+      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;">University of Antwerp, Antwerp, Belgium, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color:gray;">January 2020 - March 2021</span></p>
     </div>
   </div>
    <ul style="font-size: 16px;"> <!-- Change the font-size here -->
@@ -139,7 +139,7 @@ tags: [Page]
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
     <div style="display: flex; align-items: center;">
       <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Optical Design Engineer,</p>
-      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Institute for Advanced Studies in Basic Science, Zanjan, Iran, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);">January 2014 - September 2015</span></p>
+      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;">Institute for Advanced Studies in Basic Science, Zanjan, Iran, </span><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;">January 2014 - September 2015</span></p>
     </div>
   </div>
   <ul style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 16px;color: rgba(174, 198, 207, .8);">     <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
@@ -162,7 +162,7 @@ tags: [Page]
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
     <div style="display: flex; align-items: center;">
       <p style=" font-size: 19px;color:#2171b5; margin-right: 10px;">Research Assistance,</p>
-      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, .8);">Univeristy of Tehran, Tehran, Iran, </span><span style="font-family: 'Avenir Next LT Pro";font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: rgba(174, 198, 207, 1);">May 2008 - August 2009</span></p>
+      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;">Univeristy of Tehran, Tehran, Iran, </span><span style="font-family: 'Avenir Next LT Pro;font-variant: small-caps; text-transform: lowercase; font-size: 18px;color: gray;">May 2008 - August 2009</span></p>
      </div>
   </div>
  <ul style="font-family: 'Avenir Next LT Pro';font-variant: small-caps; text-transform: lowercase; font-size: 16px;color: rgba(174, 198, 207, .8);">
