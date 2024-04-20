@@ -43,7 +43,7 @@ Computational Research on Materials
 <div style="margin-left: 1em; margin-top: .1em;">
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
-    <p style=" font-size: 19px;color: rgba(130, 150, 90, 0.7); margin-right: 5px;">Postdoctoral Researcher,</p>
+    <p style=" font-size: 19px;color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
     <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;"> 10/2021 -01/2023</span></p>
 </div>
   <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
@@ -57,7 +57,7 @@ Computational Research on Materials
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
     <p style=" font-size: 19px;color: #2171b5; margin-right: 5px;">Doctoral Researcher,</p>
-    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: #2171b5;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color:#2171b5;"> 03/2017 -10/2021</span></p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color:gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color:gray;"> 03/2017 -10/2021</span></p>
 </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
       <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
