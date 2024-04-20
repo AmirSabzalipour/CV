@@ -41,7 +41,6 @@ Computational Research on Materials
 <br><br>
 
 <div style="margin-left: 1em; margin-top: .1em;">
-    <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;margin-bottom: -15px;">
     <p style=" font-size: 17px;color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
     <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray; "> 10/2021 -01/2023</span></p>
