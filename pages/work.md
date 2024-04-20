@@ -59,7 +59,6 @@ Computational Research on Materials
    <div style="display: flex; align-items: center;">
     <p style=" font-size: 19px;color: #2171b5; margin-right: 5px;">Doctoral Researcher,</p>
     <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: #2171b5;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color:#2171b5;"> 03/2017 -10/2021</span></p>
-
 </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
       <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
