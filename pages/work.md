@@ -34,9 +34,9 @@ tags: [Page]
 <body>
 <section>
 <div style="display: inline-block; padding-right: 10px;">
-    <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials
-    </span>
+<span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+Computational Research on Materials
+</span>
 </div>
 <br><br>
 
