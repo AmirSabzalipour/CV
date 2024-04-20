@@ -35,7 +35,7 @@ tags: [Page]
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I) Computational Research on Materials
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials
     </span>
 </div>
 <br><br>
@@ -116,7 +116,7 @@ tags: [Page]
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; II) Optical Design
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optical Design
     </span>
 </div>
 <br><br>
@@ -154,7 +154,7 @@ tags: [Page]
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; III) Material Characterization, Optical Metrology
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Material Characterization, Optical Metrology
     </span>
 </div>
 <br><br>
