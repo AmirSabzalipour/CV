@@ -18,8 +18,8 @@ tags: [Page]
 
 
  <style>
-      body {
-      background-color: white;
+    /* Reset default margin and padding */
+    body {
       margin: 0;
       padding: 10px;
       background-image: url('assets/img/header/education.jpg');
@@ -27,11 +27,20 @@ tags: [Page]
       background-position: center center;
       background-size: 1100px 300px; /* Ensure the background image covers the entire viewport */
     }
+
+
+
+  /* Define your CSS styles here */
+  /* Add your CSS styles if needed */
+</style>
+<style>
+  body {
+    background-color: white;
+  }
 </style>
 <span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming Languages:</span><br>
-<p style="font-size: 12px;color:;">
-          Applying Natural Language Processing (NLP), Machine Learning (ML), and Data Science to analyze text, audio, and video content from various sources, including web content, books, audiobooks, and speeches.
-        </p>
+Python, C, Mathematica, and SQL (Structured Query Language).
+
 
 <span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span><br>
 Extensive experience in data science libraries such as NumPy,
