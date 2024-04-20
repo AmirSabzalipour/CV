@@ -41,9 +41,8 @@ tags: [Page]
 <br><br>
 
 
-  <div style="margin-left: .1em; margin-top: .1em;">
    <p style=" font-size: 19px; color: rgba(130, 150, 90, 0.7); margin-right: 5px;">Postdoctoral Researcher,</p>
-    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;"> 10/2021 - 01/2023</span></p>
+    <p class="italic" style="margin-right: 5px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;"> 10/2021 - 01/2023</span></p>
 
 </div>
   <ul style="font-size: 16px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;"> 
