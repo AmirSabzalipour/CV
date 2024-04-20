@@ -47,7 +47,7 @@ Computational Research on Materials
     <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;"> 10/2021 -01/2023</span></p>
 
 </div>
-  <ul style="font-size: 16px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;"> 
+  <ul style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;"> 
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
@@ -57,11 +57,11 @@ Computational Research on Materials
   <div style="margin-left: 1em; margin-top: 1em;">
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
-    <p style=" font-size: 19px;color: rgba(130, 150, 90, 0.7); margin-right: 5px;">Doctoral Researcher,</p>
-    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;"> 03/2017 -10/2021</span></p>
+    <p style=" font-size: 19px;color: #2171b5; margin-right: 5px;">Doctoral Researcher,</p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: #2171b5;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color:#2171b5;"> 03/2017 -10/2021</span></p>
 
 </div>
-    <ul style="font-size: 16px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;"> 
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
       <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
       <li>Studding how substrate and gate voltage affect quantum transport in thin films of materials.</li>
       <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
