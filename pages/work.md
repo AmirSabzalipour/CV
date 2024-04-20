@@ -33,7 +33,7 @@ tags: [Page]
 </head>
 <body>
 <section>
-<div style="display: inline-block; padding-right: 20px;">
+<div style="display: inline-block; padding-right: 10px;">
     <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials
     </span>
@@ -42,10 +42,9 @@ tags: [Page]
 
 
 <div style="background-color: white; border: 0.6px solid gray; border-radius: 20px; padding: 5px 20px; width: 99%; box-shadow: -8px -2px 2px rgba(128, 128, 128, 0.6);">
+
   <div style="margin-left: 1em; margin-top: 1em;">
-    <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
-   <div style="display: flex; align-items: center;">
-    <p style=" font-size: 19px; color: rgba(130, 150, 90, 0.7); margin-right: 10px;">Postdoctoral Researcher,</p>
+   <p style=" font-size: 19px; color: rgba(130, 150, 90, 0.7); margin-right: 5px;">Postdoctoral Researcher,</p>
     <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;"> 10/2021 - 01/2023</span></p>
 </div>
 
@@ -64,7 +63,7 @@ tags: [Page]
   <div style="margin-left: 1em; margin-top: 1em;">
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
-    <p style=" font-size: 19px;color: rgba(130, 150, 90, 0.7); margin-right: 10px;">Doctoral Researcher,</p>
+    <p style=" font-size: 19px;color: rgba(130, 150, 90, 0.7); margin-right: 5px;">Doctoral Researcher,</p>
     <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;"> 03/2017 -10/2021</span></p>
 </div>
 
@@ -84,7 +83,7 @@ tags: [Page]
   <div style="margin-left: 1em; margin-top: 1em;">
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
-    <p style=" font-size: 19px;color: rgba(130, 150, 90, 0.7); margin-right: 10px;">Visiting Researcher,</p>
+    <p style=" font-size: 19px;color: rgba(130, 150, 90, 0.7); margin-right: 5px;">Visiting Researcher,</p>
     <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">Institute for Research in Fundamental Sciences, Tehran, Iran, </span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;"> 02/2016 - 02/2017</span></p>
 </div>
 
@@ -98,7 +97,7 @@ tags: [Page]
 
 
 
-<div style="background-color: white; border: 0.6px solid gray; border-radius: 20px; padding: 5px 20px; width: 99%; box-shadow: -8px -2px 2px rgba(128, 128, 128, 0.6);">
+<div style="background-color: white; border: 0.6px solid gray; border-radius: 20px; padding: 5px 10px; width: 99%; box-shadow: -8px -2px 2px rgba(128, 128, 128, 0.6);">
   <div style="margin-left: 1em; margin-top: 1em;">
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
