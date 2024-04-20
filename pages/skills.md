@@ -38,11 +38,11 @@ tags: [Page]
     background-color: white;
   }
 </style>
-<span style="font-size: 23px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming Languages:</span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif;margin-bottom: 10px;">Python, C, Mathematica, and SQL (Structured Query Language).</span><br><br>
+<span style="font-size: 23px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming Languages: </span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif;margin-bottom: 10px;">Python, C, Mathematica, and SQL (Structured Query Language).</span><br><br>
 
 
-<span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif;margin-bottom: 10px;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.
-</span><br><br>
+<span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">
+Data Science:</span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif;margin-bottom: 10px;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span><br><br>
 
 
 <span style="font-size: 23px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Machine learning:</span>
