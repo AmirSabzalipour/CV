@@ -29,7 +29,7 @@ tags: [Page]
     }
 </style>
 <span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming Languages:</span><br>
-<p style="font-size: 12px;color:black;">
+<p style="font-size: 12px;color:;">
           Applying Natural Language Processing (NLP), Machine Learning (ML), and Data Science to analyze text, audio, and video content from various sources, including web content, books, audiobooks, and speeches.
         </p>
 
