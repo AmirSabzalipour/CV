@@ -39,7 +39,9 @@ tags: [Page]
   }
 </style>
 <span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming Languages:</span><br>
-Python, C, Mathematica, and SQL (Structured Query Language).
+<span style="font-size: 18px; font-family: 'Avenir Next LT Pro', sans-serif;">Python, C, Mathematica, and SQL (Structured Query Language).</span>
+
+
 
 
 <span style="font-size: 22px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span><br>
