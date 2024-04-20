@@ -77,7 +77,7 @@ Computational Research on Materials
 
 
 </div>
-  <ul style="font-size: 16px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">   
+  <ul style="font-size: 16px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">   
      <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
       <li>Statistical and dynamical analysis of semiconductors under thermodynamic fluctuations.</li>
     </ul>
@@ -90,7 +90,7 @@ Computational Research on Materials
     <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-size: 15px;color: gray;">Uppsala University, Uppsala, Sweden, </span><span style="font-family: 'Avenir Next LT Pro';font-size: 15px;color: gray;"> 10/2015 - 01/2016</span></p>
 
 </div>
-  <ul style="font-size: 16px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">  
+  <ul style="font-size: 16px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">  
      <li>Using Quantum Espresso to model 2D nanomaterials, such as self-consistent forces, stress calculations, and electronic properties such as band gap values.</li>
     </ul>
   </div>
@@ -111,7 +111,7 @@ Computational Research on Materials
       <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">University of Antwerp, Antwerp, Belgium, </span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color:gray;">01/2020 - 03/2021</span></p>
   
   </div>
-    <ul style="font-size: 16px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;"> 
+    <ul style="font-size: 16px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
     <li>Developing alpha and beta prototypes for optical setups. For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
   </ul>
 </div>
@@ -125,7 +125,7 @@ Computational Research on Materials
       <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;">Institute for Advanced Studies in Basic Science, Zanjan, Iran, </span><span style="font-family: 'Avenir Next LT Pro';font-size: 15px;color: gray;">01/2014 - 09/2015</span></p>
   
   </div>
-  <ul style="font-size: 16px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">  
+  <ul style="font-size: 16px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">  
    <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
   </ul>
 </div>
@@ -148,7 +148,7 @@ Computational Research on Materials
       <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-size: 15px;color: gray;">Univeristy of Tehran, Tehran, Iran, </span><span style="font-family: 'Avenir Next LT Pro;font-size: 15px;color: gray;">05/2008 - 08/ 2009</span></p>
      
   </div>
- <ul style="font-size: 16px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;"> 
+ <ul style="font-size: 16px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
       <li>Interferometric image processing to measure thin film surface roughness.</li>
       <li> Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
       <li>Atomic Force Microscopy characterization of thin films.</li>
