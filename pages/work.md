@@ -44,7 +44,7 @@ Computational Research on Materials
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
    <div style="display: flex; align-items: center;">
     <p style=" font-size: 17px;color: #2171b5; margin-right: 5px;margin-bottom: -15px;">Postdoctoral Researcher,</p>
-    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;margin-bottom: -15px;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;margin-bottom: -15px;"> 10/2021 -01/2023</span></p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray;margin-bottom: -15px;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px;color: gray; margin-bottom: -15px;"> 10/2021 -01/2023</span></p>
 </div>
   <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
