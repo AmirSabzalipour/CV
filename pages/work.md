@@ -59,7 +59,7 @@ position: 2
         <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">Computational Research on Materials</span>
     </div>
     <br><br>
-    <div class="textbox" style="background: linear-gradient(to right, rgba(0, 1, 0, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);">
+       <div class="textbox" style="background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);">
         <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
     <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
     <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> 10/2021 - 01/2023</span></p>
