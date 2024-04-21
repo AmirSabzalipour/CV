@@ -5,6 +5,7 @@ permalink: /portfolio/
 subtitle: "" 
 feature-img: "assets/img/pexels/"
 position: 2
+
 hide: true
 ---
  <style>
@@ -147,22 +148,7 @@ Computational Research on Materials
  </ul>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
-    <style>
+   <style>
         * {
             box-sizing: border-box;
         }
@@ -187,9 +173,35 @@ Computational Research on Materials
             padding: 0 1rem;
         }
         
+        li {
+            --stop: calc(100% / var(--length) * var(--i));
+            --l: 62%;
+            --l2: 88%;
+            --h: calc((var(--i) - 1) * (180 / var(--length)));
+            --c1: hsl(var(--h), 71%, var(--l));
+            --c2: hsl(var(--h), 71%, var(--l2));
+            
+            position: relative;
+            counter-increment: list;
+            max-width: 45rem;
+            margin: 2rem auto;
+            padding: 2rem 1rem 1rem;
+            box-shadow: 0.1rem 0.1rem 1.5rem rgba(0, 0, 0, 0.3);
+            border-radius: 0.25rem;
+            overflow: hidden;
+            background-color: white;
+        }
         
-        
-       
+        li::before {
+            content: '';
+            display: block;
+            width: 100%;
+            height: 1rem;
+            position: absolute;
+            top: 0;
+            left: 0;
+            background: linear-gradient(to right, var(--c1) var(--stop), var(--c2) var(--stop));
+        }
         
         h3 {
             display: flex;
@@ -214,7 +226,11 @@ Computational Research on Materials
         }
         
         @media (min-width: 40em) {
-                       
+            li {
+                margin: 3rem auto;
+                padding: 3rem 2rem 2rem;
+            }
+            
             h3 {
                 font-size: 2.25rem;
                 margin: 0 0 2rem;
