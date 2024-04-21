@@ -35,7 +35,7 @@ position: 2
     left: 0;
     width: 100%; /* Take up the full width of the box */
     height: 8px; /* Thickness of the strip */
-    /* background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%); Use royalblue color with different opacities */
+     background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%); Use royalblue color with different opacities */
     border-radius: 5px 5px 0 0; /* Ensure rounded corners on the top */
 }
 
@@ -60,7 +60,7 @@ position: 2
     </div>
     <br><br>
  <div class="textbox">
-    <div class="strip" style="background: linear-gradient(to right, rgba(0, 128, 0, 0.2) 10%, rgba(0, 128, 0, 0.4) 90%);"></div>
+    <div class="textbox::before" style="background: linear-gradient(to right, rgba(0, 128, 0, 0.2) 10%, rgba(0, 128, 0, 0.4) 90%);"></div>
     <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
         <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
         <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> 10/2021 - 01/2023</span></p>
