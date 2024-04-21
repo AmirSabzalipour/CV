@@ -35,7 +35,7 @@ position: 2
     left: 0;
     width: 100%; /* Take up the full width of the box */
     height: 8px; /* Thickness of the strip */
-    background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%); /* Use royalblue color with different opacities */
+    /* background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%); Use royalblue color with different opacities */
     border-radius: 5px 5px 0 0; /* Ensure rounded corners on the top */
 }
 
