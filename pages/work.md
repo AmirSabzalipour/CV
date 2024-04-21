@@ -50,19 +50,16 @@ Computational Research on Materials
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
 </ul>
 
-
-  <div style="margin-left: 1em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
-    <div style="display: flex; align-items: center;">
-        <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Doctoral Researcher,</p>
-        <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> 03/2017 - 10/2021</span></p>
-    </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+<div style="margin-left: 1em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
+    <p style="font-size: 17px; color: #2171b5; margin-right: 5px;">Doctoral Researcher,</p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> 03/2017 - 10/2021</span></p>
+</div>
+  <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
         <li>Studying how substrate and gate voltage affect quantum transport in thin films of materials.</li>
         <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
         <li>Analysis, visualization, scientific writing, and publishing the result.</li>
     </ul>
-</div>
 
   <div style="margin-left: 1em; margin-top: 1em;">
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
