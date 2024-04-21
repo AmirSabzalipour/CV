@@ -35,7 +35,7 @@ position: 2
     left: 0;
     width: 100%; /* Take up the full width of the box */
     height: 8px; /* Thickness of the strip */
-    background: linear-gradient(to right, #007bff 50%, #ff0000 50%); /* Divide the strip into two parts with different colors */
+    background: linear-gradient(to right, #007bff 10%, #ff0000 90%); /* Divide the strip into two parts with different colors */
     border-radius: 5px 5px 0 0; /* Ensure rounded corners on the top */
 }
 
