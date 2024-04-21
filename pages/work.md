@@ -32,7 +32,7 @@ position: 2
     display: block;
     height: 8px; /* Thickness of the strip */
     background: linear-gradient(to right, #007bff 50%, #ff0000 50%); /* Divide the strip into two parts with different colors */
-    border-radius: 5px 5px 0 0; /* Ensure rounded corners on the top */
+    border-radius: 2px 2px 0 0; /* Ensure rounded corners on the top */
 }
 
 
