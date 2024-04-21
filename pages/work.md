@@ -54,6 +54,11 @@ position: 2
     }
 </style>
 
+<section>
+    <div style="display: inline-block; padding-right: 10px;">
+        <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">Computational Research on Materials</span>
+    </div>
+    <br><br>
 <div class="textbox">
     <h3></h3>
     
@@ -69,46 +74,5 @@ position: 2
 
 </div>
 
-<section>
-    <div style="display: inline-block; padding-right: 10px;">
-        <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">Computational Research on Materials</span>
-    </div>
-    <br><br>
-
-    <div style="margin-left: 1em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
-        <p style="font-size: 17px; color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
-        <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> 10/2021 - 01/2023</span></p>
-    </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-        <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
-        <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
-        <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
-    </ul>
-
-    <!-- Other experiences go here -->
-
-</section>
-</body>
- <ol style="--length: 5" role="list">
-	<li style="--i: 1">
-		<h3>Discovery and assessment</h3>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aa. Adipiscing diam donec adipiscing tristique risus.</p>
-	</li>
-	<li style="--i: 2">
-		<h3>Information gathering and analysis</h3>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing diam donec adipiscing tristique risus.</p>
-	</li>
-	<li style="--i: 3">
-		<h3>Creating your claim</h3>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing diam donec adipiscing tristique risus.</p>
-	</li>
-	<li style="--i: 4">
-		<h3>Approvals and submission</h3>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing diam donec adipiscing tristique risus.</p>
-	</li>
-	<li style="--i: 5">
-		<h3>Receiving your benefit</h3>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing diam donec adipiscing tristique risus.</p>
-	</li>
 </ol>
 </html>
