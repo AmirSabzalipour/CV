@@ -19,13 +19,22 @@ position: 2
     }
 
     .textbox {
-        background-color: #f9f9f9;
-        border: 1px solid #ddd;
-        border-radius: 5px;
-        padding: 20px;
-        margin-bottom: 20px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        border-top: 5px solid;}
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   }
+
+.textbox::before {
+    content: "";
+    display: block;
+    height: 8px; /* Thickness of the strip */
+    background: linear-gradient(to right, #007bff 50%, #ff0000 50%); /* Divide the strip into two parts with different colors */
+    border-radius: 5px 5px 0 0; /* Ensure rounded corners on the top */
+}
+
 
     .textbox h3 {
         color: #333;
