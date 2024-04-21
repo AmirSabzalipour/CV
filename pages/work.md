@@ -36,7 +36,7 @@ position: 2
     width: 100%; /* Take up the full width of the box */
     height: 8px; /* Thickness of the strip */
     background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%); 
-    border-radius: 5px 5px 0 0; /* Ensure rounded corners on the top */
+    border-radius: 20px 20px 20px 20px; /* Ensure rounded corners on the top */
 }
     .textbox h3 {
         color: #333;
