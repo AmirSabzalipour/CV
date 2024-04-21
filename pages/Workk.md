@@ -10,7 +10,7 @@ tags: [Page]
  <ol style="--length: 5" role="list">
 	<li style="--i: 1">
 		<h3>Discovery and assessment</h3>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing diam donec adipiscing tristique risus.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aa. Adipiscing diam donec adipiscing tristique risus.</p>
 	</li>
 	<li style="--i: 2">
 		<h3>Information gathering and analysis</h3>
