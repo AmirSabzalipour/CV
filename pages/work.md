@@ -24,7 +24,7 @@ position: 2
     border-radius: 20px;
     padding: 20px;
     margin-bottom: 20px;
-    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 2px white;
     position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
 }
 
