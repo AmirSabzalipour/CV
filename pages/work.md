@@ -49,7 +49,7 @@ Computational Research on Materials
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
 </ul>
-
+ </div>
  
  <div style="margin-left: 1em; margin-top: .1em;display: flex; align-items: center;margin-bottom: -15px;">
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
