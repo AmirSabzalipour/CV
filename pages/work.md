@@ -63,10 +63,8 @@ position: 2
         &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 10/2021 - 01/2023
     </span>
     <br>
-    <p class="italic" style="margin-right: 10px;">
-        <span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: darkgray;">University of Antwerp,</span>
-    </p>
-</div>
+     <span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: darkgray;">University of Antwerp,</span>
+    </div>
 
   <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
  <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
