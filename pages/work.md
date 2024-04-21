@@ -18,9 +18,32 @@ position: 2
     }
 
 
+.textbox {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
-  /* Define your CSS styles here */
-  /* Add your CSS styles if needed */
+.textbox h3 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.textbox p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+<div class="textbox">
+    <h3>Discovery and assessment</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing diam donec adipiscing tristique risus.</p>
+</div>
+
 </style>
 <html lang="en">
 <head>
