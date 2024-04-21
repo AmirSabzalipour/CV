@@ -25,8 +25,7 @@ position: 2
         padding: 20px;
         margin-bottom: 20px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        border-top: 5px solid;
-        background-image: linear-gradient(to right, #007bff 50%, #ff0000 50%);    }
+        border-top: 5px solid;}
 
     .textbox h3 {
         color: #333;
