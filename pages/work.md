@@ -6,7 +6,7 @@ subtitle: ""
 feature-img: "assets/img/pexels/"
 position: 2
 tags: [Page]
-hide: True;
+hide: true
 ---
  <style>
     /* Reset default margin and padding */
