@@ -70,7 +70,50 @@ position: 2
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
 </ul>
+</div>
 
+
+<div class="textbox">
+       
+<div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
+    <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> 10/2021 - 01/2023</span></p>
+</div>
+<ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
+    <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
+    <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
+</ul>
+</div>
+
+
+
+
+<div class="textbox">
+       
+<div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
+    <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> 10/2021 - 01/2023</span></p>
+</div>
+<ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
+    <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
+    <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
+</ul>
+</div>
+
+
+<div class="textbox">
+       
+<div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
+    <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
+    <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> 10/2021 - 01/2023</span></p>
+</div>
+<ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
+    <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
+    <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
+</ul>
 </div>
 
 
