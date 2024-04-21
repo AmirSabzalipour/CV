@@ -55,7 +55,7 @@ position: 2
 </style>
 
 <div class="textbox">
-    <h3>Discovery and assessment</h3>
+    <h3></h3>
     
 <div style="margin-left: 1em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
     <p style="font-size: 17px; color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
