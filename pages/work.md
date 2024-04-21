@@ -57,15 +57,14 @@ position: 2
     </div>
     <br><br>
  <div class="textbox">
-  <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: 10px;">
+  <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -5px;">
     <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
-    <span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: olive;">
-        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 10/2021 - 01/2023
-    </span>
-    <br>
-     <span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: darkgray;">University of Antwerp</span>
-    </div>
-</div>
+     <span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: olive;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 10/2021 - 01/2023</span></p>    <br>
+   <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: darkgray;">University of Antwerp,</span>
+  </div>
+  <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+   <li> <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: darkgray;">University of Antwerp,</span></li>
+</ul>
 
 
   <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
