@@ -25,15 +25,20 @@ position: 2
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-   }
+    position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
+}
 
 .textbox::before {
     content: "";
-    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Take up the full width of the box */
     height: 8px; /* Thickness of the strip */
     background: linear-gradient(to right, #007bff 50%, #ff0000 50%); /* Divide the strip into two parts with different colors */
-    border-radius: 2px 2px 0 0; /* Ensure rounded corners on the top */
+    border-radius: 5px 5px 0 0; /* Ensure rounded corners on the top */
 }
+
 
 
     .textbox h3 {
