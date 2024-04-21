@@ -71,7 +71,7 @@ position: 2
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
 </ul>
 </div>
- 
+</div>
 
 <div class="textbox">
        
