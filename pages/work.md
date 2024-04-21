@@ -62,8 +62,7 @@ Computational Research on Materials
       <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
       <li>Analysis, visualization, scientific writing, and publishing the result.</li>
     </ul>
-  </div>
-
+ 
 
   <div style="margin-left: 1em; margin-top: 1em;">
     <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
