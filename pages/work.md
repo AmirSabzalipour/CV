@@ -103,7 +103,7 @@ position: 2
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
        <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
       <li>Statistical and dynamical analysis of semiconductors under thermodynamic fluctuations.</li>
-      <li><p style="font-size: 17px; color:gray; margin-right: 5px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> </li>
+      <li><p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> </li>
     </ul>
         <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 76%, rgba(121, 178, 77, .6) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
