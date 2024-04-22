@@ -106,10 +106,8 @@ position: 2
         <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(255, 165, 0, 0.8) 30%, rgba(255, 165, 0, 0.5) 70%); border-radius: 20px 20px 20px 20px;"> </div>
     </div>
    <div class="additional-column" style="background-color: #f9f9f9; padding: 2px; width: 160px;height: 100px;">
-    <br> 
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: olive;">03/2017 - 10/2021</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: olive;">03/2017 - 10/2021</span></p><br> 
      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: olive;">University of Antwerp,</span></p>
  </div>
 
