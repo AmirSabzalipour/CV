@@ -126,13 +126,13 @@ position: 2
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Using Quantum Espresso to model 2D nanomaterials, such as self-consistent forces, stress calculations, and electronic properties such as band gap values.</li>
         </ul>
-        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(121, 178, 77, .6) 22%); 
+        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(106, 76, 147, .6) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">03/2017 - 10/2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #63775b;">Uppsala University</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #6a4c93;">03/2017 - 10/2021</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #6a4c93;">Uppsala University</span></p>
  </div>
 
 </div>
