@@ -51,8 +51,6 @@ position: 2
     }
 </style>
 
-<section>
-
 <<div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
@@ -71,8 +69,6 @@ position: 2
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: olive;">03/2017 - 10/2021</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: olive;">University of Antwerp</span></p>
  </div>
-
-</div>
 
 
 
