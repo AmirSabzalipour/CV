@@ -65,9 +65,9 @@ position: 2
     <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(121, 178, 77, .6) 22%); 
     border-radius: 20px 20px 20px 20px;"> </div>
      </div>
-   <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 20px; width: 160px;height: 100px;">
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color: #63775b;">10/2021 - 06/2023</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">University of Antwerp</span></p>
+   <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 10px; width: 160px;height: 100px;">
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">10/2021 - 06/2023</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #63775b;">University of Antwerp</span></p>
  </div>
 
 </div>
@@ -86,10 +86,10 @@ position: 2
         <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(121, 178, 77, .6) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
-   <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 20px; width: 160px;height: 100px;">
+   <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 10px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color: #63775b;">03/2017 - 10/2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">University of Antwerp</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #63775b;">03/2017 - 10/2021</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #63775b;">University of Antwerp</span></p>
  </div>
 
 </div>
@@ -111,8 +111,8 @@ position: 2
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 10px; width: 160px;height: 100px;">
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color: #63775b;">03/2017 - 10/2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">Institute for Research in Fundamental Sciences, Tehran, Iran,</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">03/2017 - 10/2021</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #63775b;">Institute for Research in Fundamental Sciences, Tehran, Iran,</span></p>
  </div>
 
 </div>
@@ -129,10 +129,10 @@ position: 2
         <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(121, 178, 77, .6) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
-   <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 20px; width: 160px;height: 100px;">
+   <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 10px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color: #63775b;">03/2017 - 10/2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">Uppsala University</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">03/2017 - 10/2021</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #63775b;">Uppsala University</span></p>
  </div>
 
 </div>
