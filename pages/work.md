@@ -19,7 +19,7 @@ position: 2
     }
 
     .textbox {
-    background-color: #f9f9f9; */
+    background-color: #f6f6f6; */
     border: 20px solid #ddd;
     border-radius: 20px;
     padding: 20px;
@@ -62,7 +62,7 @@ position: 2
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 12px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(121, 178, 77, .6) 22%); 
+    <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 10px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(121, 178, 77, .6) 22%); 
     border-radius: 20px 20px 20px 20px;"> </div>
      </div>
    <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 19px; width: 160px;height: 100px;">
