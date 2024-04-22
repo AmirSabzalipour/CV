@@ -92,9 +92,8 @@ position: 2
  <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(255, 165, 0, 0.8) 30%, rgba(255, 165, 0, 0.5) 70%); border-radius: 20px 20px 20px 20px;"> </div>
 </div>
 
-
-<div class="parent-container" style="display: flex;">
-    <div class="textbox" style="margin-right: 20px;">
+<div class="textbox" style="display: flex;">
+    <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
             <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Doctoral Researcher,</p>
             <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;">University of Antwerp,</span><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> 03/2017 - 10/2021</span></p>
@@ -102,12 +101,13 @@ position: 2
         <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(255, 165, 0, 0.8) 30%, rgba(255, 165, 0, 0.5) 70%); border-radius: 20px 20px 20px 20px;"> </div>
     </div>
 
-    <!-- New column -->
+    <!-- Additional column within the textbox -->
     <div class="additional-column" style="background-color: #f0f0f0; padding: 10px;">
         <!-- Content for the additional column goes here -->
         <p>This is the additional column content.</p>
     </div>
 </div>
+
 
 
 
