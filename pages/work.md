@@ -73,6 +73,13 @@ position: 2
 
 </div>
 
+
+
+
+
+
+
+
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Doctoral Researcher</p>
@@ -83,7 +90,7 @@ position: 2
         <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
         <li>Analysis, visualization, scientific writing, and publishing the result.</li>
         </ul>
-        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(255, 165, 0, 0.8) 30%, rgba(255, 165, 0, 0.5) 70%); border-radius: 20px 20px 20px 20px;"> </div>
+        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(0, 0, 255, 0.1) 20%, rgba(0, 0, 255, 0.3) 80%); border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 20px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
