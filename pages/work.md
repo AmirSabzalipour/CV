@@ -75,7 +75,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #f79256; margin-right: 5px;">Doctoral Researcher</p>
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #4F8E3E99; margin-right: 5px;">Doctoral Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
