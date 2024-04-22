@@ -21,7 +21,7 @@ position: 2
     .textbox {
     background-color: #f9f9f9; */
     border: 20px solid #ddd;
-    border-radius: 30px;
+    border-radius: 40px;
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 2px 2px white;
@@ -63,7 +63,7 @@ position: 2
         <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
         <li>Analysis, visualization, scientific writing, and publishing the result.</li>
         </ul>
-        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(115, 147, 179, 0.1) 75%, rgba(255, 165, 0, 0.3) 25%); 
+        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(115, 147, 179, 0.4) 75%, rgba(255, 165, 0, 0.6) 25%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 20px; width: 160px;height: 100px;">
