@@ -103,13 +103,14 @@ position: 2
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
        <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
       <li>Statistical and dynamical analysis of semiconductors under thermodynamic fluctuations.</li>
-      <li><p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> </li>
+      <li><p style="font-size: 14px; color:gray; margin-top: 40px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> </li>
     </ul>
         <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 76%, rgba(121, 178, 77, .6) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">03/2017 - 10/2021</span></p>  <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #63775b;">IPM</span></p>
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #f79256;"> 03/2017 - 10/2021</span></p> 
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #63775b;">IPM</span></p>
  </div>
 
 </div>
