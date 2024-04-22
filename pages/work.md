@@ -112,7 +112,7 @@ position: 2
         </div>
    <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #293241;"> 03/2017 - 10/2021</span></p> 
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: ##293241;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color: ##293241;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
  </div>
 
 </div>
