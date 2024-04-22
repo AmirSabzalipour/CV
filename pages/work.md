@@ -76,6 +76,79 @@ position: 2
 
 
 
+
+
+
+<style>
+    .container {
+        display: flex;
+    }
+    
+    .column1 {
+        flex: 0 0 85%;
+    }
+    
+    .column2 {
+        flex: 0 0 15%;
+    }
+    
+    .textbox {
+        margin-bottom: 20px; /* Added for spacing between textboxes */
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <div class="column1">
+        <!-- Content of the first column goes here -->
+        <div class="textbox">
+            <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -5px;">
+                <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Postdoctoral Researcher,</p>
+                <span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: olive;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 10/2021 - 01/2023</span>
+                <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: darkgray;">University of Antwerp,</span></p>
+            </div>
+            <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+                <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
+                <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
+                <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
+            </ul>
+            <div style="position: relative;">
+                <div style="position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(4, 100, 120, 0.1) 30%, rgba(10, 20, 120, 0.4) 70%); border-radius: 20px 20px 20px 20px;"></div>
+            </div>
+        </div>
+    </div>
+    <div class="column2">
+        <!-- Content of the second column goes here -->
+    </div>
+</div>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="textbox">
 <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;">
     <p style="font-size: 19px; color: #2171b5; margin-right: 5px;">Doctoral Researcher,</p>
