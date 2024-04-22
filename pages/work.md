@@ -67,7 +67,7 @@ position: 2
      </div>
    <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #617b57;">10/2021 - 06/2023</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">10/2021 - 06/2023</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">University of Antwerp</span></p>
  </div>
 </div>
@@ -88,7 +88,7 @@ position: 2
         </div>
    <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #f79256;">03/2017 - 10/2021</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #f79256;">03/2017 - 10/2021</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #f79256;">University of Antwerp</span></p>
  </div>
 
@@ -109,7 +109,7 @@ position: 2
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 140px;height: 100px;">
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #6a4c93;"> 03/2017 - 10/2021</span></p> 
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #6a4c93;"> 03/2017 - 10/2021</span></p> 
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color: #6a4c93;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
  </div>
 
@@ -129,7 +129,7 @@ position: 2
         </div>
    <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #6a4c93;">03/2017 - 10/2021</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #6a4c93;">03/2017 - 10/2021</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #6a4c93;">Uppsala University</span></p>
  </div>
 
