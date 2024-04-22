@@ -105,11 +105,10 @@ position: 2
     </ul>
         <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(255, 165, 0, 0.8) 30%, rgba(255, 165, 0, 0.5) 70%); border-radius: 20px 20px 20px 20px;"> </div>
     </div>
-   <div class="additional-column" style="background-color: #f0f0f0; padding: 10px; width: 200px; height: 100px;">
+   <div class="additional-column" style="background-color: #f0f0f0; padding: 10px; width: 150px;height: 30px;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;">University of Antwerp,</span></p>
     <p>This is the second line of additional column content.</p>
 </div>
-
 
 </div>
 
