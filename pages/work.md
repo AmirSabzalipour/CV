@@ -97,7 +97,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #fcbf49; margin-right: 5px;">Visiting Researcher</p>
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #6a4c93; margin-right: 5px;">Visiting Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
        <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
@@ -105,12 +105,12 @@ position: 2
       <br>
      <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
-        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 76%, rgba(255, 165, 0, 1) 22%); 
+        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 76%,  rgba(106, 76, 147, .6)  22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 140px;height: 100px;">
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #fcbf49;"> 03/2017 - 10/2021</span></p> 
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color: #fcbf49;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #6a4c93;"> 03/2017 - 10/2021</span></p> 
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color: #6a4c93;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
  </div>
 
 </div>
