@@ -66,6 +66,7 @@ position: 2
     border-radius: 20px 20px 20px 20px;"> </div>
      </div>
    <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 15px; width: 160px;height: 100px;">
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">10/2021 - 06/2023</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #63775b;">University of Antwerp</span></p>
  </div>
@@ -111,6 +112,7 @@ position: 2
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style="background-color: #f9f9f9;  padding-top: 15px; width: 160px;height: 100px;">
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 16px; color: #63775b;">03/2017 - 10/2021</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #63775b;">Institute for Research in Fundamental Sciences, Tehran, Iran,</span></p>
  </div>
