@@ -51,6 +51,26 @@ position: 2
     }
 </style>
 
+<style>
+        @media only screen and (max-width: 600px) {
+            .textbox {
+                border: 10px solid #ddd;
+                border-radius: 10px;
+                padding: 10px;
+            }
+            .main-content {
+                margin-left: 0;
+            }
+            .additional-column {
+                width: 100%;
+                padding-top: 10px;
+                text-align: center;
+            }
+        }
+    </style>
+
+
+
 <section>
 
 <div class="textbox" style="display: flex;">
