@@ -55,7 +55,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #3d5a80; margin-right: 5px;">Postdoctoral Researcher</p>
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #26619B; margin-right: 5px;">Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
@@ -75,7 +75,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #6CA6CD; margin-right: 5px;">Doctoral Researcher</p>
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #26619B; margin-right: 5px;">Doctoral Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
@@ -97,7 +97,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #6CA6CD; margin-right: 5px;">Visiting Researcher</p>
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color: #26619B; margin-right: 5px;">Visiting Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
        <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
@@ -119,7 +119,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color:#6CA6CD; margin-right: 5px;">Visiting Researcher</p>
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 19px; color:#26619B; margin-right: 5px;">Visiting Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Using Quantum Espresso to model 2D nanomaterials, such as self-consistent forces, stress calculations, and electronic properties such as band gap values.</li>
