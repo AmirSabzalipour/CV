@@ -93,7 +93,7 @@ position: 2
 <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">10/2021 - 06/2023</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">University of Antwerp</span></p>
  </div>
 </div>
-<br><br><br>
+<br><br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #0091D5; margin-right: 5px;">II. Doctoral Researcher</p>
