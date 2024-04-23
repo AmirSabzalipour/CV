@@ -83,7 +83,7 @@ position: 2
     <div style="::before; content: ''; position: absolute; top:-9px; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(121, 178, 77, .6) 22%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-   <div class="additional-column" style=" margin-top: 30px; width: 160px;height: 100px;">
+   <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">10/2021 - 06/2023</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">University of Antwerp</span></p>
@@ -104,7 +104,7 @@ position: 2
         <div style="::before; content: ''; position: absolute; top: -4px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(198, 117, 69,.7) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
-   <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
+   <div class="additional-column" style=" margin-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #C67545;">03/2017 - 10/2021</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #C67545;">University of Antwerp</span></p>
@@ -126,7 +126,7 @@ position: 2
         <div style="::before; content: ''; position: absolute; top: -5px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 76%,  rgba(0, 48,73,1)  22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
-   <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 25px; width: 140px;height: 100px;">
+   <div class="additional-column" style=" padding-top: 25px; width: 140px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #003049;"> 03/2017 - 10/2021</span></p> 
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color:  #003049;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
  </div>
@@ -145,7 +145,7 @@ position: 2
         <div style="::before; content: ''; position: absolute; top: -5px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(251, 177, 60, .6) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
-   <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
+   <div class="additional-column" style="  padding-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #fbb13c;">03/2017 - 10/2021</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  #fbb13c;">Uppsala University</span></p>
@@ -171,7 +171,7 @@ position: 2
         <div style="::before; content: ''; position: absolute; top: -5px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(251, 177, 60, .6) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
-   <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
+   <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #fbb13c;">05/2008 - 08/ 2009</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  #fbb13c;">Univeristy of Tehran, Tehran, Iran</span></p>
