@@ -72,7 +72,7 @@ position: 2
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials
+        Computational Research on Materials
     </span>
 </div>
 <br><br>
