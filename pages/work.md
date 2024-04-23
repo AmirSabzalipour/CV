@@ -18,7 +18,7 @@ position: 2
         }
 
         .textbox {
-            background-color: rgba(126, 144, 154, 0.2);
+            background-color: rgba(126, 144, 154, 0.15);
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
             padding: 10px;
@@ -83,7 +83,7 @@ position: 2
     <div style="::before; content: ''; position: absolute; top:-9px; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(121, 178, 77, .6) 22%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-   <div class="additional-column" style="background-color:rgba(126, 144, 154, 0.2);  margin-top: 30px; width: 160px;height: 100px;border-radius: 10px;">
+   <div class="additional-column" style=" margin-top: 30px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">10/2021 - 06/2023</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">University of Antwerp</span></p>
