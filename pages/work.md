@@ -74,7 +74,7 @@ position: 2
         Computational Research on Materials
     </span>
 </div>
-<br><br>
+<br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #0091D5; margin-right: 5px;">I.   Postdoctoral Researcher</p>
@@ -84,7 +84,7 @@ position: 2
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 2px; left: 0; width: 100%; height: 7px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 78%, rgba(212, 156, 74,1)  22%); 
+    <div style="::before; content: ''; position: absolute; top: 20px; left: 0; width: 100%; height: 7px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 78%, rgba(212, 156, 74,1)  22%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
@@ -92,7 +92,7 @@ position: 2
 <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">10/2021 - 06/2023</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">University of Antwerp</span></p>
  </div>
 </div>
-<br><br>
+<br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #0091D5; margin-right: 5px;">II. Doctoral Researcher</p>
@@ -112,6 +112,9 @@ position: 2
  </div>
 </div>
 
+
+<br>
+
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:#0091D5; margin-right: 5px;">III. Visiting Researcher</p>
@@ -130,6 +133,8 @@ position: 2
  </div>
 </div>
 
+<br>
+
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:#0091D5; margin-right: 5px;">IV. Visiting Researcher</p>
@@ -145,6 +150,8 @@ position: 2
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  rgba(13, 152, 186,1);">03/2017 - 10/2021</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:   rgba(13, 152, 186,1);">Uppsala University</span></p>
  </div>
 </div>
+
+<br>
 
 <div class="textbox" style="display: flex;">
 <div class="main-content" style="flex: 1;">
@@ -163,7 +170,8 @@ position: 2
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(102, 77, 85,.7);">05/2008 - 08/ 2009</span></p>  <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  rgba(102, 77, 85,.7);">Univeristy of Tehran, Tehran, Iran</span></p>
  </div>
 </div>
-  
+
+ <br><br> 
 
 <section>
 <div style="display: inline-block; padding-right: 20px;">
