@@ -70,7 +70,12 @@ position: 2
         }
     </style>
 <section>
-
+<div style="display: inline-block; padding-right: 20px;">
+    <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optical Design
+    </span>
+</div>
+<br><br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Postdoctoral Researcher</p>
