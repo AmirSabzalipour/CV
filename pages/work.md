@@ -19,9 +19,9 @@ position: 2
 
         .textbox {
             background-color: rgba(126, 144, 154, 0.5);
-            border: 10px solid white;
+            border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
-            padding: 1px;
+            padding: 10px;
             margin-bottom: 20px;
             box-shadow: 0 2px 2px white;
             position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
