@@ -85,7 +85,7 @@ position: 2
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top:-7px; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba( 13, 152, 186,1) 78%, rgba(212, 156, 74,1)  22%); 
+    <div style="::before; content: ''; position: absolute; top:-7px; left: 0; width: 100%; height: 5px; background: linear-gradient(to right, rgba( 13, 152, 186,.8) 78%, rgba(212, 156, 74,1)  22%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
    <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
