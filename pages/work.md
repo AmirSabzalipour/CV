@@ -59,12 +59,15 @@ position: 2
                 padding: 10px;
             }
             .main-content {
-                margin-left: 0;
+                width: 100%;
+                flex: 1;
+                margin-right: 0;
+                margin-bottom: 10px; /* Add some space between columns on small screens */
             }
             .additional-column {
                 width: 100%;
-                padding-top: 10px;
-                text-align: center;
+                flex: 1;
+                margin-left: 0;
             }
         }
     </style>
