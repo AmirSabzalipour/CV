@@ -18,8 +18,8 @@ position: 2
         }
 
         .textbox {
-            /* background-color: #f0f0f0; */ */
-            border: 20px solid #ddd;
+            background-color: #f0f0f0; */ */
+            border: 2px solid #ddd;
             border-radius: 20px;
             padding: 15px;
             margin-bottom: 20px;
