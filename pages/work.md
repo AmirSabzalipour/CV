@@ -78,7 +78,7 @@ position: 2
 <br><br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color:  #00a8e8; margin-right: 5px;">I. Postdoctoral Researcher</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color:  #00a8e8; margin-right: 5px;">I. Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
@@ -100,7 +100,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px;  color: #00a8e8; margin-right: 5px;">II. Doctoral Researcher</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #00a8e8; margin-right: 5px;">II. Doctoral Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
@@ -122,7 +122,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color:  #00a8e8; margin-right: 5px;">III. Visiting Researcher</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:  #00a8e8; margin-right: 5px;">III. Visiting Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
@@ -139,9 +139,11 @@ position: 2
  </div>
 </div>
 
+
+
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">IV. Visiting Researcher</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">IV. Visiting Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Using Quantum Espresso to model 2D nanomaterials, such as self-consistent forces, stress calculations, and electronic properties such as band gap values.</li>
@@ -159,7 +161,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">V. Research Assistance</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">V. Research Assistance</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Interferometric image processing to measure thin film surface roughness.</li>
@@ -188,7 +190,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Research Engineer</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Research Engineer</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li>Developing alpha and beta prototypes for optical setups. For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
@@ -209,7 +211,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color:  #00a8e8; margin-right: 5px;">Optical Design Engineer</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:  #00a8e8; margin-right: 5px;">Optical Design Engineer</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
@@ -243,7 +245,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Optical Design Engineer</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Optical Design Engineer</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
