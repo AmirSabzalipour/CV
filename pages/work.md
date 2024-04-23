@@ -158,3 +158,39 @@ position: 2
 
 
 
+
+<div class="textbox" style="display: flex;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color:#00a8e8; margin-right: 5px;">Research Assistance</p>
+        </div>
+         <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+        <li>Interferometric image processing to measure thin film surface roughness.</li>
+      <li> Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
+      <li>Atomic Force Microscopy characterization of thin films.</li>
+        </ul>
+        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(251, 177, 60, .6) 22%); 
+        border-radius: 20px 20px 20px 20px;"> </div>
+        </div>
+   <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #fbb13c;">05/2008 - 08/ 2009</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  #fbb13c;">Univeristy of Tehran, Tehran, Iran</span></p>
+ </div>
+
+</div>
+
+
+
+  <div style="margin-left: 1em; margin-top: 1em;">
+    <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
+    <div style="display: flex; align-items: center;">
+      <p style=" font-size: 19px;color: rgba(130, 150, 90, 0.7); margin-right: 10px;">Research Assistance,</p>
+      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-size: 15px;color: gray;">, </span><span style="font-family: 'Avenir Next LT Pro;font-size: 15px;color: gray;">05/2008 - 08/ 2009</span></p>
+     
+  </div>
+ <ul style="font-size: 16px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
+      
+ </ul>
+</div>
+
+
