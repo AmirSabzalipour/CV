@@ -17,7 +17,7 @@ position: 2
             background-size: cover; /* Ensure the background image covers the entire viewport */
        }
     .textbox {
-            background-color: gray;
+            background-color: lightgray;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
             padding: 10px;
@@ -75,7 +75,7 @@ position: 2
     </span>
 </div>
 <br><br>
-<div class="textbox" style="display: flex;background-color: blue">
+<div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #0091D5; margin-right: 5px;">I.   Postdoctoral Researcher</p>
         </div>
