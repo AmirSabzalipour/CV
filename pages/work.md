@@ -18,7 +18,7 @@ position: 2
         }
 
         .textbox {
-            /* background-color: #f6f6f6; */
+            /* background-color: #f0f0f0; */ */
             border: 20px solid #ddd;
             border-radius: 20px;
             padding: 15px;
@@ -34,7 +34,7 @@ position: 2
             left: 0;
             width: 100%; /* Take up the full width of the box */
             height: 8px; /* Thickness of the strip */
-            /* background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);  */
+            /* background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);  */ */
             border-radius: 20px 20px 20px 20px; /* Ensure rounded corners on the top */
         }
 
