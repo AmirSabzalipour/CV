@@ -83,7 +83,7 @@ position: 2
     <div style="::before; content: ''; position: absolute; top:-9px; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(121, 178, 77, .6) 22%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-   <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
+   <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 70px;border-radius: 10px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">10/2021 - 06/2023</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">University of Antwerp</span></p>
