@@ -128,13 +128,13 @@ position: 2
       <li>Statistical and dynamical analysis of semiconductors under thermodynamic fluctuations.</li>
          <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
-        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 78%, rgba(41, 50, 65,1) 22%); 
+        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 78%, rgba(41, 50, 65,.7) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style=" margin-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(41, 50, 65,1);">02/2016 - 02/2017</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(41, 50, 65,1);">IPM</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(41, 50, 65,.7);">02/2016 - 02/2017</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(41, 50, 65,.7);">IPM</span></p>
  </div>
 
 </div>
