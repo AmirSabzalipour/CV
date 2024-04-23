@@ -17,52 +17,78 @@ position: 2
             background-size: cover; /* Ensure the background image covers the entire viewport */
         }
 
-.container {
-    position: relative;
-}
+        .textbox {
+            /* background-color: #f0f0f0; */ */ */
+            border: 10px solid red;
+            border-radius: 25px;
+            padding: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 2px white;
+            position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
+        }
 
-.strip {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 8px;
-    background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);
-    border-radius: 20px 20px 0 0;
-}
+        .textbox::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%; /* Take up the full width of the box */
+            height: 8px; /* Thickness of the strip */
+            /* background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);  */ */
+            border-radius: 20px 20px 20px 20px; /* Ensure rounded corners on the top */
+        }
 
-.textbox {
-    background-color: #f0f0f0; 
-    border: 5px solid black;
-    border-radius: 25px;
-    padding: 15px;
-    margin-top: 20px; /* Adjust as needed */
-    position: relative;
-}
+        .textbox h3 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
 
+        .textbox p {
+            color: #666;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        @media only screen and (max-width: 600px) {
+            .textbox {
+                border: 1px solid #ddd;
+                border-radius: 17px;
+                padding: 10px;
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .main-content {
+                width: 60%; /* Adjust this as needed */
+                margin-right: 5%; /* Adjust this as needed */
+                margin-bottom: 10px; /* Add some space between columns on small screens */
+            }
+            .additional-column {
+                width: 30%; /* Adjust this as needed */
+                padding: 5px;
+            }
+        }
+    </style>
 <section>
-<div class="container">
-    <div class="strip"></div>
-    <div class="textbox">
-        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> 
-            <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Postdoctoral Researcher</p>
+
+<div class="textbox" style="display: flex;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Postdoctoral Researcher</p>
         </div>
-        <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-            <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
-            <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
-            <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
-        </ul>
-    </div>
-    <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
-        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">10/2021 - 06/2023</span></p>
-        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">University of Antwerp</span></p>
-    </div>
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
+    <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
+    <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
+    </ul>
+    <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(121, 178, 77, .6) 22%); 
+    border-radius: 20px 20px 20px 20px;"> </div>
+     </div>
+   <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 19px; width: 160px;height: 100px;">
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">10/2021 - 06/2023</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #617b57;">University of Antwerp</span></p>
+ </div>
 </div>
-
-
-
-
 
 
 <div class="textbox" style="display: flex;">
