@@ -8,16 +8,16 @@ position: 2
 ---
 <style>
         /* Reset default margin and padding */
-        body {
+     body {
             margin: 0;
             padding: 10px;
             background-image: url('assets/img/header/education.jpg');
             background-repeat: no-repeat;
             background-position: center center;
             background-size: cover; /* Ensure the background image covers the entire viewport */
-        }
+       }
 
-        .textbox {
+    .textbox {
             background-color: gray
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
@@ -25,9 +25,9 @@ position: 2
             margin-bottom: 20px;
             box-shadow: 0 2px 2px white;
             position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
-        }
+    }
 
-        .textbox::before {
+     .textbox::before {
             content: "";
             position: absolute;
             top: 0;
@@ -36,28 +36,28 @@ position: 2
             height: 8px; /* Thickness of the strip */
             /* background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);  */ */
             border-radius: 20px 20px 20px 20px; /* Ensure rounded corners on the top */
-        }
+     }
 
-        .textbox h3 {
+    .textbox h3 {
             color: #333;
             font-size: 24px;
             margin-bottom: 10px;
-        }
+    }
 
-        .textbox p {
+    .textbox p {
             color: #666;
             font-size: 16px;
             line-height: 1.6;
-        }
+    }
 
-        @media only screen and (max-width: 600px) {
+    @media only screen and (max-width: 600px) {
             .textbox {
                 border: 1px solid #ddd;
                 border-radius: 17px;
                 padding: 10px;
                 display: flex;
                 flex-wrap: wrap;
-            }
+    }
             .main-content {
                 width: 60%; /* Adjust this as needed */
                 margin-right: 5%; /* Adjust this as needed */
