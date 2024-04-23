@@ -20,8 +20,8 @@ position: 2
             background-color: #e5e5e5;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
-            padding: 30px ;
-            margin:10px 0px -5px 30px;
+            padding: 10px ;
+            margin:0;
             box-shadow: 0 2px 2px white;
             position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
     }
@@ -87,7 +87,7 @@ position: 2
     <div style="::before; content: ''; position: absolute; top: 40px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 78%, rgba(212, 156, 74,1)  22%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-<div class="additional-column" style=" padding-top: -25px; width: 160px;height: 100px;">
+<div class="additional-column" style=" padding-top: -30px; width: 160px;height: 100px;">
 <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
 <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">10/2021 - 06/2023</span></p><p><span style="padding-top: -20px;font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">University of Antwerp</span></p>
  </div>
