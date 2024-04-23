@@ -180,13 +180,13 @@ position: 2
       <li> Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
       <li>Atomic Force Microscopy characterization of thin films.</li>
         </ul>
-        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 78%, rgba(251, 177, 60, .6) 22%); 
+        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 78%, rgba(102, 77, 85,1) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #fbb13c;">05/2008 - 08/ 2009</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  #fbb13c;">Univeristy of Tehran, Tehran, Iran</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(102, 77, 85,1);">05/2008 - 08/ 2009</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  rgba(102, 77, 85,1);">Univeristy of Tehran, Tehran, Iran</span></p>
  </div>
 
 </div>
