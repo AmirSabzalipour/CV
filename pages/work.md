@@ -6,74 +6,69 @@ subtitle: ""
 feature-img: "assets/img/pexels/"
 position: 2
 ---
-
 <style>
-    /* Reset default margin and padding */
-    body {
-        margin: 0;
-        padding: 10px;
-        background-image: url('assets/img/header/education.jpg');
-        background-repeat: no-repeat;
-        background-position: center center;
-        background-size: cover; /* Ensure the background image covers the entire viewport */
-    }
+        /* Reset default margin and padding */
+        body {
+            margin: 0;
+            padding: 10px;
+            background-image: url('assets/img/header/education.jpg');
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover; /* Ensure the background image covers the entire viewport */
+        }
 
-    .textbox {
-    background-color: #f6f6f6; */
-    border: 20px solid #ddd;
-    border-radius: 20px;
-    padding: 15px;
-    margin-bottom: 20px;
-    box-shadow: 0 2px 2px white;
-    position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
-}
+        .textbox {
+            background-color: #f6f6f6;
+            border: 20px solid #ddd;
+            border-radius: 20px;
+            padding: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 2px white;
+            position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
+        }
 
-.textbox::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%; /* Take up the full width of the box */
-    height: 8px; /* Thickness of the strip */
-    /* background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);  */
-    border-radius: 20px 20px 20px 20px; /* Ensure rounded corners on the top */
-}
-    .textbox h3 {
-        color: #333;
-        font-size: 24px;
-        margin-bottom: 10px;
-    }
+        .textbox::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%; /* Take up the full width of the box */
+            height: 8px; /* Thickness of the strip */
+            /* background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);  */
+            border-radius: 20px 20px 20px 20px; /* Ensure rounded corners on the top */
+        }
 
-    .textbox p {
-        color: #666;
-        font-size: 16px;
-        line-height: 1.6;
-    }
-</style>
+        .textbox h3 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
 
-<style>
+        .textbox p {
+            color: #666;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
         @media only screen and (max-width: 600px) {
             .textbox {
                 border: 10px solid #ddd;
                 border-radius: 10px;
                 padding: 10px;
+                display: flex;
+                flex-wrap: wrap;
             }
             .main-content {
-                width: 100%;
-                flex: 1;
-                margin-right: 0;
+                width: 60%; /* Adjust this as needed */
+                margin-right: 5%; /* Adjust this as needed */
                 margin-bottom: 10px; /* Add some space between columns on small screens */
             }
             .additional-column {
-                width: 20%;
-                flex: 1;
-                margin-left: 0;
+                width: 30%; /* Adjust this as needed */
+                padding: 5px;
             }
         }
     </style>
-
-
-
 <section>
 
 <div class="textbox" style="display: flex;">
