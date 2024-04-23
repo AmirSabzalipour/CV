@@ -18,7 +18,7 @@ position: 2
         }
 
         .textbox {
-            background-color: #f6f6f6;
+            background-color: white;
             border: 20px solid #ddd;
             border-radius: 20px;
             padding: 15px;
