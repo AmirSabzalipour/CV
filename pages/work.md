@@ -20,7 +20,7 @@ position: 2
             background-color: #e5e5e5;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
-            padding: 10px;
+            padding: 10px 0px 0px 10px;
             margin-bottom:5px;
             box-shadow: 0 2px 2px white;
             position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
