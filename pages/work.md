@@ -175,15 +175,7 @@ position: 2
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  rgba(102, 77, 85,.7);">Univeristy of Tehran, Tehran, Iran</span></p>
  </div>
 </div>
-  <div style="margin-left: 1em; margin-top: 1em;">
-    <p style="font-size: 10.8px; color: rgba(0, 0, 0, 1); margin-bottom: 1;"></p>
-    <div style="display: flex; align-items: center;">
-      <p style=" font-size: 19px;color: rgba(130, 150, 90, 0.7); margin-right: 10px;">Research Assistance,</p>
-      <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-size: 15px;color: gray;">, </span><span style="font-family: 'Avenir Next LT Pro;font-size: 15px;color: gray;">05/2008 - 08/ 2009</span></p>
-     
- 
-
-
+  
 
 <section>
 <div style="display: inline-block; padding-right: 20px;">
