@@ -21,7 +21,7 @@ position: 2
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
             padding: 10px;
-            margin-bottom: 20px;
+            margin-bottom:5px;
             box-shadow: 0 2px 2px white;
             position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
     }
