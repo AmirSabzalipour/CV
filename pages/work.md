@@ -146,7 +146,7 @@ position: 2
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Using Quantum Espresso to model 2D nanomaterials, such as self-consistent forces, stress calculations, and electronic properties such as band gap values.</li>
         </ul>
-        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 7px; background: linear-gradient(to right, rgba(102, 77, 85,1) 78%, rgba(81, 87, 105, 1) 22%); 
+        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 7px; background: linear-gradient(to right, rgba( 13, 152, 186,.4) 78%, rgba(81, 87, 105, 1) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style="  padding-top: 19px; width: 160px;height: 100px;">
