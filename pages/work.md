@@ -22,7 +22,7 @@ position: 2
     background-color: #f6f6f6; */
     border: 20px solid #ddd;
     border-radius: 20px;
-    padding: 20px;
+    padding: 15px;
     margin-bottom: 20px;
     box-shadow: 0 2px 2px white;
     position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
