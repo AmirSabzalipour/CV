@@ -20,7 +20,7 @@ position: 2
         .textbox {
              background-color: #f0f0f0; */ */ */
             border: 10px solid red;
-            border-radius: 30px 0 0 0;
+            border-radius: 35px 0 0 0;
             padding: 15px;
             margin-bottom: 20px;
             box-shadow: 0 2px 2px white;
