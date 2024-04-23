@@ -8,9 +8,16 @@ position: 2
 ---
 <style>
         /* Reset default margin and padding */
-    
+     body {
+            margin: 0;
+            padding: 10px;
+            background-image: url('assets/img/header/education.jpg');
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover; /* Ensure the background image covers the entire viewport */
+       }
     .textbox {
-            background-color: gray
+            background-color: gray;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
             padding: 10px;
