@@ -52,7 +52,7 @@ position: 2
 
         @media only screen and (max-width: 600px) {
             .textbox {
-                border: 10px solid #ddd;
+                border: 1px solid #ddd;
                 border-radius: 10px;
                 padding: 10px;
                 display: flex;
