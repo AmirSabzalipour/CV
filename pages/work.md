@@ -123,7 +123,7 @@ position: 2
       <br>
      <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
-        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 76%,  rgba(0, 48,73,1)  22%); 
+        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 76%,  rgba(200, 48,73,.8)  22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style=" padding-top: 25px; width: 140px;height: 100px;">
