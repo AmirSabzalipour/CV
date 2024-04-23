@@ -80,13 +80,13 @@ position: 2
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top:-7px; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(61, 90, 128,1)  22%); 
+    <div style="::before; content: ''; position: absolute; top:-7px; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(61, 90, 128,.8)  22%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
    <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,1);">10/2021 - 06/2023</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,1);">University of Antwerp</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">10/2021 - 06/2023</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">University of Antwerp</span></p>
  </div>
 </div>
 
