@@ -20,7 +20,7 @@ position: 2
             background-color: #e5e5e5;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
-            padding: 10px 0px 0px 10px;
+            padding: 5px 0px -5px 15px;
             margin-bottom:5px;
             box-shadow: 0 2px 2px white;
             position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
@@ -84,10 +84,10 @@ position: 2
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 40px; left: 0; width: 95%; height: 7px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 78%, rgba(212, 156, 74,1)  22%); 
+    <div style="::before; content: ''; position: absolute; top: 40px; left: 10px; width: 95%; height: 7px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 78%, rgba(212, 156, 74,1)  22%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-<div class="additional-column" style=" padding-top: -10px; width: 160px;height: 100px;">
+<div class="additional-column" style=" padding-top: -20px; width: 160px;height: 100px;">
 <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
 <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">10/2021 - 06/2023</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">University of Antwerp</span></p>
  </div>
