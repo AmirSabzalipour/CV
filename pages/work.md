@@ -76,9 +76,9 @@ position: 2
     </span>
 </div>
 <br><br>
-<div class="textbox" style="display: flex;">
+<div class="textbox" style="display: flex;background-color: blue">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #0091D5; margin-right: 5px;">I.   Postdoctoral Researcher</p>
+    <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #0091D5; margin-right: 5px;">I.   Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
@@ -88,15 +88,11 @@ position: 2
     <div style="::before; content: ''; position: absolute; top:-7px; left: 0; width: 100%; height: 7px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 78%, rgba(212, 156, 74,1)  22%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-   <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">10/2021 - 06/2023</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">University of Antwerp</span></p>
+<div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
+<p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
+<p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">10/2021 - 06/2023</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">University of Antwerp</span></p>
  </div>
 </div>
-
-
-
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
@@ -108,17 +104,14 @@ position: 2
         <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
         <li>Analysis, visualization, scientific writing, and publishing the result.</li>
         </ul>
-        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 7px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 78%, rgba(84, 135, 107,.8) 22%); 
-        border-radius: 20px 20px 20px 20px;"> </div>
-        </div>
+    <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 7px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 78%, rgba(84, 135, 107,.8) 22%); 
+    border-radius: 20px 20px 20px 20px;"> </div>
+    </div>
    <div class="additional-column" style=" margin-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8);">03/2017 - 10/2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8);">University of Antwerp</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8);">03/2017 - 10/2021</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8);">University of Antwerp</span></p>
  </div>
 </div>
-
-
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
@@ -134,12 +127,9 @@ position: 2
         </div>
    <div class="additional-column" style=" margin-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">02/2016 - 02/2017</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">IPM</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">02/2016 - 02/2017</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">IPM</span></p>
  </div>
 </div>
-
-
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
@@ -153,28 +143,25 @@ position: 2
         </div>
    <div class="additional-column" style="  padding-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  rgba(13, 152, 186,1);">03/2017 - 10/2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:   rgba(13, 152, 186,1);">Uppsala University</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  rgba(13, 152, 186,1);">03/2017 - 10/2021</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:   rgba(13, 152, 186,1);">Uppsala University</span></p>
  </div>
 </div>
 
-
 <div class="textbox" style="display: flex;">
-    <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:#0091D5; margin-right: 5px;">V. Research Assistance</p>
-        </div>
-         <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-        <li>Interferometric image processing to measure thin film surface roughness.</li>
-      <li> Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
-      <li>Atomic Force Microscopy characterization of thin films.</li>
-        </ul>
-        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height:7px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 78%, rgba(102, 77, 85,.7) 22%); 
-        border-radius: 20px 20px 20px 20px;"> </div>
-        </div>
+<div class="main-content" style="flex: 1;">
+<div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:#0091D5; margin-right: 5px;">V. Research Assistance</p>
+</div>
+<ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+ <li>Interferometric image processing to measure thin film surface roughness.</li>
+<li> Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
+<li>Atomic Force Microscopy characterization of thin films.</li>
+</ul>
+ <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height:7px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 78%, rgba(102, 77, 85,.7) 22%); 
+ border-radius: 20px 20px 20px 20px;"> </div>
+ </div>
    <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(102, 77, 85,.7);">05/2008 - 08/ 2009</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  rgba(102, 77, 85,.7);">Univeristy of Tehran, Tehran, Iran</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(102, 77, 85,.7);">05/2008 - 08/ 2009</span></p>  <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  rgba(102, 77, 85,.7);">Univeristy of Tehran, Tehran, Iran</span></p>
  </div>
 </div>
   
