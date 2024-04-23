@@ -17,7 +17,7 @@ position: 2
             background-size: cover; /* Ensure the background image covers the entire viewport */
        }
     .textbox {
-            background-color: #e5e5e5;
+            background-color: #d3d3d3;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
             padding: 10px ;
