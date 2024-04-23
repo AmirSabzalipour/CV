@@ -71,7 +71,7 @@ position: 2
     </style>
 <section>
 <div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+    <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optical Design
     </span>
 </div>
