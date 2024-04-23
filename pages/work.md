@@ -115,25 +115,30 @@ position: 2
 </div>
 
 
+
+
+
+
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Visiting Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-       <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
+        <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
       <li>Statistical and dynamical analysis of semiconductors under thermodynamic fluctuations.</li>
-      <br>
-     <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
+         <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
-        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 76%,  rgba(41, 50, 65,1)  22%); 
+        <div style="::before; content: ''; position: absolute; top: -7px; left: 0; width: 100%; height: 8px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 78%, rgba(41, 50, 65,1) 22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
-   <div class="additional-column" style=" padding-top: 25px; width: 140px;height: 100px;">
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(41, 50, 65,1) ;"> 03/2017 - 10/2021</span></p> 
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color: rgba(41, 50, 65,1) ;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
+   <div class="additional-column" style=" margin-top: 19px; width: 160px;height: 100px;">
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(41, 50, 65,1);">02/2016 - 02/2017</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(41, 50, 65,1);">IPM</span></p>
  </div>
 
 </div>
+
 
 
 
