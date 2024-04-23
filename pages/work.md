@@ -196,3 +196,142 @@ position: 2
      
  
 
+
+
+<section>
+<div style="display: inline-block; padding-right: 20px;">
+    <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optical Design
+    </span>
+</div>
+<br><br>
+
+
+<div class="textbox" style="display: flex;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Research Engineer</p>
+        </div>
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+     <li>Developing alpha and beta prototypes for optical setups. For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
+    </ul>
+    <div style="::before; content: ''; position: absolute; top:-7px; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.4) 78%, rgba(61, 90, 128,.8)  22%); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+   <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">01/2020 - 03/2021</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">University of Antwerp, Antwerp, Belgium</span></p>
+ </div>
+</div>
+
+
+
+
+
+<div class="textbox" style="display: flex;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Optical Design Engineer</p>
+        </div>
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+     <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
+    </ul>
+    <div style="::before; content: ''; position: absolute; top:-7px; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.4) 78%, rgba(61, 90, 128,.8)  22%); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+   <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">01/2014 - 09/2015</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">Institute for Advanced Studies in Basic Science, Zanjan, Iran,</span></p>
+ </div>
+</div>
+
+
+
+
+
+<section>
+<div style="display: inline-block; padding-right: 20px;">
+    <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Material Characterization, Optical Metrology
+    </span>
+</div>
+<br><br>
+
+
+
+
+
+
+<div class="textbox" style="display: flex;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0em; margin-top: 0.1em; display: flex; align-items: center; margin-bottom: -15px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Optical Design Engineer</p>
+        </div>
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+     <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
+    </ul>
+    <div style="::before; content: ''; position: absolute; top:-7px; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.4) 78%, rgba(61, 90, 128,.8)  22%); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+   <div class="additional-column" style=" padding-top: 19px; width: 160px;height: 100px;">
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">01/2014 - 09/2015</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">Institute for Advanced Studies in Basic Science, Zanjan, Iran,</span></p>
+ </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
