@@ -20,7 +20,7 @@ position: 2
             background-color: #e5e5e5;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
-            padding: 5px 0px -5px 15px;
+            padding: 10px 0px -5px 30px;
             margin-bottom:5px;
             box-shadow: 0 2px 2px white;
             position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
@@ -77,7 +77,7 @@ position: 2
 <br><br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #0091D5; margin-right: 5px;">I.   Postdoctoral Researcher</p>
+    <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #0091D5; margin-left: 10px;">I.   Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
@@ -87,7 +87,7 @@ position: 2
     <div style="::before; content: ''; position: absolute; top: 40px; left: 10px; width: 95%; height: 7px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 78%, rgba(212, 156, 74,1)  22%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-<div class="additional-column" style=" padding-top: -20px; width: 160px;height: 100px;">
+<div class="additional-column" style=" padding-top: -25px; width: 160px;height: 100px;">
 <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
 <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">10/2021 - 06/2023</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);">University of Antwerp</span></p>
  </div>
