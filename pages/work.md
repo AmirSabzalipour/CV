@@ -187,10 +187,5 @@ position: 2
       <p style=" font-size: 19px;color: rgba(130, 150, 90, 0.7); margin-right: 10px;">Research Assistance,</p>
       <p class="italic" style="margin-right: 10px;"><span style="font-family: 'Avenir Next LT Pro';font-size: 15px;color: gray;">, </span><span style="font-family: 'Avenir Next LT Pro;font-size: 15px;color: gray;">05/2008 - 08/ 2009</span></p>
      
-  </div>
- <ul style="font-size: 16px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
-      
- </ul>
-</div>
-
+ 
 
