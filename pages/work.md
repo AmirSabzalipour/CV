@@ -3,7 +3,7 @@ layout: page
 title: Work Experience
 permalink: /portfolio/
 subtitle: ""
-feature-img: "assets/img/pexels/"
+feature-img: "assets/img/pexels/travel.jpeg"
 position: 2
 ---
 <style>
