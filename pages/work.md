@@ -65,7 +65,7 @@ position: 2
                 margin-bottom: 10px; /* Add some space between columns on small screens */
             }
             .additional-column {
-                width: 100%;
+                width: 20%;
                 flex: 1;
                 margin-left: 0;
             }
