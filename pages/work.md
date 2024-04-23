@@ -78,7 +78,7 @@ position: 2
 <br><br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color:  #00a8e8; margin-right: 5px;">I. Postdoctoral Researcher</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: rgba(61, 90, 128,1); margin-right: 5px;">I. Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
@@ -100,7 +100,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #00a8e8; margin-right: 5px;">II. Doctoral Researcher</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: rgba(61, 90, 128,1); margin-right: 5px;">II. Doctoral Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
@@ -122,7 +122,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:  #00a8e8; margin-right: 5px;">III. Visiting Researcher</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:rgba(61, 90, 128,1); margin-right: 5px;">III. Visiting Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
@@ -143,7 +143,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">IV. Visiting Researcher</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:rgba(61, 90, 128,1); margin-right: 5px;">IV. Visiting Researcher</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Using Quantum Espresso to model 2D nanomaterials, such as self-consistent forces, stress calculations, and electronic properties such as band gap values.</li>
@@ -161,7 +161,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">V. Research Assistance</p>
+        <div style="margin-left: 0em; margin-top: -0.2em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:rgba(61, 90, 128,1); margin-right: 5px;">V. Research Assistance</p>
         </div>
          <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
         <li>Interferometric image processing to measure thin film surface roughness.</li>
