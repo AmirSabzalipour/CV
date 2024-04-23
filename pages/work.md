@@ -128,12 +128,12 @@ position: 2
       <br>
      <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
-        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 76%,  rgba(0, 168, 232,1)  22%); 
+        <div style="::before; content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.6) 76%,  rgba(0, 48,73,1)  22%); 
         border-radius: 20px 20px 20px 20px;"> </div>
         </div>
    <div class="additional-column" style="background-color: #f6f6f6;  padding-top: 25px; width: 140px;height: 100px;">
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #00a8e8;"> 03/2017 - 10/2021</span></p> 
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color: #00a8e8;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: #003049;"> 03/2017 - 10/2021</span></p> 
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 17px; color:  #003049;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
  </div>
 
 </div>
