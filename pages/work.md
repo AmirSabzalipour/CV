@@ -23,7 +23,8 @@ position: 2
             padding: 10px ;
             margin:0;
             box-shadow: 0 2px 2px white;
-            position: relative; /* Ensure relative positioning for absolute positioning of pseudo-element */
+            position: relative; 
+            display: flex;/* Ensure relative positioning for absolute positioning of pseudo-element */
     }
 
      .textbox::before {
@@ -110,7 +111,7 @@ position: 2
     </div>
    <div class="additional-column" style=" margin-top: -8px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8);position: absolute; top: 0px; left: 600px; ">03/2017 - 10/2021</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8);position: absolute; top: 40px; left: 600px;">University of Antwerp</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8);position: absolute; top: 0px; left: 600px; ">03/2017 - 10/2021</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8);position: absolute; top: 40px; left: 1000px;">University of Antwerp</span></p>
  </div>
 </div>
 
