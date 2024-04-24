@@ -84,7 +84,7 @@ position: 2
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 40px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 78%, rgba(212, 156, 74,1)  22%); 
+    <div style="::before; content: ''; position: absolute; top: 40px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80%, rgba(212, 156, 74,1)  20%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
@@ -94,7 +94,6 @@ position: 2
 </div>
 
  </div>
-</div>
 <br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
@@ -106,7 +105,7 @@ position: 2
         <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
         <li>Analysis, visualization, scientific writing, and publishing the result.</li>
         </ul>
-    <div style="::before; content: ''; position: absolute; top: 40px; left: 0; width: 100%; height: 7px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 78%, rgba(84, 135, 107,.8) 22%); 
+    <div style="::before; content: ''; position: absolute; top: 40px; left: 0; width: 100%; height: 7px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 80%, rgba(84, 135, 107,.8) 20%); 
     border-radius: 20px 20px 20px 20px;"> </div>
     </div>
    <div class="additional-column" style=" margin-top: -8px; width: 160px;height: 100px;">
