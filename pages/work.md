@@ -89,8 +89,8 @@ position: 2
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 0px; left: 10px;">10/2021 - 06/2023</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 20px; left: 10px;">University of Antwerp</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 0px; left: 15px;">10/2021 - 06/2023</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 20px; left: 25px;">University of Antwerp</span></p>
 </div>
 
  </div>
