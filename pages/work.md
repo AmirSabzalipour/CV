@@ -131,7 +131,7 @@ position: 2
         </div>
    <div class="additional-column" style=" margin-top: 19px; width: 160px;height: 100px;">
    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);">02/2016 - 02/2017</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 40px; left: 10px;">IPM</span></p>
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 0px; left: 10px;">02/2016 - 02/2017</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 40px; left: 10px;">IPM</span></p>
  </div>
 </div>
 
