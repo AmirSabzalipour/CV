@@ -95,55 +95,29 @@ position: 2
 </div>
  </div>
 
+
+
+
 <br><br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">I.   Postdoctoral Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">II.  Doctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-    <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
-    <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
-    <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
+    <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
+    <li>Studying how substrate and gate voltage affect quantum transport in thin films of materials.</li>
+    <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
+    <li>Analysis, visualization, scientific writing, and publishing the result.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80%, rgba(212, 156, 74,1)  20%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: 10px;">10/2021 - 06/2023</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: 10px;">03/2017 - 10/2021</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 50px; left: 10px;">University of Antwerp</span></p>
 </div>
  </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
