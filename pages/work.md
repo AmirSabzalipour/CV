@@ -109,13 +109,13 @@ position: 2
     <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
     <li>Analysis, visualization, scientific writing, and publishing the result.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80%, rgba(212, 156, 74,1)  20%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80%, rgba(84, 135, 107,.8)  20%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: 10px;">03/2017 - 10/2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 50px; left: 10px;">University of Antwerp</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8); position: absolute; top: 5px; left: 10px;">03/2017 - 10/2021</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8); position: absolute; top: 50px; left: 10px;">University of Antwerp</span></p>
 </div>
  </div>
 
