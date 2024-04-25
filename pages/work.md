@@ -82,9 +82,17 @@ position: 2
         </div>
     <ul style="font-size: 15px; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
      <style>
-        ul li::marker {
-            color: royalblue;
-        }
+      ul {
+        list-style-type: none; /* Remove default bullet points */
+        padding-left: 2.5em; /* Add some padding for indentation */
+    }
+    ul li::before {
+        content: "\25A0"; /* Unicode for square bullet */
+        color: royalblue; /* Set bullet color */
+        display: inline-block;
+        width: 1em; /* Adjust size if needed */
+        margin-left: -1em; /* Move bullet to the left for proper alignment */
+    }
     </style>
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
