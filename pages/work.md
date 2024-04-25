@@ -143,7 +143,6 @@ position: 2
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
        <li>Using Quantum Espresso to model 2D nanomaterials, such as self-consistent forces, stress calculations, and electronic properties such as band gap values.</li>
-       <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80%, rgba(13, 152, 186,1)  20%); 
     border-radius: 10px 10px 10px 10px;"> </div>
