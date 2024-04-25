@@ -119,13 +119,6 @@ position: 2
 </div>
  </div>
 
-
-
-
-
-
-
-
 <br><br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
@@ -145,10 +138,6 @@ position: 2
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8); position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
 </div>
  </div>
-<br>
-<br>
-
-
 
 <br><br>
 <div class="textbox" style="display: flex;">
@@ -173,7 +162,7 @@ position: 2
 
 
 
-<br><br>
+<br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">V. Visiting Researcher</p>
@@ -199,36 +188,6 @@ position: 2
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-<div class="textbox" style="display: flex;">
-<div class="main-content" style="flex: 1;">
-<div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:#0091D5; margin-right: 5px;">V. Research Assistance</p>
-</div>
-<ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
- <li>Interferometric image processing to measure thin film surface roughness.</li>
-<li> Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
-<li>Atomic Force Microscopy characterization of thin films.</li>
-</ul>
- <div style="::before; content: ''; position: absolute; top: 40px; left: 10px; width: 98%; height:7px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 78%, rgba(102, 77, 85,.7) 22%); 
- border-radius: 20px 20px 20px 20px;"> </div>
- </div>
-   <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-      <p><span style="font-family: 'Avenir Next LT Pro';position: absolute; top: 10px; left: 700px; font-size: 15px; color: rgba(102, 77, 85,.7);">05/2008 - 08/ 2009</span></p>  <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:  rgba(102, 77, 85,.7);position: absolute; top: 60px; left: 700px;">Univeristy of Tehran, Tehran, Iran</span></p>
- </div>
-</div>
 
  <br><br> 
 
