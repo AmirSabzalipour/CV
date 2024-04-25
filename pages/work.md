@@ -83,7 +83,7 @@ position: 2
     <ul style="font-size: 15px; margin-left: 2em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
      <style>
         ul li::marker {
-            color: cyan;
+            color: royalblue;
         }
     </style>
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
