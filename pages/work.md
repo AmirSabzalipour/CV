@@ -80,7 +80,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 4px;">I.   Postdoctoral Researcher</p>
         </div>
-    <ul style="font-size: 15px; margin-left: 1.5em; color: black; font-family: 'Cambria', sans-serif;"> 
+    <ul style="font-size: 15px; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
      <style>
         ul li::marker {
             color: royalblue;
@@ -90,7 +90,7 @@ position: 2
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 81%, rgba(212, 156, 74,1)  19%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 79%, rgba(212, 156, 74,1)  21%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
