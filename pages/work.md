@@ -80,7 +80,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">I.   Postdoctoral Researcher</p>
         </div>
-    <ul style="font-size: 15px; margin-left: 2em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
+    <ul style="font-size: 15px; margin-left: 1em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
      <style>
         ul li::marker {
             color: royalblue;
@@ -95,7 +95,7 @@ position: 2
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: -2px;">10/2021 - 06/2023</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: 0px;">10/2021 - 06/2023</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 50px; left: 0px;">University of Antwerp</span></p>
 </div>
  </div>
