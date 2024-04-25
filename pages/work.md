@@ -78,7 +78,7 @@ position: 2
 <br><br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 10px;"> <p style="font-size: 22px;  color: #3d5a80; margin-left: 10px;">I.   Postdoctoral Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 10px;"> <p style="font-size: 20px;  color: blue; margin-left: 10px;">I.   Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
