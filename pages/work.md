@@ -84,7 +84,7 @@ position: 2
      <style>
       ul {
         list-style-type: none; /* Remove default bullet points */
-        padding-left: 2.5em; /* Add some padding for indentation */
+        padding-left: 1em; /* Add some padding for indentation */
     }
     ul li::before {
         content: "\25A0"; /* Unicode for square bullet */
