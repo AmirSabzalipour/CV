@@ -126,29 +126,25 @@ position: 2
 
 
 
-
-
-
-
-<br>
+<br><br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px;  color: #0091D5; margin-right: 5px;">II. Doctoral Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">III. Visiting Researcher</p>
         </div>
-         <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-        <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
-        <li>Studying how substrate and gate voltage affect quantum transport in thin films of materials.</li>
-        <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
-        <li>Analysis, visualization, scientific writing, and publishing the result.</li>
-        </ul>
-    <div style="::before; content: ''; position: absolute; top: 40px; left: 10px; width: 98%; height: 7px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 80%, rgba(84, 135, 107,.8) 20%); 
-    border-radius: 20px 20px 20px 20px;"> </div>
-    </div>
-   <div class="additional-column" style=" margin-top: -8px; width: 160px;height: 100px;">
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8);position: absolute; top: 10px; left: 700px; ">03/2017 - 10/2021</span></p><p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 135, 107,.8);position: absolute; top: 60px; left: 700px;">University of Antwerp</span></p>
- </div>
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+       <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
+      <li>Statistical and dynamical analysis of semiconductors under thermodynamic fluctuations.</li>
+       <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
+    </ul>
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80%, rgba(61, 90, 128,.8)  20%); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8); position: absolute; top: 5px; left: 10px;">02/2016 - 02/2017</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8); position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
 </div>
+ </div>
 
 
 <br>
