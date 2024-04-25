@@ -81,19 +81,25 @@ position: 2
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 4px;">I.   Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
-     <style>
-      ul {
-        list-style-type: none; /* Remove default bullet points */
+ <style>
+    .custom-list {
         padding-left: .3em; /* Add some padding for indentation */
     }
-    ul li::before {
+    .custom-list li::before {
         content: "\25A0"; /* Unicode for square bullet */
-        color:gray; /* Set bullet color */
+        color: gray; /* Set bullet color */
         display: inline-block;
         width: 1em; /* Adjust size if needed */
         margin-left: -1.4em; /* Move bullet to the left for proper alignment */
     }
-    </style>
+</style>
+
+<ul class="custom-list" style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
+    <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
+    <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
+</ul>
+
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
     <li>Designing topological heterostructures with the aim of minimizing electrical energy losses.</li>
     <li>Modeling and simulation of electrical resistivity at the micron and nanometer scales in Python.</li>
