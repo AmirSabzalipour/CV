@@ -95,10 +95,7 @@ position: 2
 </div>
  </div>
 
-
-
-
-<br><br>
+<br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">II.  Doctoral Researcher</p>
@@ -119,7 +116,7 @@ position: 2
 </div>
  </div>
 
-<br><br>
+<br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">III. Visiting Researcher</p>
@@ -139,7 +136,7 @@ position: 2
 </div>
  </div>
 
-<br><br>
+<br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">IV. Visiting Researcher</p>
@@ -157,10 +154,6 @@ position: 2
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(13, 152, 186,1); position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;&nbsp;Uppsala University</span></p>
 </div>
  </div>
-
-
-
-
 
 <br>
 <div class="textbox" style="display: flex;">
@@ -182,15 +175,7 @@ position: 2
  </div>
 
 
-
-
-
-
-
-
-
- <br><br> 
-
+ <br>
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
