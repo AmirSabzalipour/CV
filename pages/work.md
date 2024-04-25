@@ -88,10 +88,10 @@ position: 2
     }
     ul li::before {
         content: "\25A0"; /* Unicode for square bullet */
-        color:lightblue; /* Set bullet color */
+        color:lightgray; /* Set bullet color */
         display: inline-block;
         width: 1em; /* Adjust size if needed */
-        margin-left: -2em; /* Move bullet to the left for proper alignment */
+        margin-left: -1.4em; /* Move bullet to the left for proper alignment */
     }
     </style>
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
