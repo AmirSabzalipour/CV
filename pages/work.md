@@ -84,14 +84,14 @@ position: 2
      <style>
       ul {
         list-style-type: none; /* Remove default bullet points */
-        padding-left: 1em; /* Add some padding for indentation */
+        padding-left: .3em; /* Add some padding for indentation */
     }
     ul li::before {
         content: "\25A0"; /* Unicode for square bullet */
-        color: royalblue; /* Set bullet color */
+        color:lightblue; /* Set bullet color */
         display: inline-block;
         width: 1em; /* Adjust size if needed */
-        margin-left: -1em; /* Move bullet to the left for proper alignment */
+        margin-left: -2em; /* Move bullet to the left for proper alignment */
     }
     </style>
     <li>Investigation of the effect of magnetic defects on topological materials' electronic properties.</li>
