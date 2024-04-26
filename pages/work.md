@@ -71,7 +71,7 @@ position: 2
     </style>
 <section>
 <div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 23px; color: olive.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+    <span style="font-size: 20px; color: olive; font-weight: bold; font-family: 'Avenir Next LT Pro';">
        &nbsp;&nbsp;&nbsp; Computational Research on Materials
     </span>
 </div>
