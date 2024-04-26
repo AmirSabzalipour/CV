@@ -172,7 +172,7 @@ position: 2
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
     <p><span style="font-family: 'Avenir Next LT Pro';position: absolute; top: 10px; left: 700px; font-size: 15px; color: rgba(61, 90, 128,.8);">01.2020 - 03.2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 60px; left: 700px;">University of Antwerp, Antwerp, Belgium</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 60px; left: 700px;">University of Antwerp</span></p>
  </div>
 </div>
 
@@ -184,6 +184,7 @@ position: 2
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
+     <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
     <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 80.5%, rgba(61, 90, 128,.8)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
@@ -191,7 +192,7 @@ position: 2
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
     <p><span style="font-family: 'Avenir Next LT Pro';position: absolute; top: 10px; left: 700px; font-size: 15px; color: rgba(61, 90, 128,.8);">01.2014 - 09.2015</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 60px; left: 700px;">Institute for Advanced Studies in Basic Science, Zanjan, Iran,</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 60px; left: 700px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span></p>
  </div>
 </div>
 
