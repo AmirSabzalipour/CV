@@ -151,30 +151,12 @@ position: 2
 </div>
  </div>
 
-<br>
-<div class="textbox" style="display: flex;">
-    <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">V. Research Assistance</p>
-        </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-      <li>Image processing of interferometric patterns to measure roughness of thin films.</li>
-     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80.5%, rgba(102, 77, 85,.7)  20.5%); 
-    border-radius: 10px 10px 10px 10px;"> </div>
-     </div>
-<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(102, 77, 85,.7); position: absolute; top: 5px; left: 10px;">05.2008 - 08.2009</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(102, 77, 85,.7); position: absolute; top: 50px; left: 10px;">Univeristy of Tehran</span></p>
-</div>
- </div>
 
 
- <br>
 <section>
 <div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optical Design
+    <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+       Optical Design
     </span>
 </div>
 <br><br>
@@ -197,9 +179,7 @@ position: 2
  </div>
 </div>
 
-
-
-
+<br>
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
@@ -218,48 +198,37 @@ position: 2
  </div>
 </div>
 
-
+<br><br>
 
 
 
 <section>
 <div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 19px; color: black; font-weight: bold; font-family: 'Avenir Next LT Pro';">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Material Characterization, Optical Metrology
+    <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+       Material Characterization, Optical Metrology
     </span>
 </div>
 <br><br>
 
 
-
-
-
-
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Optical Design Engineer</p>
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Research Assistance</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-     <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
+     <li>Image processing of interferometric patterns to measure roughness of thin films.</li>
+    <li>Atomic Force Microscopy characterization of thin films.</li>
+     <li>Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 80.5%, rgba(61, 90, 128,.8)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; position: absolute; top: 10px; left: 700px;color: rgba(61, 90, 128,.8);">01.2014 - 09.2015</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 60px; left: 700px;">Institute for Advanced Studies in Basic Science, Zanjan, Iran,</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; position: absolute; top: 10px; left: 700px;color: rgba(61, 90, 128,.8);">05.2008 - 08.2009</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 60px; left: 700px;">Univeristy of Tehran</span></p>
  </div>
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
