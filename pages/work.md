@@ -157,10 +157,8 @@ position: 2
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
        &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
-   </div>
+</div>
 <br>
-
-
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:#0091D5; margin-right: 5px;">Research Engineer</p>
