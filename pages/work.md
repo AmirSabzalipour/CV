@@ -120,9 +120,8 @@ position: 2
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">III. Visiting Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-       <li>Investigation of the effects of multiple electron scattering on electric current behavior.</li>
-      <li>Statistical and dynamical analysis of semiconductors under thermodynamic fluctuations.</li>
-       <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
+<li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic   impurities.</li>
+<p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80.7%, rgba(61, 90, 128,.8)  19.3%); 
     border-radius: 10px 10px 10px 10px;"> </div>
