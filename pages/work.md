@@ -89,7 +89,7 @@ position: 2
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: 0px;">03.2021 - 06.2023</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: 0px;">10.2021 - 06.2023</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 50px; left: 0px;">University of Antwerp</span></p>
 </div>
  </div>
@@ -128,7 +128,7 @@ position: 2
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8); position: absolute; top: 5px; left: 10px;">02.2016 - 02.2017</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8); position: absolute; top: 5px; left: 10px;">03.2016 - 02.2017</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8); position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
 </div>
  </div>
@@ -146,7 +146,7 @@ position: 2
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(13, 152, 186,1); position: absolute; top: 5px; left: 10px;">02.2016 - 02.2017</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(13, 152, 186,1); position: absolute; top: 5px; left: 10px;">10.2015 - 02.2016</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(13, 152, 186,1); position: absolute; top: 50px; left: 10px;">Uppsala University</span></p>
 </div>
  </div>
@@ -157,7 +157,7 @@ position: 2
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">V. Research Assistance</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-      <li>Image processing of interferometric patterns for thin film surface topography.</li>
+      <li>Image processing of interferometric patterns to measure roughness of thin films.</li>
      </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80.5%, rgba(102, 77, 85,.7)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
