@@ -104,7 +104,7 @@ position: 2
     <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
     <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 79%, rgba(84, 135, 107,.8)  21%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80%, rgba(84, 135, 107,.8)  20%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
