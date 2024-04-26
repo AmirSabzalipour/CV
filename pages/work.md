@@ -155,7 +155,8 @@ position: 2
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
-       &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
+       &nbsp;&nbsp;&nbsp;&nbsp; Optical Design 
+    </span>
 </div>
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 5;">
