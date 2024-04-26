@@ -148,7 +148,7 @@ position: 2
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(13, 152, 186,1); position: absolute; top: 5px; left: 10px;">02.2016 - 02.2017</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(13, 152, 186,1); position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;&nbsp;Uppsala University</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(13, 152, 186,1); position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;Uppsala University</span></p>
 </div>
  </div>
 
@@ -167,7 +167,7 @@ position: 2
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(102, 77, 85,.7); position: absolute; top: 5px; left: 10px;">05.2008 - 08.2009</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(102, 77, 85,.7); position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;Univeristy of Tehran, Tehran, Iran</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(102, 77, 85,.7); position: absolute; top: 50px; left: 10px;">Univeristy of Tehran, Tehran, Iran</span></p>
 </div>
  </div>
 
