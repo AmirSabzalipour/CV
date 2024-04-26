@@ -152,14 +152,14 @@ position: 2
  </div>
 
 
-
+<br><br>
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
-       Optical Design
+       &nbsp;&nbsp;&nbsp;&nbsp; Optical Design
     </span>
 </div>
-<br><br>
+<br>
 
 
 <div class="textbox" style="display: flex;">
@@ -179,7 +179,7 @@ position: 2
  </div>
 </div>
 
-<br><br>
+<br>
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
@@ -205,7 +205,7 @@ position: 2
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
-       Material Characterization, Optical Metrology
+       &nbsp;&nbsp;&nbsp;&nbsp;Material Characterization, Optical Metrology
     </span>
 </div>
 <br><br>
