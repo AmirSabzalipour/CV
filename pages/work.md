@@ -82,7 +82,7 @@ position: 2
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
  <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
-<li>Developing computational models to optimize energy loss in quantum topological materials,\\ incorporating statistical, electrical, quantum and topological features.</li>
+<li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80%, rgba(212, 156, 74,1)  20%); 
     border-radius: 10px 10px 10px 10px;"> </div>
@@ -100,10 +100,9 @@ position: 2
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">II.  Doctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-    <li>Modelling materials at the atomic level using VASP simulation package on an HPC cluster.</li>
-    <li>Studying how substrate and gate voltage affect quantum transport in thin films of materials.</li>
+    <li>Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
     <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
-    <li>Analysis, visualization, scientific writing, and publishing the result.</li>
+    <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80%, rgba(84, 135, 107,.8)  20%); 
     border-radius: 10px 10px 10px 10px;"> </div>
