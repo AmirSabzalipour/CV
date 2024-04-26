@@ -84,7 +84,7 @@ position: 2
  <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
 <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 79%, rgba(212, 156, 74,1)  21%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 79.5%, rgba(212, 156, 74,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
