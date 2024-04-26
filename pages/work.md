@@ -158,9 +158,9 @@ position: 2
        &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
 </div>
 <br>
-<div class="textbox" style="display: flex;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 5;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color:#0091D5; margin-right: 5px;">Research Engineer</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 4px;"> Researcher Assistance</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li>Developing alpha and beta prototypes for optical setups. For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
