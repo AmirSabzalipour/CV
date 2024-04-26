@@ -154,12 +154,11 @@ position: 2
 <br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">V. Visiting Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 10px;">V. Research Assistance</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-      <li>Interferometric image processing to measure thin film surface roughness.</li>
-     <li> Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>  <li>Atomic Force Microscopy characterization of thin films.</li>
-    </ul>
+      <li>Image processing of interferometric patterns for thin film surface topography.</li>
+     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba( 33, 113, 181, 0.3) 80.5%, rgba(102, 77, 85,.7)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
