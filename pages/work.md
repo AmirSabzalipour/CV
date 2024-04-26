@@ -231,6 +231,50 @@ position: 2
 
 
 
+<section>
+<div style="display: inline-block; padding-right: 20px;">
+    <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+       &nbsp;&nbsp;&nbsp;&nbsp;Teaching
+    </span>
+</div>
+<br><br>
+
+
+<div class="textbox" style="display: flex;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Lab Instructor and Research Teacher</p>
+        </div>
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+     <li> Supervising students for the International Young Physicists' Tournament (IYPT).</li>
+    <li> Teaching students the relevant practical theories and how to use laboratory equipment.</li>
+    </ul>
+    <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 80.5%, rgba(61, 90, 128,.8)  20.5%); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+   <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; position: absolute; top: 10px; left: 700px;color: rgba(61, 90, 128,.8);">09.2010 - 08.2011</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 60px; left: 700px;">Mofid High School, Tehran</span></p>
+ </div>
+</div>
+
+
+<div class="textbox" style="display: flex;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 1px;"> <p style="font-size: 20px; color: #00a8e8; margin-right: 5px;">Tutor</p>
+        </div>
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+     <li> Tutoring high school students in math and physics.</li>
+    </ul>
+    <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height: 9px; background: linear-gradient(to right, rgba(33, 113, 181, 0.3) 80.5%, rgba(61, 90, 128,.8)  20.5%); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+   <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
+      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; position: absolute; top: 10px; left: 700px;color: rgba(61, 90, 128,.8);"> 09.2009 - 08.2010</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(61, 90, 128,.8);position: absolute; top: 60px; left: 700px;">Institute of Khaje Nasir, Tehran</span></p>
+ </div>
+</div>
 
 
 
