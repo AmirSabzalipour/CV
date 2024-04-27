@@ -72,8 +72,6 @@ position: 2
     </style>
 <section>
 <link rel="stylesheet" href="style.css">
-    <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="max-width: 100%; border-radius: 50%; position: relative; top: 70px; left: -35px;">
-
 <div style="display: inline-block; padding-right: 20px;">
     <img src="D:\Job_Applications\Documents\github\git4\Type-on-Strap\assets\img\header\motivation.jpg" alt="Image Description" style="width: 20px; height: 20px; margin-right: 5px;">
     <span style="font-size: 20px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
@@ -86,7 +84,7 @@ position: 2
 <br><br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 15px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px; color: rgba(46, 89, 132,.6) ; margin-left: 4px;">I.   Postdoctoral Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px; color: rgba(46, 89, 132,1) ; margin-left: 4px;">I.   Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
  <li style="margin-bottom: 10px;"> Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
