@@ -70,21 +70,14 @@ position: 2
         }
     </style>
 <section>
-<style>
-    .circle {
-        display: inline-block;
-        width: 10px; /* Adjust size of the circle */
-        height: 10px; /* Adjust size of the circle */
-        border-radius: 50%; /* This makes it a circle */
-        background-color: olive; /* Color of the circle */
-        margin-right: 10px; /* Adjust spacing between circle and text */
-    }
-</style>
+
 <div style="display: inline-block; padding-right: 20px;">
+    <img src="assets/img/pexels/triangle.png" alt="Icon" style="width: 20px; height: 20px; margin-right: 10px;">
     <span style="font-size: 20px; color: olive; font-weight: bold; font-family: 'Avenir Next LT Pro';">
        &nbsp;&nbsp;&nbsp; Computational Research on Materials
     </span>
 </div>
+
 <br><br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 15px;">
     <div class="main-content" style="flex: 1;">
