@@ -6,11 +6,6 @@ subtitle: ""
 feature-img: "assets/img/pexels/"
 position: 2
 ---
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-</head>
 
 <style>
         /* Reset default margin and padding */
@@ -80,11 +75,12 @@ position: 2
 html
 
 <div style="display: inline-block; padding-right: 20px;">
-    <span class="icon"></span>
+    <img src="\assets\img\header\motivation.jpg" alt="Image Description" style="width: 20px; height: 20px; margin-right: 5px;">
     <span style="font-size: 20px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
        &nbsp;&nbsp;&nbsp; Computational Research on Materials
     </span>
 </div>
+
 
 
 <br><br>
