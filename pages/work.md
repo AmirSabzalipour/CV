@@ -72,12 +72,12 @@ position: 2
 <section>
 
 <div style="display: inline-block; padding-right: 20px;">
-    <img src="assets/img/triangle.png" alt="Icon" style="width: 20px; height: 20px; margin-right: 2px;">
+    <img src='assets/img/triangle.png' alt="Icon" style="width: 20px; height: 20px; margin-right: 2px;">
     <span style="font-size: 20px; color: olive; font-weight: bold; font-family: 'Avenir Next LT Pro';">
        &nbsp;&nbsp;&nbsp; Computational Research on Materials
     </span>
 </div>
-
+"D:\Job_Applications\Documents\github\git4\Type-on-Strap\assets\img\triangle.png"
 
 <br><br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 15px;">
