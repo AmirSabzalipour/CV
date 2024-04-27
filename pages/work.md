@@ -74,7 +74,7 @@ position: 2
 <link rel="stylesheet" href="style.css">
 <div style="display: inline-block; padding-right: 20px;">
       <span style="font-size: 20px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
-       &nbsp;&nbsp;&nbsp; Computational Research on Materials
+       &nbsp;&nbsp;&nbsp; &#x25A0; Computational Research on Materials
     </span>
 </div>
 
