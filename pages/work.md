@@ -18,7 +18,7 @@ position: 2
        }
     .textbox {
             background-color: #f0f0f0;
-            border: 1px solid white;
+            border: 1px solid gray;
             border-radius: 30px 30px 30px 30px;
             padding: 10px ;
             margin:0;
@@ -76,7 +76,7 @@ position: 2
     </span>
 </div>
 <br><br>
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 5; margin-bottom: 0px;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 5; margin-bottom: 4px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;  color:  #0091D5; margin-left: 4px;">I.   Postdoctoral Researcher</p>
         </div>
