@@ -75,7 +75,7 @@ position: 2
 html
 
 <div style="display: inline-block; padding-right: 20px;">
-    <img src="\assets\img\header\motivation.jpg" alt="Image Description" style="width: 20px; height: 20px; margin-right: 5px;">
+    <img src="D:\Job_Applications\Documents\github\git4\Type-on-Strap\assets\img\header\motivation.jpg" alt="Image Description" style="width: 20px; height: 20px; margin-right: 5px;">
     <span style="font-size: 20px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
        &nbsp;&nbsp;&nbsp; Computational Research on Materials
     </span>
