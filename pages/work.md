@@ -72,7 +72,7 @@ position: 2
     </style>
 <section>
 <link rel="stylesheet" href="style.css">
-html
+    <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="max-width: 100%; border-radius: 50%; position: relative; top: 70px; left: -35px;">
 
 <div style="display: inline-block; padding-right: 20px;">
     <img src="D:\Job_Applications\Documents\github\git4\Type-on-Strap\assets\img\header\motivation.jpg" alt="Image Description" style="width: 20px; height: 20px; margin-right: 5px;">
