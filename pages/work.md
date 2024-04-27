@@ -77,7 +77,6 @@ position: 2
        &nbsp;&nbsp;&nbsp; Computational Research on Materials
     </span>
 </div>
-"D:\Job_Applications\Documents\github\git4\Type-on-Strap\assets\img\triangle.png"
 
 <br><br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 15px;">
@@ -158,7 +157,7 @@ position: 2
 <br><br><br>
 <section>
 <div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+    <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
        &nbsp;&nbsp;&nbsp;&nbsp; Optical Design 
     </span>
 </div>
@@ -206,7 +205,7 @@ position: 2
 
 <section>
 <div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+    <span style="font-size: 23px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
        &nbsp;&nbsp;&nbsp;&nbsp;Material Characterization, Optical Metrology
     </span>
 </div>
@@ -237,7 +236,7 @@ position: 2
 
 <section>
 <div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 23px; color: #26619C.; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+    <span style="font-size: 23px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
        &nbsp;&nbsp;&nbsp;&nbsp;Teaching
     </span>
 </div>
