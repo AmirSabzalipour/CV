@@ -154,12 +154,10 @@ position: 2
 </div>
  </div>
 
-<br><br><br>
+<br><br>
 <section>
 <div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
-       &nbsp;&nbsp;&nbsp;&nbsp; Optical Design 
-    </span>
+    <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
 </div>
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 5;">
@@ -232,7 +230,7 @@ position: 2
 </div>
 
 
-
+<br><br>
 
 <section>
 <div style="display: inline-block; padding-right: 20px;">
