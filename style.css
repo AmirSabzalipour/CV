@@ -244,3 +244,11 @@ html[data-theme="dark"] nav ul li a {
   justify-content: center;  /* Center navigation within .site-header */
   justify-content: flex-end; /* Align navigation to the right within .site-header */
 }
+
+.icon {
+  background: url('assets/img/triangle.png') center/contain no-repeat; /* Set background image */
+  height: 20px; /* Set height */
+  width: 20px; /* Set width */
+  display: inline-block; /* Set display to inline-block */
+  margin-right: 2px; /* Adjust spacing */
+}
