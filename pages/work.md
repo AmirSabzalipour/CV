@@ -73,7 +73,7 @@ position: 2
 
 <div style="display: inline-block; padding-right: 20px;">
     <img src='assets/img/triangle.png' alt="Icon" style="width: 20px; height: 20px; margin-right: 2px;">
-    <span style="font-size: 20px; color: olive; font-weight: bold; font-family: 'Avenir Next LT Pro';">
+    <span style="font-size: 20px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
        &nbsp;&nbsp;&nbsp; Computational Research on Materials
     </span>
 </div>
