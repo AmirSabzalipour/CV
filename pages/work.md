@@ -98,9 +98,6 @@ position: 2
 </div>
  </div>
 
-
-
-<br><br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;color:  #color: rgba(46, 89, 132,1); margin-left: 4px;">II. Doctoral Researcher</p>
