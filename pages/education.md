@@ -91,23 +91,23 @@ tags: [Page]
 
 
 
-
-<br>
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+<div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;color:  #color: rgba(46, 89, 132,1); margin-left: 4px;">Ph.D. in Physics</p>
+        <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+            <p style="font-size: 20px; color: rgba(46, 89, 132, 1); margin-left: 4px;">Ph.D. in Physics</p>
         </div>
-    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
- <li style="margin-bottom: 10px;">  Thesis title: <a href="https://repository.uantwerpen.be/docstore/d:irua:8696" style="color: lapislazuli;">"Charge Transport in Magnetic Topological Insulators".</li>
-  </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  79.5%, rgba(212, 156, 74,1)  20.5%); 
-    border-radius: 10px 10px 10px 10px;"> </div>
-     </div>
-<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: 0px;">03.2017 - 10.2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 50px; left: 0px;">University of Antwerp</span></p>
+        <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.5em; color: black;">
+            <li style="margin-bottom: 10px;">Thesis title: <a href="https://repository.uantwerpen.be/docstore/d:irua:8696" style="color: lapislazuli;">"Charge Transport in Magnetic Topological Insulators"</a></li>
+        </ul>
+        <div style="position: relative;">
+            <div style="position: absolute; top: 47px; left: 0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128, 0.6) 79.5%, rgba(212, 156, 74, 1) 20.5%); border-radius: 10px;"></div>
+        </div>
+    </div>
+    <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;">&nbsp;</span></p>
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: 0px;">03.2017 - 10.2021</span></p>
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 50px; left: 0px;">University of Antwerp</span></p>
+    </div>
 </div>
- </div>
 
 
