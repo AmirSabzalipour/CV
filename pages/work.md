@@ -98,10 +98,9 @@ position: 2
 </div>
  </div>
 
-
-<div class="textbox" style="display: flex;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center;"> <p style="font-size: 20px;  color:  #color: rgba(46, 89, 132,1); margin-left: 10px;">II.  Doctoral Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center;margin-bottom: 10px;"> <p style="font-size: 20px;  color:  #color: rgba(46, 89, 132,1); margin-left: 10px;">II.  Doctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li style="margin-bottom: 10px;">Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
@@ -119,8 +118,8 @@ position: 2
  </div>
 
 <br>
-<div class="textbox" style="display: flex;">
-    <div class="main-content" style="flex: 1;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+   <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 6px;"> <p style="font-size: 20px; color:  #color: rgba(46, 89, 132,1); margin-left: 10px;">III. Visiting Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
@@ -138,7 +137,7 @@ position: 2
  </div>
 
 <br>
-<div class="textbox" style="display: flex;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-size: 20px;  color:  #color: rgba(46, 89, 132,1); margin-left: 10px;">IV. Visiting Researcher</p>
         </div>
@@ -157,7 +156,7 @@ position: 2
 
 <br><br>
 <section>
-<div style="display: inline-block; padding-right: 20px;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
 </div>
 <br>
@@ -180,7 +179,7 @@ position: 2
 
 <br>
 
-<div class="textbox" style="display: flex;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-size: 20px; color:  #color: rgba(46, 89, 132,1); margin-right: 5px;">Optical Design Engineer</p>
         </div>
