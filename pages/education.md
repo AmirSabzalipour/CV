@@ -7,30 +7,69 @@ position: 1
 tags: [Page]
 ---
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="navbar.css"> 
- 
- 
-  <style>
-    /* Reset default margin and padding */
-    body {
-      margin: 0;
-      padding: 10px;
-      background-image: url('assets/img/header/education.jpg');
-      background-repeat: no-repeat;
-      background-position: center center;
-      background-size: 1100px 300px; /* Ensure the background image covers the entire viewport */
+<style>
+        /* Reset default margin and padding */
+     body {
+            margin: 0;
+            padding: 10px;
+            background-image: url('assets/img/header/education.jpg');
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover; /* Ensure the background image covers the entire viewport */
+       }
+    .textbox {
+            background-color: #f0f0f0;
+            border: 1px solid white;
+            border-radius: 30px 30px 30px 30px;
+            padding: 10px ;
+            margin:0;
+            box-shadow: 0 2px 2px white;
+            position: relative; 
+            display: flex;/* Ensure relative positioning for absolute positioning of pseudo-element */
     }
 
+     .textbox::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%; /* Take up the full width of the box */
+            height: 8px; /* Thickness of the strip */
+            /* background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);  */ */
+            border-radius: 20px 20px 20px 20px; /* Ensure rounded corners on the top */
+     }
 
+    .textbox h3 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 10px;
+    }
 
-  /* Define your CSS styles here */
-  /* Add your CSS styles if needed */
-</style>
+    .textbox p {
+            color: #666;
+            font-size: 16px;
+            line-height: 1.6;
+    }
+
+    @media only screen and (max-width: 600px) {
+            .textbox {
+                border: 1px solid #ddd;
+                border-radius: 17px;
+                padding: 10px;
+                display: flex;
+                flex-wrap: wrap;
+    }
+            .main-content {
+                width: 60%; /* Adjust this as needed */
+                margin-right: 5%; /* Adjust this as needed */
+                margin-bottom: 10px; /* Add some space between columns on small screens */
+            }
+            .additional-column {
+                width: 30%; /* Adjust this as needed */
+                padding: 5px;
+            }
+        }
+    </style>
 
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
