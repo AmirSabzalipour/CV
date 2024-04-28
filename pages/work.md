@@ -70,11 +70,14 @@ position: 2
             }
         }
     </style>
+    
 <section>
-  <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  79.5%, rgba(61, 90, 128,.6); 
-    border-radius: 10px 10px 10px 10px;"> </div>
-    <span style="font-size: 23px; color: gray; font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials </span>
+<div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, 0.7);line-height: 40px; margin-bottom: 5px;">
+    <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp;     <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">&nbsp;&nbsp;&nbsp;&nbsp;Computational Research on Materials </span>
+ </span>
 </div>
+
+
 
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
