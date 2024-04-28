@@ -82,7 +82,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color:  #color: rgba(46, 89, 132,1);font-family: 'Garamond'; margin-left: 4px;">I.   Postdoctoral Researcher</p>
         </div>
-    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
+    <ul style="font-size: 15px; font-family: 'Garamond'; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
  <li style="margin-bottom: 10px;"> Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
 <li style="margin-bottom: 10px;">Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li>
     </ul>
