@@ -32,7 +32,6 @@ tags: [Page]
   /* Add your CSS styles if needed */
 </style>
 
-
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
