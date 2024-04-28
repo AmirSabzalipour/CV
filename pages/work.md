@@ -73,7 +73,7 @@ position: 2
 
 <section>
 <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(154, 185, 115, 0.3);line-height: 40px; margin-bottom: 5px;">
-    <span style="font-size: 23px; color: rgba(0.15, 0.38, 0.61, 0.3) ; font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
+    <span style="font-size: 23px; color: rgba(0.15, 0.38, 0.61, 0.3) ; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
 </div>
 
 
