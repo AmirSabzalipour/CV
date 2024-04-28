@@ -71,7 +71,7 @@ position: 2
         }
     </style>
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(185, 156, 107, 0.7);line-height: 40px; margin-bottom: 5px;">
+ <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, 0.7);line-height: 40px; margin-bottom: 5px;">
     <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials </span>
 </div>
 
@@ -152,7 +152,7 @@ position: 2
 <br><br>
 <section>
 
-<div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(185, 156, 107, 0.7);line-height: 40px; margin-bottom: 5px;">
+<div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, 0.7);line-height: 40px; margin-bottom: 5px;">
     <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
 </div>
 <br>
@@ -199,7 +199,7 @@ position: 2
 
 
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(185, 156, 107, 0.7);line-height: 40px; margin-bottom: 5px;">
+ <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, 0.7);line-height: 40px; margin-bottom: 5px;">
     <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">&nbsp;&nbsp;&nbsp;&nbsp;Material Characterization, Optical Metrology </span>
 </div>
 
@@ -229,7 +229,7 @@ position: 2
 <br><br>
 
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(185, 156, 107, 0.7);line-height: 40px; margin-bottom: 5px;">
+ <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, 0.7);line-height: 40px; margin-bottom: 5px;">
     <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">&nbsp;&nbsp;&nbsp;&nbsp;Teaching </span>
 </div>
 
