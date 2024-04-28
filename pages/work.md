@@ -71,7 +71,8 @@ position: 2
         }
     </style>
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, .3);line-height: 40px; margin-bottom: 5px;">
+  <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  79.5%, rgba(61, 90, 128,.6); 
+    border-radius: 10px 10px 10px 10px;"> </div>
     <span style="font-size: 23px; color: blue; font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials </span>
 </div>
 
