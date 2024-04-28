@@ -71,7 +71,7 @@ position: 2
         }
     </style>
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between; background-color: red;line-height: 40px; margin-bottom: 5px;">
+ <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(185, 156, 107, 0.7);line-height: 40px; margin-bottom: 5px;">
     <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials </span>
 </div>
 
@@ -151,10 +151,11 @@ position: 2
 
 <br><br>
 <section>
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+
+<div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(185, 156, 107, 0.7);line-height: 40px; margin-bottom: 5px;">
     <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
 </div>
-
+<br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;color:  #color: rgba(46, 89, 132,1); margin-left: 4px;">Researcher</p>
@@ -192,17 +193,17 @@ position: 2
  </div>
 </div>
 
-<br><br><br>
+<br><br>
+
 
 
 
 <section>
-<div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 23px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
-       &nbsp;&nbsp;&nbsp;&nbsp;Material Characterization, Optical Metrology
-    </span>
+ <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(185, 156, 107, 0.7);line-height: 40px; margin-bottom: 5px;">
+    <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">&nbsp;&nbsp;&nbsp;&nbsp;Material Characterization, Optical Metrology </span>
 </div>
-<br><br>
+
+
 
 
 <div class="textbox" style="display: flex;">
@@ -228,14 +229,12 @@ position: 2
 <br><br>
 
 <section>
-<div style="display: inline-block; padding-right: 20px;">
-    <span style="font-size: 23px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
-       &nbsp;&nbsp;&nbsp;&nbsp;Teaching
-    </span>
+ <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(185, 156, 107, 0.7);line-height: 40px; margin-bottom: 5px;">
+    <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">&nbsp;&nbsp;&nbsp;&nbsp;Teaching </span>
 </div>
-<br><br>
 
 
+<br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-size: 20px; color:  #color: rgba(46, 89, 132,1); margin-right: 5px;">Lab Instructor and Research Teacher</p>
