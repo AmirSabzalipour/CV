@@ -70,14 +70,15 @@ position: 2
             }
         }
     </style>
-
- <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px;">   
 <section>
 <link rel="stylesheet" href="style.css">
 <div style="display: inline-block; padding-right: 20px;">
       <span style="font-size: 20px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">  &nbsp;&nbsp;&nbsp; Computational Research on Materials
      </span>
 </div>
+
+ 
+
 <br><br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 15px;">
     <div class="main-content" style="flex: 1;">
@@ -155,7 +156,6 @@ position: 2
  </div>
 
 <br><br>
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px;">
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 23px; color:  rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
@@ -201,7 +201,7 @@ position: 2
 <br><br><br>
 
 
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px;">
+
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 23px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
@@ -232,7 +232,7 @@ position: 2
 
 
 <br><br>
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px;">
+
 <section>
 <div style="display: inline-block; padding-right: 20px;">
     <span style="font-size: 23px; color: rgba(130, 150, 90, 0.7); font-weight: bold; font-family: 'Avenir Next LT Pro';">
@@ -263,7 +263,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; ; margin-right: 5px;">Tutor</p>
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; co0a8e8; margin-right: 5px;">Tutor</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li> Tutoring high school students in math and physics.</li>
