@@ -82,7 +82,7 @@ position: 2
 <br><br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 15px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px; color: lightgray ; margin-left: 4px;">I.   Postdoctoral Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;color:  #color: rgba(46, 89, 132,1); margin-left: 4px;">I.   Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
  <li style="margin-bottom: 10px;"> Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
@@ -121,7 +121,7 @@ position: 2
 <br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; color: rgba(46, 89, 132,1); margin-left: 10px;">III. Visiting Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; color:  #color: rgba(46, 89, 132,1); margin-left: 10px;">III. Visiting Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
 <li style="margin-bottom: 10px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic   impurities.</li>
@@ -140,7 +140,7 @@ position: 2
 <br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px;  color: rgba(46, 89, 132,1); margin-left: 10px;">IV. Visiting Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px;  color:  #color: rgba(46, 89, 132,1); margin-left: 10px;">IV. Visiting Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
        <li style="margin-bottom: 10px;">Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
@@ -163,7 +163,7 @@ position: 2
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 5;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px;  color: rgba(46, 89, 132,1);; margin-left: 4px;"> Researcher Assistant</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px;  color:  #color: rgba(46, 89, 132,1); margin-left: 4px;"> Researcher Assistant</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;">Developing alpha and beta prototypes for optical setups. For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
@@ -182,7 +182,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; color: rgba(46, 89, 132,1);; margin-right: 5px;">Optical Design Engineer</p>
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; color:  #color: rgba(46, 89, 132,1); margin-right: 5px;">Optical Design Engineer</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;">Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
@@ -213,7 +213,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; color: rgba(46, 89, 132,1);; margin-right: 5px;">Research Assistance</p>
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; color:  #color: rgba(46, 89, 132,1); margin-right: 5px;">Research Assistance</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;">Image processing of interferometric patterns to measure roughness of thin films.</li>
@@ -244,7 +244,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; color: rgba(46, 89, 132,1);; margin-right: 5px;">Lab Instructor and Research Teacher</p>
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; color:  #color: rgba(46, 89, 132,1); margin-right: 5px;">Lab Instructor and Research Teacher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;"> Supervising students for the International Young Physicists' Tournament (IYPT).</li>
@@ -263,7 +263,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; co0a8e8; margin-right: 5px;">Tutor</p>
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 15px;"> <p style="font-size: 20px; color:  #color: rgba(46, 89, 132,1); margin-right: 5px;">Tutor</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li> Tutoring high school students in math and physics.</li>
