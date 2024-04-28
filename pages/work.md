@@ -101,7 +101,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 7px;"> <p style="font-size: 20px;  color:  #color: rgba(46, 89, 132,1); margin-left: 10px;">II.  Doctoral Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 4px;"> <p style="font-size: 20px;  color:  #color: rgba(46, 89, 132,1); margin-left: 10px;">II.  Doctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li style="margin-bottom: 10px;">Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
