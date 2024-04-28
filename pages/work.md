@@ -71,8 +71,8 @@ position: 2
         }
     </style>
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, 1);line-height: 40px; margin-bottom: 5px;">
-    <span style="font-size: 23px; color: navy; font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials </span>
+ <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, .3);line-height: 40px; margin-bottom: 5px;">
+    <span style="font-size: 23px; color: blue; font-weight: bold; font-family: 'Avenir Next LT Pro';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials </span>
 </div>
 
 <br>
