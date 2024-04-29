@@ -73,7 +73,7 @@ position: 2
 
 <section>
 <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(120, 160, 140, 0.2);line-height: 40px; margin-bottom: 5px;">
-    <span style="font-size: 23px; color: rgba(46, 89, 132,1) ; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
+    <span style="font-size: 23px; color: navy ; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
 </div>
 
 
@@ -86,7 +86,7 @@ position: 2
  <li style="margin-bottom: 10px;"> Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
 <li style="margin-bottom: 10px;">Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  79.5%, rgba(212, 156, 74,1)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  79.5%, rgba(212, 156, 74,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
@@ -105,7 +105,7 @@ position: 2
     <li style="margin-bottom: 10px;">Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
     <li style="margin-bottom: 10px;">Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80%, rgba(100, 140, 107,1)  20%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80%, rgba(100, 140, 107,1)  20%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
