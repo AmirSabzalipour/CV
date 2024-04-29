@@ -100,7 +100,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1); margin-left: 4px;">II. Doctoral Researcher</p>
         </div>
-    <ul style="font-size: 17px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li style="margin-bottom: 10px;">Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
     <li style="margin-bottom: 10px;">Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
     <li style="margin-bottom: 10px;">Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
@@ -120,7 +120,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond';  font-size: 20px; color: rgba(46, 89, 132,1);margin-left: 4px;">III. Visiting Researcher</p>
         </div>
-    <ul style="font-size: 17px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
 <li style="margin-bottom: 10px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic   impurities.</li>
 <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
