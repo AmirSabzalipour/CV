@@ -154,7 +154,7 @@ position: 2
 <br><br>
 <section>
 
-<div class="textbox" style="display: flex;justify-content: space-between;border: 1px solid gray;  background-color: white; line-height: 40px; margin-bottom: 1px; background-color:  rgba(160,197,196, 0.7);line-height: 40px; margin-bottom: 5px;">
+<div class="textbox" style="display: flex;justify-content: space-between;border: 1px solid gray;  background-color: white; line-height: 40px; margin-bottom: 1px; background-color: white; line-height: 40px; margin-bottom: 5px;">
     <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px; color: rgba(212, 156, 74, 1); font-weight: bold; "> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
 </div>
 <br>
@@ -177,7 +177,7 @@ position: 2
 
 <br>
 
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+<div class="textbox" style="display: flex;justify-content: space-between;  line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1); margin-right: 5px;">Optical Design Engineer</p>
         </div>
@@ -201,7 +201,7 @@ position: 2
 
 
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, 0.7);line-height: 40px; margin-bottom: 5px;">
+ <div class="textbox" style="display: flex;justify-content: space-between; background-color: white; line-height: 40px; margin-bottom: 5px;">
     <span style="font-size: 24px; color: rgba(212, 156, 74, 1); font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;Material Characterization, Optical Metrology </span>
 </div>
 
@@ -231,7 +231,7 @@ position: 2
 <br><br>
 
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, 0.7);line-height: 40px; margin-bottom: 5px;">
+ <div class="textbox" style="display: flex;justify-content: space-between; background-color: white; line-height: 40px; margin-bottom: 5px;">
     <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px; color: rgba(212, 156, 74, 1);">&nbsp;&nbsp;&nbsp;&nbsp;Teaching </span>
 </div>
 
