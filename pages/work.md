@@ -21,7 +21,7 @@ position: 2
             background-color: #f0f0f0;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
-            padding: 10px ;
+            padding: 10px  10px 7px 10px ;
             margin:0;
             box-shadow: 0 2px 2px white;
             position: relative; 
@@ -72,7 +72,7 @@ position: 2
     </style>
 
 <section>
-<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid lightgray;  background-color: white; line-height: 40px; margin-bottom: 1px;">
+<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  #f0f0f0 ;  background-color: white; line-height: 40px; margin-bottom: 1px;">
     <span style="font-size: 23px; color: rgba(46, 89, 132,1); font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; I- Computational Research on Materials  </span>
 </div>
 
@@ -118,7 +118,7 @@ position: 2
 
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond';  font-size: 20px; color: rgba(212, 156, 74, 1);margin-left: 4px;"> Visiting Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond';  font-size: 20px; color: rgba(13, 152, 186,1);margin-left: 4px;"> Visiting Researcher</p>
         </div>
     <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
 <li style="margin-bottom: 10px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic   impurities.</li>
@@ -154,7 +154,7 @@ position: 2
 <br><br>
 <section>
 
-<div class="textbox" style="display: flex;justify-content: space-between;border: .4px solid lightgray;  background-color: white; line-height: 40px; margin-bottom: 1px; background-color: white; line-height: 40px; margin-bottom: 5px;">
+<div class="textbox" style="display: flex;justify-content: space-between;border: .4px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 1px; background-color: white; line-height: 40px; margin-bottom: 5px;">
     <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px; color: rgba(46, 89, 132,1); font-weight: bold; "> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
 </div>
 <br>
@@ -200,9 +200,8 @@ position: 2
 
 
 
-
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between; background-color: white; line-height: 40px; margin-bottom: 5px;">
+ <div class="textbox" style="display: flex;justify-content: space-between;border: .4px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 5px;">
     <span style="font-size: 24px;color: rgba(46, 89, 132,1); font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;Material Characterization, Optical Metrology </span>
 </div>
 
@@ -232,7 +231,7 @@ position: 2
 <br><br>
 
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between; background-color: white; line-height: 40px; margin-bottom: 5px;">
+ <div class="textbox" style="display: flex;justify-content: space-between;border: .4px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 5px;">
     <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px;color: rgba(46, 89, 132,1);">&nbsp;&nbsp;&nbsp;&nbsp;Teaching </span>
 </div>
 
