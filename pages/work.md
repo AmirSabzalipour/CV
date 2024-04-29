@@ -100,7 +100,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1); margin-left: 4px;"> Doctoral Researcher</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li style="margin-bottom: 10px;">Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
     <li style="margin-bottom: 10px;">Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
     <li style="margin-bottom: 10px;">Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
@@ -120,7 +120,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond';  font-size: 20px; color: rgba(46, 89, 132,1);margin-left: 4px;"> Visiting Researcher</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
 <li style="margin-bottom: 10px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic   impurities.</li>
 <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
@@ -138,7 +138,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1); margin-left: 4px;"> Visiting Researcher</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px; color: black;margin-left: 1.7em; font-family: 'Avenir Next LT Pro', sans-serif;">
        <li style="margin-bottom: 10px;">Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80.5%, rgba(106, 26, 74,1)  20.5%); 
@@ -162,7 +162,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;color: rgba(46, 89, 132,1); margin-left: 4px;">Researcher</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;margin-left: 1.7em;">
      <li style="margin-bottom: 10px;">Developing alpha and beta prototypes for optical setups. For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80.5%, rgba(61, 90, 128,.8)  20.5%); 
@@ -181,7 +181,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1); margin-right: 5px;">Optical Design Engineer</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;">Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
      <p style="font-size: 14px; color:gray; margin-top: 10px;">IASBS : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
@@ -212,7 +212,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1); margin-right: 5px;">Research Assistance</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px; color: black;margin-left: 1.7em; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;">Image processing of interferometric patterns to measure roughness of thin films.</li>
     <li style="margin-bottom: 10px;">Atomic Force Microscopy characterization of thin films.</li>
      <li style="margin-bottom: 10px;">Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
@@ -241,7 +241,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1); margin-right: 5px;">Lab Instructor and Research Teacher</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;"> Supervising students for the International Young Physicists' Tournament (IYPT).</li>
     <li style="margin-bottom: 10px;">Teaching students the relevant practical theories and how to use laboratory equipment.</li>
     </ul>
@@ -260,7 +260,7 @@ position: 2
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1); margin-right: 5px;">Tutor</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li> Tutoring high school students in math and physics.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right,rgba(61, 90, 128,.6) 80.5%, rgba(61, 90, 128,.8)  20.5%); 
