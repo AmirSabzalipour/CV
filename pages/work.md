@@ -154,7 +154,7 @@ position: 2
 <br><br>
 <section>
 
-<div class="textbox" style="display: flex;justify-content: space-between; background-color:  rgba(160,197,196, 0.7);line-height: 40px; margin-bottom: 5px;">
+<div class="textbox" style="display: flex;justify-content: space-between;border: 1px solid gray;  background-color: white; line-height: 40px; margin-bottom: 1px; background-color:  rgba(160,197,196, 0.7);line-height: 40px; margin-bottom: 5px;">
     <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px; color: rgba(46, 89, 132,1); font-weight: bold; "> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
 </div>
 <br>
