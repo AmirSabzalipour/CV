@@ -155,7 +155,7 @@ position: 2
 <section>
 
 <div class="textbox" style="display: flex;justify-content: space-between;border: .4px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 1px; background-color: white; line-height: 40px; margin-bottom: 5px;">
-    <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px; color: rgba(154, 185, 115, 0.77); font-weight: bold; "> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
+    <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px; color: rgba(154, 185, 115, 0.77); font-weight: bold; "> &nbsp;&nbsp;&nbsp;&nbsp; II. Optical Design </span>
 </div>
 <br>
 
@@ -202,7 +202,7 @@ position: 2
 
 <section>
  <div class="textbox" style="display: flex;justify-content: space-between;border: .4px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 5px;">
-    <span style="font-size: 24px;color: rgba(154, 185, 115, 0.77); font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;Material Characterization, Optical Metrology </span>
+    <span style="font-size: 24px;color: rgba(154, 185, 115, 0.77); font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;III. Material Characterization, Optical Metrology </span>
 </div>
 
 
@@ -232,7 +232,7 @@ position: 2
 
 <section>
  <div class="textbox" style="display: flex;justify-content: space-between;border: .4px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 5px;">
-    <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px;color: rgba(154, 185, 115, 0.77);">&nbsp;&nbsp;&nbsp;&nbsp;Teaching </span>
+    <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px;color: rgba(154, 185, 115, 0.77);">&nbsp;&nbsp;&nbsp;&nbsp;IV. Teaching </span>
 </div>
 
 
