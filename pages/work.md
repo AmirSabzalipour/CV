@@ -239,7 +239,7 @@ position: 2
 <br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -10px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1);margin-left: 0.9em;">Lab Instructor and Research Teacher</p>
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 10px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1);margin-left: 0.9em;">Lab Instructor and Research Teacher</p>
         </div>
     <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;"> Supervising students for the International Young Physicists' Tournament (IYPT).</li>
@@ -258,7 +258,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(154, 185, 115, 0.77);margin-left: 0.9em; ">Tutor</p>
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1);margin-left: 0.9em; ">Tutor</p>
         </div>
     <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li> Tutoring high school students in math and physics.</li>
