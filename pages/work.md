@@ -72,7 +72,7 @@ position: 2
     </style>
 
 <section>
-<div class="textbox" style="display: flex;justify-content: space-between; border: .8px solid  #d0d0d0 ;  background-color: white; line-height: 40px; margin-bottom: -5px;">
+<div class="textbox" style="display: flex;justify-content: space-between; border: 2px solid  #d0d0d0 ;  background-color: white; line-height: 40px; margin-bottom: -5px;">
     <span style="font-size: 25px; color: rgba(154, 185, 115, 1); font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; I- Computational Research on Materials  </span>
 </div>
 <br>
