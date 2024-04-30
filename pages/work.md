@@ -158,7 +158,6 @@ position: 2
     <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px; color: rgba(154, 185, 115, 0.77); font-weight: bold; "> &nbsp;&nbsp;&nbsp;&nbsp; II. Optical Design </span>
 </div>
 <br>
-
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: -10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1);margin-left: 0.9em;">Research Engineer</p>
@@ -234,8 +233,6 @@ position: 2
  <div class="textbox" style="display: flex;justify-content: space-between;border: 2px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 5px;">
     <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px;color: rgba(154, 185, 115, 0.77);">&nbsp;&nbsp;&nbsp;&nbsp;IV. Teaching </span>
 </div>
-
-
 <br>
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
