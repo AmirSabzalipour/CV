@@ -73,7 +73,7 @@ position: 2
 
 <section>
 <div class="textbox" style="display: flex;justify-content: space-between; border: 2px solid  #d0d0d0 ;  background-color: white; line-height: 40px; margin-bottom: 1px;">
-    <span style="font-size: 23px; color: rgba(46, 89, 132,1); font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; I- Computational Research on Materials  </span>
+    <span style="font-size: 23px; color: rgba(154, 185, 115, 0.77); font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; I- Computational Research on Materials  </span>
 </div>
 
 
@@ -155,7 +155,7 @@ position: 2
 <section>
 
 <div class="textbox" style="display: flex;justify-content: space-between;border: .4px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 1px; background-color: white; line-height: 40px; margin-bottom: 5px;">
-    <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px; color: rgba(46, 89, 132,1); font-weight: bold; "> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
+    <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px; color: rgba(154, 185, 115, 0.77); font-weight: bold; "> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
 </div>
 <br>
 
@@ -202,7 +202,7 @@ position: 2
 
 <section>
  <div class="textbox" style="display: flex;justify-content: space-between;border: .4px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 5px;">
-    <span style="font-size: 24px;color: rgba(46, 89, 132,1); font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;Material Characterization, Optical Metrology </span>
+    <span style="font-size: 24px;color: rgba(154, 185, 115, 0.77); font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;Material Characterization, Optical Metrology </span>
 </div>
 
 
@@ -232,7 +232,7 @@ position: 2
 
 <section>
  <div class="textbox" style="display: flex;justify-content: space-between;border: .4px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 5px;">
-    <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px;color: rgba(46, 89, 132,1);">&nbsp;&nbsp;&nbsp;&nbsp;Teaching </span>
+    <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px;color: rgba(154, 185, 115, 0.77);">&nbsp;&nbsp;&nbsp;&nbsp;Teaching </span>
 </div>
 
 
@@ -258,7 +258,7 @@ position: 2
 
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1);margin-left: 0.9em; ">Tutor</p>
+        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(154, 185, 115, 0.77);margin-left: 0.9em; ">Tutor</p>
         </div>
     <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li> Tutoring high school students in math and physics.</li>
