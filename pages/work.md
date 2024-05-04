@@ -152,7 +152,7 @@ position: 2
 <br><br>
 <section>
 
-<div class="textbox" style="display: flex;justify-content: space-between;border: 2px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 1px; background-color: white; line-height: 40px; margin-bottom: 5px;">
+<div class="textbox" style="display: flex;justify-content: space-between;border: 2px solid #f0f0f0;  background-color: white; line-height: 40px; margin-bottom: 1px; background-color: white; line-height: 40px; margin-bottom: -10px;">
     <span style="font-weight: bold; font-family: 'Garamond'; font-size: 24px; color: rgba(154, 185, 115, 0.77); font-weight: bold; "> &nbsp;&nbsp;&nbsp;&nbsp; II. Optical Design </span>
 </div>
 <br>
