@@ -152,7 +152,7 @@ position: 2
 <br><br>
 <section>
 
-<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  #d0d0d0 ;  background-color: #f0f0f0; line-height: 40px; margin-bottom: -5px;">
+<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid   #f0f0f0;  background-color:  #f0f0f0; line-height: 40px; margin-bottom: -5px;">
     <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond'; "> &nbsp;&nbsp;&nbsp;&nbsp; II. Optical Design </span>
 </div>
 <br>
@@ -198,7 +198,7 @@ position: 2
 
 
 <section>
- <div class="textbox" style="textbox" style="display: flex;justify-content: space-between; border: .5px solid  #d0d0d0 ;  background-color: #f0f0f0; line-height: 40px; margin-bottom: 10px;">
+ <div class="textbox" style="textbox" style="display: flex;justify-content: space-between; border: .5px solid   #f0f0f0;   background-color: #f0f0f0; line-height: 40px; margin-bottom: 10px;">
     <span style="font-size: 19px; color:black; font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;III. Material Characterization, Optical Metrology </span>
 </div>
 
@@ -228,7 +228,7 @@ position: 2
 <br><br>
 
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between;border: 2px solid #f0f0f0;  background-color: f0f0f0; line-height: 40px; margin-bottom: -10px;">
+ <div class="textbox" style="display: flex;justify-content: space-between;border: 2px solid #f0f0f0;  background-color: #f0f0f0; line-height: 40px; margin-bottom: -10px;">
     <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;IV. Teaching </span>
 </div>
 <br>
