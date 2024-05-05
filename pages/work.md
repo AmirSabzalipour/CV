@@ -212,7 +212,7 @@ position: 2
     <ul style="font-size: 15px; color: black;margin-left: 1.7em; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;">Image processing of interferometric patterns to measure roughness of thin films.</li>
     <li style="margin-bottom: 10px;">Atomic Force Microscopy characterization of thin films.</li>
-     <li style="margin-bottom: 10px;">Producing optical components with $\lambda$/4 flatness, and interferometric surface characterization.</li>
+     <li style="margin-bottom: 10px;">Producing optical components with &lambda;/4 flatness, and interferometric surface characterization.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(61, 90, 128,.6) 80.5%, rgba(61, 90, 128,.8)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
