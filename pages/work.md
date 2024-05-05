@@ -245,8 +245,8 @@ position: 2
      </div>
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 5px; left: 90px;">09.2010 - 08.2011</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 50px; left: 90px;">Mofid High School, Tehran</span></p>
+   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 5px; left: 300px;">09.2010 - 08.2011</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 50px; left: 300px;">Mofid High School, Tehran</span></p>
  </div>
 </div>
 
@@ -263,8 +263,8 @@ position: 2
      </div>
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-  <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 5px; left: 90px;">09.2009 - 08.2010</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 50px; left: 90px;">Institute of Khaje Nasir, Tehran</span></p>
+  <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 5px; left: 300px;">09.2009 - 08.2010</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 50px; left: 300px;">Institute of Khaje Nasir, Tehran</span></p>
  </div>
 </div>
 
