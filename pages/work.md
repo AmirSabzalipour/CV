@@ -73,7 +73,7 @@ position: 2
 
 <section>
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  #f0f0f0 ;  background-color: #f0f0f0; line-height: 40px; margin-bottom: -5px;">
-    <span style="font-size: 19px; color:gray; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; I- Computational Research on Materials  </span>
+    <span style="font-size: 19px; color:gray; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
 </div>
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
@@ -153,7 +153,7 @@ position: 2
 <section>
 
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid   #f0f0f0;  background-color:  #f0f0f0; line-height: 40px; margin-bottom: -5px;">
-    <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond'; "> &nbsp;&nbsp;&nbsp;&nbsp; II. Optical Design </span>
+    <span style="font-size: 22px; color: gray; font-weight: bold; font-family: 'Garamond'; "> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
 </div>
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: -20px;">
@@ -199,7 +199,7 @@ position: 2
 
 <section>
  <div class="textbox" style="textbox" style="display: flex;justify-content: space-between; border: .5px solid   #f0f0f0;   background-color: #f0f0f0; line-height: 40px; margin-bottom: 10px;">
-    <span style="font-size: 19px; color:black; font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;III. Material Characterization, Optical Metrology </span>
+    <span style="font-size: 19px; color:gray; font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;III. Material Characterization, Optical Metrology </span>
 </div>
 
 
@@ -229,7 +229,7 @@ position: 2
 
 <section>
  <div class="textbox" style="display: flex;justify-content: space-between;border: 2px solid #f0f0f0;  background-color: #f0f0f0; line-height: 40px; margin-bottom: -10px;">
-    <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;IV. Teaching </span>
+    <span style="font-size: 22px; color:gray; font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;Teaching </span>
 </div>
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
