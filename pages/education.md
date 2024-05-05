@@ -76,7 +76,7 @@ tags: [Page]
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 21px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Master of Digital Text Analysis</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Master of Digital Text Analysis</p>
 
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
@@ -98,7 +98,7 @@ tags: [Page]
 
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;color:  #color: rgba(46, 89, 132,1); margin-left: 4px;">Ph.D. in Physics</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Ph.D. in Physics</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
  <li style="margin-bottom: 10px;">Thesis title: <a href="https://repository.uantwerpen.be/docstore/d:irua:8696" style="color: lapislazuli;">"Charge Transport in Magnetic Topological Insulators"</a></li>
@@ -119,7 +119,7 @@ tags: [Page]
 
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;color:  #color: rgba(46, 89, 132,1); margin-left: 4px;">M.Sc. in Physics</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"><p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">M.Sc. in Physics</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li style="margin-bottom: 10px;"> Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.</li>
@@ -141,7 +141,7 @@ tags: [Page]
 
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-size: 20px;color:  #color: rgba(46, 89, 132,1); margin-left: 4px;">B.Sc in Physics</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">B.Sc in Physics</p>
         </div>
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
     <li style="margin-bottom: 10px;"> Thin film fabrication by Physical Vapor Deposition (PVD) techniques.</li>
