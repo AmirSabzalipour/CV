@@ -76,7 +76,7 @@ position: 2
     <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; I- Computational Research on Materials  </span>
 </div>
 <br>
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 14px;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 21px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Postdoctoral Researcher</p>
         </div>
@@ -94,7 +94,7 @@ position: 2
 </div>
  </div>
 
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 14px;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1);margin-left: .9em;"> Doctoral Researcher</p>
         </div>
@@ -114,7 +114,7 @@ position: 2
  </div>
 
 
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 14px;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond';  font-size: 20px; color: rgba(46, 89, 132,1);margin-left: 0.9em;"> Visiting Researcher</p>
         </div>
@@ -132,7 +132,7 @@ position: 2
 </div>
  </div>
 
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 14px;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(46, 89, 132,1);margin-left: 0.9em;"> Visiting Researcher</p>
         </div>
