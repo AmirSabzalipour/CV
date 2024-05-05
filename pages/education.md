@@ -77,9 +77,8 @@ tags: [Page]
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Master of Digital Text Analysis</p>
-
-        </div>
-    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.5em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> 
+</div>
+   <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
  <li style="margin-bottom: 10px;">  Applying Natural Language Processing (NLP), Machine Learning (ML), and Data Science to analyze text, audio, and video content from various sources, including web content, books, audiobooks, and speeches.</li>
   </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  79.5%, rgba(212, 156, 74,1)  20.5%); 
@@ -100,7 +99,7 @@ tags: [Page]
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Ph.D. in Physics</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
  <li style="margin-bottom: 10px;">Thesis title: <a href="https://repository.uantwerpen.be/docstore/d:irua:8696" style="color: lapislazuli;">"Charge Transport in Magnetic Topological Insulators"</a></li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80.7%, rgba(13, 152, 186,1)  19.3%); 
@@ -121,7 +120,7 @@ tags: [Page]
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"><p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">M.Sc. in Physics</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
     <li style="margin-bottom: 10px;"> Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.</li>
     <p style="font-size: 14px; color:gray; margin-top: 10px;">IASBS : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
@@ -143,7 +142,7 @@ tags: [Page]
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">B.Sc in Physics</p>
         </div>
-    <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
+    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
     <li style="margin-bottom: 10px;"> Thin film fabrication by Physical Vapor Deposition (PVD) techniques.</li>
        </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80.7%, rgba(13, 152, 186,1)  19.3%); 
