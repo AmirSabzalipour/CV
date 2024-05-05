@@ -163,7 +163,7 @@ position: 2
     <ul style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;margin-left: 1.7em;">
      <li style="margin-bottom: 10px;">Developing alpha and beta prototypes for optical setups. For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80.5%, rgba(61, 90, 128,.8)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(13, 152, 186,1)  80.5%, rgba(61, 90, 128,.8)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
@@ -183,7 +183,7 @@ position: 2
      <li style="margin-bottom: 10px;">Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
      <p style="font-size: 14px; color:gray; margin-top: 10px;">IASBS : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
-    <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(61, 90, 128,.6) 80.5%, rgba(61, 90, 128,.8)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(13, 152, 186,1) 80.5%, rgba(61, 90, 128,.8)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
