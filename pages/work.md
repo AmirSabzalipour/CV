@@ -232,55 +232,63 @@ position: 2
     <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;IV. Teaching </span>
 </div>
 <br>
-<div class="textbox" style="display: flex;">
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 50px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(61, 90, 128,1);margin-left: 0.9em;">Lab Instructor and Research Teacher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 21px; color: rgba(61, 90, 128,1); font-family: 'Garamond'; margin-left: .9em;"> Lab Instructor and Research Teacher</p>
         </div>
     <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;"> Supervising students for the International Young Physicists' Tournament (IYPT).</li>
     <li style="margin-bottom: 10px;">Teaching students the relevant practical theories and how to use laboratory equipment.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80.5%, rgba(61, 90, 128,.8)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(61, 90, 200,.5)  79.5%, rgba(212, 156, 74,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-   <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-   <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 5px; left: 700px;">09.2010 - 08.2011</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 50px; left: 700px;">Mofid High School, Tehran</span></p>
- </div>
+<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: 0px;">09.2010 - 08.2011</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 50px; left: 0px;">Mofid High School, Tehran</span></p>
 </div>
+ </div>
 
 
-<div class="textbox" style="display: flex;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(61, 90, 128,1);margin-left: 0.9em; ">Tutor</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 21px; color: rgba(61, 90, 128,1); font-family: 'Garamond'; margin-left: .9em;"> Tutor</p>
         </div>
-    <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
-     <li> Tutoring high school students in math and physics.</li>
+    <ul style="font-size: 15px; font-family: 'AvenirNext LT Pro Regular', sans-serif; margin-left: 1.7em; color: black;"> 
+ < <li> Tutoring high school students in math and physics.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right,rgba(61, 90, 128,.6) 80.5%, rgba(61, 90, 128,.8)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(61, 90, 200,.5)  79.5%, rgba(212, 156, 74,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-   <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
-      <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-  <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 5px; left: 700px;">09.2009 - 08.2010</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 50px; left: 700px;">Institute of Khaje Nasir, Tehran</span></p>
- </div>
+<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 5px; left: 0px;">09.2009 - 08.2010</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74, 1); position: absolute; top: 50px; left: 0px;">Institute of Khaje Nasir, Tehran</span></p>
 </div>
-
-
-
-
-
-
- <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 5px; left: 10px;">09.2010 - 08.2011</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 50px; left: 10px;">Mofid High School, Tehran</span></p>
-
-
-
-
-
-
+ </div>
 
 
 
