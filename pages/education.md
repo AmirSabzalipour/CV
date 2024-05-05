@@ -145,6 +145,9 @@ tags: [Page]
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
     <li style="margin-bottom: 10px;"> Thin film fabrication by Physical Vapor Deposition (PVD) techniques.</li>
        </ul>
+    <li style="margin-bottom: 10px;"> Investigating the thickness of thin films by image processing on optical interference pattern.            
+.</li>
+       </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80.7%, rgba(13, 152, 186,1)  19.3%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
