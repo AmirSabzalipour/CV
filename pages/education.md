@@ -178,9 +178,7 @@ tags: [Page]
     height: 100%;
     margin-left: 10px;
   }
-</style>
-</head>
-<body>
+
 <div class="box-container">
   <div class="box">
     Title of the section
@@ -196,5 +194,4 @@ tags: [Page]
     Content 3
   </div>
 </div>
-</body>
-</html>
+
