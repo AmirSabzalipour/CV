@@ -156,3 +156,46 @@ tags: [Page]
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(13, 152, 186,1);  position: absolute; top: 50px; left: 10px;">&nbsp;University of Tehran</span></p>
 </div>
  </div>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Box with Vertical Line</title>
+<style>
+  .box-container {
+    display: flex;
+    align-items: center;
+  }
+  .box {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 5px;
+  }
+  .line {
+    border-left: 2px solid #000;
+    height: 100%;
+    margin-left: 10px;
+  }
+</style>
+</head>
+<body>
+<div class="box-container">
+  <div class="box">
+    Title of the section
+  </div>
+  <div class="line"></div>
+  <div class="box">
+    Content 1
+  </div>
+  <div class="box">
+    Content 2
+  </div>
+  <div class="box">
+    Content 3
+  </div>
+</div>
+</body>
+</html>
