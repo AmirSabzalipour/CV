@@ -123,32 +123,6 @@ tags: [Page]
     background-color: white;
   }
 </style>
-<span style="font-size: 21px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming : </span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif;margin-bottom: 10px;">Python, C, Mathematica, and SQL (Structured Query Language).</span><br><br>
-
-
-<span style="font-size: 21px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">
-Data Science : </span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif;margin-bottom: 10px;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span><br><br>
-
-
-<span style="font-size: 21px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Machine learning : </span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif;margin-bottom: 10px;">Skilled in SciKit Learn: Regression, Classification (Random , Forests, Support Vector Machines), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</span><br><br>
-
-
-<span style="font-size: 21px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Optimization : </span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif;margin-bottom: 10px;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear and nonlinear programming.</span><br><br>
-
-
-<span style="font-size: 21px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Material Modeling : </span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif;margin-bottom: 10px;">Large-Scale and Parallel material Simulations with High-Performance Computing (HPC) Using VASP and Quantum ESPRESSO.</span><br><br>
-
-
-<span style="font-size: 21px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Material Characterization : </span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif;margin-bottom: 10px;">Using physical vapor deposition (PVD) for nanocoating, thin films characterizing by interferometric methods and Atomic Force Microscopy.</span><br><br>
-
-<span style="font-size: 21px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Mathematical : </span><span style="font-size: 19px; font-family: 'Avenir Next LT Pro', sans-serif; margin-bottom: 10px;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Skills: Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
-</span><br>
-
-
-
-
-
-
 
 
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
@@ -157,6 +131,95 @@ Data Science : </span><span style="font-size: 19px; font-family: 'Avenir Next LT
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
  <li style="margin-bottom: 10px;">Python, C, Mathematica, and SQL (Structured Query Language).</li>
+    </ul>
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+ </div>
+
+
+
+
+
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Data Science :</p>
+        </div>
+    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
+ <li style="margin-bottom: 10px;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</li>
+    </ul>
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+ </div>
+
+
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Machine learning :</p>
+        </div>
+    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
+ <li style="margin-bottom: 10px;">Skilled in SciKit Learn: Regression, Classification (Random , Forests, Support Vector Machines), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</li>
+    </ul>
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+ </div>
+
+
+
+
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Optimization :</p>
+        </div>
+    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
+ <li style="margin-bottom: 10px;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear and nonlinear programming.
+    </ul>
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+ </div>
+
+
+
+
+
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Material Modeling:</p>
+        </div>
+    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
+ <li style="margin-bottom: 10px;">Large-Scale and Parallel material Simulations with High-Performance Computing (HPC) Using VASP and Quantum ESPRESSO.
+    </ul>
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+ </div>
+
+
+
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Material Characterization:</p>
+        </div>
+    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
+ <li style="margin-bottom: 10px;">Using physical vapor deposition (PVD) for nanocoating, thin films characterizing by interferometric methods and Atomic Force Microscopy.
+    </ul>
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+ </div>
+
+
+
+
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Mathematical :</p>
+        </div>
+    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
+ <li style="margin-bottom: 10px;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Skills: Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
     border-radius: 10px 10px 10px 10px;"> </div>
