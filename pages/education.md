@@ -157,41 +157,82 @@ tags: [Page]
 </div>
  </div>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Vertical Box with Vertical Line</title>
-<style>
-  .box-container {
-    display: flex;
-    flex-direction: column;
-  }
-  .box {
-    border: 1px solid #000;
-    padding: 10px;
-    margin: 5px;
-  }
-  .line {
-    border-left: 2px solid #000;
-    height: 100%;
-    margin-left: 10px;
-  }
 
-<div class="box-container">
-  <div class="box">
-    Title of the section
-  </div>
-  <div class="line"></div>
-  <div class="box">
-    Content 1
-  </div>
-  <div class="box">
-    Content 2
-  </div>
-  <div class="box">
-    Content 3
-  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wrap">
+
+<div class="box">
+    <div class="border"></div>
+    <div class="figure"></div>  
+    <div class="right"> right</div>    
 </div>
 
+<div class="box">
+    <div class="border"></div>
+    <div class="figure"></div>  
+    <div class="right"> right</div>
+</div>
+
+<div class="box">
+     <div class="border"></div>
+    <div class="figure"></div>  
+    <div class="right"> right</div>
+</div>
+
+</div>
+
+
+.wrap{
+    position: relative;
+    overflow: hidden;
+}
+
+.box{
+    overflow: hidden;
+    margin-top: 50px;   
+}
+
+.box:first-child{
+    margin-top: 0;
+}
+
+.figure{
+    width: 50px;
+    height: 50px;
+    background: yellow;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.right{
+    display: inline-block;
+}
+
+.border{
+  border-right: 3px solid red;
+  height: 100%;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.box:last-child .border{
+    display: none;
+}
