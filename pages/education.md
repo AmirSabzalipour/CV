@@ -160,79 +160,57 @@ tags: [Page]
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="wrap">
-
-<div class="box">
+  <div class="box">
     <div class="border"></div>
     <div class="figure"></div>  
     <div class="right"> right</div>    
-</div>
-
-<div class="box">
+  </div>
+  <div class="box">
     <div class="border"></div>
     <div class="figure"></div>  
     <div class="right"> right</div>
-</div>
-
-<div class="box">
-     <div class="border"></div>
+  </div>
+  <div class="box">
+    <div class="border"></div>
     <div class="figure"></div>  
     <div class="right"> right</div>
+  </div>
 </div>
 
-</div>
-
-
-.wrap{
+<style>
+  .wrap {
     position: relative;
     overflow: hidden;
-}
-
-.box{
+  }
+  .box {
     overflow: hidden;
     margin-top: 50px;   
-}
-
-.box:first-child{
+    position: relative; /* Add position relative */
+  }
+  .box:first-child {
     margin-top: 0;
-}
-
-.figure{
+  }
+  .figure {
     width: 50px;
     height: 50px;
     background: yellow;
     display: inline-block;
     margin-right: 10px;
-}
-
-.right{
+  }
+  .right {
     display: inline-block;
-}
-
-.border{
-  border-right: 3px solid red;
-  height: 100%;
-  left: 24px;
-  position: absolute;
-  top: 0;
-  width: 1px;
-}
-
-.box:last-child .border{
+  }
+  .border {
+    border-right: 3px solid red;
+    position: absolute;
+    top: 0;
+    bottom: 0; /* Extend the line to the bottom */
+    left: 24px;
+    width: 1px;
+    margin-top: -50px; /* Adjust the position to align with the top */
+  }
+  .box:last-child .border {
     display: none;
-}
+  }
+</style>
