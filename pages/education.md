@@ -157,12 +157,16 @@ tags: [Page]
 </div>
  </div>
 
-
-<title>Box with Vertical Line</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vertical Box with Vertical Line</title>
 <style>
   .box-container {
     display: flex;
-    align-items: center;
+    flex-direction: column;
   }
   .box {
     border: 1px solid #000;
