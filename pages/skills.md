@@ -158,11 +158,8 @@ Data Science : </span><span style="font-size: 19px; font-family: 'Avenir Next LT
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
  <li style="margin-bottom: 10px;">Python, C, Mathematica, and SQL (Structured Query Language).</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80.7%, rgba(13, 152, 186,1)  19.3%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    </div>
  </div>
 
