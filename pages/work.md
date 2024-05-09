@@ -78,7 +78,7 @@ position: 2
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style="font-weight: bold; font-size: 21px; color: rgba(61, 90, 128,1); font-family: 'Garamond'; margin-left: .9em;"> Postdoctoral Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style="font-weight: bold; font-size: 20px; color: rgba(61, 90, 128,1); font-family: 'Garamond'; margin-left: .9em;"> Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; font-family: 'AvenirNext LT Pro Regular', sans-serif; margin-left: 1.7em; color: black;"> 
  <li style="margin-bottom: 10px;"> Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
@@ -89,8 +89,8 @@ position: 2
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Garamond'; font-size: 18px; color: rgba(220, 180, 74, 1); position: absolute; top: 5px; left: 0px;">10.2021 - 06.2023</span></p>
-    <p><span style="font-family: 'Garamond'; font-size: 18px; color: rgba(212, 170, 74, 1); position: absolute; top: 50px; left: 0px;">University of Antwerp</span></p>
+    <p><span style="font-family: 'Garamond'; font-size: 16px; color: rgba(220, 180, 74, 1); position: absolute; top: 5px; left: 0px;font-weight: bold;">10.2021 - 06.2023</span></p>
+    <p><span style="font-family: 'Garamond'; font-size: 16px; color: rgba(212, 170, 74, 1); position: absolute; top: 50px; left: 0px;font-weight: bold;">University of Antwerp</span></p>
 </div>
  </div>
 
