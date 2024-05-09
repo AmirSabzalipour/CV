@@ -73,7 +73,7 @@ position: 2
 
 <section>
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  #f0f0f0 ;  background-color: #f0f0f0; line-height: 40px; margin-bottom: -5px;">
-    <span style="font-size: 19px; color:gray; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
+    <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
 </div>
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
@@ -89,8 +89,8 @@ position: 2
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Garamond'; font-size: 16px; color: rgba(220, 180, 74, 1); position: absolute; top: 5px; left: 0px;font-weight: bold;">10.2021 - 06.2023</span></p>
-    <p><span style="font-family: 'Garamond'; font-size: 16px; color: rgba(212, 170, 74, 1); position: absolute; top: 50px; left: 0px;font-weight: bold;">University of Antwerp</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(220, 180, 74, 1); position: absolute; top: 5px; left: 0px;font-weight: bold;">10.2021 - 06.2023</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 170, 74, 1); position: absolute; top: 50px; left: 0px;font-weight: bold;">University of Antwerp</span></p>
 </div>
  </div>
 
