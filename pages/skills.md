@@ -174,7 +174,7 @@ tags: [Page]
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Optimization :</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
- <li style="margin-bottom: 10px;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear and nonlinear programming.
+ <li style="margin-bottom: 10px;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear and nonlinear programming.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
     border-radius: 10px 10px 10px 10px;"> </div>
@@ -190,10 +190,10 @@ tags: [Page]
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Material Modeling:</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
- <li style="margin-bottom: 10px;">Large-Scale and Parallel material Simulations with High-Performance Computing (HPC) Using VASP and Quantum ESPRESSO.
+ <li style="margin-bottom: 10px;">Large-Scale and Parallel material Simulations with High-Performance Computing (HPC) Using VASP and Quantum ESPRESSO.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
-    border-radius: 10px 10px 10px 10px;"> </div>
+    border-radius: 10px 10px 10px 10px;"></div>
      </div>
  </div>
 
@@ -204,7 +204,7 @@ tags: [Page]
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Material Characterization:</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
- <li style="margin-bottom: 10px;">Using physical vapor deposition (PVD) for nanocoating, thin films characterizing by interferometric methods and Atomic Force Microscopy.
+ <li style="margin-bottom: 10px;">Using physical vapor deposition (PVD) for nanocoating, thin films characterizing by interferometric methods and Atomic Force Microscopy.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
     border-radius: 10px 10px 10px 10px;"> </div>
@@ -219,7 +219,7 @@ tags: [Page]
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Mathematical :</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
- <li style="margin-bottom: 10px;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Skills: Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
+ <li style="margin-bottom: 10px;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Skills: Topology, Functional Analysis, Fourier Transformations, Perturbation theory.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
     border-radius: 10px 10px 10px 10px;"> </div>
