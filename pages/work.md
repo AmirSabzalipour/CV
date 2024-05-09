@@ -103,13 +103,13 @@ position: 2
     <li style="margin-bottom: 10px;">Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
     <li style="margin-bottom: 10px;">Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80%, rgba(100, 140, 107,1)  20%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80%, rgba(212, 156, 74,1) 20%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 150, 107,.8); position: absolute; top: 5px; left: 10px;">03.2017 - 10.2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(84, 150, 107,.8); position: absolute; top: 50px; left: 6px;">University of Antwerp</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1); position: absolute; top: 5px; left: 10px;">03.2017 - 10.2021</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1); position: absolute; top: 50px; left: 6px;">University of Antwerp</span></p>
 </div>
  </div>
 
@@ -122,13 +122,13 @@ position: 2
 <li style="margin-bottom: 10px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic   impurities.</li>
 <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80.7%, rgba(13, 152, 186,1)  19.3%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(61, 90, 128,.6)  80.7%, rgba(212, 156, 74,1)  19.3%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(13, 152, 186,1) ; position: absolute; top: 5px; left: 10px;">03.2016 - 02.2017</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(13, 152, 186,1);  position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:rgba(212, 156, 74,1) ; position: absolute; top: 5px; left: 10px;">03.2016 - 02.2017</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1);  position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
 </div>
  </div>
 
@@ -144,7 +144,7 @@ position: 2
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 5px; left: 10px;">10.2015 - 02.2016</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 156, 74,1); position: absolute; top: 5px; left: 10px;">10.2015 - 02.2016</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(106, 26, 74,1); position: absolute; top: 50px; left: 10px;">Uppsala University</span></p>
 </div>
  </div>
