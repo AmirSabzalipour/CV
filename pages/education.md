@@ -148,8 +148,8 @@ tags: [Page]
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(209,216,135,1) ; position: absolute; top: 5px; left: 10px;">09.2003 - 04.2008</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(209,216,135,1);  position: absolute; top: 50px; left: 10px;">&nbsp;University of Tehran</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(209,216,200,1) ; position: absolute; top: 5px; left: 10px;">09.2003 - 04.2008</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(209,216,200,1);  position: absolute; top: 50px; left: 10px;">&nbsp;University of Tehran</span></p>
 </div>
  </div>
 
