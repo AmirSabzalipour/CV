@@ -76,7 +76,7 @@ tags: [Page]
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(150, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Master of Digital Text Analysis</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Master of Digital Text Analysis</p>
 </div>
    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
  <li style="margin-bottom: 10px;">  Applying Natural Language Processing (NLP), Machine Learning (ML), and Data Science to analyze text, audio, and video content from various sources, including web content, books, audiobooks, and speeches.</li>
@@ -93,7 +93,7 @@ tags: [Page]
 
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(100, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Ph.D. in Physics</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Ph.D. in Physics</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
  <li style="margin-bottom: 10px;">Thesis title: <a href="https://repository.uantwerpen.be/docstore/d:irua:8696" style="color: lapislazuli;">"Charge Transport in Magnetic Topological Insulators"</a></li>
@@ -114,7 +114,7 @@ tags: [Page]
 
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"><p style="font-weight: bold; font-size: 22px;color: rgba(50, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">M.Sc. in Physics</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"><p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">M.Sc. in Physics</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
     <li style="margin-bottom: 10px;"> Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.</li>
