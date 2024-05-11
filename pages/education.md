@@ -147,13 +147,13 @@ tags: [Page]
     <li style="margin-bottom: 10px;"> Investigating the thickness of thin films by image processing on optical interference pattern.            
     </li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  80.7%, rgba(215,216,199)  19.3%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  80.7%, rgba(209,216,135,1)  19.3%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(215,216,199) ; position: absolute; top: 5px; left: 10px;">09.2003 - 04.2008</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(215,216,199);  position: absolute; top: 50px; left: 10px;">&nbsp;University of Tehran</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(209,216,135,1) ; position: absolute; top: 5px; left: 10px;">09.2003 - 04.2008</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(209,216,135,1);  position: absolute; top: 50px; left: 10px;">&nbsp;University of Tehran</span></p>
 </div>
  </div>
 
