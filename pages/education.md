@@ -81,7 +81,7 @@ tags: [Page]
    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
  <li style="margin-bottom: 10px;">  Applying Natural Language Processing (NLP), Machine Learning (ML), and Data Science to analyze text, audio, and video content from various sources, including web content, books, audiobooks, and speeches.</li>
   </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(212, 156, 74,1)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 2px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(212, 156, 74,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
