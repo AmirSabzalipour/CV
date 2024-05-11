@@ -120,13 +120,13 @@ tags: [Page]
     <li style="margin-bottom: 10px;"> Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.</li>
     <p style="font-size: 14px; color:gray; margin-top: 10px;">IASBS : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  80.7%, rgba(200,144,98,1)  19.3%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  80.7%, rgba(200,200,98,1)  19.3%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1) ; position: absolute; top: 5px; left: 10px;">09.2011 - 04.2014</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1);  position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,200,98,1) ; position: absolute; top: 5px; left: 10px;">09.2011 - 04.2014</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,200,98,1);  position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span></p>
 </div>
  </div>
 
