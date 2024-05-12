@@ -139,13 +139,13 @@ position: 2
     <ul style="font-size: 15px; color: black;margin-left: 1.7em; font-family: 'Avenir Next LT Pro', sans-serif;">
        <li style="margin-bottom: 10px;">Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  80.5%, rgba(212, 170, 74,.5)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  80.5%, rgba(64, 130, 109,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1); position: absolute; top: 5px; left: 10px;">10.2015 - 02.2016</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(155, 154, 90, 1); position: absolute; top: 50px; left: 10px;">Uppsala University</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(64, 130, 109,1); position: absolute; top: 5px; left: 10px;">10.2015 - 02.2016</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(64, 130, 109,1); position: absolute; top: 50px; left: 10px;">Uppsala University</span></p>
 </div>
  </div>
 
@@ -183,13 +183,13 @@ position: 2
      <li style="margin-bottom: 10px;">Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
      <p style="font-size: 14px; color:gray; margin-top: 10px;">IASBS : Institute for Research in Fundamental Sciences, Tehran</p> 
     </ul>
-    <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(62,121,180,.6) 80.5%, rgba(212, 170, 74,.5)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(62,121,180,.6) 80.5%, rgba(64, 130, 109,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro';position: absolute; top: 10px; left: 720px; font-size: 15px; color: rgba(155, 154, 90, 1);">01.2014 - 09.2015</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(155, 154, 90, 1);position: absolute; top: 60px; left: 720px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro';position: absolute; top: 10px; left: 720px; font-size: 15px; color: rgba(64, 130, 109,1);">01.2014 - 09.2015</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(64, 130, 109,1);position: absolute; top: 60px; left: 720px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span></p>
  </div>
 </div>
 
@@ -257,13 +257,13 @@ position: 2
     <ul style="font-size: 15px; font-family: 'AvenirNext LT Pro Regular', sans-serif; margin-left: 1.7em; color: black;"> 
   <li> Tutoring high school students in math and physics.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(212, 170, 74,.5)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(64, 130, 109,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(155, 154, 90, 1); position: absolute; top: 5px; left: 0px;">09.2009 - 08.2010</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:rgba(155, 154, 90, 1); position: absolute; top: 50px; left: 0px;">Institute of Khaje Nasir, Tehran</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(64, 130, 109,1); position: absolute; top: 5px; left: 0px;">09.2009 - 08.2010</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:rgba(64, 130, 109,1); position: absolute; top: 50px; left: 0px;">Institute of Khaje Nasir, Tehran</span></p>
 </div>
  </div>
 
