@@ -165,10 +165,6 @@ position: 2
          <div style="::before; content: ''; position: absolute; top: 41px; left:24px; width: 30%; height: 5px; background: linear-gradient(to right, lightgray  100%, rgba(62,121,180,.1)  20.5%); 
     border-radius: 5px 5px 5px 5px;"> </div>
 </div>
-<br>
-
-
-<br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: -20px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(62,121,180,1);margin-left: 0.9em;">Research Engineer</p>
@@ -179,7 +175,7 @@ position: 2
     <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(62,121,180,.6)  80.5%, rgba(200,144,98,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
-   <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
+   <div class="additional-column" style=" padding-top: -8px; width: 180px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
     <p><span style="font-family: 'Avenir Next LT Pro';position: absolute; top: 10px; left: 720px; font-size: 15px; color: rgba(200,144,98,1);">01.2020 - 03.2021</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1);position: absolute; top: 60px; left: 720px;">University of Antwerp</span></p>
