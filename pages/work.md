@@ -72,9 +72,9 @@ position: 2
     </style>
 
 <section>
-<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white ;  background-color: white; line-height: 40px; margin-bottom: -5px;">
-    <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
-   </div>
+<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid   #f0f0f0;  background-color:  #f0f0f0; line-height: 40px; margin-bottom: -5px;">
+    <span style="font-size: 22px; color: gray; font-weight: bold; font-family: 'Garamond'; "> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials </span>
+</div>
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
