@@ -73,6 +73,8 @@ position: 2
 
 <section>
  <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
+  <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 2.5px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(200,144,98,1)  20.5%); 
+    border-radius: 10px 10px 10px 10px;"> </div>
 <br>
 <br>
 <br>
