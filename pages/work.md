@@ -249,7 +249,7 @@ position: 2
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
     <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: rgba(62,121,180,1);  margin-left: .2em;"> Teaching</p>
         </div>
-         <div style="::before; content: ''; position: absolute; top: 41px; left:24px; width: 42%; height: 5px; background: linear-gradient(to right, lightgray  100%, rgba(62,121,180,.1)  20.5%); 
+         <div style="::before; content: ''; position: absolute; top: 41px; left:24px; width: 30%; height: 5px; background: linear-gradient(to right, lightgray  100%, rgba(62,121,180,.1)  20.5%); 
     border-radius: 5px 5px 5px 5px;"> </div>
 </div>
 <br>
@@ -264,7 +264,7 @@ position: 2
      <li style="margin-bottom: 10px;"> Supervising students for the International Young Physicists' Tournament (IYPT).</li>
     <li style="margin-bottom: 10px;">Teaching students the relevant practical theories and how to use laboratory equipment.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:10px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(212, 170, 74,.5)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(212, 170, 74,.5)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 180px; height: 100px; position: relative;">
@@ -281,7 +281,7 @@ position: 2
     <ul style="font-size: 15px; font-family: 'AvenirNext LT Pro Regular', sans-serif; margin-left: 1.7em; color: black;"> 
   <li> Tutoring high school students in math and physics.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:10px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(64, 130, 109,1)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(64, 130, 109,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 180px; height: 100px; position: relative;">
