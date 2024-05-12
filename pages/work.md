@@ -162,7 +162,7 @@ position: 2
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
     <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: rgba(62,121,180,1);  margin-left: .2em;"> Optical Design</p>
         </div>
-         <div style="::before; content: ''; position: absolute; top: 41px; left:24px; width: 42%; height: 5px; background: linear-gradient(to right, lightgray  100%, rgba(62,121,180,.1)  20.5%); 
+         <div style="::before; content: ''; position: absolute; top: 41px; left:24px; width: 30%; height: 5px; background: linear-gradient(to right, lightgray  100%, rgba(62,121,180,.1)  20.5%); 
     border-radius: 5px 5px 5px 5px;"> </div>
 </div>
 <br>
@@ -188,7 +188,7 @@ position: 2
 
 <br>
 
-<div class="textbox" style="display: flex;justify-content: space-between;  line-height: 90px; margin-bottom: 10px;">
+<div class="textbox" style="display: flex;justify-content: space-between;  line-height: 90px; margin-bottom: -5px;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(62,121,180,1);margin-left: 0.9em;">Optical Design Engineer</p>
         </div>
@@ -215,7 +215,7 @@ position: 2
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
     <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: rgba(62,121,180,1);  margin-left: .2em;"> Material Characterization, Optical Metrology</p>
         </div>
-         <div style="::before; content: ''; position: absolute; top: 41px; left:24px; width: 42%; height: 5px; background: linear-gradient(to right, lightgray  100%, rgba(62,121,180,.1)  20.5%); 
+         <div style="::before; content: ''; position: absolute; top: 41px; left:24px; width: 45%; height: 5px; background: linear-gradient(to right, lightgray  100%, rgba(62,121,180,.1)  20.5%); 
     border-radius: 5px 5px 5px 5px;"> </div>
 </div>
 <br>
