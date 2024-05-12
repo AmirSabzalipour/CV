@@ -80,32 +80,6 @@ position: 2
         </div>
          <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 2.5px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(62,121,180,.6)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
-     </div>
- </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid   #f0f0f0;  background-color:  #f0f0f0; line-height: 40px; margin-bottom: -5px;">
-    <span style="font-size: 22px; color: gray; font-weight: bold; font-family: 'Garamond'; "> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials </span>
 </div>
 <br>
 
