@@ -75,7 +75,7 @@ position: 2
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white ;  background-color: white; line-height: 40px; margin-bottom: -5px;">
     <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
     <div style="::before; content: ''; position: absolute; top: 47px; left:20px; width: 50%; height: 4px; background: linear-gradient(to right, rgba(62,121,180,.3)  79.5%, rgba(62,121,180,.3)  20.5%); 
-    border-radius: 0px 10px 10px 10px;"> </div>
+    border-radius: 0px 0px 0px 0px;"> </div>
 </div>
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
