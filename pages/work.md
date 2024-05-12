@@ -72,11 +72,9 @@ position: 2
     </style>
 
 <section>
- <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
-  <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 2.5px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(200,144,98,1)  20.5%); 
-    border-radius: 10px 10px 10px 10px;"> </div>
-<br>
-<br>
+<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  #f0f0f0 ;  background-color: #f0f0f0; line-height: 40px; margin-bottom: -5px;">
+    <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
+</div>
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
@@ -221,7 +219,7 @@ position: 2
      </div>
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; position: absolute; top: 10px; left: 750px;color: rgba(200,144,98,1);">05.2008 - 08.2009</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; position: absolute; top: 10px; left: 750px;color: rgba(155, 154, 90, 1);">05.2008 - 08.2009</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1);position: absolute; top: 60px; left: 750px;">Univeristy of Tehran</span></p>
  </div>
 </div>
