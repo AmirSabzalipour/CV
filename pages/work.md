@@ -76,9 +76,9 @@ position: 2
 
 
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  rgba(62,121,180,.6);  background-color:  #f0f0f0; line-height: 40px; margin-bottom: -5px;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(61, 90, 128,1);margin-left: .9em;"> Computational Research on Materials</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(61, 90, 128,1);margin-left: .9em;"> Computational Research on Materials</p>
         </div>
-         <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 2.5px; background: linear-gradient(to right, rgba(200,144,98,1)  79.5%, rgba(200,144,98,1)  20.5%); 
+         <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 5px; background: linear-gradient(to right, rgba(200,144,98,.3)  79.5%, rgba(200,144,98,.3)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
 </div>
 <br>
