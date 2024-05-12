@@ -221,7 +221,7 @@ position: 2
      </div>
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; position: absolute; top: 10px; left: 750px;color: rgba(155, 154, 90, 1);">05.2008 - 08.2009</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; position: absolute; top: 10px; left: 750px;color: rgba(200,144,98,1);">05.2008 - 08.2009</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1);position: absolute; top: 60px; left: 750px;">Univeristy of Tehran</span></p>
  </div>
 </div>
