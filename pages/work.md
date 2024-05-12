@@ -72,6 +72,44 @@ position: 2
     </style>
 
 <section>
+
+
+
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(61, 90, 128,1);margin-left: .9em;"> Postdoctoral Researcher</p>
+        </div>
+         <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 2.5px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(200,144,98,1)  20.5%); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1); position: absolute; top: 5px; left: 10px;">10.2021 - 06.2023</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1); position: absolute; top: 50px; left: 6px;">University of Antwerp</span></p>
+</div>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid   #f0f0f0;  background-color:  #f0f0f0; line-height: 40px; margin-bottom: -5px;">
     <span style="font-size: 22px; color: gray; font-weight: bold; font-family: 'Garamond'; "> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials </span>
 </div>
