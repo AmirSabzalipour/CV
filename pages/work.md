@@ -277,12 +277,12 @@ position: 2
     <ul style="font-size: 15px; font-family: 'AvenirNext LT Pro Regular', sans-serif; margin-left: 1.7em; color: black;"> 
   <li> Tutoring high school students in math and physics.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  70%, rgba(64, 130, 109,1)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  75%, rgba(64, 130, 109,1)  25%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 220px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(64, 130, 109,1); position: absolute; top: 5px; left: 0px;">09.2009 - 08.2010</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(64, 130, 109,1); position: absolute; top: 5px; left: 20px;">09.2009 - 08.2010</span></p>
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color:rgba(64, 130, 109,1); position: absolute; top: 50px; left: 0px;">Institute of Khaje Nasir, Tehran</span></p>
 </div>
  </div>
