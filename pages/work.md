@@ -168,8 +168,8 @@ position: 2
      </div>
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro';position: absolute; top: 10px; left: 750px; font-size: 15px; color: rgba(155, 154, 90, 1);">01.2020 - 03.2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(155, 154, 90, 1);position: absolute; top: 60px; left: 750px;">University of Antwerp</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro';position: absolute; top: 10px; left: 720px; font-size: 15px; color: rgba(155, 154, 90, 1);">01.2020 - 03.2021</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(155, 154, 90, 1);position: absolute; top: 60px; left: 720px;">University of Antwerp</span></p>
  </div>
 </div>
 
@@ -188,8 +188,8 @@ position: 2
      </div>
    <div class="additional-column" style=" padding-top: -8px; width: 160px;height: 100px;">
       <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro';position: absolute; top: 10px; left: 750px; font-size: 15px; color: rgba(155, 154, 90, 1);">01.2014 - 09.2015</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(155, 154, 90, 1);position: absolute; top: 60px; left: 750px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro';position: absolute; top: 10px; left: 720px; font-size: 15px; color: rgba(155, 154, 90, 1);">01.2014 - 09.2015</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(155, 154, 90, 1);position: absolute; top: 60px; left: 720px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span></p>
  </div>
 </div>
 
