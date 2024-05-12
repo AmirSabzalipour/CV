@@ -253,8 +253,8 @@ position: 2
      </div>
 <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
     <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(155, 154, 90, 1); position: absolute; top: 5px; left: 0px;">09.2010 - 08.2011</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(155, 154, 90, 1); position: absolute; top: 50px; left: 0px;">Mofid High School, Tehran</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 170, 74,.5); position: absolute; top: 5px; left: 0px;">09.2010 - 08.2011</span></p>
+    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(212, 170, 74,.5); position: absolute; top: 50px; left: 0px;">Mofid High School, Tehran</span></p>
 </div>
  </div>
 
