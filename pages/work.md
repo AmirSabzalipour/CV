@@ -159,10 +159,15 @@ position: 2
 
 <br><br>
 <section>
-
-<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid   #f0f0f0;  background-color:  #f0f0f0; line-height: 40px; margin-bottom: -5px;">
-    <span style="font-size: 22px; color: gray; font-weight: bold; font-family: 'Garamond'; "> &nbsp;&nbsp;&nbsp;&nbsp; Optical Design </span>
+<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
+    <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: rgba(62,121,180,1);  margin-left: .2em;"> Optical Design</p>
+        </div>
+         <div style="::before; content: ''; position: absolute; top: 41px; left:24px; width: 42%; height: 5px; background: linear-gradient(to right, lightgray  100%, rgba(62,121,180,.1)  20.5%); 
+    border-radius: 5px 5px 5px 5px;"> </div>
 </div>
+<br>
+
+
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: -20px;">
     <div class="main-content" style="flex: 1;">
@@ -206,10 +211,14 @@ position: 2
 
 
 <section>
- <div class="textbox" style="textbox" style="display: flex;justify-content: space-between; border: .5px solid   #f0f0f0;   background-color: #f0f0f0; line-height: 40px; margin-bottom: 10px;">
-    <span style="font-size: 19px; color:gray; font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;III. Material Characterization, Optical Metrology </span>
-</div>
 
+<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
+    <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: rgba(62,121,180,1);  margin-left: .2em;"> Material Characterization, Optical Metrology</p>
+        </div>
+         <div style="::before; content: ''; position: absolute; top: 41px; left:24px; width: 42%; height: 5px; background: linear-gradient(to right, lightgray  100%, rgba(62,121,180,.1)  20.5%); 
+    border-radius: 5px 5px 5px 5px;"> </div>
+</div>
+<br>
 
 
 
@@ -236,9 +245,16 @@ position: 2
 <br><br>
 
 <section>
- <div class="textbox" style="display: flex;justify-content: space-between;border: 2px solid #f0f0f0;  background-color: #f0f0f0; line-height: 40px; margin-bottom: -10px;">
-    <span style="font-size: 22px; color:gray; font-weight: bold; font-family: 'Garamond';">&nbsp;&nbsp;&nbsp;&nbsp;Teaching </span>
+
+<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
+    <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: rgba(62,121,180,1);  margin-left: .2em;"> Teaching</p>
+        </div>
+         <div style="::before; content: ''; position: absolute; top: 41px; left:24px; width: 42%; height: 5px; background: linear-gradient(to right, lightgray  100%, rgba(62,121,180,.1)  20.5%); 
+    border-radius: 5px 5px 5px 5px;"> </div>
 </div>
+<br>
+
+
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
