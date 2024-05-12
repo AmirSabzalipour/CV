@@ -85,7 +85,7 @@ position: 2
 
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(61, 90, 128,1);margin-left: .9em;"> Postdoctoral Researcher</p>
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(62,121,180,1);margin-left: .9em;"> Postdoctoral Researcher</p>
         </div>
     <ul style="font-size: 15px; font-family: 'AvenirNext LT Pro Regular', sans-serif; margin-left: 1.7em; color: black;">
     <li style="margin-bottom: 10px;">Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
