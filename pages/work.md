@@ -73,7 +73,8 @@ position: 2
 
 <section>
  <span style="font-size: 22px; color:black; font-weight: bold; font-family: 'Garamond';"> &nbsp;&nbsp;&nbsp;&nbsp; Computational Research on Materials  </span>
-</div>
+<br>
+<br>
 <br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
