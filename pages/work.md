@@ -264,7 +264,7 @@ position: 2
      <li style="margin-bottom: 10px;"> Supervising students for the International Young Physicists' Tournament (IYPT).</li>
     <li style="margin-bottom: 10px;">Teaching students the relevant practical theories and how to use laboratory equipment.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(212, 170, 74,.5)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:10px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(212, 170, 74,.5)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 180px; height: 100px; position: relative;">
@@ -281,7 +281,7 @@ position: 2
     <ul style="font-size: 15px; font-family: 'AvenirNext LT Pro Regular', sans-serif; margin-left: 1.7em; color: black;"> 
   <li> Tutoring high school students in math and physics.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(64, 130, 109,1)  20.5%); 
+    <div style="::before; content: ''; position: absolute; top: 47px; left:10px; width: 100%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(64, 130, 109,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
 <div class="additional-column" style="width: 180px; height: 100px; position: relative;">
