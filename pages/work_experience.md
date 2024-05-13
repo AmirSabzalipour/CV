@@ -6,6 +6,141 @@ subtitle: ""
 feature-img: "assets/img/pexels/"
 position: 5
 ---
+<style>
+    /* Your existing CSS styles */
+    .textbox {
+        display: flex;
+        justify-content: space-between;
+        line-height: 90px;
+        margin-bottom: 10px;
+        /* Add other styles as needed */
+    }
+
+    .textbox .main-content {
+        flex: 1;
+        /* Add other styles as needed */
+    }
+
+    .textbox .main-content > div {
+        margin-left: 0.1em;
+        margin-top: -0.1em;
+        display: flex;
+        align-items: center;
+        margin-bottom: 5px;
+        /* Add other styles as needed */
+    }
+
+    .textbox .main-content p {
+        font-weight: bold;
+        font-family: 'Garamond';
+        font-size: 20px;
+        color: rgba(62, 121, 180, 1);
+        margin-left: .9em;
+        /* Add other styles as needed */
+    }
+
+    .textbox .main-content ul {
+        font-size: 15px;
+        font-family: 'AvenirNext LT Pro Regular', sans-serif;
+        margin-left: 1.7em;
+        color: black;
+        /* Add other styles as needed */
+    }
+
+    .textbox .main-content li {
+        margin-bottom: 10px;
+        /* Add other styles as needed */
+    }
+
+    .textbox .main-content div::before {
+        content: '';
+        position: absolute;
+        top: 47px;
+        left: 10px;
+        width: 98%;
+        height: 2.5px;
+        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 79.5%, rgba(200, 144, 98, 1) 20.5%);
+        border-radius: 10px;
+        /* Add other styles as needed */
+    }
+
+    .additional-column {
+        width: 160px;
+        height: 100px;
+        position: relative;
+        /* Add other styles as needed */
+    }
+
+    .additional-column p {
+        position: absolute;
+        font-family: 'Avenir Next LT Pro';
+        font-size: 15px;
+        /* Add other styles as needed */
+    }
+
+    @media only screen and (max-width: 600px) {
+        /* Adjust styles for small screens */
+        .textbox {
+            flex-direction: column;
+            align-items: flex-start;
+            line-height: normal;
+        }
+
+        .textbox .main-content {
+            width: 100%;
+        }
+
+        .textbox .main-content > div {
+            margin-left: 0;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        .textbox .main-content p {
+            font-size: 16px;
+            margin-left: 0;
+            margin-top: 10px;
+        }
+
+        .textbox .main-content ul {
+            margin-left: 0;
+        }
+
+        .textbox .main-content div::before {
+            top: 30px;
+            left: 0;
+            width: 100%;
+        }
+
+        .additional-column {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        .additional-column p {
+            position: relative;
+            font-size: 14px;
+        }
+    }
+</style>
+
+<div class="textbox">
+    <div class="main-content">
+        <div>
+            <p>Postdoctoral Researcher</p>
+        </div>
+        <ul>
+            <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
+            <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li>
+        </ul>
+        <div></div>
+    </div>
+    <div class="additional-column">
+        <p></p>
+        <p>10.2021 - 06.2023</p>
+        <p>University of Antwerp</p>
+    </div>
+</div>
 
 <style>
         /* Reset default margin and padding */
