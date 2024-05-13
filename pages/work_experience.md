@@ -4,7 +4,7 @@ title: Work Experience
 permalink: /portfolio/
 subtitle: ""
 feature-img: "assets/img/pexels/"
-position: 1
+position: 5
 ---
 
 <style>
@@ -51,28 +51,31 @@ position: 1
             line-height: 1.6;
     }
 
-     @media only screen and (max-width: 600px) {
-        /* Adjust styles for small screens */
+   @media only screen and (max-width: 600px) {
+        /* New textbox style for small screens */
         .textbox {
-            flex-direction: column;
-            align-items: flex-start;
+            border-radius: 15px;
             padding: 10px;
+            margin-bottom: 10px;
         }
 
-        .textbox > div {
-            margin-left: 0;
-            margin-top: 0;
-            margin-bottom: 0;
-        }
-
-        .textbox i {
-            margin-right: 0;
+        /* Adjust other styles as needed */
+        .textbox h3 {
+            font-size: 18px;
+            margin-bottom: 5px;
         }
 
         .textbox p {
-            font-size: 18px;
-            margin-left: 0;
-            margin-top: 5px;
+            font-size: 14px;
+            line-height: 1.4;
+            margin-bottom: 5px;
+        }
+
+        /* Additional style for small screens */
+        .additional-column {
+            width: 0;
+            height: auto;
+            position: static;
         }
     }
 </style>
