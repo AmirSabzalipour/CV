@@ -73,21 +73,10 @@ position: 2
 
 <section>
 
-<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid white; background-color: white; margin:0px; padding: 0px; line-height: 1;">
-    <h1 style="font-size:30px; color: white; margin: 0; padding: 0;">Computational Research on Materials</h1>
-      <div style="margin-left: 0.4em; display: flex; align-items: center;">
-        <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #acd185; margin: 0;">Computational Research on Materials</p>
-    </div>
-</div>
 
-
-
-<h1 style="font-size:100px; color:white; margin:10px;">Sammy the Shark</h1>
-
-<p style="font-size:30px; color: white;"><em>Senior Selachimorpha at DigitalOcean</em></p>
 
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
-    <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color:#acd185;  margin-left: .2em;"> Computational Research on Materials</p>
+    <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #91b472;  margin-left: .2em;"> Computational Research on Materials</p>
         </div>
        </div>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
@@ -168,11 +157,13 @@ position: 2
 <br>
 <br>
 <section>
-
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
     <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #91b472;  margin-left: .2em;"> Optical Design</p>
         </div>
        </div>
+
+<br>
+
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: -20px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(62,121,180,1);margin-left: 0.9em;">Research Engineer</p>
@@ -251,6 +242,7 @@ position: 2
     <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color:#91b472;  margin-left: .2em;"> Teaching</p>
         </div>
         </div>
+<br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 20px; color: rgba(62,121,180,1); font-family: 'Garamond'; margin-left: .9em;"> Lab Instructor and Research Teacher</p>
