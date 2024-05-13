@@ -51,30 +51,33 @@ position: 1
             line-height: 1.6;
     }
 
-    @media only screen and (max-width: 600px) {
-    /* New textbox style for small screens */
-    .new-textbox {
-        background-color: #f0f0f0;
-        border: 1px solid white;
-        border-radius: 15px;
-        padding: 10px;
-        margin-bottom: 10px;
-    }
-    
-    /* Adjust other styles as needed */
-    .new-textbox h3 {
-        color: #333;
-        font-size: 18px;
-        margin-bottom: 5px;
-    }
+   @media only screen and (max-width: 600px) {
+        /* New textbox style for small screens */
+        .textbox {
+            border-radius: 15px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
 
-    .new-textbox p {
-        color: #666;
-        font-size: 14px;
-        line-height: 1.4;
-        margin-bottom: 5px;
+        /* Adjust other styles as needed */
+        .textbox h3 {
+            font-size: 18px;
+            margin-bottom: 5px;
+        }
+
+        .textbox p {
+            font-size: 14px;
+            line-height: 1.4;
+            margin-bottom: 5px;
+        }
+
+        /* Additional style for small screens */
+        .additional-column {
+            width: 0;
+            height: auto;
+            position: static;
+        }
     }
-}
 </style>
 
 
