@@ -5,7 +5,7 @@ permalink: /My Selected skills/
 subtitle: "" 
 feature-img: "assets/img/pexels/"
 excluded: true
-position: 3
+position: 2
 tags: [Page]
 ---
 <html lang="en">
