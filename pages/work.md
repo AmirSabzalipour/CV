@@ -73,6 +73,15 @@ position: 2
 
 <section>
 
+<div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid white; background-color: white; margin: 10px; padding: 10px; line-height: 1;">
+    <h1 style="font-size: 100px; color: white; margin: 0; padding: 0;">Computational Research on Materials</h1>
+    <p style="font-size: 30px; color: white; margin: 0; padding: 0;"><em>Senior Selachimorpha at DigitalOcean</em></p>
+    <div style="margin-left: 0.4em; display: flex; align-items: center;">
+        <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #acd185; margin: 0;">Computational Research on Materials</p>
+    </div>
+</div>
+
+
 
 <h1 style="font-size:100px; color:white; margin:10px;">Sammy the Shark</h1>
 
