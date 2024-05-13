@@ -74,6 +74,9 @@ position: 2
 <section>
 
 
+<h1 style="font-size:100px; color:white; margin:10px;">Sammy the Shark</h1>
+
+<p style="font-size:30px; color: white;"><em>Senior Selachimorpha at DigitalOcean</em></p>
 
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
     <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color:#acd185;  margin-left: .2em;"> Computational Research on Materials</p>
@@ -157,9 +160,6 @@ position: 2
 <br>
 <br>
 <section>
-<h1 style="font-size:100px; color:white; margin:10px;">Sammy the Shark</h1>
-
-<p style="font-size:30px; color: white;"><em>Senior Selachimorpha at DigitalOcean</em></p>
 
 <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
     <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;"> <p style=" font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #91b472;  margin-left: .2em;"> Optical Design</p>
