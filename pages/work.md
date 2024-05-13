@@ -52,29 +52,35 @@ position: 1
     }
 
      @media only screen and (max-width: 600px) {
-        /* Adjust styles for small screens */
-        .textbox {
-            flex-direction: column;
-            align-items: flex-start;
-            padding: 10px;
-        }
-
-        .textbox > div {
-            margin-left: 0;
-            margin-top: 0;
-            margin-bottom: 0;
-        }
-
-        .textbox i {
-            margin-right: 0;
-        }
-
-        .textbox p {
-            font-size: 18px;
-            margin-left: 0;
-            margin-top: 5px;
-        }
+    /* Adjust styles for small screens */
+    .textbox {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px;
     }
+
+    .textbox > div {
+        margin-left: 0;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .textbox i {
+        margin-right: 0;
+    }
+
+    .textbox p {
+        font-size: 18px;
+        margin-left: 0;
+        margin-top: 5px;
+    }
+
+    /* Remove styles for additional column */
+    .textbox .additional-column {
+        display: none;
+    }
+}
+
 </style>
 
 
