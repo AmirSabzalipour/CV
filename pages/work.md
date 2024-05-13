@@ -194,7 +194,7 @@ position: 2
         </div>
     <ul style="font-size: 15px;margin-left: 1.7em; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">
      <li style="margin-bottom: 10px;">Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
-     <p style="font-size: 14px; color:gray; margin-top: 10px;">IASBS : Institute for Research in Fundamental Sciences, Tehran</p> 
+     <p style="font-size: 14px; color:gray; margin-top: 10px;">IASBS : Institute for Advanced Studies in Basic Sciences, Zanjan, Iran</p> 
     </ul>
     <div style="::before; content: ''; position: absolute; top:40px; left: 10px; width: 98%; height:3px; background: linear-gradient(to right, rgba(62,121,180,.6) 80.5%, rgba(64, 130, 109,1)  20.5%); 
     border-radius: 10px 10px 10px 10px;"> </div>
