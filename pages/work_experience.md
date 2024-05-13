@@ -4,7 +4,7 @@ title: Work Experience
 permalink: /portfolio/
 subtitle: ""
 feature-img: "assets/img/pexels/"
-position: 5
+position: 6
 ---
 
 <style>
