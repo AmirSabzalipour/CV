@@ -69,7 +69,38 @@ position: 1
                 padding: 5px;
             }
         }
-    </style>
+        @media only screen and (max-width: 600px) {
+    .textbox {
+        border: 1px solid #ddd;
+        border-radius: 17px;
+        padding: 10px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main-content {
+        width: 100%; /* Adjust this as needed */
+        margin-right: 0; /* Adjust this as needed */
+        margin-bottom: 10px; /* Add some space between boxes on small screens */
+    }
+    .additional-column {
+        width: 100%; /* Adjust this as needed */
+        padding: 5px;
+    }
+    /* Adjust font sizes, line heights, margins, and paddings as needed */
+    .textbox h3 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    .textbox p {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+}
+
+</style>
+
+
+
 
 <section>
 
