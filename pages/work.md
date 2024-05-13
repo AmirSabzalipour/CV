@@ -180,9 +180,6 @@ position: 2
         <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #91b472; margin-left: .2em;"> Optical Design</p> <!-- Text -->
     </div>
 </div>
-
-<br>
-
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: -20px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(62,121,180,1);margin-left: 0.9em;">Research Engineer</p>
@@ -249,8 +246,6 @@ position: 2
         <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #91b472; margin-left: .2em;"> Material Characterization, Optical Metrology</p> <!-- Text -->
     </div>
 </div>
-<br>
-
 <div class="textbox" style="display: flex;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 9px;"> <p style="font-weight: bold; font-family: 'Garamond'; font-size: 20px; color: rgba(62,121,180,1);margin-left: 0.9em;">Research Assistance</p>
@@ -283,8 +278,6 @@ position: 2
         <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #91b472; margin-left: .2em;"> Teaching</p> <!-- Text -->
     </div>
 </div>
-
-<br>
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 20px; color: rgba(62,121,180,1); font-family: 'Garamond'; margin-left: .9em;"> Lab Instructor and Research Teacher</p>
