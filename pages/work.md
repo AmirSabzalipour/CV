@@ -70,7 +70,7 @@ position: 1
     }
 
     .textbox p {
-        font-size: 18px;
+        font-size: 9px;
         margin-left: 0;
         margin-top: 5px;
     }
