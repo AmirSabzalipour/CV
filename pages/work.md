@@ -41,7 +41,7 @@ position: 1
 
     .textbox h3 {
             color: #333;
-            font-size: 18px;
+            font-size: 12px;
             margin-bottom: 10px;
     }
 
