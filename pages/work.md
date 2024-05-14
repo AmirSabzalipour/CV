@@ -82,6 +82,23 @@ position: 1
 }
 
 </style>
+@media only screen and (max-width: 600px) {
+        /* Adjust title size for small screens */
+        .small-screen-title {
+            font-size: 20px; /* Adjust as needed */
+        }
+    }
+</style>
+
+<section>
+    <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
+        <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
+            <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i> <!-- Icon -->
+            <p class="small-screen-title" style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #abb8a0; margin-left: .2em;"> Computational Research on Materials</p> <!-- Text -->
+        </div>
+    </div>
+    <!-- Other content -->
+</section>
 
 
 
