@@ -82,13 +82,6 @@ position: 1
 }
 
 </style>
-@media only screen and (max-width: 600px) {
-        /* Adjust title size for small screens */
-        .small-screen-title {
-            font-size: 20px; /* Adjust as needed */
-        }
-    }
-</style>
 
 <section>
     <div class="textbox" style="display: flex;justify-content: space-between; border: .5px solid  white;  background-color: white; line-height: 40px; margin-bottom: -5px;">
