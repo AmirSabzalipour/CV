@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience2
-permalink: /portfolio/
+permalink: /portfolio2/
 subtitle: ""
 feature-img: "assets/img/pexels/"
 position: 6
