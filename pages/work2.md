@@ -70,7 +70,7 @@ position: 6
     }
 
     .textbox p {
-        font-size: 14px; /* Adjusted font size for better readability on small screens */
+        font-size: 18px; /* Adjusted font size for paragraphs on small screens */
         margin-left: 0;
         margin-top: 5px;
     }
