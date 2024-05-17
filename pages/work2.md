@@ -80,7 +80,7 @@ position: 6
         display: none;
     }
     .responsive-text {
-            font-size: 13px; /* Adjust this value as needed */
+            font-size: 9px; /* Adjust this value as needed */
         }
 }
 
