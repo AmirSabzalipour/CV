@@ -51,7 +51,7 @@ position: 6
     }
 
     .responsive-text {
-        font-size: 23px;
+        font-size: 20px; /* Global font size for .responsive-text */
         font-family: 'Garamond';
         color: #abb8a0;
     }
@@ -81,7 +81,7 @@ position: 6
         }
 
         .responsive-text {
-            font-size: 16px; /* Smaller font size for smaller screens */
+            font-size: 14px; /* Smaller font size for smaller screens */
         }
 
         /* Remove styles for additional column */
@@ -90,6 +90,7 @@ position: 6
         }
     }
 </style>
+
 
 <section>
     <div class="textbox" style="display: flex; justify-content: space-between; border: 0.5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
@@ -133,7 +134,6 @@ position: 6
             <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(64, 130, 109, 1); position: absolute; top: 50px; left: 6px;">University of Antwerp</span></p>
         </div>
     </div>
-
     <div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
         <div class="main-content" style="flex: 1;">
             <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
