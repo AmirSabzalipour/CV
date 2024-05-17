@@ -75,13 +75,13 @@ position: 6
         }
 
         .textbox p {
-            font-size: 18px; /* Adjusted font size for paragraphs on small screens */
+            font-size: 15px; /* Adjusted font size for paragraphs on small screens */
             margin-left: 0;
             margin-top: 2px;
         }
 
         .responsive-text {
-            font-size: 18px; /* Smaller font size for smaller screens */
+            font-size: 16px; /* Smaller font size for smaller screens */
         }
 
         /* Remove styles for additional column */
