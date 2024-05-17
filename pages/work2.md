@@ -56,7 +56,7 @@ position: 6
     .textbox {
         flex-direction: column;
         align-items: flex-start;
-        padding: 10px;
+        padding: 3px;
     }
 
     .textbox > div {
@@ -72,7 +72,7 @@ position: 6
     .textbox p {
         font-size: 12px; /* Adjusted font size for paragraphs on small screens */
         margin-left: 0;
-        margin-top: 5px;
+        margin-top: 2px;
     }
 
     /* Remove styles for additional column */
