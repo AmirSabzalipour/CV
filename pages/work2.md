@@ -51,7 +51,7 @@ position: 6
     }
 
     .responsive-text {
-        font-size: 20px; /* Global font size for .responsive-text */
+        font-size: 23px; /* Global font size for .responsive-text */
         font-family: 'Garamond';
         color: #abb8a0;
     }
@@ -81,7 +81,7 @@ position: 6
         }
 
         .responsive-text {
-            font-size: 14px; /* Smaller font size for smaller screens */
+            font-size: 18px; /* Smaller font size for smaller screens */
         }
 
         /* Remove styles for additional column */
