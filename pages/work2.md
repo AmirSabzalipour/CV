@@ -50,6 +50,12 @@ position: 6
         line-height: 1.6;
     }
 
+    .responsive-text {
+        font-size: 23px;
+        font-family: 'Garamond';
+        color: #abb8a0;
+    }
+
     @media only screen and (max-width: 600px) {
         /* Adjust styles for small screens */
         .textbox {
@@ -74,6 +80,10 @@ position: 6
             margin-top: 2px;
         }
 
+        .responsive-text {
+            font-size: 16px; /* Smaller font size for smaller screens */
+        }
+
         /* Remove styles for additional column */
         .textbox .additional-column {
             display: none;
@@ -85,10 +95,9 @@ position: 6
     <div class="textbox" style="display: flex; justify-content: space-between; border: 0.5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
         <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
             <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i> <!-- Icon -->
-            <p class="responsive-text" style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #abb8a0; margin-left: 0.2em;"> Computational Research on Materials</p> <!-- Text -->
+            <p class="responsive-text" style="font-weight: bold; margin-left: 0.2em;"> Computational Research on Materials</p> <!-- Text -->
         </div>
     </div>
-
     <div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
         <div class="main-content" style="flex: 1;">
             <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
@@ -106,7 +115,6 @@ position: 6
             <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200, 144, 98, 1); position: absolute; top: 50px; left: 6px;">University of Antwerp</span></p>
         </div>
     </div>
-
     <div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
         <div class="main-content" style="flex: 1;">
             <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
@@ -116,7 +124,7 @@ position: 6
                 <li style="margin-bottom: 10px;">Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
                 <li style="margin-bottom: 10px;">Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
                 <li style="margin-bottom: 10px;">Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
-            </ul>
+            </ul            >
             <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%, rgba(64, 130, 109, 1) 20%); border-radius: 10px;"> </div>
         </div>
         <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
