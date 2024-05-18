@@ -83,7 +83,7 @@ position: 6
         }
 
         .textbox p {
-            font-size: 6px; /* Adjusted font size for paragraphs on small screens */
+            font-size: 16px; /* Adjusted font size for paragraphs on small screens */
             margin-left: 0;
             margin-top: 2px;
         }
