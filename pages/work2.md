@@ -33,17 +33,17 @@ position: 6
         <!-- Content of the section -->
     </div>
 
-    <div class="section">
+<div class="section">
         <h3 class="section-title">Simulations of Materials</h3>
         <!-- Content of the section -->
     </div>
 
-    <div class="section">
+<div class="section">
         <h3 class="section-title">Visiting Research</h3>
         <!-- Content of the section -->
     </div>
 
-    <div class="section">
+<div class="section">
         <h3 class="section-title">Research Experience</h3>
         <!-- Content of the section -->
     </div>
