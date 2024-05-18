@@ -8,80 +8,86 @@ position: 6
 ---
 
 <style>
- .textbox {
-    display: flex;
-    justify-content: space-between;
-    border: .5px solid white;
-    background-color: white;
-    line-height: 40px;
-    margin-bottom: -5px;
-}
+        /* Style for the section titles */
+        .textbox {
+            display: flex;
+            justify-content: space-between;
+            border: .5px solid white;
+            background-color: white;
+            line-height: 40px;
+            margin-bottom: -5px;
+        }
 
-.textbox > div {
-    margin-left: 0.4em;
-    margin-top: -0.1em;
-    display: flex;
-    align-items: center;
-    margin-bottom: -5px;
-}
+        .title-container {
+            margin-left: 0.4em;
+            margin-top: -0.1em;
+            display: flex;
+            align-items: center;
+            margin-bottom: -5px;
+        }
 
-.textbox i {
-    margin-right: 5px;
-    color: #abb8a0;
-}
+        .title-container i {
+            margin-right: 5px;
+            color: #abb8a0;
+        }
 
-.textbox p {
-    font-weight: bold;
-    font-family: 'Garamond';
-    font-size: 23px;
-    color: #abb8a0;
-    margin-left: .2em;
-}
+        .title-container p {
+            font-weight: bold;
+            font-family: 'Garamond', serif;
+            font-size: 23px;
+            color: #abb8a0;
+            margin-left: .2em;
+        }
 
-.section-title {
-    font-family: 'Garamond', serif;
-    font-size: 24px; /* Default font size for larger screens */
-    font-weight: bold;
-    color: #3E79B4; /* Title color */
-    text-align: center; /* Center-align the titles */
-    margin: 20px 0; /* Space around the titles */
-}
+        /* Responsive adjustments for smaller screens */
+        @media only screen and (max-width: 600px) {
+            .title-container {
+                flex-direction: column;
+                align-items: flex-start;
+                margin-left: 0;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
 
-/* Responsive adjustments for smaller screens */
-@media only screen and (max-width: 600px) {
-    .section-title {
-        font-size: 18px; /* Smaller font size for smaller screens */
-        margin: 10px 0; /* Adjusted space around the titles */
-    }
-}
+            .title-container i {
+                margin-right: 0;
+                margin-bottom: 5px;
+            }
 
-</style>
+            .title-container p {
+                font-size: 18px; /* Adjusted font size for smaller screens */
+                margin-left: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
 <section>
-    <div class="textbox" style="display: flex; justify-content: space-between; border: .5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
-        <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
-            <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i>
-            <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #abb8a0; margin-left: .2em;">Computational Research on Materials</p>
+    <div class="textbox">
+        <div class="title-container">
+            <i class="fa fa-briefcase"></i>
+            <p>Computational Research on Materials</p>
         </div>
     </div>
 
-<div class="textbox" style="display: flex; justify-content: space-between; border: .5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
-        <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
-            <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i>
-            <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #abb8a0; margin-left: .2em;">Simulations of Materials</p>
-        </div>
-</div>
-
- <div class="textbox" style="display: flex; justify-content: space-between; border: .5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
-        <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
-            <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i>
-            <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #abb8a0; margin-left: .2em;">Visiting Research</p>
+<div class="textbox">
+        <div class="title-container">
+            <i class="fa fa-briefcase"></i>
+            <p>Simulations of Materials</p>
         </div>
     </div>
 
-<div class="textbox" style="display: flex; justify-content: space-between; border: .5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
-        <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
-            <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i>
-            <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #abb8a0; margin-left: .2em;">Research Experience</p>
+<div class="textbox">
+        <div class="title-container">
+            <i class="fa fa-briefcase"></i>
+            <p>Visiting Research</p>
         </div>
     </div>
-</section>
+
+<div class="textbox">
+        <div class="title-container">
+            <i class="fa fa-briefcase"></i>
+            <p>Research Experience</p>
+        </div>
+    </div>
