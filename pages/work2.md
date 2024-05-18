@@ -120,7 +120,6 @@ position: 6
     }
 </style>
 
-
 <section>
     <div class="textbox" style="display: flex; justify-content: space-between; border: 0.5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
         <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
@@ -129,36 +128,25 @@ position: 6
         </div>
     </div>
 
-
-
-
-
-
-<div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
-    <div class="main-content" style="flex: 1;">
-        <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
-            <p class="position-title">Postdoctoral Researcher</p>
+ <div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+        <div class="main-content" style="flex: 1;">
+            <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                <p class="position-title">Postdoctoral Researcher</p>
+            </div>
+            <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro Regular', sans-serif; margin-left: 1.7em; color: black;">
+                <li style="margin-bottom: 10px;">Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
+                <li style="margin-bottom: 10px;">Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li>
+            </ul>
+            <div class="gradient-line" style="position: relative;">
+                <div></div>
+            </div>
         </div>
-        <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro Regular', sans-serif; margin-left: 1.7em; color: black;">
-            <li style="margin-bottom: 10px;">Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
-            <li style="margin-bottom: 10px;">Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li>
-        </ul>
-        <div class="gradient-line" style="position: relative;"> <!-- Added class "gradient-line" -->
-            <div style="content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 2.5px; background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 79.5%, rgba(200, 144, 98, 1) 20.5%); border-radius: 10px;"></div>
+        <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
+            <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"></span></p>
+            <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200, 144, 98, 1); position: absolute; top: 5px; left: 10px;">10.2021 - 06.2023</span></p>
+            <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200, 144, 98, 1); position: absolute; top: 50px; left: 6px;">University of Antwerp</span></p>
         </div>
     </div>
-    <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
-        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200, 144, 98, 1); position: absolute; top: 5px; left: 10px;">10.2021 - 06.2023</span></p>
-        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200, 144, 98, 1); position: absolute; top: 50px; left: 6px;">University of Antwerp</span></p>
-    </div>
-</div>
-
-
-
-
-
-
 
 <div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
         <div class="main-content" style="flex: 1;">
@@ -169,16 +157,19 @@ position: 6
                 <li style="margin-bottom: 10px;">Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
                 <li style="margin-bottom: 10px;">Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
                 <li style="margin-bottom: 10px;">Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
-            </ul            >
-            <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%, rgba(64, 130, 109, 1) 20%); border-radius: 10px;"> </div>
+            </ul>
+            <div class="gradient-line" style="position: relative;">
+                <div style="background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%, rgba(64, 130, 109, 1) 20%); height: 3px;"></div>
+            </div>
         </div>
         <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
-            <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
+            <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"></span></p>
             <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(64, 130, 109, 1); position: absolute; top: 5px; left: 10px;">03.2017 - 10.2021</span></p>
             <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(64, 130, 109, 1); position: absolute; top: 50px; left: 6px;">University of Antwerp</span></p>
         </div>
     </div>
-    <div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+
+<div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
         <div class="main-content" style="flex: 1;">
             <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
                 <p class="position-title">Visiting Researcher</p>
@@ -187,10 +178,12 @@ position: 6
                 <li style="margin-bottom: 10px;">Statistical and dynamical study of anomalous electrical properties of semiconductors via simulation and analysis.</li>
                 <li style="margin-bottom: 10px;">Designing effective visualization methods for understanding electrical properties of materials using Python libraries.</li>
             </ul>
-            <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 70%, rgba(200, 144, 98, 1) 30%); border-radius: 10px;"> </div>
+            <div class="gradient-line" style="position: relative;">
+                <div style="background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 70%, rgba(200, 144, 98, 1) 30%); height: 3px;"></div>
+            </div>
         </div>
         <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
-            <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
+            <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"></span></p>
             <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200, 144, 98, 1); position: absolute; top: 5px; left: 10px;">09.2018 - 12.2018</span></p>
             <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200, 144, 98, 1); position: absolute; top: 50px; left: 6px;">University of Freiburg</span></p>
         </div>
