@@ -8,8 +8,7 @@ position: 6
 ---
 
 <style>
-<style>
-    /* Reset default margin and padding */
+   /* Reset default margin and padding */
     body {
         margin: 0;
         padding: 10px;
@@ -109,7 +108,7 @@ position: 6
         }
 
         .gradient-line > div {
-            top: 4px; /* Adjust the top position for small screens */
+            top: 25px; /* Adjust the top position for small screens */
             left: 0px; /* Adjust the left position for small screens */
             width: 90%; /* Adjust the width for small screens */
         }
@@ -119,8 +118,6 @@ position: 6
             display: none;
         }
     }
-</style>
-
 </style>
 
 
