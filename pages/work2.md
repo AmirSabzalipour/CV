@@ -171,8 +171,6 @@ position: 6
             }
         }
     </style>
-</head>
-<body>
 
 <section>
     <div class="textbox">
@@ -200,9 +198,3 @@ position: 6
         </div>
     </div>
 
-    <!-- Add other sections here -->
-
-</section>
-
-</body>
-</html>
