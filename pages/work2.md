@@ -96,7 +96,7 @@ position: 6
         color: gray;
         position: absolute;
         top: 0;
-        left: 0;
+        left: -10px;
     }
 
     .additional-column span {
