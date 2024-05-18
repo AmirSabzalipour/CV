@@ -86,7 +86,7 @@ position: 6
 
     .additional-column {
         padding: -10px;
-        width: 160px;
+        width: 200px;
         height: 100px;
         position: relative;
     }
