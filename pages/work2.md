@@ -43,7 +43,7 @@ position: 6
         background-color: #f0f0f0;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
-            padding: 1px  2px 1px 1px ;
+            padding: 1px ;
             margin:0;
             box-shadow: 0 2px 2px white;
             position: relative; 
@@ -59,7 +59,7 @@ position: 6
         font-family: 'Garamond', serif;
         font-size: 20px;
         color: rgba(62, 121, 180, 1);
-        margin-left: .9em;
+        margin-left: 1.2em;
     }
 
     .main-content ul {
