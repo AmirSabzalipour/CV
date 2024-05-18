@@ -95,7 +95,7 @@ position: 6
         font-size: 15px;
         color: gray;
         position: absolute;
-        top: 0;
+        top: -4px;
         left: -10px;
     }
 
@@ -200,7 +200,7 @@ position: 6
             </div>
             <div class="additional-column">
                 <p></p>
-                <p><span class="date">10.2021 - 06.2023</span></p>
+                <p><span class="date">10.2021-06.2023</span></p>
                 <p><span class="location">University of Antwerp</span></p>
             </div>
         </div>
