@@ -89,7 +89,7 @@ position: 6
         }
 
         .responsive-text {
-            font-size: 14px; /* Smaller font size for smaller screens */
+            font-size: 18px; /* Smaller font size for smaller screens */
         }
 
         .main-content .position-title {
