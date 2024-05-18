@@ -6,7 +6,7 @@ subtitle: ""
 feature-img: "assets/img/pexels/"
 position: 6
 ---
-    <style>
+<style>
         /* Style for the section titles */
         .textbox {
             display: flex;
