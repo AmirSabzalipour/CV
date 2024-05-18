@@ -43,7 +43,7 @@ position: 6
     .textbox2 {
         display: flex;
         justify-content: space-between;
-        border: .5px solid black; /* Ensure border color is visible */
+        border: 2px solid black; /* Ensure border color is visible */
         line-height: 90px;
         margin-bottom: 10px;
         position: relative; /* Ensure gradient line is positioned relative to this container */
