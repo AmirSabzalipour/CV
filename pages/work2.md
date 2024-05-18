@@ -106,9 +106,13 @@ position: 6
     }
 
     .additional-column span.date {
-        top: 5px;
+        font-family: 'Avenir Next LT Pro'; 
+        font-size: 15px;
+        color: rgba(200,144,98,1); 
+        position: absolute; 
+        top: 5px; 
         left: 10px;
-        position: absolute;
+        
     }
 
     .additional-column span.location {
