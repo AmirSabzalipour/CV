@@ -1,13 +1,10 @@
----
-layout: page
-title: Experience2
-permalink: /portfolio2/
-subtitle: ""
-feature-img: "assets/img/pexels/"
-position: 6
----
-
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experience2</title>
+    <style>
         /* Style for the section titles */
         .textbox {
             display: flex;
@@ -76,8 +73,8 @@ position: 6
             top: 47px;
             left: 10px;
             width: 98%;
-            height: 2.5px;
-            background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 79.5%, rgba(200, 144, 98, 1) 20.5%);
+            height: 3px;
+            background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%, rgba(64, 130, 109, 1) 20%);
             border-radius: 10px;
         }
 
@@ -113,63 +110,67 @@ position: 6
             left: 6px;
             position: absolute;
         }
+
         /* Responsive adjustments for smaller screens */
-       /* Responsive adjustments for smaller screens */
-@media only screen and (max-width: 600px) {
-    .title-container {
-        flex-direction: column;
-        align-items: flex-start;
-        margin-left: 0;
-        margin-top: 0;
-        margin-bottom: 0;
-    }
+        @media only screen and (max-width: 600px) {
+            .title-container {
+                flex-direction: column;
+                align-items: flex-start;
+                margin-left: 0;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
 
-    .title-container i {
-        margin-right: 0;
-        margin-bottom: 5px;
-    }
+            .title-container i {
+                margin-right: 0;
+                margin-bottom: 5px;
+            }
 
-    .title-container p {
-        font-size: 18px; /* Adjusted font size for smaller screens */
-        margin-left: 0;
-    }
+            .title-container p {
+                font-size: 18px; /* Adjusted font size for smaller screens */
+                margin-left: 0;
+            }
 
-    .textbox2 {
-        flex-direction: column;
-        align-items: flex-start;
-    }
+            .textbox2 {
+                flex-direction: column;
+                align-items: flex-start;
+            }
 
-    .main-content p {
-        font-size: 16px;
-        margin-left: 0;
-    }
+            .main-content p {
+                font-size: 16px;
+                margin-left: 0;
+            }
 
-    .main-content ul {
-        margin-left: 1em;
-    }
+            .main-content ul {
+                margin-left: 1em;
+            }
 
-    .additional-column {
-        width: 100%;
-        height: auto;
-        margin-top: 10px;
-    }
+            .additional-column {
+                width: 100%;
+                height: auto;
+                margin-top: 10px;
+            }
 
-    .additional-column p,
-    .additional-column span {
-        position: static;
-        margin-top: 5px;
-    }
-}
-</style>
+            .additional-column p, .additional-column span {
+                position: static;
+                margin-top: 5px;
+            }
+
+            /* Add gradient line to textbox2 for small screens */
+            .textbox2 .gradient-line::before {
+                content: '';
+                position: absolute;
+                top: 47px;
+                left: 10px;
+                width: 98%;
+                height: 3px;
+                background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%, rgba(64, 130, 109, 1) 20%);
+                border-radius: 10px;
+            }
+        }
+    </style>
+</head>
 <body>
-
-<section>
-    <div class="textbox1">
-        <div class="title-container">
-            <i class="fa fa-briefcase"></i>
-            <p>Computational Research on Materials</p>
-        </div>
-    </div>
 
 <section>
     <div class="textbox">
@@ -197,73 +198,9 @@ position: 6
         </div>
     </div>
 
+    <!-- Add other sections here -->
 
+</section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="textbox1">
-        <div class="title-container">
-            <i class="fa fa-briefcase"></i>
-            <p>Optical Design</p>
-        </div>
-    </div>
-
-<div class="textbox1">
-        <div class="title-container">
-            <i class="fa fa-briefcase"></i>
-            <p>Material Characterization, Optical Metrology</p>
-        </div>
-    </div>
-
-<div class="textbox1">
-        <div class="title-container">
-            <i class="fa fa-briefcase"></i>
-            <p>Teaching</p>
-        </div>
-    </div>
+</body>
+</html>
