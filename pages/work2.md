@@ -111,7 +111,7 @@ position: 6
         font-size: 15px;
         color: rgba(200,144,98,1); 
         position: absolute; 
-        top: 5px; 
+        top: 0px; 
         left: -20px;
         
     }
