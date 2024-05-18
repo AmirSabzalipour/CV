@@ -42,8 +42,10 @@ position: 6
         .textbox2 {
             display: flex;
             justify-content: space-between;
+            border: .5px solid white;
             line-height: 90px;
             margin-bottom: 10px;
+            position: relative; /* Ensure gradient line is positioned relative to this container */
         }
 
         .main-content {
@@ -72,12 +74,12 @@ position: 6
         .gradient-line::before {
             content: '';
             position: absolute;
-            top: 40px;
+            top: 47px;
             left: 10px;
             width: 98%;
             height: 3px;
             background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%, rgba(64, 130, 109, 1) 20%);
-            border-radius:  10px 10px 10px 10px;
+            border-radius: 10px;
         }
 
         .additional-column {
@@ -160,9 +162,7 @@ position: 6
 
             /* Add gradient line to textbox2 for small screens */
             .textbox2 .gradient-line::before {
-                content: '';
-                position: absolute;
-                top: 47px;
+                top: 47px; /* Adjust this value to fit your design */
                 left: 10px;
                 width: 98%;
                 height: 3px;
@@ -171,6 +171,8 @@ position: 6
             }
         }
     </style>
+</head>
+<body>
 
 <section>
     <div class="textbox">
@@ -197,4 +199,3 @@ position: 6
             <p><span class="location">University of Antwerp</span></p>
         </div>
     </div>
-
