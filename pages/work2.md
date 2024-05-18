@@ -72,12 +72,12 @@ position: 6
         .gradient-line::before {
             content: '';
             position: absolute;
-            top: 47px;
+            top: 40px;
             left: 10px;
             width: 98%;
             height: 3px;
             background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%, rgba(64, 130, 109, 1) 20%);
-            border-radius: 10px;
+            border-radius:  10px 10px 10px 10px;
         }
 
         .additional-column {
