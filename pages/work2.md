@@ -12,7 +12,6 @@ position: 6
     .textbox {
         display: flex;
         justify-content: space-between;
-        border: .5px solid black; /* Ensure border color is visible */
         background-color: white;
         line-height: 40px;
         margin-bottom: -5px;
