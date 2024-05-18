@@ -43,7 +43,7 @@ position: 6
         background-color: #f0f0f0;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
-            padding: 10px  10px 7px 10px ;
+            padding: 10px  2px 7px 10px ;
             margin:0;
             box-shadow: 0 2px 2px white;
             position: relative; 
