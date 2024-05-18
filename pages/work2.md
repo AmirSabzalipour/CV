@@ -8,7 +8,36 @@ position: 6
 ---
 
 <style>
-  /* Style for the section titles */
+ .textbox {
+    display: flex;
+    justify-content: space-between;
+    border: .5px solid white;
+    background-color: white;
+    line-height: 40px;
+    margin-bottom: -5px;
+}
+
+.textbox > div {
+    margin-left: 0.4em;
+    margin-top: -0.1em;
+    display: flex;
+    align-items: center;
+    margin-bottom: -5px;
+}
+
+.textbox i {
+    margin-right: 5px;
+    color: #abb8a0;
+}
+
+.textbox p {
+    font-weight: bold;
+    font-family: 'Garamond';
+    font-size: 23px;
+    color: #abb8a0;
+    margin-left: .2em;
+}
+
 .section-title {
     font-family: 'Garamond', serif;
     font-size: 24px; /* Default font size for larger screens */
@@ -28,23 +57,31 @@ position: 6
 
 </style>
 <section>
-    <div class="section">
-        <h3 class="section-title">Computational Research on Materials</h3>
-        <!-- Content of the section -->
+    <div class="textbox" style="display: flex; justify-content: space-between; border: .5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
+        <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
+            <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i>
+            <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #abb8a0; margin-left: .2em;">Computational Research on Materials</p>
+        </div>
     </div>
 
-<div class="section">
-        <h3 class="section-title">Simulations of Materials</h3>
-        <!-- Content of the section -->
+<div class="textbox" style="display: flex; justify-content: space-between; border: .5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
+        <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
+            <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i>
+            <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #abb8a0; margin-left: .2em;">Simulations of Materials</p>
+        </div>
+</div>
+
+ <div class="textbox" style="display: flex; justify-content: space-between; border: .5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
+        <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
+            <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i>
+            <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #abb8a0; margin-left: .2em;">Visiting Research</p>
+        </div>
     </div>
 
-<div class="section">
-        <h3 class="section-title">Visiting Research</h3>
-        <!-- Content of the section -->
-    </div>
-
-<div class="section">
-        <h3 class="section-title">Research Experience</h3>
-        <!-- Content of the section -->
+<div class="textbox" style="display: flex; justify-content: space-between; border: .5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
+        <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
+            <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i>
+            <p style="font-weight: bold; font-family: 'Garamond'; font-size: 23px; color: #abb8a0; margin-left: .2em;">Research Experience</p>
+        </div>
     </div>
 </section>
