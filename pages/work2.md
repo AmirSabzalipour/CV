@@ -46,7 +46,7 @@ position: 6
 
     .textbox p {
         color: #666;
-        font-size: 16px;
+        font-size: 18px;
         line-height: 1.6;
     }
 
