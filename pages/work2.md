@@ -60,7 +60,6 @@ position: 6
             }
         }
     </style>
-</head>
 <body>
 
 <section>
@@ -74,20 +73,20 @@ position: 6
 <div class="textbox">
         <div class="title-container">
             <i class="fa fa-briefcase"></i>
-            <p>Simulations of Materials</p>
+            <p>Optical Design</p>
         </div>
     </div>
 
 <div class="textbox">
         <div class="title-container">
             <i class="fa fa-briefcase"></i>
-            <p>Visiting Research</p>
+            <p>Material Characterization, Optical Metrology</p>
         </div>
     </div>
 
 <div class="textbox">
         <div class="title-container">
             <i class="fa fa-briefcase"></i>
-            <p>Research Experience</p>
+            <p>Teaching</p>
         </div>
     </div>
