@@ -40,12 +40,14 @@ position: 6
 
     /* Style for the subsections */
     .textbox2 {
-        display: flex;
-        justify-content: space-between;
-        border: 2px solid black; /* Ensure border color is visible */
-        line-height: 90px;
-        margin-bottom: 10px;
-        position: relative; /* Ensure gradient line is positioned relative to this container */
+        background-color: #f0f0f0;
+            border: 1px solid white;
+            border-radius: 30px 30px 30px 30px;
+            padding: 10px  10px 7px 10px ;
+            margin:0;
+            box-shadow: 0 2px 2px white;
+            position: relative; 
+            display: flex;/* Ensure rensure gradient line is positioned relative to this container */
     }
 
     .main-content {
