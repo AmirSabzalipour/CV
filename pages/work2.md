@@ -8,6 +8,7 @@ position: 6
 ---
 
 <style>
+<style>
     /* Reset default margin and padding */
     body {
         margin: 0;
@@ -46,7 +47,7 @@ position: 6
 
     .textbox p {
         color: #666;
-        font-size: 30px;
+        font-size: 16px;
         line-height: 1.6;
     }
 
@@ -62,6 +63,17 @@ position: 6
         font-size: 20px; /* Default font size for large screens */
         color: rgba(62, 121, 180, 1);
         margin-left: 0.9em;
+    }
+
+    .gradient-line > div {
+        content: '';
+        position: absolute;
+        top: 47px;
+        left: 10px;
+        width: 98%;
+        height: 2.5px;
+        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 79.5%, rgba(200, 144, 98, 1) 20.5%);
+        border-radius: 10px;
     }
 
     @media only screen and (max-width: 600px) {
@@ -83,17 +95,23 @@ position: 6
         }
 
         .textbox p {
-            font-size: 16px; /* Adjusted font size for paragraphs on small screens */
+            font-size: 6px; /* Adjusted font size for paragraphs on small screens */
             margin-left: 0;
             margin-top: 2px;
         }
 
         .responsive-text {
-            font-size: 1px; /* Smaller font size for smaller screens */
+            font-size: 14px; /* Smaller font size for smaller screens */
         }
 
         .main-content .position-title {
-            font-size: 15px; /* Adjusted font size for Postdoctoral Researcher on small screens */
+            font-size: 12px; /* Adjusted font size for Postdoctoral Researcher on small screens */
+        }
+
+        .gradient-line > div {
+            top: 4px; /* Adjust the top position for small screens */
+            left: 0px; /* Adjust the left position for small screens */
+            width: 90%; /* Adjust the width for small screens */
         }
 
         /* Remove styles for additional column */
@@ -103,15 +121,23 @@ position: 6
     }
 </style>
 
+</style>
+
 
 <section>
     <div class="textbox" style="display: flex; justify-content: space-between; border: 0.5px solid white; background-color: white; line-height: 40px; margin-bottom: -5px;">
         <div style="margin-left: 0.4em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: -5px;">
-            <i class="fa fa-briefcase" style="margin-right: 5px; color: #abb8a0;"></i> <!-- Icon -->
+            <i class="fa fa-briefcase" style="margin-right: 5px; margin-top: -10px;color: #abb8a0;"></i> <!-- Icon -->
             <p class="responsive-text" style="font-weight: bold; margin-left: 0.2em;"> Computational Research on Materials</p> <!-- Text -->
         </div>
     </div>
-        <div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+
+
+
+
+
+
+<div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
         <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
             <p class="position-title">Postdoctoral Researcher</p>
@@ -120,7 +146,9 @@ position: 6
             <li style="margin-bottom: 10px;">Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
             <li style="margin-bottom: 10px;">Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li>
         </ul>
-        <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 2.5px; background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 79.5%, rgba(200, 144, 98, 1) 20.5%); border-radius: 10px;"> </div>
+        <div class="gradient-line" style="position: relative;"> <!-- Added class "gradient-line" -->
+            <div style="content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 2.5px; background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 79.5%, rgba(200, 144, 98, 1) 20.5%); border-radius: 10px;"></div>
+        </div>
     </div>
     <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
         <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
@@ -128,7 +156,14 @@ position: 6
         <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200, 144, 98, 1); position: absolute; top: 50px; left: 6px;">University of Antwerp</span></p>
     </div>
 </div>
-    <div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+
+
+
+
+
+
+
+<div class="textbox" style="display: flex; justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
         <div class="main-content" style="flex: 1;">
             <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
                 <p class="position-title">Doctoral Researcher</p>
