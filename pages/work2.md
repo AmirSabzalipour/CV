@@ -111,13 +111,13 @@ position: 6
         font-size: 15px;
         color: rgba(200,144,98,1); 
         /* position: absolute;  */
-        top: 10px; 
+        top: 30px; 
         left: -20px;
         
     }
 
     .additional-column span.location {
-        top: 50px;
+        top: 90px;
         left: 6px;
         /* position: absolute; */
     }
