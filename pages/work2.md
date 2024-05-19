@@ -85,10 +85,12 @@ position: 6
     }
 
     .additional-column {
-        padding: -10px;
+        padding: 10px; /* Add padding for better spacing */
         width: 200px;
-        height: 100px;
-        position: relative;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
     }
 
     .additional-column p {
@@ -118,7 +120,7 @@ position: 6
 
     .additional-column span.location {
         top: 90px;
-        left: 6px;
+        left: -20px;
         /* position: absolute; */
     }
 
