@@ -110,7 +110,7 @@ position: 6
         font-family: 'Avenir Next LT Pro'; 
         font-size: 15px;
         color: rgba(200,144,98,1); 
-        position: absolute; 
+        /* position: absolute;  */
         top: 0px; 
         left: -20px;
         
@@ -119,7 +119,7 @@ position: 6
     .additional-column span.location {
         top: 50px;
         left: 6px;
-        position: absolute;
+        /* position: absolute; */
     }
 
     /* Responsive adjustments for smaller screens */
