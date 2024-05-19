@@ -97,7 +97,6 @@ position: 6
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
         color: gray;
-        position: absolute;
         top: -4px;
         left: -10px;
     }
