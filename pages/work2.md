@@ -112,7 +112,7 @@ position: 6
         font-size: 15px;
         color: rgba(200,144,98,1); 
         /* position: absolute;  */
-        top: 20px; 
+        top: 10px; 
         left: -20px;
         
     }
