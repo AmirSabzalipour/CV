@@ -76,7 +76,7 @@ position: 6
     .gradient-line::before {
         content: '';
         position: absolute;
-        top: 47px;
+        top: 40px;
         left: 10px;
         width: 98%;
         height: 3px;
