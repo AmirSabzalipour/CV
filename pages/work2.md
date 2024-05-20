@@ -115,7 +115,7 @@ position: 6
         /* position: absolute;  */
         top: 0px; 
         left: -20px;
-         margin-bottom: 10px;
+         margin-bottom: -10px;
         
     }
 
