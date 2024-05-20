@@ -80,16 +80,22 @@ position: 6
         margin-bottom: 10px;
     }
 
-    .gradient-line::before {
-        content: '';
-        position: absolute;
-        top: 47px;
-        left: 10px;
-        width: 98%;
-        height: 3px;
-        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 85%, color: rgba(200,144,98,1) 15%);
-        border-radius: 10px;
-    }
+
+    .gradient-line {
+            position: relative;
+            margin-top: 50px;
+        }
+        
+   .gradient-line::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 98%;
+            height: 3px;
+            background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 85%, rgba(200, 144, 98, 1) 15%);
+            border-radius: 10px;
+        }
 
 .additional-column {
     display: flex;
