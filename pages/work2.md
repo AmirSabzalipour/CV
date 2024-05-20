@@ -47,21 +47,27 @@ position: 6
             margin:0;
             box-shadow: 0 2px 2px white;
             position: relative; 
-            display: flex;/* Ensure rensure gradient line is positioned relative to this container */
+            display: flex;
+            align-items: center;
+            /* Ensure rensure gradient line is positioned relative to this container */
     }
 
     .main-content {
-        flex: 1;
+    flex: 1;
+    display: flex; /* Make.main-content a flex container */
+    flex-direction: column; /* Stack children vertically */
+    align-items: flex-start;
     }
 
     .main-content p {
-        font-weight: bold;
-        font-family: 'Garamond', serif;
-        font-size: 20px;
-        color: rgba(62, 121, 180, 1);
-        margin-left: 1.2em;
-        
-    }
+    font-weight: bold;
+    font-family: 'Garamond', serif;
+    font-size: 20px;
+    color: rgba(62, 121, 180, 1);
+    margin-left: 1.2em;
+    margin-top: 0; /* Adjust vertical position */
+    margin-bottom: 0; /* Adjust vertical position */
+}
 
     .main-content ul {
         font-size: 15px;
