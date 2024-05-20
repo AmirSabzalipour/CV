@@ -65,7 +65,7 @@ position: 6
     font-size: 20px;
     color: rgba(62, 121, 180, 1);
     margin-left: 1.2em;
-    margin-top: 0; /* Adjust vertical position */
+    margin-top: 10px; /* Adjust vertical position */
     margin-bottom: 0; /* Adjust vertical position */
 }
 
