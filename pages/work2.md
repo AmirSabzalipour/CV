@@ -87,7 +87,7 @@ position: 6
         left: 10px;
         width: 98%;
         height: 3px;
-        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%, rgba(64, 130, 109, 1) 20%);
+        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 85%, rgba(64, 130, 109, 1) 15%);
         border-radius: 10px;
     }
 
@@ -113,7 +113,7 @@ position: 6
 .additional-column span.date {
     position: absolute;
     top: 10px; /* Positions the date at the very top of the additional-column */
-    left: 800px; /* Aligns the date to the left edge of the additional-column */
+    left: 900px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
     font-size: 15px; 
