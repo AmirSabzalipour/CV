@@ -66,7 +66,7 @@ position: 6
     color: rgba(62, 121, 180, 1);
     margin-left: 1.2em;
     margin-top: 10px; /* Adjust vertical position */
-    margin-bottom: 10px; /* Adjust vertical position */
+    margin-bottom: 0; /* Adjust vertical position */
 }
 
     .main-content ul {
@@ -87,7 +87,7 @@ position: 6
         left: 10px;
         width: 98%;
         height: 3px;
-        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%, color: rgba(200,144,98,1) 20%);
+        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 85%, color: rgba(200,144,98,1)15%);
         border-radius: 10px;
     }
 
