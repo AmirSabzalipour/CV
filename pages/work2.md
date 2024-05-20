@@ -106,14 +106,18 @@ position: 6
     font-family: 'Avenir Next LT Pro';
     font-size: 15px;
     color: inherit;
+
 }
 
 /* Assuming you want to position the date span exactly at the top of the additional-column */
 .additional-column span.date {
     position: absolute;
     top: 10px; /* Positions the date at the very top of the additional-column */
-    left: 700px;; /* Aligns the date to the left edge of the additional-column */
-    margin-bottom: 10px; /* Adds some space below the date */
+    left: 900px; /* Aligns the date to the left edge of the additional-column */
+    margin-bottom: 10px; 
+    font-family: 'Avenir Next LT Pro'; 
+    font-size: 15px; 
+    color: rgba(200,144,98,1);/* Adds some space below the date */
 }
 
 /* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
