@@ -91,35 +91,35 @@ position: 6
         border-radius: 10px;
     }
 
-   .additional-column {
-    display: grid;
-    grid-template-columns: 1fr; /* Defines one column */
-    grid-template-rows: auto auto; /* Defines two rows */
-    gap: 10px; /* Space between grid items */
-    justify-content: start; /* Aligns items to the start of the container horizontally */
-    align-content: start; /* Aligns grid tracks to the start of the container vertically */
+.additional-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px;
+    width: 200px;
+    height: auto;
 }
 
 .additional-column p,
 .additional-column span {
-    /* Styles for all direct children */
     font-family: 'Avenir Next LT Pro';
     font-size: 15px;
-    color: color: rgba(200,144,98,1);
-    
+    color: inherit;
 }
 
-/* Example of overriding the default alignment for a specific item */
+/* Assuming you want to position the date span exactly at the top of the additional-column */
 .additional-column span.date {
-    justify-self: start; /* Aligns this item to the end of the container horizontally */
-    align-self: top;
-    color: rgba(200,144,98,1) /* Centers this item vertically */
+    position: absolute;
+    top: 0; /* Positions the date at the very top of the additional-column */
+    left: 0; /* Aligns the date to the left edge of the additional-column */
+    margin-bottom: 10px; /* Adds some space below the date */
 }
 
-.additional-column span.location {
-    justify-self: start; /* Aligns this item to the end of the container horizontally */
-    align-self: center;
-    color: rgba(200,144,98,1) }
+/* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
+.additional-column p:not(.date) {
+    margin-top: 10px; /* Adds some space above the first paragraph after the date */
+}
 
 
 
