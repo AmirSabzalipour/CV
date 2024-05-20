@@ -112,7 +112,7 @@ position: 6
 .additional-column span.date {
     position: absolute;
     top: 10px; /* Positions the date at the very top of the additional-column */
-    left: 10px;; /* Aligns the date to the left edge of the additional-column */
+    left: 700px;; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; /* Adds some space below the date */
 }
 
