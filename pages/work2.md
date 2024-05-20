@@ -60,10 +60,7 @@ position: 6
         font-size: 20px;
         color: rgba(62, 121, 180, 1);
         margin-left: 1.2em;
-        margin-top: -0.1em; 
-        display: flex;
-        align-items: center;
-        margin-bottom: 5px;
+        
     }
 
     .main-content ul {
