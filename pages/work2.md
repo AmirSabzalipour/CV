@@ -84,36 +84,27 @@ position: 6
         border-radius: 10px;
     }
 
-    .additional-column {
-    padding: 10px; /* Add padding for better spacing */
-    width: 200px;
-    height: auto;
-    display: grid; /* Change to grid */
-    grid-template-rows: auto auto auto; /* Define rows */
+   .additional-column {
+    display: grid;
+    grid-template-columns: 1fr; /* Defines one column */
+    grid-template-rows: auto auto; /* Defines two rows */
     gap: 10px; /* Space between grid items */
+    justify-content: start; /* Aligns items to the start of the container horizontally */
+    align-content: start; /* Aligns grid tracks to the start of the container vertically */
 }
 
 .additional-column p,
 .additional-column span {
-    /* Apply styles to all direct children */
+    /* Styles for all direct children */
     font-family: 'Avenir Next LT Pro';
     font-size: 15px;
-    color: inherit; /* Use inherited color or specify a color */
+    color: inherit;
 }
 
-/* Example of placing items in specific grid cells */
-.additional-column p:nth-child(1),
+/* Example of overriding the default alignment for a specific item */
 .additional-column span.date {
-    grid-row: 1; /* Place at the top */
-}
-
-.additional-column p:nth-child(2),
-.additional-column span.location {
-    grid-row: 2; /* Place in the middle */
-}
-
-.additional-column p:nth-child(3) {
-    grid-row: 3; /* Place at the bottom */
+    justify-self: end; /* Aligns this item to the end of the container horizontally */
+    align-self: center; /* Centers this item vertically */
 }
 
     /* Responsive adjustments for smaller screens */
