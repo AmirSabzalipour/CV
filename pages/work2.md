@@ -91,6 +91,7 @@ position: 6
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
+        align-items: flex-start; /
     }
 
     .additional-column p {
@@ -114,6 +115,7 @@ position: 6
         /* position: absolute;  */
         top: 0px; 
         left: -20px;
+         margin-bottom: 10px;
         
     }
 
