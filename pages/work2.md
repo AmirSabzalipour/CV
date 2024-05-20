@@ -112,7 +112,7 @@ position: 6
 /* Example of overriding the default alignment for a specific item */
 .additional-column span.date {
     justify-self: start; /* Aligns this item to the end of the container horizontally */
-    align-self: center;
+    align-self: top;
     color: rgba(200,144,98,1) /* Centers this item vertically */
 }
 
