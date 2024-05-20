@@ -85,45 +85,36 @@ position: 6
     }
 
     .additional-column {
-        padding: 10px; /* Add padding for better spacing */
-        width: 200px;
-        height: auto;
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
-        align-items: flex-start; /
-    }
+    padding: 10px; /* Add padding for better spacing */
+    width: 200px;
+    height: auto;
+    display: grid; /* Change to grid */
+    grid-template-rows: auto auto auto; /* Define rows */
+    gap: 10px; /* Space between grid items */
+}
 
-    .additional-column p {
-        font-family: 'Avenir Next LT Pro';
-        font-size: 15px;
-        color: gray;
-        top: -4px;
-        left: -10px;
-    }
+.additional-column p,
+.additional-column span {
+    /* Apply styles to all direct children */
+    font-family: 'Avenir Next LT Pro';
+    font-size: 15px;
+    color: inherit; /* Use inherited color or specify a color */
+}
 
-    .additional-column span {
-        font-family: 'Avenir Next LT Pro';
-        font-size: 15px;
-        color: rgba(200, 144, 98, 1);
-    }
+/* Example of placing items in specific grid cells */
+.additional-column p:nth-child(1),
+.additional-column span.date {
+    grid-row: 1; /* Place at the top */
+}
 
-    .additional-column span.date {
-        font-family: 'Avenir Next LT Pro'; 
-        font-size: 15px;
-        color: rgba(200,144,98,1); 
-        /* position: absolute;  */
-        top: 0px; 
-        left: -20px;
-         margin-bottom: -10px;
-        
-    }
+.additional-column p:nth-child(2),
+.additional-column span.location {
+    grid-row: 2; /* Place in the middle */
+}
 
-    .additional-column span.location {
-        top: 90px;
-        left: -20px;
-        /* position: absolute; */
-    }
+.additional-column p:nth-child(3) {
+    grid-row: 3; /* Place at the bottom */
+}
 
     /* Responsive adjustments for smaller screens */
     @media only screen and (max-width: 600px) {
