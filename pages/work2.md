@@ -83,11 +83,11 @@ position: 6
     .gradient-line::before {
         content: '';
         position: absolute;
-        top: 10px;
+        top: 47px;
         left: 10px;
         width: 98%;
         height: 3px;
-        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 85%, color: rgba(200,144,98,1)15%);
+        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 85%, color: rgba(200,144,98,1) 15%);
         border-radius: 10px;
     }
 
