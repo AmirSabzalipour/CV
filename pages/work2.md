@@ -99,12 +99,14 @@ position: 6
     font-family: 'Avenir Next LT Pro';
     font-size: 15px;
     color: inherit;
+    
 }
 
 /* Example of overriding the default alignment for a specific item */
 .additional-column span.date {
     justify-self: end; /* Aligns this item to the end of the container horizontally */
-    align-self: center; /* Centers this item vertically */
+    align-self: center;
+    color: rgba(200,144,98,1) /* Centers this item vertically */
 }
 
     /* Responsive adjustments for smaller screens */
