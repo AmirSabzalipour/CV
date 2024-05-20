@@ -122,7 +122,8 @@ position: 6
 
 /* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
 .additional-column p:not(.date) {
-    margin-top: 10px; /* Adds some space above the first paragraph after the date */
+    margin-top: 0px; 
+    /* Adds some space above the first paragraph after the date */
 }
 
 
