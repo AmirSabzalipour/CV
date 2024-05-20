@@ -98,7 +98,7 @@ position: 6
     /* Styles for all direct children */
     font-family: 'Avenir Next LT Pro';
     font-size: 15px;
-    color: inherit;
+    color: color: rgba(200,144,98,1);
     
 }
 
