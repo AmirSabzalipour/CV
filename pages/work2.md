@@ -122,11 +122,6 @@ position: 6
 }
 
 
-
-
-
-
-
     /* Responsive adjustments for smaller screens */
     @media only screen and (max-width: 600px) {
         .title-container {
