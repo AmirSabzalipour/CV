@@ -34,7 +34,7 @@ position: 6
         font-weight: bold;
         font-family: 'Garamond', serif;
         font-size: 25px;
-        color: #82d5f6;
+        color: #abb8a0;
         margin-left: .2em;
     }
 
