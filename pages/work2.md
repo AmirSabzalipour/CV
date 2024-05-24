@@ -128,7 +128,7 @@ position: 6
     left: 820px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
-    font-size: 17px; 
+    font-size: 20px; 
     color:rgba(62, 121, 180, 1);/* Adds some space below the date */
 }
 
