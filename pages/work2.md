@@ -34,7 +34,7 @@ position: 6
         font-weight: bold;
         font-family: 'Garamond', serif;
         font-size: 25px;
-        color: #536048;
+        color: #333e65 ;
         margin-left: .2em;
     }
 
@@ -62,7 +62,7 @@ position: 6
     .main-content p {
     font-weight: bold;
     font-family: 'Garamond', serif;
-    font-size: 20px;
+    font-size: 22px;
     color: rgba(62, 121, 180, 1);
     margin-left: 1.2em;
     margin-top: 10px; /* Adjust vertical position */
