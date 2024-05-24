@@ -14,7 +14,7 @@ position: 6
         justify-content: space-between;
         background-color: white;
         line-height: 40px;
-        margin-bottom: -5px;
+        margin-bottom: 5px;
     }
 
     .title-container {
