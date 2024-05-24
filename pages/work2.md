@@ -88,7 +88,7 @@ position: 6
         left: 10px;
         width: 98%;
         height: 3px;
-        background: rgba(62, 121, 180, 1);
+        background: rgba(62, 121, 180, .5);
         /* linear-gradient(to right, rgba(200,144,98,.6) 80%,  rgba(200,144,98,.6) 20%);  */
         border-radius: 10px;
     }
