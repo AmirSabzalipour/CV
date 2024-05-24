@@ -34,7 +34,7 @@ position: 6
         font-weight: bold;
         font-family: 'Garamond', serif;
         font-size: 25px;
-        color: #abb8a0;
+        color: #899380;
         margin-left: .2em;
     }
 
@@ -70,7 +70,7 @@ position: 6
 }
 
     .main-content ul {
-        font-size: 15px;
+        font-size: 17px;
         font-family: 'Avenir Next LT Pro Regular', sans-serif;
         margin-left: 1.7em;
         color: black;
