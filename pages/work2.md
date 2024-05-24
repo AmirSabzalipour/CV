@@ -62,7 +62,7 @@ position: 6
     .main-content p {
     font-weight: bold;
     font-family: 'Avenir Next LT Pro', serif;
-    font-size: 22px;
+    font-size: 21px;
     color: rgba(62, 121, 180, 1);
     margin-left: 1.2em;
     margin-top: 10px; /* Adjust vertical position */
@@ -87,7 +87,8 @@ position: 6
         left: 10px;
         width: 98%;
         height: 3px;
-        background: linear-gradient(to right, rgba(200,144,98,.6) 80%,  rgba(200,144,98,.6) 20%);
+        background: #abb8a0;
+        /* linear-gradient(to right, rgba(200,144,98,.6) 80%,  rgba(200,144,98,.6) 20%); */
         border-radius: 10px;
     }
 
