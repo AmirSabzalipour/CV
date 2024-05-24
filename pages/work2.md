@@ -63,8 +63,7 @@ position: 6
     font-weight: bold;
     font-family: 'Avenir Next LT Pro', serif;
     font-size: 19px;
-    color: rgba(200,144,98,1);
-    /* rgba(62, 121, 180, 1); */
+    color:  rgba(62, 121, 180, 1); 
     margin-left: 1.2em;
     margin-top: 10px; /* Adjust vertical position */
     margin-bottom: 10px; /* Adjust vertical position */
