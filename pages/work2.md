@@ -27,14 +27,14 @@ position: 6
 
     .title-container i {
         margin-right: 5px;
-        color: #82d5f6;
+        color: #abb8a0;
     }
 
     .title-container p {
         font-weight: bold;
         font-family: 'Garamond', serif;
         font-size: 25px;
-        color: #333e65 ;
+        color: #82d5f6;
         margin-left: .2em;
     }
 
