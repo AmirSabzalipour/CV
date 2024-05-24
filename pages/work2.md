@@ -34,7 +34,7 @@ position: 6
         font-weight: bold;
         font-family: 'Garamond', serif;
         font-size: 23px;
-        color: rgba(200,144,98,1);
+        color: #abb8a0;
         margin-left: .2em;
     }
 
@@ -87,7 +87,8 @@ position: 6
         left: 10px;
         width: 98%;
         height: 3px;
-        background: linear-gradient(to right, rgba(200,144,98,.6) 80%,  rgba(200,144,98,.6) 20%); 
+        background: rgba(62, 121, 180, 1);
+        /* linear-gradient(to right, rgba(200,144,98,.6) 80%,  rgba(200,144,98,.6) 20%);  */
         border-radius: 10px;
     }
 
