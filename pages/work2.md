@@ -34,7 +34,7 @@ position: 6
         font-weight: bold;
         font-family: 'Garamond', serif;
         font-size: 25px;
-        color: #899380;
+        color: rgba(200,144,98,1);
         margin-left: .2em;
     }
 
@@ -61,7 +61,7 @@ position: 6
 
     .main-content p {
     font-weight: bold;
-    font-family: 'Garamond', serif;
+    font-family: 'Avenir Next LT Pro', serif;
     font-size: 22px;
     color: rgba(62, 121, 180, 1);
     margin-left: 1.2em;
