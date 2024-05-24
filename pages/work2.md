@@ -33,8 +33,8 @@ position: 6
     .title-container p {
         font-weight: bold;
         font-family: 'Garamond', serif;
-        font-size: 23px;
-        color: #abb8a0;
+        font-size: 25px;
+        color: #536048;
         margin-left: .2em;
     }
 
