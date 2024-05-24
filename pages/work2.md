@@ -19,7 +19,7 @@ position: 6
 
     .title-container {
         margin-left: 0.4em;
-        margin-top: -0.1em;
+        margin-top: -0.3em;
         display: flex;
         align-items: center;
         margin-bottom: -5px;
@@ -33,7 +33,7 @@ position: 6
     .title-container p {
         font-weight: bold;
         font-family: 'Garamond', serif;
-        font-size: 25px;
+        font-size: 23px;
         color: rgba(200,144,98,1);
         margin-left: .2em;
     }
@@ -83,11 +83,11 @@ position: 6
     .gradient-line::before {
         content: '';
         position: absolute;
-        top: 45px;
+        top: 48px;
         left: 10px;
         width: 98%;
         height: 3px;
-        background: linear-gradient(to right, rgba(200,144,98,.8) 80%,  rgba(200,144,98,.8) 20%);
+        background: linear-gradient(to right, rgba(200,144,98,.6) 80%,  rgba(200,144,98,.6) 20%);
         border-radius: 10px;
     }
 
