@@ -116,7 +116,7 @@ position: 6
     left: 820px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
-    font-size: 15px; 
+    font-size: 17px; 
     color: #abb8a0;/* Adds some space below the date */
 }
 
@@ -124,6 +124,7 @@ position: 6
 .additional-column p:not(.date) {
     margin-top: -10px; 
      color: #abb8a0;
+     font-size: 17px; 
     /* Adds some space above the first paragraph after the date */
 }
 
