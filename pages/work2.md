@@ -117,13 +117,13 @@ position: 6
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
     font-size: 15px; 
-    color: rgba(200,144,98,1);/* Adds some space below the date */
+    color: #abb8a0;/* Adds some space below the date */
 }
 
 /* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
 .additional-column p:not(.date) {
     margin-top: -10px; 
-     color: rgba(200,144,98,1);
+     color: #abb8a0;
     /* Adds some space above the first paragraph after the date */
 }
 
