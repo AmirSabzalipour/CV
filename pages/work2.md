@@ -87,7 +87,7 @@ position: 6
         left: 10px;
         width: 98%;
         height: 3px;
-        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 85%, rgba(64, 130, 109, 1) 15%);
+        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%,  rgba(200,144,98,1) 20%);
         border-radius: 10px;
     }
 
@@ -123,6 +123,7 @@ position: 6
 /* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
 .additional-column p:not(.date) {
     margin-top: 0px; 
+     color: rgba(200,144,98,1);
     /* Adds some space above the first paragraph after the date */
 }
 
