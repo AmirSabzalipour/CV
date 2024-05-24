@@ -79,7 +79,7 @@ position: 6
     }
 
     .main-content ul li {
-        margin-bottom: 10px;
+        margin-top: 10px;
     }
 
     .gradient-line::before {
