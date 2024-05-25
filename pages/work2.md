@@ -28,7 +28,7 @@ position: 6
     .title-container i {
         margin-top: -15px;
         margin-right: 5px;
-        color:rgba(62, 121, 180, .3);
+        color:rgba(62, 121, 180, .5);
     }
 
     .title-container p {
@@ -62,8 +62,8 @@ position: 6
 
     .main-content p {
     font-weight: bold;
-    font-family: 'Avenir Next LT Pro', serif;
-    font-size: 16.5px;
+    font-family: 'Avenir Next LT Pro';
+    font-size: 17px;
     color:  rgba(62, 121, 180, 1);   
     margin-left: 1em;
     margin-top: 20px; /* Adjust vertical position */
