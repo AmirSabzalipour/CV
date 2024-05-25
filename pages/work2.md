@@ -79,11 +79,12 @@ position: 6
     margin-bottom: 20px; 
 }
 
-    .main-content ul li {
+.main-content ul li {
         margin-left: 12px;
-    }
+         margin-bottom: 20px;
+}
 
-    .gradient-line::before {
+.gradient-line::before {
         content: '';
         position: absolute;
         top: 64px;
