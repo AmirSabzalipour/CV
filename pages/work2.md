@@ -80,8 +80,9 @@ position: 6
 }
 
 .main-content ul li {
-        margin-left: 12px;
-         margin-bottom: 20px;
+margin-left: 12px;
+margin-top: 12px; 
+margin-bottom: 12px;
 }
 
 .gradient-line::before {
@@ -128,7 +129,7 @@ position: 6
 
 /* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
 .additional-column p:not(.date) {
-    margin-top:-7px; 
+    margin-top:-20px; 
      color:rgba(220,144,98,1);
      font-size: 17px; 
     /* Adds some space above the first paragraph after the date */
