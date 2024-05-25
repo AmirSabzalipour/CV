@@ -49,13 +49,12 @@ position: 6
             position: relative; 
             display: flex;
             align-items: center;
-            /* Ensure rensure gradient line is positioned relative to this container */
     }
 
     .main-content {
     flex: 1;
-    display: flex; /* Make.main-content a flex container */
-    flex-direction: column; /* Stack children vertically */
+    display: flex; 
+    flex-direction: column; 
     align-items: flex-start;
     }
 
