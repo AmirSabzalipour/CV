@@ -26,6 +26,7 @@ position: 6
     }
 
     .title-container i {
+        margin-top: -10px;
         margin-right: 5px;
         color: #abb8a0;
     }
@@ -33,8 +34,8 @@ position: 6
     .title-container p {
         font-weight: bold;
         font-family: 'Avenir Next LT Pro', serif;
-        font-size: 20px;
-        color: rgba(62, 121, 180, 1);
+        font-size: 24px;
+        color: rgba(62, 121, 180, .6);
         margin-left: .2em;
     }
 
@@ -61,7 +62,7 @@ position: 6
     .main-content p {
     font-weight: bold;
     font-family: 'Avenir Next LT Pro', serif;
-    font-size: 19px;
+    font-size: 18px;
     color:  rgba(62, 121, 180, 1);   
     margin-left: 1.2em;
     margin-top: 10px; /* Adjust vertical position */
@@ -71,7 +72,7 @@ position: 6
     .main-content ul {
         font-size: 18px;
         font-family: 'Avenir Next LT Pro Regular', sans-serif;
-        margin-left: 1.7em;
+        margin-left: 1 em;
         color: black;
         margin-top: 10px; 
     }
