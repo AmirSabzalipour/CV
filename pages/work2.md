@@ -75,7 +75,7 @@ position: 6
     font-family: 'Avenir Next LT Pro Regular', sans-serif;
     margin-left: 1.7em;
      color: black;
-    margin-top: 50px; 
+    margin-top: 20px; 
     margin-bottom: 10px; 
 }
 
