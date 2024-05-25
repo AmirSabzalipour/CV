@@ -117,7 +117,7 @@ position: 6
 .additional-column span.date {
     position: absolute;
     top: 40px; /* Positions the date at the very top of the additional-column */
-    left: 750px; /* Aligns the date to the left edge of the additional-column */
+    left: 760px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
     font-size: 16px; 
@@ -127,7 +127,7 @@ position: 6
 
 /* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
 .additional-column p:not(.date) {
-    margin-top:-3px; 
+    margin-top:-7px; 
      color:rgba(220,144,98,1);
      font-size: 17px; 
     /* Adds some space above the first paragraph after the date */
