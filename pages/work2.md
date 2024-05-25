@@ -41,16 +41,16 @@ position: 6
 
     /* Style for the subsections */
     .textbox2 {
-        background-color: #f0f0f0;
-            border: 1px solid white;
-            border-radius: 30px 30px 30px 30px;
-            padding: 1px ;
-            margin:0;
-            box-shadow: 0 2px 2px white;
-            position: relative; 
-            display: flex;
-            align-items: center;
-            width: 99%; ;
+    background-color: #f0f0f0;
+    border: 1px solid white;
+    border-radius: 30px 30px 30px 30px;
+    padding: 1px ;
+    margin:0;
+    box-shadow: 0 2px 2px white;
+    position: relative; 
+    display: flex;
+    align-items: center;
+    width: 99%; ;
     }
 
     .main-content {
@@ -76,7 +76,7 @@ position: 6
     margin-left: 1.7em;
      color: black;
     margin-top: 20px; 
-    margin-bottom: 10px; 
+    margin-bottom: 20px; 
 }
 
     .main-content ul li {
