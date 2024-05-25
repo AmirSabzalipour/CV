@@ -63,11 +63,11 @@ position: 6
     .main-content p {
     font-weight: bold;
     font-family: 'Avenir Next LT Pro', serif;
-    font-size: 17px;
+    font-size: 16.5px;
     color:  rgba(62, 121, 180, 1);   
     margin-left: 2em;
-    margin-top: 15px; /* Adjust vertical position */
-    margin-bottom: 4px; /* Adjust vertical position */
+    margin-top: 10px; /* Adjust vertical position */
+    margin-bottom: 10px; /* Adjust vertical position */
 }
 
 .main-content ul {
