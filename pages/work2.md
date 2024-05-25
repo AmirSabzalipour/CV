@@ -69,13 +69,13 @@ position: 6
     margin-bottom: 10px; /* Adjust vertical position */
 }
 
-    .main-content ul {
-        font-size: 17px;
-        font-family: 'Avenir Next LT Pro Regular', sans-serif;
-        margin-left: 1.7 em;
+.main-content ul {
+   font-size: 17px;
+    font-family: 'Avenir Next LT Pro Regular', sans-serif;
+    margin-left: 1.7 em;
         color: black;
         margin-top: 10px; 
-    }
+}
 
     .main-content ul li {
         margin-top: 12px;
