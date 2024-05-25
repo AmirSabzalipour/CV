@@ -26,7 +26,7 @@ position: 6
     }
 
     .title-container i {
-        margin-top: -10px;
+        margin-top: -20px;
         margin-right: 5px;
         color: #abb8a0;
     }
@@ -208,7 +208,6 @@ position: 6
                 <p>Computational Research on Materials</p>
             </div>
         </div>
-<br>
 <br>
 <br>
 <div class="textbox2">
