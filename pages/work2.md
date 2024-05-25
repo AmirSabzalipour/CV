@@ -70,7 +70,7 @@ position: 6
 }
 
     .main-content ul {
-        font-size: 17px;
+        font-size: 18px;
         font-family: 'Avenir Next LT Pro Regular', sans-serif;
         margin-left: 1.7em;
         color: black;
@@ -78,7 +78,7 @@ position: 6
     }
 
     .main-content ul li {
-        margin-top: 10px;
+        margin-top: 12px;
     }
 
     .gradient-line::before {
