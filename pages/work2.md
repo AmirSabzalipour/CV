@@ -121,24 +121,14 @@ position: 6
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
     font-size: 16px; 
-    color:rgba(250,144,98,1);/* Adds some space below the date */
-}
-
-.additional-column span.location {
-    position: absolute;
-    top: 50px; /* Positions the date at the very top of the additional-column */
-    left: 720px; /* Aligns the date to the left edge of the additional-column */
-    margin-bottom: 10px; 
-    font-family: 'Avenir Next LT Pro'; 
-    font-size: 18px; 
-    color:rgba(250,144,98,1);/* Adds some space below the date */
+    color:rgba(220,144,98,1);/* Adds some space below the date */
 }
 
 
 /* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
 .additional-column p:not(.date) {
     margin-top:-3px; 
-     color:rgba(250,144,98,1);
+     color:rgba(220,144,98,1);
      font-size: 17px; 
     /* Adds some space above the first paragraph after the date */
 }
@@ -212,11 +202,11 @@ position: 6
 <br>
 <div class="textbox2">
             <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
-                    <p>Postdoctoral Researcher</p><br>
+                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;"><br>
+                    <p>Postdoctoral Researcher</p>
                 </div>
                 <ul>
-                    <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li><br>
+                    <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
                     <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li><br>
                 </ul>
                 <div class="gradient-line"></div>
