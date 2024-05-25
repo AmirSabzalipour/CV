@@ -137,7 +137,7 @@ position: 6
 
 /* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
 .additional-column p:not(.date) {
-    margin-top: -10px; 
+    margin-top: 30px; 
      color:rgba(200,144,98,1);
      font-size: 17px; 
     /* Adds some space above the first paragraph after the date */
