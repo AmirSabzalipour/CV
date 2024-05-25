@@ -50,6 +50,7 @@ position: 6
             position: relative; 
             display: flex;
             align-items: center;
+            width: 95%; ;
     }
 
     .main-content {
