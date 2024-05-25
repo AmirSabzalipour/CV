@@ -28,7 +28,7 @@ position: 6
     .title-container i {
         margin-top: -20px;
         margin-right: 5px;
-        color:rgba(62, 121, 180, 1);
+        color:rgba(62, 121, 180, .3);
     }
 
     .title-container p {
@@ -116,7 +116,7 @@ position: 6
 /* Assuming you want to position the date span exactly at the top of the additional-column */
 .additional-column span.date {
     position: absolute;
-    top: 30px; /* Positions the date at the very top of the additional-column */
+    top: 10px; /* Positions the date at the very top of the additional-column */
     left: 750px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
