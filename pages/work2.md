@@ -33,7 +33,7 @@ position: 6
     .title-container p {
         font-weight: bold;
         font-family: 'Avenir Next LT Pro', serif;
-        font-size: 22px;
+        font-size: 20px;
         color: rgba(62, 121, 180, 1);
         margin-left: .2em;
     }
