@@ -67,7 +67,7 @@ position: 6
     color:  rgba(62, 121, 180, 1);   
     margin-left: 1.7em;
     margin-top: 20px; /* Adjust vertical position */
-    margin-bottom: -20px; /* Adjust vertical position */
+    margin-bottom: -10px; /* Adjust vertical position */
 }
 
 .main-content ul {
