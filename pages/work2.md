@@ -87,7 +87,7 @@ position: 6
         content: '';
         position: absolute;
         top: 70px;
-        left: 10px;
+        left: 0px;
         width: 100%;
         height: 3px;
         background: rgba(62, 121, 180, .5);
