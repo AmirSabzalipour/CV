@@ -35,7 +35,7 @@ position: 6
         font-weight: bold;
         font-family: 'Avenir Next LT Pro', serif;
         font-size: 20px;
-        color: rgba(62, 121, 180, .6);
+        color: rgba(62, 121, 180, 1);
         margin-left: .1em;
     }
 
