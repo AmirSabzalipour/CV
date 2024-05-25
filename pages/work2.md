@@ -28,7 +28,7 @@ position: 6
     .title-container i {
         margin-top: -20px;
         margin-right: 5px;
-        color: #abb8a0;
+        color:rgba(62, 121, 180, 1);
     }
 
     .title-container p {
