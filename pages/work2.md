@@ -219,3 +219,24 @@ margin-bottom: 12px;
                 <p><span class="location; font-size: 40px; ">University of Antwerp</span></p>
             </div>
         </div>
+<br>
+
+
+<div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;"><br>
+                    <p>Postdoctoral Researcher</p>
+                </div >
+    <ul>
+    <li>Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
+    <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
+    <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
+    </ul>
+     <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <p></p>
+                <p><span class="date">10.2021 - 06.2023</span></p>
+                <p><span class="location; font-size: 40px; ">University of Antwerp</span></p>
+            </div>
+        </div>
