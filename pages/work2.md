@@ -66,8 +66,8 @@ position: 6
     font-size: 16.5px;
     color:  rgba(62, 121, 180, 1);   
     margin-left: 1.7em;
-    margin-top: 10px; /* Adjust vertical position */
-    margin-bottom: 2px; /* Adjust vertical position */
+    margin-top: 20px; /* Adjust vertical position */
+    margin-bottom: -20px; /* Adjust vertical position */
 }
 
 .main-content ul {
