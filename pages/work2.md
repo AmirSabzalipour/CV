@@ -65,7 +65,7 @@ position: 6
     font-family: 'Avenir Next LT Pro', serif;
     font-size: 17px;
     color:  rgba(62, 121, 180, 1);   
-    margin-left: 1.8em;
+    margin-left: 2em;
     margin-top: 15px; /* Adjust vertical position */
     margin-bottom: 4px; /* Adjust vertical position */
 }
@@ -116,7 +116,7 @@ position: 6
 .additional-column span.date {
     position: absolute;
     top: 14px; /* Positions the date at the very top of the additional-column */
-    left: 730px; /* Aligns the date to the left edge of the additional-column */
+    left: 750px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
     font-size: 16px; 
@@ -126,7 +126,7 @@ position: 6
 .additional-column span.location {
     position: absolute;
     top: 10px; /* Positions the date at the very top of the additional-column */
-    left: 730px; /* Aligns the date to the left edge of the additional-column */
+    left: 720px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
     font-size: 18px; 
