@@ -66,7 +66,7 @@ position: 6
     font-size: 17px;
     color:  #87ceeb;   
     margin-left: 1em;
-    margin-top: 20px; /* Adjust vertical position */
+    margin-top: 30px; /* Adjust vertical position */
     margin-bottom: -10px; /* Adjust vertical position */
 }
 
