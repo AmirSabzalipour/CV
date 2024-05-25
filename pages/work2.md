@@ -36,7 +36,7 @@ position: 6
         font-family: 'Avenir Next LT Pro', serif;
         font-size: 20px;
         color: rgba(62, 121, 180, .6);
-        margin-left: .2em;
+        margin-left: .1em;
     }
 
     /* Style for the subsections */
@@ -65,9 +65,9 @@ position: 6
     font-family: 'Avenir Next LT Pro', serif;
     font-size: 17px;
     color:  rgba(62, 121, 180, 1);   
-    margin-left: 2em;
-    margin-top: 10px; /* Adjust vertical position */
-    margin-bottom: 10px; /* Adjust vertical position */
+    margin-left: 1.8em;
+    margin-top: 15px; /* Adjust vertical position */
+    margin-bottom: 4px; /* Adjust vertical position */
 }
 
 .main-content ul {
