@@ -223,7 +223,7 @@ position: 6
             </div>
             <div class="additional-column">
                 <p></p>
-                <p><span class="date">10.2021-06.2023</span></p>
+                <p><span class="date">10.2021 - 06.2023</span></p>
                 <p><span class="location; font-size: 40px; ">University of Antwerp</span></p>
             </div>
         </div>
