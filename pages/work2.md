@@ -100,7 +100,7 @@ position: 6
     justify-content: flex-start;
     align-items: flex-start;
     padding: 10px;
-    width: 200px;
+    width: 170px;
     height: auto;
 }
 
@@ -116,21 +116,21 @@ position: 6
 .additional-column span.date {
     position: absolute;
     top: 14px; /* Positions the date at the very top of the additional-column */
-    left: 700px; /* Aligns the date to the left edge of the additional-column */
+    left: 730px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
     font-size: 16px; 
-    color:rgba(200,144,98,1);/* Adds some space below the date */
+    color:rgba(220,144,98,1);/* Adds some space below the date */
 }
 
 .additional-column span.location {
     position: absolute;
     top: 10px; /* Positions the date at the very top of the additional-column */
-    left: 700px; /* Aligns the date to the left edge of the additional-column */
+    left: 730px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
-    font-size: 20px; 
-    color:rgba(200,144,98,1);/* Adds some space below the date */
+    font-size: 18px; 
+    color:rgba(230,144,98,1);/* Adds some space below the date */
 }
 
 
