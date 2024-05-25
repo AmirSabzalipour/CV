@@ -213,11 +213,11 @@ position: 6
 <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
-                    <p>Postdoctoral Researcher</p>
+                    <p>Postdoctoral Researcher</p><br>
                 </div>
                 <ul>
-                    <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
-                    <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li>
+                    <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li><br>
+                    <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li><br>
                 </ul>
                 <div class="gradient-line"></div>
             </div>
