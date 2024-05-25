@@ -86,9 +86,9 @@ position: 6
     .gradient-line::before {
         content: '';
         position: absolute;
-        top: 60px;
+        top: 70px;
         left: 10px;
-        width: 98%;
+        width: 100%;
         height: 3px;
         background: rgba(62, 121, 180, .5);
         /* linear-gradient(to right, rgba(200,144,98,.6) 80%,  rgba(200,144,98,.6) 20%);  */
