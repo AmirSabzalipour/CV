@@ -270,15 +270,15 @@ margin-bottom: 12px;
     <p>Visiting Researcher</p>
     </div >
     <ul>
-    <li style="margin-bottom:0px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
+    <li style="margin-bottom:0px;">Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
     <p style="font-family: 'Avenir Next LT Pro';  font-weight: normal;font-size: 14px; color:gray; margin-top: 20px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
     </ul>
     <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
                 <p></p>
-                <p><span class="date">03.2016 - 02.2017</span></p>
-                <p><span class="location; font-size: 40px; margin-top: 3em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
+                <p><span class="date">10.2015 - 02.2016</span></p>
+                <p><span class="location; font-size: 40px; margin-top: 3em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uppsala University</span></p>
             </div>
     </div>      
 <br>
