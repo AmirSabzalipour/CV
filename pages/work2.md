@@ -59,11 +59,10 @@ position: 6
     flex-direction: column; 
     align-items: flex-start;
     }
-
     .main-content p {
     font-weight: bold;
-    font-family: 'Avenir Next LT Pro';
-    font-size: 17px;
+    font-family: 'Garamond';
+    font-size: 20px;
     color:rgba(62, 121, 180, 1);   
     margin-left: 1em;
     margin-top: 27px; /* Adjust vertical position */
