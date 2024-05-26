@@ -222,14 +222,14 @@ margin-bottom: 12px;
 
 
 <div class="textbox2">
-            <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;"><br>
-                    <p>Doctoral Researcher</p>
-                </div >
+    <div class="main-content">
+    <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;"><br>
+    <p>Doctoral Researcher</p>
+    </div >
     <ul>
     <li>Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
     <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
-    <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
+    <li style="margin-bottom: -10px;">Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
     </ul>
      <div class="gradient-line"></div>
             </div>
@@ -247,9 +247,8 @@ margin-bottom: 12px;
                     <p>Visiting Researcher</p>
                 </div >
     <ul>
-    <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic   impurities.</li>
-    <br>
-     <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
+    <li style="margin-bottom: -10px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
+    <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
     </ul>
      <div class="gradient-line"></div>
             </div>
@@ -268,7 +267,7 @@ margin-bottom: 12px;
                     <p>Visiting Researcher</p>
                 </div >
     <ul>
-    <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
+    <li style="margin-bottom: -10px;">Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
           </ul>
      <div class="gradient-line"></div>
             </div>
