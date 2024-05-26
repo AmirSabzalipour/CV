@@ -279,7 +279,7 @@ position: 6
 <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
-                    <p>Postdoctoral Researcher</p>
+                    <p>Visiting Researcher</p>
                 </div>
                 <ul>
                     <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
