@@ -102,8 +102,8 @@ position: 6
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-        padding: -2px;
-        width: 180px;
+        padding: 10px;
+        width: 120px;
         height: auto;
     }
 
