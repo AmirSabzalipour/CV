@@ -203,7 +203,7 @@ margin-bottom: 12px;
 <br>
 <div class="textbox2">
             <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;"><br>
+                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
                     <p>Postdoctoral Researcher</p>
                 </div >
                 <ul>
@@ -223,7 +223,7 @@ margin-bottom: 12px;
 
 <div class="textbox2">
     <div class="main-content">
-    <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;"><br>
+    <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
     <p>Doctoral Researcher</p>
     </div >
     <ul>
@@ -242,28 +242,28 @@ margin-bottom: 12px;
  <br> 
 
  <div class="textbox2">
-            <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;"><br>
-                    <p>Visiting Researcher</p>
-                </div >
+     <div class="main-content">
+    <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
+    <p>Visiting Researcher</p>
+    </div >
     <ul>
     <li style="margin-bottom:0px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
     <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
     </ul>
-     <div class="gradient-line"></div>
+    <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
                 <p></p>
                 <p><span class="date">03.2016 - 02.2017</span></p>
                 <p><span class="location; font-size: 40px; ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
             </div>
-        </div>      
+    </div>      
 <br>
 
 
 <div class="textbox2">
             <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;"><br>
+                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
                     <p>Visiting Researcher</p>
                 </div >
     <ul>
