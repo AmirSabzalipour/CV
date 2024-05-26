@@ -215,7 +215,7 @@ position: 6
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
-                <span class="date">10.2021 - 06.2023</span>
+                <span class="date">10 . 2021 - 06 . 2023</span>
                 <span class="location">University of Antwerp</span>
             </div>
         </div>
