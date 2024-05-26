@@ -102,8 +102,8 @@ position: 6
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-        padding: 0px;
-        width: 200px;
+        padding: -2px;
+        width: 180px;
         height: auto;
     }
 
@@ -118,7 +118,7 @@ position: 6
     .additional-column span.location {
         position: absolute;
         left: 720px;
-        margin-bottom: 10px;
+        margin-bottom: 0px;
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
          color: rgba(200,144,98,1);
