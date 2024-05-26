@@ -225,7 +225,7 @@ margin-bottom: 12px;
 <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;"><br>
-                    <p>Postdoctoral Researcher</p>
+                    <p>Doctoral Researcher</p>
                 </div >
     <ul>
     <li>Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
@@ -236,7 +236,28 @@ margin-bottom: 12px;
             </div>
             <div class="additional-column">
                 <p></p>
-                <p><span class="date">10.2021 - 06.2023</span></p>
+                <p><span class="date">03.2017 - 10.2021</span></p>
                 <p><span class="location; font-size: 40px; ">University of Antwerp</span></p>
             </div>
         </div>
+ <br> 
+
+ <div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;"><br>
+                    <p>Visiting Researcher</p>
+                </div >
+    <ul>
+    <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic   impurities.</li>
+    <li></li>
+    <li>IPM : Institute for Research in Fundamental Sciences, Tehran</li>
+    </ul>
+     <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <p></p>
+                <p><span class="date">03.2016 - 02.2017</span></p>
+                <p><span class="location; font-size: 40px; ">IPM</span></p>
+            </div>
+        </div>      
+<br>
