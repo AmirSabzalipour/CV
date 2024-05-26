@@ -253,7 +253,7 @@ position: 6
             </div>
             <div class="additional-column">
                 <span class="date">03.2016 - 02.2017</span>
-                <span class="location">IPM</span>
+                <span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span>
             </div>
         </div>
         <br>
