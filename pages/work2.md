@@ -151,6 +151,7 @@ position: 6
         .title-container i {
             margin-right: 0;
             margin-bottom: 5px;
+            margin-top: -20px;
         }
 
         .title-container p {
@@ -188,7 +189,7 @@ position: 6
             left: 10px;
             width: 98%;
             height: 3px;
-            background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 80%, rgba(64, 130, 109, 1) 20%);
+            background: rgba(62, 121, 180, .5);;
             border-radius: 10px;
         }
     }
