@@ -208,7 +208,7 @@ margin-bottom: 12px;
                 </div >
                 <ul>
                     <li >Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
-                    <li style="margin-bottom: -10px;">Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li><br>
+                    <li style="margin-bottom: 0px;">Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li><br>
                 </ul>
                 <div class="gradient-line"></div>
             </div>
@@ -229,7 +229,7 @@ margin-bottom: 12px;
     <ul>
     <li>Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
     <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
-    <li style="margin-bottom: -10px;">Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
+    <li style="margin-bottom: 0px;">Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
     </ul>
      <div class="gradient-line"></div>
             </div>
@@ -247,7 +247,7 @@ margin-bottom: 12px;
                     <p>Visiting Researcher</p>
                 </div >
     <ul>
-    <li style="margin-bottom: -10px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
+    <li style="margin-bottom:0px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
     <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
     </ul>
      <div class="gradient-line"></div>
@@ -267,7 +267,7 @@ margin-bottom: 12px;
                     <p>Visiting Researcher</p>
                 </div >
     <ul>
-    <li style="margin-bottom: -10px;">Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
+    <li style="margin-bottom: 0px;">Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
           </ul>
      <div class="gradient-line"></div>
             </div>
