@@ -125,6 +125,18 @@ margin-bottom: 12px;
     color:rgba(220,144,98,1);/* Adds some space below the date */
 }
 
+.additional-column span.location {
+    position: absolute;
+    top: 20px; /* Positions the date at the very top of the additional-column */
+    left: 750px; /* Aligns the date to the left edge of the additional-column */
+    margin-bottom: 10px; 
+    font-family: 'Avenir Next LT Pro'; 
+    font-size: 16px; 
+    color:rgba(220,144,98,1);/* Adds some space below the date */
+}
+
+
+
 
 /* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
 .additional-column p:not(.date) {
