@@ -33,7 +33,7 @@ position: 6
 
     .title-container p {
         font-weight: bold;
-        font-family: 'Avenir Next LT Pro', serif;
+        font-family: 'Garamond';
         font-size: 20px;
         color: rgba(62, 121, 180, 1);
         margin-left: .1em;
@@ -269,8 +269,7 @@ margin-bottom: 12px;
                 </div >
     <ul>
     <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
-    <li></li>
-       </ul>
+          </ul>
      <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
