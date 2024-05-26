@@ -102,7 +102,7 @@ position: 6
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-        padding: 10px;
+        padding: 0px;
         width: 140px;
         height: auto;
     }
