@@ -127,7 +127,7 @@ margin-bottom: 12px;
 
 .additional-column span.location {
     position: absolute;
-    top: 20px; /* Positions the date at the very top of the additional-column */
+    top: 50px; /* Positions the date at the very top of the additional-column */
     left: 750px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
