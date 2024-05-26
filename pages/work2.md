@@ -273,7 +273,7 @@ margin-bottom: 12px;
             <div class="additional-column">
                 <p></p>
                 <p><span class="date">10.2015 - 02.2016</span></p>
-                <p><span class="location; font-size: 40px; margin-top: 30px;  margin-bottom: 0px;">Uppsala University</span></p>
+                <p><span class="location; font-size: 40px; margin-top: 1em;  margin-bottom: 0.1em;">Uppsala University</span></p>
             </div>
         </div>      
 <br>
