@@ -255,7 +255,7 @@ margin-bottom: 12px;
             <div class="additional-column">
                 <p></p>
                 <p><span class="date">03.2016 - 02.2017</span></p>
-                <p><span class="location; font-size: 40px; ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
+                <p><span class="location; font-size: 40px; ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
             </div>
     </div>      
 <br>
