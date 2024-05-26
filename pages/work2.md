@@ -28,7 +28,7 @@ position: 6
     .title-container i {
         margin-top: -15px;
         margin-right: 5px;
-        font-size: 28px;
+        font-size: 32px;
         color: rgba(62, 121, 180, .5);
     }
 
