@@ -128,7 +128,7 @@ position: 6
     }
 
     .additional-column span.location {
-        top: 50px;
+        top: 70px;
     }
 
     .additional-column p:not(.date) {
