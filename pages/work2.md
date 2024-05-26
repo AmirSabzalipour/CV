@@ -87,7 +87,7 @@ margin-bottom: 12px;
 .gradient-line::before {
         content: '';
         position: absolute;
-        top: 64px;
+        top: 54px;
         left: 0px;
         width: 100%;
         height: 3px;
@@ -117,7 +117,7 @@ margin-bottom: 12px;
 /* Assuming you want to position the date span exactly at the top of the additional-column */
 .additional-column span.date {
     position: absolute;
-    top: 33px; /* Positions the date at the very top of the additional-column */
+    top: 23px; /* Positions the date at the very top of the additional-column */
     left: 750px; /* Aligns the date to the left edge of the additional-column */
     margin-bottom: 10px; 
     font-family: 'Avenir Next LT Pro'; 
