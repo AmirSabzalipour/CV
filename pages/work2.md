@@ -116,20 +116,18 @@ position: 6
 
     .additional-column span.date,
     .additional-column span.location {
-        position: absolute;
-        left: 900px;
         margin-bottom: 0px;
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
-         color: rgba(200,144,98,1);
+        color: rgba(200, 144, 98, 1);
     }
 
     .additional-column span.date {
-        top: 24px;
+        margin-bottom: 10px;
     }
 
     .additional-column span.location {
-        top: 73px;
+        margin-top: 10px;
     }
 
     .additional-column p:not(.date) {
@@ -259,7 +257,7 @@ position: 6
         </div>
         <br>
 
-<div class="textbox2">
+ <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
                     <p>Visiting Researcher</p>
