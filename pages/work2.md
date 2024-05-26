@@ -121,7 +121,7 @@ position: 6
         margin-bottom: 10px;
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
-        color: rgba(220, 144, 98, 1);
+        color: rgba(250, 170, 40, 1);
     }
 
     .additional-column span.date {
@@ -215,7 +215,7 @@ position: 6
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
-                <span class="date">10 . 2021 - 06 . 2023</span>
+                <span class="date">10.2021 - 06.2023</span>
                 <span class="location">University of Antwerp</span>
             </div>
         </div>
