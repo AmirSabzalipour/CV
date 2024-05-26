@@ -51,7 +51,7 @@ position: 6
         position: relative;
         display: flex;
         align-items: center;
-        width: 99%;
+        width: 100%;
     }
 
     .main-content {
