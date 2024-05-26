@@ -28,7 +28,7 @@ position: 6
     .title-container i {
         margin-top: -15px;
         margin-right: 5px;
-        color:rgba(62, 121, 180, .5);
+        color: rgba(62, 121, 180, .5);
     }
 
     .title-container p {
@@ -41,50 +41,51 @@ position: 6
 
     /* Style for the subsections */
     .textbox2 {
-    background-color: #f0f0f0;
-    border: 1px solid white;
-    border-radius: 30px 30px 30px 30px;
-    padding: 1px ;
-    margin:0;
-    box-shadow: 0 2px 2px white;
-    position: relative; 
-    display: flex;
-    align-items: center;
-    width: 99%; ;
+        background-color: #f0f0f0;
+        border: 1px solid white;
+        border-radius: 30px;
+        padding: 1px;
+        margin: 0;
+        box-shadow: 0 2px 2px white;
+        position: relative;
+        display: flex;
+        align-items: center;
+        width: 99%;
     }
 
     .main-content {
-    flex: 1;
-    display: flex; 
-    flex-direction: column; 
-    align-items: flex-start;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
     }
+
     .main-content p {
-    font-weight: bold;
-    font-family: 'Garamond';
-    font-size: 20px;
-    color:rgba(62, 121, 180, 1);   
-    margin-left: 1em;
-    margin-top: 27px; /* Adjust vertical position */
-    margin-bottom: -10px; /* Adjust vertical position */
-}
+        font-weight: bold;
+        font-family: 'Garamond';
+        font-size: 20px;
+        color: rgba(62, 121, 180, 1);
+        margin-left: 1em;
+        margin-top: 27px; /* Adjust vertical position */
+        margin-bottom: -10px; /* Adjust vertical position */
+    }
 
-.main-content ul {
-   font-size: 16px;
-    font-family: 'Avenir Next LT Pro Regular', sans-serif;
-    margin-left: 1.7em;
-     color: black;
-    margin-top: 20px; 
-    margin-bottom: 20px; 
-}
+    .main-content ul {
+        font-size: 16px;
+        font-family: 'Avenir Next LT Pro Regular', sans-serif;
+        margin-left: 1.7em;
+        color: black;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
 
-.main-content ul li {
-margin-left: 12px;
-margin-top: 12px; 
-margin-bottom: 12px;
-}
+    .main-content ul li {
+        margin-left: 12px;
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
 
-.gradient-line::before {
+    .gradient-line::before {
         content: '';
         position: absolute;
         top: 54px;
@@ -92,60 +93,49 @@ margin-bottom: 12px;
         width: 100%;
         height: 3px;
         background: rgba(62, 121, 180, .5);
-        /* linear-gradient(to right, rgba(200,144,98,.6) 80%,  rgba(200,144,98,.6) 20%);  */
         border-radius: 10px;
     }
 
-.additional-column {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    padding: 10px;
-    width: 170px;
-    height: auto;
-}
+    .additional-column {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding: 10px;
+        width: 170px;
+        height: auto;
+    }
 
-.additional-column p,
-.additional-column span {
-    font-family: 'Avenir Next LT Pro';
-    font-size: 15px;
-    color: inherit;
+    .additional-column p,
+    .additional-column span {
+        font-family: 'Avenir Next LT Pro';
+        font-size: 15px;
+        color: inherit;
+    }
 
-}
+    .additional-column span.date,
+    .additional-column span.location {
+        position: absolute;
+        left: 750px;
+        margin-bottom: 10px;
+        font-family: 'Avenir Next LT Pro';
+        font-size: 16px;
+        color: rgba(220, 144, 98, 1);
+    }
 
-/* Assuming you want to position the date span exactly at the top of the additional-column */
-.additional-column span.date {
-    position: absolute;
-    top: 20px; /* Positions the date at the very top of the additional-column */
-    left: 750px; /* Aligns the date to the left edge of the additional-column */
-    margin-bottom: 10px; 
-    font-family: 'Avenir Next LT Pro'; 
-    font-size: 16px; 
-    color:rgba(220,144,98,1);/* Adds some space below the date */
-}
+    .additional-column span.date {
+        top: 20px;
+    }
 
-.additional-column span.location {
-    position: absolute;
-    top: 50px; /* Positions the date at the very top of the additional-column */
-    left: 750px; /* Aligns the date to the left edge of the additional-column */
-    margin-bottom: 10px; 
-    font-family: 'Avenir Next LT Pro'; 
-    font-size: 16px; 
-    color:rgba(220,144,98,1);/* Adds some space below the date */
-}
+    .additional-column span.location {
+        top: 50px;
+    }
 
-
-
-
-/* Other elements in the additional-column can remain as they are, unless you need to adjust their positions as well */
-.additional-column p:not(.date) {
-    margin-top:-15px; 
-     color:rgba(220,144,98,1);
-     font-size: 17px; 
-    /* Adds some space above the first paragraph after the date */
-}
-
+    .additional-column p:not(.date) {
+        margin-top: -15px;
+        color: rgba(220, 144, 98, 1);
+        font-size: 17px;
+    }
 
     /* Responsive adjustments for smaller screens */
     @media only screen and (max-width: 600px) {
@@ -163,7 +153,7 @@ margin-bottom: 12px;
         }
 
         .title-container p {
-            font-size: 18px; /* Adjusted font size for smaller screens */
+            font-size: 18px;
             margin-left: 0;
         }
 
@@ -192,9 +182,8 @@ margin-bottom: 12px;
             margin-top: 5px;
         }
 
-        /* Add gradient line to textbox2 for small screens */
         .textbox2 .gradient-line::before {
-            top: 47px; /* Adjust this value to fit your design */
+            top: 47px;
             left: 10px;
             width: 98%;
             height: 3px;
@@ -212,101 +201,93 @@ margin-bottom: 12px;
                 <p>Computational Research on Materials</p>
             </div>
         </div>
-<br>
-<div class="textbox2">
+        <br>
+        <div class="textbox2">
             <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
                     <p>Postdoctoral Researcher</p>
-                </div >
+                </div>
                 <ul>
-                    <li >Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
-                    <li style="margin-bottom: -8px;">Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li><br>
+                    <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
+                    <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum, and topological features.</li>
                 </ul>
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
-                <p></p>
-                <p><span class="date">10.2021 - 06.2023</span></p>
-                <p><span class="location; font-size: 40px; ">University of Antwerp</span></p>
+                <span class="date">10.2021 - 06.2023</span>
+                <span class="location">University of Antwerp</span>
             </div>
         </div>
-<br>
-
-
-<div class="textbox2">
-    <div class="main-content">
-    <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
-    <p>Doctoral Researcher</p>
-    </div >
-    <ul>
-    <li>Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
-    <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
-    <li style="margin-bottom: 0px;">Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
-    </ul>
-     <div class="gradient-line"></div>
-            </div>
-            <div class="additional-column">
-                <p></p>
-                <p><span class="date">03.2017 - 10.2021</span></p>
-                <p><span class="location; font-size: 40px; ">University of Antwerp</span></p>
-            </div>
-        </div>
- <br> 
-
-
-
- <div class="textbox2">
-     <div class="main-content">
-    <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
-    <p>Visiting Researcher</p>
-    </div >
-    <ul>
-    <li style="margin-bottom:0px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
-    <p style="font-family: 'Avenir Next LT Pro';  font-weight: normal;font-size: 14px; color:gray; margin-top: 20px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
-    </ul>
-    <div class="gradient-line"></div>
-            </div>
-            <div class="additional-column">
-                <p></p>
-                <p><span class="date">03.2016 - 02.2017</span></p>
-                <p><span class="location; font-size: 40px; margin-top: 3em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
-            </div>
-    </div>      
-<br>
+        <br>
 
 <div class="textbox2">
             <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                    <p>Doctoral Researcher</p>
+                </div>
+                <ul>
+                    <li>Simulations of materials using VASP package on a High-performance computing (HPC) cluster.</li>
+                    <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
+                    <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
+                </ul>
+                <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <span class="date">03.2017 - 10.2021</span>
+                <span class="location">University of Antwerp</span>
+            </div>
+        </div>
+        <br>
+
+<div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
                     <p>Visiting Researcher</p>
-            </div >
-    <ul>
-    <li style="margin-bottom: 0px;">Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
-    </ul>
-     <div class="gradient-line"></div>
-        </div>
-            <div class="additional-column">
-                <p></p>
-                <p><span class="date">10.2015 - 02.2016</span></p>
-                <p><span class="location; font-size: 40px; margin-top: 3em;  margin-bottom: 0.1em;">Uppsala University</span></p>
+                </div>
+                <ul>
+                    <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
+                </ul>
+                <p style="font-family: 'Avenir Next LT Pro'; font-weight: normal; font-size: 14px; color: gray; margin-top: 20px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
+                <div class="gradient-line"></div>
             </div>
-        </div> 
-<br>
-
+            <div class="additional-column">
+                <span class="date">03.2016 - 02.2017</span>
+                <span class="location">IPM</span>
+            </div>
+        </div>
+        <br>
 
 <div class="textbox2">
             <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
-                    <p>Postdoctoral Researcher</p>
-                </div >
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                    <p>Visiting Researcher</p>
+                </div>
                 <ul>
-                    <li >Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
-                  <br>
+                    <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
                 </ul>
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
-                <p></p>
-                <p><span class="date">10.2021 - 06.2023</span></p>
-                <p><span class="location; font-size: 40px; ">University of Antwerp</span></p>
+                <span class="date">10.2015 - 02.2016</span>
+                <span class="location">Uppsala University</span>
             </div>
         </div>
+        <br>
+
+<div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                    <p>Postdoctoral Researcher</p>
+                </div>
+                <ul>
+                    <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
+                </ul>
+                <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <span class="date">10.2021 - 06.2023</span>
+                <span class="location">University of Antwerp</span>
+            </div>
+        </div>
+    </section>
+</body>
