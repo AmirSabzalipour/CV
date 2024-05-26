@@ -248,7 +248,7 @@ margin-bottom: 12px;
     </div >
     <ul>
     <li style="margin-bottom:0px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
-    <p style="font-family: 'Avenir Next LT Pro'; font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
+    <p style="font-family: 'Avenir Next LT Pro';  font-weight: normal;font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
     </ul>
     <div class="gradient-line"></div>
             </div>
