@@ -243,41 +243,6 @@ margin-bottom: 12px;
 
 
 
-
-
-<div class="textbox2">
-            <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
-                    <p>Visiting Researcher</p>
-                </div >
-    <ul>
-    <li style="margin-bottom: 0px;">Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
-          </ul>
-     <div class="gradient-line"></div>
-            </div>
-            <div class="additional-column">
-                <p></p>
-                <p><span class="date">10.2015 - 02.2016</span></p>
-                <p><span class="location; font-size: 40px; margin-top: 1em;  margin-bottom: 0.1em;">Uppsala University</span></p>
-            </div>
-        </div>      
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  <div class="textbox2">
      <div class="main-content">
     <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
@@ -296,6 +261,45 @@ margin-bottom: 12px;
             </div>
     </div>      
 <br>
+
+
+
+<div class="textbox2">
+     <div class="main-content">
+    <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
+    <p>Visiting Researcher</p>
+    </div >
+    <ul>
+    <li style="margin-bottom:0px;">Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
+    <p style="font-family: 'Avenir Next LT Pro';  font-weight: normal;font-size: 14px; color:gray; margin-top: 20px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
+    </ul>
+    <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <p></p>
+                <p><span class="date">03.2016 - 02.2017</span></p>
+                <p><span class="location; font-size: 40px; margin-top: 3em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
+            </div>
+    </div>      
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="textbox2">
             <div class="main-content">
