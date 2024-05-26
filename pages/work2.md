@@ -112,7 +112,7 @@ position: 6
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
         color: inherit;
-        margin: 5px 0; /* Add margin for top and bottom spacing */
+        margin: 0px 0; /* Add margin for top and bottom spacing */
     }
 
     .additional-column span.date,
@@ -121,7 +121,7 @@ position: 6
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
         color: rgba(200, 144, 98, 1);
-        padding: 0 10px; /* Add padding for left and right spacing */
+        padding: -10px -10px; /* Add padding for left and right spacing */
     }
 
     .additional-column span.date {
