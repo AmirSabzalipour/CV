@@ -117,7 +117,7 @@ position: 6
     .additional-column span.date,
     .additional-column span.location {
         position: absolute;
-        left: 1000px;
+        left: 900px;
         margin-bottom: 0px;
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
