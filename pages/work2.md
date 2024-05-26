@@ -45,7 +45,7 @@ position: 6
         background-color: #f0f0f0;
         border: 1px solid white;
         border-radius: 30px;
-        padding: 1px;
+        padding: -2px;
         margin: 0;
         box-shadow: 0 2px 2px white;
         position: relative;
@@ -102,8 +102,8 @@ position: 6
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-        padding: 10px;
-        width: 170px;
+        padding: 0px;
+        width: 200px;
         height: auto;
     }
 
@@ -117,7 +117,7 @@ position: 6
     .additional-column span.date,
     .additional-column span.location {
         position: absolute;
-        left: 740px;
+        left: 720px;
         margin-bottom: 10px;
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
