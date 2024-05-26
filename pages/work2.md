@@ -223,7 +223,7 @@ margin-bottom: 12px;
 
 <div class="textbox2">
     <div class="main-content">
-    <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
+    <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
     <p>Doctoral Researcher</p>
     </div >
     <ul>
@@ -243,7 +243,7 @@ margin-bottom: 12px;
 
  <div class="textbox2">
      <div class="main-content">
-    <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
+    <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
     <p>Visiting Researcher</p>
     </div >
     <ul>
@@ -263,7 +263,7 @@ margin-bottom: 12px;
 
 <div class="textbox2">
             <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
+                <div style="margin-left: 0.1em; margin-top: -0.6em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
                     <p>Visiting Researcher</p>
                 </div >
     <ul>
