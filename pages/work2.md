@@ -203,12 +203,12 @@ margin-bottom: 12px;
 <br>
 <div class="textbox2">
             <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: 0.1em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
+                <div style="margin-left: 0.1em; margin-top: -0.4em;  margin-bottom: 0.1em;display: flex; align-items: center; margin-bottom: 5px;">
                     <p>Postdoctoral Researcher</p>
                 </div >
                 <ul>
                     <li >Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
-                    <li style="margin-bottom: 0px;">Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li><br>
+                    <li style="margin-bottom: -5px;">Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum and topological features.</li><br>
                 </ul>
                 <div class="gradient-line"></div>
             </div>
