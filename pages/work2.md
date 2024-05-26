@@ -125,11 +125,11 @@ position: 6
     }
 
     .additional-column span.date {
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
 
     .additional-column span.location {
-        margin-top: 10px;
+        margin-top: -5px;
     }
 
     .additional-column p:not(.date) {
