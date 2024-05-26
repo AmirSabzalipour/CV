@@ -102,8 +102,8 @@ position: 6
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-        padding: 0px;
-        width: 140px;
+        padding: 10px;
+        width: 120px;
         height: auto;
     }
 
@@ -112,6 +112,7 @@ position: 6
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
         color: inherit;
+        margin: 5px 0; /* Add margin for top and bottom spacing */
     }
 
     .additional-column span.date,
@@ -120,6 +121,7 @@ position: 6
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
         color: rgba(200, 144, 98, 1);
+        padding: 0 10px; /* Add padding for left and right spacing */
     }
 
     .additional-column span.date {
@@ -135,6 +137,7 @@ position: 6
         color: rgba(220, 144, 98, 1);
         font-size: 17px;
     }
+
 
     /* Responsive adjustments for smaller screens */
     @media only screen and (max-width: 600px) {
