@@ -249,15 +249,15 @@ margin-bottom: 12px;
                 </div >
     <ul>
     <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic   impurities.</li>
-    <li></li>
-    <li>IPM : Institute for Research in Fundamental Sciences, Tehran</li>
+    <br>
+     <p style="font-size: 14px; color:gray; margin-top: 10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
     </ul>
      <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
                 <p></p>
                 <p><span class="date">03.2016 - 02.2017</span></p>
-                <p><span class="location; font-size: 40px; ">IPM</span></p>
+                <p><span class="location; font-size: 40px; ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span></p>
             </div>
         </div>      
 <br>
