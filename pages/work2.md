@@ -121,7 +121,7 @@ position: 6
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
     margin-top: -60px; /* Adjusted to bring the date closer to the location */
-    padding-right: 10px;
+    padding-right: -10px;
 }
 
 .additional-column span.location {
