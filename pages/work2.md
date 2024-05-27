@@ -102,12 +102,11 @@ position: 6
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    padding: 0px; /* Add padding for inner content */
+    padding: 0px; /* Adjust padding for inner content */
     width: 160px;
     border-radius: 10px; /* Add border radius for rounded corners */
     margin-right: 0; /* Reduce the margin for the right side */
-    padding-right: 5px; 
-     padding-top: -20px; /* Reduce padding for the right side */
+    padding-right: 5px; /* Reduce padding for the right side */
 }
 
 .additional-column p,
@@ -122,7 +121,6 @@ position: 6
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
     margin-top: -30px; /* Ensure date is positioned correctly */
-    padding-top: -30px; /* Remove top padding */
     padding-right: 10px; /* Reduce padding for the right side */
 }
 
