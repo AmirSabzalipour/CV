@@ -122,18 +122,23 @@ position: 6
     color: rgba(200, 144, 98, 1);
     margin-bottom: 0; /* Move the date up */
     margin-top: auto; /* Align the date to the bottom */
+    padding: -10px -10px -10px -10px; /* Add padding for inner content */
 }
 
 .additional-column span.location {
     color: rgba(200, 144, 98, 1);
     margin-top: auto; /* Align the location to the bottom */
     margin-left: -5px; /* Adjust margin to move left */
+    padding: -10px -10px -10px -10px; /* Add padding for inner content */
+
 }
 
 .additional-column p:not(.date) {
     margin-top: -15px;
     color: rgba(220, 144, 98, 1);
     font-size: 17px;
+    padding: -10px -10px -10px -10px; /* Add padding for inner content */
+
 }
 
     /* Responsive adjustments for smaller screens */
