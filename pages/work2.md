@@ -219,7 +219,7 @@ position: 6
                     <p>Doctoral Researcher</p>
                 </div>
                 <ul>
-                    <li>Simulations of materials using VASP package on High-performance computing (HPC) clusters.</li>
+                    <li>Material Simulations with VASP package on High-performance computing (HPC) clusters.</li>
                     <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
                     <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
                 </ul>
