@@ -105,7 +105,8 @@ position: 6
     padding: 0px;
     width: 200px;
     height: auto;
-}
+    background-color: #dcdcdc; /* Darker background color */
+    }
 
 .additional-column p,
 .additional-column span {
