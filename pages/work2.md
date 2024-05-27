@@ -104,8 +104,8 @@ position: 6
     align-items: flex-start;
     padding: 0px;
     width: 160px;
-    background-color: white;
-    border-radius: 10px;
+    /* background-color: white; */
+    border-radius: 15px;
     margin-right: 20px; /* Adjusted to move the column to the right */
 }
 
@@ -114,22 +114,22 @@ position: 6
     font-family: 'Avenir Next LT Pro';
     font-size: 15px;
     color: inherit;
-    margin: 0px -10px 50px 50px;
+    margin: 0px 0px 10px 10px;
     padding: 0 2px 0 2px;
 }
 
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
-    margin-top: -20px; /* Adjusted to bring the date closer to the location */
+    margin-top: -30px; /* Adjusted to bring the date closer to the location */
     padding-right: 10px;
 }
 
 .additional-column span.location {
     color: rgba(200, 144, 98, 1);
     margin-left: -10px;
-    padding-bottom: 0;
+    padding-bottom: -20px;
     padding-right: -2px;
-     margin-top: 4px;
+     margin-top: 20px;
 }
 
 
