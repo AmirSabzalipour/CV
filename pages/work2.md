@@ -114,19 +114,19 @@ position: 6
     font-family: 'Avenir Next LT Pro';
     font-size: 15px;
     color: inherit;
-    margin: 5px 0 5px 0;
-    padding: 0 5px 0 10px;
+    margin: 2px 0 2px 0;
+    padding: 0 2px 0 2px;
 }
 
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
-    margin-top: -10px; /* Adjusted to bring the date closer to the location */
+    margin-top: -20px; /* Adjusted to bring the date closer to the location */
     padding-right: 10px;
 }
 
 .additional-column span.location {
     color: rgba(200, 144, 98, 1);
-    margin-left: 0;
+    margin-left: -10px;
     padding-bottom: 0;
     padding-right: -2px;
      margin-top: 4px;
