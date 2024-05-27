@@ -128,8 +128,8 @@ position: 6
     color: rgba(200, 144, 98, 1);
     margin-left: 0;
     padding-bottom: 0;
-    padding-right: 5px;
-     margin-top: 20px;
+    padding-right: -2px;
+     margin-top: 4px;
 }
 
 
