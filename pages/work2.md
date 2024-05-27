@@ -106,7 +106,8 @@ position: 6
     width: 160px;
     border-radius: 10px; /* Add border radius for rounded corners */
     margin-right: 0; /* Reduce the margin for the right side */
-    padding-right: 5px; /* Reduce padding for the right side */
+    padding-right: 5px; 
+     padding-top: -20px; /* Reduce padding for the right side */
 }
 
 .additional-column p,
