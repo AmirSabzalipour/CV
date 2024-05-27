@@ -106,6 +106,8 @@ position: 6
     width: 160px;
     background-color: #a9a9a9; /* Darker background color */
     border-radius: 10px; /* Add border radius for rounded corners */
+    margin-right: 0; /* Reduce the margin for the right side */
+    padding-right: 5px; /* Reduce padding for the right side */
 }
 
 .additional-column p,
@@ -113,27 +115,29 @@ position: 6
     font-family: 'Avenir Next LT Pro';
     font-size: 15px;
     color: inherit;
-    margin: 10px 0; /* Increase margin for top and bottom spacing */
-    padding: 0 10px; /* Add padding for left and right spacing */
+    margin: 10px 0 10px 0; /* Increase margin for top and bottom spacing, reduce margin-right */
+    padding: 0 5px 0 10px; /* Reduce padding for the right side */
 }
 
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
     margin-top: 0; /* Ensure date is positioned correctly */
     padding-top: 10px; /* Optional: add padding to top for spacing */
+    padding-right: 5px; /* Reduce padding for the right side */
 }
 
 .additional-column span.location {
     color: rgba(200, 144, 98, 1);
     margin-left: 0; /* Adjust margin to move left */
     padding-bottom: 10px; /* Optional: add padding to bottom for spacing */
+    padding-right: 5px; /* Reduce padding for the right side */
 }
 
 .additional-column p:not(.date) {
     margin-top: -15px;
     color: rgba(220, 144, 98, 1);
     font-size: 17px;
-    padding: 0 10px; /* Add padding for left and right spacing */
+    padding: 0 5px 0 10px; /* Reduce padding for the right side */
 }
 
 
