@@ -104,24 +104,17 @@ position: 6
     align-items: flex-start;
     padding: 0px;
     width: 160px;
-    /* background-color: white; */
     border-radius: 15px;
-    margin-right: 20px; /* Adjusted to move the column to the right */
-}
-
-.additional-column p,
-.additional-column span {
-    font-family: 'Avenir Next LT Pro';
-    font-size: 15px;
-    color: inherit;
-    margin: 0px -10px 10px -10px;
-    padding: 0 2px 0 2px;
+    margin-right: 20px;
+    position: relative; /* Added to allow for relative positioning */
 }
 
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
-    margin-top: -20px; /* Adjusted for consistent alignment */
+    margin-top: -20px; /* Adjusted to bring the date closer to the location */
     padding-right: -10px;
+    position: relative; /* Added to allow for relative positioning */
+    top: -10px; /* Moves the date upwards */
 }
 
 .additional-column span.location {
@@ -129,9 +122,10 @@ position: 6
     margin-left: -10px;
     padding-bottom: 20px;
     padding-right: -10px;
-    /* Removed margin-top to align with the date */
+    margin-top: 20px;
+    position: relative; /* Added to allow for relative positioning */
+    top: -10px; /* Moves the location upwards */
 }
-
 
     /* Responsive adjustments for smaller screens */
     @media only screen and (max-width: 600px) {
