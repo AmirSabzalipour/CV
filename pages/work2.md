@@ -122,7 +122,7 @@ position: 6
     color: rgba(200, 144, 98, 1);
     margin-bottom: 0; /* Move the date up */
     margin-top: auto; /* Align the date to the bottom */
-    padding: -10px -10px -10px -10px; /* Add padding for inner content */
+    padding: -20px -20px 0px  0px; /* Add padding for inner content */
 }
 
 .additional-column span.location {
