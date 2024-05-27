@@ -106,7 +106,7 @@ position: 6
      font-size: 15px;
     width: 160px;
     border-radius: 15px;
-    margin-right: 20px;
+    margin-right: -10px;
     position: relative; /* Added to allow for relative positioning */
 }
 
