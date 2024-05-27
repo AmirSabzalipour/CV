@@ -104,7 +104,6 @@ position: 6
     align-items: flex-start;
     padding: 10px; /* Add padding for inner content */
     width: 160px;
-    background-color: white; /* Darker background color */
     border-radius: 10px; /* Add border radius for rounded corners */
     margin-right: 0; /* Reduce the margin for the right side */
     padding-right: 5px; /* Reduce padding for the right side */
