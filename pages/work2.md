@@ -105,14 +105,14 @@ position: 6
     padding: 0px;
      font-size: 15px;
     width: 160px;
-    border-radius: 15px;
+    border-radius: 20px;
     margin-right: -10px;
     position: relative; /* Added to allow for relative positioning */
 }
 
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
-    margin-top: -20px; /* Adjusted to bring the date closer to the location */
+    margin-top: -25px; /* Adjusted to bring the date closer to the location */
     padding-right: -10px;
     position: relative; /* Added to allow for relative positioning */
     top: -10px; /* Moves the date upwards */
@@ -120,9 +120,9 @@ position: 6
 
 .additional-column span.location {
     color: rgba(200, 144, 98, 1);
-    margin-left: -10px;
+    margin-left: 0px;
     padding-bottom: 20px;
-    padding-right: 0px;
+    padding-right: -10px;
     margin-top: 20px;
     position: relative; /* Added to allow for relative positioning */
     top: -10px; /* Moves the location upwards */
