@@ -122,7 +122,7 @@ position: 6
     color: rgba(200, 144, 98, 1);
     margin-left: -10px;
     padding-bottom: 20px;
-    padding-right: -10px;
+    padding-right: 0px;
     margin-top: 20px;
     position: relative; /* Added to allow for relative positioning */
     top: -10px; /* Moves the location upwards */
