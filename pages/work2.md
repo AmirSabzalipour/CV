@@ -120,7 +120,7 @@ position: 6
 
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
-    margin-top: -30px; /* Adjusted to bring the date closer to the location */
+    margin-top: -40px; /* Adjusted to bring the date closer to the location */
     padding-right: 10px;
 }
 
@@ -129,7 +129,7 @@ position: 6
     margin-left: -10px;
     padding-bottom: -20px;
     padding-right: -2px;
-     margin-top: 20px;
+     margin-top: 15px;
 }
 
 
