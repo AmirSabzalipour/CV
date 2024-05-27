@@ -102,7 +102,7 @@ position: 6
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    padding: 10px; /* Add padding for inner content */
+    padding: -10px; /* Add padding for inner content */
     width: 160px;
     background-color: #a9a9a9; /* Darker background color */
     border-radius: 10px; /* Add border radius for rounded corners */
