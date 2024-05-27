@@ -89,9 +89,9 @@ position: 6
     .gradient-line::before {
         content: '';
         position: absolute;
-        top: 54px;
+        top: 50px;
         left: 0px;
-        width: 100%;
+        width: 80%;
         height: 3px;
         background: rgba(62, 121, 180, .5);
         border-radius: 10px;
