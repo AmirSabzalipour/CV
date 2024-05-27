@@ -102,7 +102,7 @@ position: 6
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-        padding: 10px;
+        padding: 0px;
         width: 160px;
         height: auto;
     }
@@ -112,24 +112,18 @@ position: 6
         font-family: 'Avenir Next LT Pro';
         font-size: 15px;
         color: inherit;
-        margin: 0px 0; /* Add margin for top and bottom spacing */
-    }
-
-    .additional-column span.date,
-    .additional-column span.location {
-        margin-bottom: 0px;
-        font-family: 'Avenir Next LT Pro';
-        font-size: 15px;
-        color: rgba(200, 144, 98, 1);
-        padding: -10px -10px; /* Add padding for left and right spacing */
+        margin: 5px 0; /* Add margin for top and bottom spacing */
+        padding: 0 10px; /* Add padding for left and right spacing */
     }
 
     .additional-column span.date {
-        margin-bottom: 20px;
+        color: rgba(200, 144, 98, 1);
+        margin-bottom: 10px;
     }
 
     .additional-column span.location {
-        margin-top: -5px;
+        color: rgba(200, 144, 98, 1);
+        margin-top: 10px;
     }
 
     .additional-column p:not(.date) {
@@ -137,7 +131,6 @@ position: 6
         color: rgba(220, 144, 98, 1);
         font-size: 17px;
     }
-
 
     /* Responsive adjustments for smaller screens */
     @media only screen and (max-width: 600px) {
@@ -255,24 +248,7 @@ position: 6
             </div>
             <div class="additional-column">
                 <span class="date">03.2016 - 02.2017</span>
-                <span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPM</span>
-            </div>
-        </div>
-        <br>
-
- <div class="textbox2">
-            <div class="main-content">
-                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
-                    <p>Visiting Researcher</p>
-                </div>
-                <ul>
-                    <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
-                </ul>
-                <div class="gradient-line"></div>
-            </div>
-            <div class="additional-column">
-                <span class="date">10.2015 - 02.2016</span>
-                <span class="location">Uppsala University</span>
+                <span class="location">IPM</span>
             </div>
         </div>
         <br>
@@ -288,8 +264,8 @@ position: 6
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
-                <span class="date">10.2021 - 06.2023</span>
-                <span class="location">University of Antwerp</span>
+                <span class="date">03.2015 - 02.2016</span>
+                <span class="location">Another Institution</span>
             </div>
         </div>
     </section>
