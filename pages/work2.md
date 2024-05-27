@@ -121,8 +121,8 @@ position: 6
 
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
-    margin-top: -10px; /* Ensure date is positioned correctly */
-    padding-top: -10px; /* Remove top padding */
+    margin-top: -30px; /* Ensure date is positioned correctly */
+    padding-top: -30px; /* Remove top padding */
     padding-right: 10px; /* Reduce padding for the right side */
 }
 
