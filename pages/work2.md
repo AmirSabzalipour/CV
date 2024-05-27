@@ -103,7 +103,7 @@ position: 6
     justify-content: flex-start;
     align-items: flex-start;
     padding: 0px;
-    width: 160px;
+    width: 180px;
     height: auto;
 }
 
@@ -119,7 +119,7 @@ position: 6
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
     margin-bottom: 0; /* Move the date up */
-    margin-top: -20px; /* Adjust margin to move up */
+    margin-top: -30px; /* Adjust margin to move up */
 }
 
 .additional-column span.location {
