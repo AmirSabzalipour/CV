@@ -81,6 +81,7 @@ position: 6
     }
 
     .main-content ul li {
+        font-family: 'Avenir Next LT Pro Regular', sans-serif;
         margin-left: 12px;
         margin-top: 12px;
         margin-bottom: 12px;
