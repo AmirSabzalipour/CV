@@ -135,7 +135,7 @@ position: 6
     margin-top: -5px; /* Adjust top margin */
     color: rgba(220, 144, 98, 1);
     font-size: 17px;
-    padding: 0 5px 0 10px; /* Reduce padding for the right side */
+    padding: -10px 5px 10px 0px; /* Reduce padding for the right side */
 }
 
 
