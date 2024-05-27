@@ -103,6 +103,7 @@ position: 6
     justify-content: flex-start;
     align-items: flex-start;
     padding: 0px;
+     font-size: 15px;
     width: 160px;
     border-radius: 15px;
     margin-right: 20px;
