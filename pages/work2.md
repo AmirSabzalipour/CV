@@ -127,9 +127,9 @@ position: 6
 .additional-column span.location {
     color: rgba(200, 144, 98, 1);
     margin-left: -10px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     padding-right: -2px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 
