@@ -102,7 +102,7 @@ position: 6
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    padding: 10px; /* Add padding for inner content */
+    padding: -10px; /* Add padding for inner content */
     width: 160px;
     height: 100%; /* Set a fixed height */
     background-color: #dcdcdc; /* Darker background color */
