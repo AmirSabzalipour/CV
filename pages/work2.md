@@ -102,10 +102,9 @@ position: 6
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    padding: -10px -10px -10px -10px; /* Add padding for inner content */
+    padding: 10px; /* Add padding for inner content */
     width: 160px;
-    height: 100%; /* Set a fixed height */
-    background-color: #dcdcdc; /* Darker background color */
+    background-color: #a9a9a9; /* Darker background color */
     border-radius: 10px; /* Add border radius for rounded corners */
 }
 
@@ -114,32 +113,29 @@ position: 6
     font-family: 'Avenir Next LT Pro';
     font-size: 15px;
     color: inherit;
-    margin: 5px 0; /* Add margin for top and bottom spacing */
-    padding: 0 -20px; /* Add padding for left and right spacing */
+    margin: 10px 0; /* Increase margin for top and bottom spacing */
+    padding: 0 10px; /* Add padding for left and right spacing */
 }
 
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
-    margin-bottom: 0; /* Move the date up */
-    margin-top: auto; /* Align the date to the bottom */
-    padding: -20px -20px 0px  0px; /* Add padding for inner content */
+    margin-top: 0; /* Ensure date is positioned correctly */
+    padding-top: 10px; /* Optional: add padding to top for spacing */
 }
 
 .additional-column span.location {
     color: rgba(200, 144, 98, 1);
-    margin-top: auto; /* Align the location to the bottom */
-    margin-left: -5px; /* Adjust margin to move left */
-    padding: -10px -10px -10px -10px; /* Add padding for inner content */
-
+    margin-left: 0; /* Adjust margin to move left */
+    padding-bottom: 10px; /* Optional: add padding to bottom for spacing */
 }
 
 .additional-column p:not(.date) {
     margin-top: -15px;
     color: rgba(220, 144, 98, 1);
     font-size: 17px;
-    padding: -10px -10px -10px -10px; /* Add padding for inner content */
-
+    padding: 0 10px; /* Add padding for left and right spacing */
 }
+
 
     /* Responsive adjustments for smaller screens */
     @media only screen and (max-width: 600px) {
