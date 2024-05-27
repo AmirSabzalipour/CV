@@ -89,9 +89,9 @@ position: 6
     .gradient-line::before {
         content: '';
         position: absolute;
-        top: 50px;
+        top: 54px;
         left: 0px;
-        width: 80%;
+        width: 100%;
         height: 3px;
         background: rgba(62, 121, 180, .5);
         border-radius: 10px;
@@ -115,7 +115,7 @@ position: 6
     font-size: 15px;
     color: inherit;
     margin: 5px 0; /* Add margin for top and bottom spacing */
-    padding: 0 -10px; /* Add padding for left and right spacing */
+    padding: 0 -20px; /* Add padding for left and right spacing */
 }
 
 .additional-column span.date {
