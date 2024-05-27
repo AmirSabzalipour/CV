@@ -244,7 +244,7 @@ position: 6
                 <ul>
                     <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
                 </ul>
-                <p style="font-family: 'Avenir Next LT Pro'; font-weight: normal; font-size: 14px; color: gray; margin-top: -10px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
+                <p style="font-family: 'Avenir Next LT Pro'; font-weight: normal; font-size: 14px; color: gray; margin-top: -20px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
