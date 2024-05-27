@@ -104,6 +104,7 @@ position: 6
     align-items: flex-start;
     padding: 0px;
     width: 160px;
+    background-color: #f0f0f0;
     border-radius: 10px;
     margin-right: 20px; /* Adjusted to move the column to the right */
 }
