@@ -119,7 +119,7 @@ position: 6
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
     margin-bottom: 0; /* Move the date up */
-    margin-top: -10px; /* Adjust margin to move up */
+    margin-top: -20px; /* Adjust margin to move up */
 }
 
 .additional-column span.location {
