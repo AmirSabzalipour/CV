@@ -114,7 +114,7 @@ position: 6
     font-family: 'Avenir Next LT Pro';
     font-size: 15px;
     color: inherit;
-    margin: 0px 0px 10px 10px;
+    margin: 0px -10px 10px -10px;
     padding: 0 2px 0 2px;
 }
 
@@ -128,7 +128,7 @@ position: 6
     color: rgba(200, 144, 98, 1);
     margin-left: -10px;
     padding-bottom: 20px;
-    padding-right: -2px;
+    padding-right: -10px;
     margin-top: 20px;
 }
 
