@@ -102,11 +102,12 @@ position: 6
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    padding: 0px;
-    width: 200px;
-    height: auto;
+    padding: 10px; /* Add padding for inner content */
+    width: 160px;
+    height: 100%; /* Set a fixed height */
     background-color: #dcdcdc; /* Darker background color */
-    }
+    border-radius: 10px; /* Add border radius for rounded corners */
+}
 
 .additional-column p,
 .additional-column span {
@@ -120,12 +121,12 @@ position: 6
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
     margin-bottom: 0; /* Move the date up */
-    margin-top: -30px; /* Adjust margin to move up */
+    margin-top: auto; /* Align the date to the bottom */
 }
 
 .additional-column span.location {
     color: rgba(200, 144, 98, 1);
-    margin-top: 5px; /* Move the location to the left */
+    margin-top: auto; /* Align the location to the bottom */
     margin-left: -5px; /* Adjust margin to move left */
 }
 
@@ -134,6 +135,7 @@ position: 6
     color: rgba(220, 144, 98, 1);
     font-size: 17px;
 }
+
     /* Responsive adjustments for smaller screens */
     @media only screen and (max-width: 600px) {
         .title-container {
