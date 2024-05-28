@@ -203,7 +203,7 @@ position: 6
                     <p>Postdoctoral Researcher</p>
                 </div>
                 <ul>
-                    <li>Python-based simulation of materials electrical properties at micron and nanometer scales.</li>
+                    <li>Python-based simulation of materials properties at micron and nanometer scales.</li>
                     <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum, and topological features.</li>
                 </ul>
                 <div class="gradient-line"></div>
