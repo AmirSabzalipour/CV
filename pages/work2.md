@@ -228,8 +228,8 @@ position: 6
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
-                <span class="date" style="margin-top: -40px;">03.2017 - 10.2021</span>
-                <span class="location" style="margin-top: 15px;">University of Antwerp</span>
+                <span class="date" style="margin-top: -50px;">03.2017 - 10.2021</span>
+                <span class="location" style="margin-top: -15px;">University of Antwerp</span>
             </div>
         </div>
         <br>
