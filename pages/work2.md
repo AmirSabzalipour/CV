@@ -105,7 +105,6 @@ position: 6
     align-items: flex-start;
     padding: 0px;
     font-size: 17px;
-    
     width: 160px;
     border-radius: 20px;
     margin-right: -10px;
@@ -113,6 +112,7 @@ position: 6
 }
 
 .additional-column span.date {
+    font-size: 17px;
     color: rgba(200, 144, 98, 1);
     margin-top: -25px; /* Adjusted to bring the date closer to the location */
     padding-right: -10px;
@@ -122,10 +122,11 @@ position: 6
 }
 
 .additional-column span.location {
+    font-size: 16px;
     color: rgba(200, 144, 98, 1);
-    margin-left: -25px;
+    margin-left: -20px;
     padding-bottom: 17px;
-    padding-right: -10px;
+    padding-right: -15px;
     margin-top: 10px;
     position: relative; /* Added to allow for relative positioning */
     top: -10px; /* Moves the location upwards */
