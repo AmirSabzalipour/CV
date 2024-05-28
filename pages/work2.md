@@ -125,7 +125,7 @@ position: 6
     margin-left: -20px;
     padding-bottom: 17px;
     padding-right: -10px;
-    margin-top: 25px;
+    margin-top: 18px;
     position: relative; /* Added to allow for relative positioning */
     top: -10px; /* Moves the location upwards */
 }
