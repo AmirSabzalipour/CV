@@ -222,14 +222,14 @@ position: 6
                 </div>
                 <ul>
                     <li>High-performance computing (HPC) and Simulation with VASP package.</li>
-                    <li>computer simulation and Mathematical modeling using Wolfram Language and Python.</li>
+                    <li>Computer simulation and Mathematical modeling using Wolfram Language and Python.</li>
                     <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
                 </ul>
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
-                <span class="date" style="margin-top: -60px;">03.2017 - 10.2021</span>
-                <span class="location" style="margin-top: -5px;">University of Antwerp</span>
+                <span class="date" style="margin-top: -70px;">03.2017 - 10.2021</span>
+                <span class="location" style="margin-top: 0px;">University of Antwerp</span>
             </div>
         </div>
         <br>
