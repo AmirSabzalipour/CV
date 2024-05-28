@@ -206,7 +206,6 @@ position: 6
                 <ul>
                     <li>Key Responsibilities</li>
                      <li>Python-based simulation of materials properties at micron and nanometer scales.</li>
-
                     <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum, and topological features.</li>
                 </ul>
                 <div class="gradient-line"></div>
@@ -228,6 +227,7 @@ position: 6
                     <li>Mathematical modeling and computer simulation based on Mathematica and Python.</li>
                     <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
                 </ul>
+                <div class="gradient-line"></div>
               </div>
             <div class="additional-column">
                 <span class="date" style="margin-top: -70px;">03.2017 - 10.2021</span>
