@@ -223,6 +223,7 @@ position: 6
                     <p>Doctoral Researcher</p>
                 </div>
                 <ul>
+                    <li>Key Responsibilities</li>
                     <li>High-performance computing (HPC) and Simulation with VASP package.</li>
                     <li>Mathematical modeling and computer simulation based on Mathematica and Python.</li>
                     <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
@@ -230,8 +231,8 @@ position: 6
                 <div class="gradient-line"></div>
               </div>
             <div class="additional-column">
-                <span class="date" style="margin-top: -70px;">03.2017 - 10.2021</span>
-                <span class="location" style="margin-top: px;">University of Antwerp</span>
+                <span class="date" style="margin-top: -90px;">03.2017 - 10.2021</span>
+                <span class="location" style="margin-top: 20px;">University of Antwerp</span>
             </div>
         </div>
         <br>
@@ -242,7 +243,8 @@ position: 6
                     <p>Visiting Researcher</p>
                 </div>
                 <ul>
-                    <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
+                <li>Key Responsibilities</li>
+                <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
                 </ul>
                 <p style="font-family: 'Avenir Next LT Pro'; font-weight: normal; font-size: 14px; color: gray; margin-top: -20px;">IPM : Institute for Research in Fundamental Sciences, Tehran</p>
                 <div class="gradient-line"></div>
@@ -260,6 +262,7 @@ position: 6
                     <p>Visiting Researcher</p>
                 </div>
                 <ul>
+                     <li>Key Responsibilities</li>
                     <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
                 </ul>
                 <div class="gradient-line"></div>
