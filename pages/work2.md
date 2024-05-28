@@ -72,7 +72,7 @@ position: 6
     }
 
     .main-content ul {
-        font-size: 17px;
+        font-size: 15px;
         font-family: 'Avenir Next LT Pro Regular', sans-serif;
         margin-left: 1.7em;
         color: black;
@@ -116,7 +116,7 @@ position: 6
     color: rgba(200, 144, 98, 1);
     margin-top: -25px; /* Adjusted to bring the date closer to the location */
     padding-right: -10px;
-    margin-left: -15px;
+    margin-left: -20px;
     position: relative; /* Added to allow for relative positioning */
     top: -20px; /* Moves the date upwards */
 }
@@ -200,7 +200,7 @@ position: 6
         <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
-                    <p style="margin-bottom: 1em;" >Postdoctoral Researcher</p>
+                    <p>Postdoctoral Researcher</p>
                 </div>
                 <ul>
                     <li>Python-based simulation of materials electrical properties at micron and nanometer scales.</li>
