@@ -94,7 +94,7 @@ position: 6
         left: 0px;
         width: 100%;
         height: 3px;
-        background: rgba(62, 121, 180, .5);
+        background: rgba(62, 121, 180, .2);
         border-radius: 10px;
     }
 
