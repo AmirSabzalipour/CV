@@ -88,17 +88,6 @@ position: 6
     margin-bottom: 12px;
 }
 
-.gradient-line::before {
-    content: '';
-    position: absolute;
-    top: 54px;
-    left: 0px;
-    width: 100%;
-    height: 3px;
-    background: rgba(62, 121, 180,.5);
-    border-radius: 10px;
-}
-
 .additional-column {
     display: flex;
     flex-direction: column;
@@ -178,8 +167,7 @@ position: 6
                     <li>Python-based simulation of materials properties at micron and nanometer scales.</li>
                     <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum, and topological features.</li>
                 </ul>
-                <div class="gradient-line"></div>
-            </div>
+                </div>
             <div class="additional-column">
                 <span class="date">10.2021 - 06.2023</span>
                 <span class="location">University of Antwerp</span>
