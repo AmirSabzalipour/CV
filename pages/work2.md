@@ -9,105 +9,116 @@ position: 6
 
 <style>
     /* Style for the section titles */
-    /* Add this to your existing styles.css file */
+    .textbox {
+        display: flex;
+        justify-content: space-between;
+        background-color: white;
+        line-height: 40px;
+        margin-bottom: 5px;
+    }
 
-.textbox {
-    display: flex;
-    justify-content: space-between;
-    background-color: white;
-    line-height: 40px;
-    margin-bottom: 5px;
-}
+    .title-container {
+        margin-left: -0.4em;
+        margin-top: -0.3em;
+        display: flex;
+        align-items: center;
+        margin-bottom: -5px;
+    }
 
-.title-container {
-    margin-left: -0.4em;
-    margin-top: -0.3em;
-    display: flex;
-    align-items: center;
-    margin-bottom: -5px;
-}
+    .title-container i {
+        margin-top: -15px;
+        margin-right: 5px;
+        font-size: 25px;
+        color: rgba(62, 121, 180, .5);
+    }
 
-.title-container i {
-    margin-top: -15px;
-    margin-right: 5px;
-    font-size: 25px;
-    color: rgba(62, 121, 180,.5);
-}
+    .title-container p {
+        font-weight: bold;
+        font-family: 'Garamond';
+        font-size: 20px;
+        color: rgba(62, 121, 180, 1);
+        margin-left: .1em;
+    }
 
-.title-container p {
-    font-weight: bold;
-    font-family: 'Garamond';
-    font-size: 20px;
-    color: rgba(62, 121, 180, 1);
-    margin-left:.1em;
-}
+    /* Style for the subsections */
+    .textbox2 {
+        background-color: #f0f0f0;
+        border: 1px solid white;
+        border-radius: 30px;
+        padding: -2px;
+        margin: 0;
+        box-shadow: 0 2px 2px white;
+        position: relative;
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
 
-.textbox2 {
-    display: flex;
-    justify-content: space-between;
-    align-items: start;
-    background-color: #f0f0f0;
-    border: 1px solid white;
-    border-radius: 30px;
-    padding: 10px;
-    margin: 0;
-    box-shadow: 0 2px 2px white;
-    width: 100%;
-}
+    .main-content {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
 
-.main-content {
-    flex: 1;
+    .main-content p {
+        font-weight: bold;
+        font-family: 'Garamond';
+        font-size: 20px;
+        color: rgba(62, 121, 180, 1);
+        margin-left: 1em;
+        margin-top: 27px; /* Adjust vertical position */
+        margin-bottom: -10px; /* Adjust vertical position */
+    }
+
+    .main-content ul {
+        font-size: 17px;
+        font-family: 'Avenir Next LT Pro Regular', sans-serif;
+        margin-left: 1.2em;
+        color: black;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .main-content ul li {
+        font-family: 'Avenir Next LT Pro Regular', sans-serif;
+        margin-left: 8px;
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+
+    .gradient-line::before {
+        content: '';
+        position: absolute;
+        top: 54px;
+        left: 0px;
+        width: 100%;
+        height: 3px;
+        background: rgba(62, 121, 180, .5);
+        border-radius: 10px;
+    }
+
+   .additional-column {
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
     align-items: flex-start;
-}
-
-.main-content p {
-    font-weight: bold;
-    font-family: 'Garamond';
-    font-size: 20px;
-    color: rgba(62, 121, 180, 1);
-    margin-left: 1em;
-    margin-top: 27px;
-    margin-bottom: -10px;
-}
-
-.main-content ul {
+    padding: 0px;
     font-size: 17px;
-    font-family: 'Avenir Next LT Pro Regular', sans-serif;
-    margin-left: 1.2em;
-    color: black;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.main-content ul li {
-    font-family: 'Avenir Next LT Pro Regular', sans-serif;
-    margin-left: 8px;
-    margin-top: 12px;
-    margin-bottom: 12px;
-}
-
-.additional-column {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    padding: 0;
-    font-size: 17px;
+    
     width: 160px;
     border-radius: 20px;
     margin-right: -10px;
-    position: relative;
+    position: relative; /* Added to allow for relative positioning */
 }
 
 .additional-column span.date {
     color: rgba(200, 144, 98, 1);
-    margin-top: -25px;
+    margin-top: -25px; /* Adjusted to bring the date closer to the location */
     padding-right: -10px;
     margin-left: -20px;
-    position: relative;
-    top: -20px;
+    position: relative; /* Added to allow for relative positioning */
+    top: -20px; /* Moves the date upwards */
 }
 
 .additional-column span.location {
@@ -116,37 +127,65 @@ position: 6
     padding-bottom: 17px;
     padding-right: -10px;
     margin-top: 10px;
-    position: relative;
-    top: -10px;
+    position: relative; /* Added to allow for relative positioning */
+    top: -10px; /* Moves the location upwards */
 }
 
-@media only screen and (max-width: 600px) {
-   .textbox2 {
-        flex-direction: column;
-        align-items: flex-start;
-    }
+    /* Responsive adjustments for smaller screens */
+    @media only screen and (max-width: 600px) {
+        .title-container {
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 0;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
 
-   .main-content p {
-        font-size: 16px;
-        margin-left: 0;
-    }
+        .title-container i {
+            margin-right: 0;
+            margin-bottom: 5px;
+            margin-top: -20px;
+        }
 
-   .main-content ul {
-        margin-left: 1em;
-    }
+        .title-container p {
+            font-size: 18px;
+            margin-left: 0;
+        }
 
-   .additional-column {
-        width: 100%;
-        height: auto;
-        margin-top: 10px;
-    }
+        .textbox2 {
+            flex-direction: column;
+            align-items: flex-start;
+        }
 
-   .additional-column p,.additional-column span {
-        position: static;
-        margin-top: 5px;
-    }
-}
+        .main-content p {
+            font-size: 16px;
+            margin-left: 0;
+        }
 
+        .main-content ul {
+            margin-left: 1em;
+        }
+
+        .additional-column {
+            width: 100%;
+            height: auto;
+            margin-top: 10px;
+        }
+
+        .additional-column p, .additional-column span {
+            position: static;
+            margin-top: 5px;
+        }
+
+        .textbox2 .gradient-line::before {
+            top: 47px;
+            left: 10px;
+            width: 98%;
+            height: 3px;
+            background: rgba(62, 121, 180, .5);;
+            border-radius: 10px;
+        }
+    }
 </style>
 
 <body>
@@ -167,7 +206,8 @@ position: 6
                     <li>Python-based simulation of materials properties at micron and nanometer scales.</li>
                     <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum, and topological features.</li>
                 </ul>
-                </div>
+                <div class="gradient-line"></div>
+            </div>
             <div class="additional-column">
                 <span class="date">10.2021 - 06.2023</span>
                 <span class="location">University of Antwerp</span>
@@ -185,14 +225,10 @@ position: 6
                     <li>Computer simulation and Mathematical modeling using Wolfram Language and Python.</li>
                     <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
                 </ul>
-                <div class="gradient-line"></div>
-            </div>
+              </div>
             <div class="additional-column">
-                <!-- <span class="date" style="margin-top: -70px;">03.2017 - 10.2021</span> -->
-                <span class="date" >03.2017 - 10.2021</span>
-                <!-- <span class="location" style="margin-top: px;">University of Antwerp</span> -->
-                <span class="location">University of Antwerp</span>
-
+                <span class="date" style="margin-top: -70px;">03.2017 - 10.2021</span>
+                <span class="location" style="margin-top: px;">University of Antwerp</span>
             </div>
         </div>
         <br>
