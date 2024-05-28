@@ -72,7 +72,7 @@ position: 6
     }
 
     .main-content ul {
-        font-size: 15px;
+        font-size: 16px;
         font-family: 'Avenir Next LT Pro Regular', sans-serif;
         margin-left: 1.7em;
         color: black;
@@ -104,7 +104,7 @@ position: 6
     justify-content: flex-start;
     align-items: flex-start;
     padding: 0px;
-    font-size: 18px;
+    font-size: 17px;
     
     width: 160px;
     border-radius: 20px;
