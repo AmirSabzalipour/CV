@@ -225,7 +225,7 @@ position: 6
                 </div>
                 <ul>
                     <li>High-performance computing (HPC) and Simulation with VASP package.</li>
-                    <li>Computer simulation and Mathematical modeling using Wolfram Language and Python.</li>
+                    <li>Mathematical modeling and computer simulation based on Mathematica and Python.</li>
                     <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
                 </ul>
               </div>
