@@ -105,6 +105,7 @@ position: 6
     align-items: flex-start;
     padding: 0px;
     font-size: 17px;
+     font-weight: bold;
     width: 160px;
     border-radius: 20px;
     margin-right: -10px;
