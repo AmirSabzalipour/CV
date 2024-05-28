@@ -104,8 +104,8 @@ position: 6
     justify-content: flex-start;
     align-items: flex-start;
     padding: 0px;
-    font-size: 17px;
-     font-weight: bold;
+    font-size: 18px;
+    
     width: 160px;
     border-radius: 20px;
     margin-right: -10px;
