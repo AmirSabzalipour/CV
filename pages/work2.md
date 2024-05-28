@@ -222,7 +222,7 @@ position: 6
                 </div>
                 <ul>
                     <li>High-performance computing (HPC) and Simulation with VASP package.</li>
-                    <li>Conducting numeric and analytical computations utilizing the Wolfram Language and Python.</li>
+                    <li>computer simulation and Mathematical modeling using Wolfram Language and Python.</li>
                     <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
                 </ul>
                 <div class="gradient-line"></div>
