@@ -232,7 +232,7 @@ position: 6
               </div>
             <div class="additional-column">
                 <span class="date" style="margin-top: -70px;">03.2017 - 10.2021</span>
-                <span class="location" style="margin-left: -25px; margin-top: 23px;">University of Antwerp</span>
+                <span class="location" style="margin-left: -25px; margin-top: 10px;">University of Antwerp</span>
             </div>
         </div>
         <br>
