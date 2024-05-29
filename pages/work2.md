@@ -245,7 +245,7 @@ position: 6
                 <ul>
                 <li>Key Responsibilities</li>
                 <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
-                 <li style="font-family: 'Avenir Next LT Pro'; font-weight: normal; font-size: 14px; color: gray; margin-top: -20px;">IPM : Institute for Research in Fundamental Sciences, Tehran</li>
+                 <li style="font-family: 'Avenir Next LT Pro'; font-weight: normal; font-size: 14px; color: gray; margin-top: 20px;">IPM : Institute for Research in Fundamental Sciences, Tehran</li>
                 </ul>
                 <p style="font-family: 'Avenir Next LT Pro'; font-weight: normal; font-size: 14px; color: gray; margin-top: -20px;"></p>
                 <div class="gradient-line"></div>
