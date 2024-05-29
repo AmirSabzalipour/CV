@@ -251,8 +251,8 @@ position: 6
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
-                <span class="date" style="margin-top: -50px;">03.2016 - 02.2017</span>
-                <span class="location" style="margin-left: 15px; margin-top: 10px;">IPM</span>
+                <span class="date" style="margin-top: -70px;">03.2016 - 02.2017</span>
+                <span class="location" style="margin-left: 20px; margin-top: 10px;">IPM</span>
             </div>
         </div>
         <br>
