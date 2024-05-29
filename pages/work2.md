@@ -269,8 +269,8 @@ position: 6
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
-                <span class="date" style="margin-top: 0px;">10.2015 - 02.2016</span>
-                <span class="location" style="margin-top: 10px;">Uppsala University</span>
+                <span class="date" style="margin-top: -5px;">10.2015 - 02.2016</span>
+                <span class="location" style="margin-top: 8px;">Uppsala University</span>
             </div>
         </div>
     </section>
