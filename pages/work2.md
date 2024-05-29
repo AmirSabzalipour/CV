@@ -275,6 +275,10 @@ position: 6
         </div>
     </section>
 
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -314,9 +318,7 @@ position: 6
                 <ul>
                     <li>Key Responsibilities</li>
                     <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
-                    <li>Mathematical modeling and computer simulation based on Mathematica and Python.</li>
-                    <li>Data visualization, analysis and reporting findings to scientific journals.</li>
-                </ul>
+                     </ul>
                 <div class="gradient-line"></div>
               </div>
             <div class="additional-column">
