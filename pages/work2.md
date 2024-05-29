@@ -274,4 +274,60 @@ position: 6
             </div>
         </div>
     </section>
+
+
+
+
+
+<body>
+    <section>
+        <div class="textbox">
+            <div class="title-container">
+                <i class="fa fa-briefcase"></i>
+                <p>Optical Design</p>
+            </div>
+        </div>
+        <br>
+        <div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                    <p>Research Engineer</p>
+                </div>
+                <ul>
+                    <li>Key Responsibilities</li>
+                     <li>Developing alpha and beta prototypes for optical setups. For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
+                                   </ul>
+                <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <span class="date" style="margin-top: -70px;" >01.2020 - 03.2021</span>
+                <span class="location" style="margin-top: 10px;">University of Antwerp</span>
+            </div>
+        </div>
+        <br>
+
+<div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                    <p>Optical Design Engineer</p>
+                </div>
+                <ul>
+                    <li>Key Responsibilities</li>
+                    <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
+                    <li>Mathematical modeling and computer simulation based on Mathematica and Python.</li>
+                    <li>Data visualization, analysis and reporting findings to scientific journals.</li>
+                </ul>
+                <div class="gradient-line"></div>
+              </div>
+            <div class="additional-column">
+                <span class="date" style="margin-top: -80px;">01.2014 - 09.2015</span>
+                <span class="location" style="margin-left: -25px; margin-top: 15px;">nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span>
+            </div>
+        </div>
+       
+
+
+
+
+
 </body>
