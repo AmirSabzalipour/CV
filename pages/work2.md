@@ -29,14 +29,14 @@ position: 6
         margin-top: -15px;
         margin-right: 5px;
         font-size: 25px;
-        color: rgba(62, 121, 180, .5);
+        color: gray;
     }
 
     .title-container p {
         font-weight: bold;
         font-family: 'Garamond';
         font-size: 20px;
-        color: Black;
+        color: gray;
         margin-left: .1em;
     }
 
@@ -277,6 +277,7 @@ position: 6
 
 <br>
 <br>
+ <br>
 
 <section>
         <div class="textbox">
@@ -323,7 +324,7 @@ position: 6
        
  <br>
  <br>
-
+ <br>
 
 
 
@@ -355,7 +356,7 @@ position: 6
         </div>
       <br>
      <br>
-
+ <br>
 
 
 <section>
@@ -401,6 +402,6 @@ position: 6
                 <span class="location" style="margin-left: 25px; margin-top: 15px;">Institute of Khaje Nasir, Tehran</span>
             </div>
         </div>
-       
+     <br>   
  <br>
  <br>
