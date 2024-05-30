@@ -204,7 +204,7 @@ position: 6
                     <p>Postdoctoral Researcher</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: #A2B3C4;font-size: 13px;">Key Responsibilities</li>
                      <li>Python-based simulation of materials properties at micron and nanometer scales.</li>
                     <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum, and topological features.</li>
                 </ul>
