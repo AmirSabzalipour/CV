@@ -223,7 +223,7 @@ position: 6
                     <p>Doctoral Researcher</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #acacac;font-size: 16px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: #c8cbca;font-size: 17px;">Key Responsibilities</li>
                     <li>High-performance computing (HPC) and Simulation with VASP package.</li>
                     <li>Mathematical modeling and computer simulation based on Mathematica and Python.</li>
                     <li>Data visualization, analysis and reporting findings to scientific journals.</li>
