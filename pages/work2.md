@@ -36,7 +36,7 @@ position: 6
         font-weight: bold;
         font-family: 'Garamond';
         font-size: 20px;
-        color: rgba(62, 121, 180, 1);
+        color: Black;
         margin-left: .1em;
     }
 
@@ -277,9 +277,6 @@ position: 6
 
 <br>
 <br>
-<br>
-<br>
-
 
 <section>
         <div class="textbox">
@@ -306,8 +303,7 @@ position: 6
             </div>
         </div>
         <br>
-        <br>
-
+        
 <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
@@ -388,8 +384,7 @@ position: 6
             </div>
         </div>
         <br>
-        <br>
-
+      
 <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
@@ -398,6 +393,7 @@ position: 6
                 <ul>
                     <li style="list-style-type: none; color: #a5a65f ;font-size: 15px;">Key Responsibilities</li>
                      <li>Tutoring high school students in math and physics.</li>
+                 </ul>    
                 <div class="gradient-line"></div>
               </div>
             <div class="additional-column">
