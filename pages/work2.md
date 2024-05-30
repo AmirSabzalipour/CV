@@ -204,7 +204,7 @@ position: 6
                     <p>Postdoctoral Researcher</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #A2B3C4;font-size: 13px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: #A2B3C4;font-size: 17px;">Key Responsibilities</li>
                      <li>Python-based simulation of materials properties at micron and nanometer scales.</li>
                     <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum, and topological features.</li>
                 </ul>
@@ -304,8 +304,8 @@ position: 6
                 <div class="gradient-line"></div>
             </div>
             <div class="additional-column">
-                <span class="date" style="margin-top: -70px;" >01.2020 - 03.2021</span>
-                <span class="location" style="margin-top: 10px;">University of Antwerp</span>
+                <span class="date" style="margin-top: -30px;" >01.2020 - 03.2021</span>
+                <span class="location" style="margin-top: 20px;">University of Antwerp</span>
             </div>
         </div>
         <br>
@@ -322,8 +322,8 @@ position: 6
                 <div class="gradient-line"></div>
               </div>
             <div class="additional-column">
-                <span class="date" style="margin-top: -80px;">01.2014 - 09.2015</span>
-                <span class="location" style="margin-left: -25px; margin-top: 15px;">nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span>
+                <span class="date" style="margin-top: -40px;">01.2014 - 09.2015</span>
+                <span class="location" style="margin-left: 25px; margin-top: 15px;">nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span>
             </div>
         </div>
        
