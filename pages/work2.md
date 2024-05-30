@@ -29,14 +29,14 @@ position: 6
         margin-top: -15px;
         margin-right: 5px;
         font-size: 25px;
-        color: gray;
+        color: #abb8a0;
     }
 
     .title-container p {
         font-weight: bold;
         font-family: 'Garamond';
         font-size: 20px;
-        color: gray;
+        color: #abb8a0;;
         margin-left: .1em;
     }
 
@@ -215,7 +215,7 @@ position: 6
                 <span class="location" style="margin-top: 10px;">University of Antwerp</span>
             </div>
         </div>
-        <br>
+ 
 
 <div class="textbox2">
             <div class="main-content">
@@ -235,7 +235,7 @@ position: 6
                 <span class="location" style="margin-left: -25px; margin-top: 15px;">University of Antwerp</span>
             </div>
         </div>
-        <br>
+ 
 
 <div class="textbox2">
             <div class="main-content">
@@ -255,7 +255,7 @@ position: 6
                 <span class="location" style="margin-left: 20px; margin-top: 10px;">IPM</span>
             </div>
         </div>
-        <br>
+ 
 
 <div class="textbox2">
             <div class="main-content">
@@ -303,7 +303,7 @@ position: 6
                 <span class="location" style="margin-top: 20px;">University of Antwerp</span>
             </div>
         </div>
-        <br>
+    
         
 <div class="textbox2">
             <div class="main-content">
@@ -384,7 +384,7 @@ position: 6
                 <span class="location" style="margin-top: 20px;">Mofid High School, Tehran</span>
             </div>
         </div>
-        <br>
+  
       
 <div class="textbox2">
             <div class="main-content">
