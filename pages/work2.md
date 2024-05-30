@@ -204,7 +204,7 @@ position: 6
                     <p>Postdoctoral Researcher</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #A2B3C4;font-size: 17px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: #acacac ;font-size: 17px;">Key Responsibilities</li>
                      <li>Python-based simulation of materials properties at micron and nanometer scales.</li>
                     <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum, and topological features.</li>
                 </ul>
@@ -223,7 +223,7 @@ position: 6
                     <p>Doctoral Researcher</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #BCD4E6;font-size: 16px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: #acacac;font-size: 16px;">Key Responsibilities</li>
                     <li>High-performance computing (HPC) and Simulation with VASP package.</li>
                     <li>Mathematical modeling and computer simulation based on Mathematica and Python.</li>
                     <li>Data visualization, analysis and reporting findings to scientific journals.</li>
@@ -243,7 +243,7 @@ position: 6
                     <p>Visiting Researcher</p>
                 </div>
                 <ul>
-                <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                <li style="list-style-type: none; color: #acacac;font-size: 13px;">Key Responsibilities</li>
                 <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
                  <li style="font-family: 'Avenir Next LT Pro'; font-weight: normal; font-size: 14px; color: gray; margin-top: 20px;padding-bottom: 30px;">IPM : Institute for Research in Fundamental Sciences, Tehran</li>
                 </ul>
@@ -263,7 +263,7 @@ position: 6
                     <p>Visiting Researcher</p>
                 </div>
                 <ul>
-                     <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                     <li style="list-style-type: none; color: #acacac;font-size: 13px;">Key Responsibilities</li>
                     <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
                 </ul>
                 <div class="gradient-line"></div>
@@ -295,7 +295,7 @@ position: 6
                     <p>Research Engineer</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: #acacac;font-size: 13px;">Key Responsibilities</li>
                      <li>Developing alpha and beta prototypes for optical setups. For example, I designed and developed a Schlieren imaging system, which is depicted on my <a href="https://www.youtube.com/channel/UC0ghSST2dX-Yt1UBAKqMLZA" style="color: #4682B4;">YouTube</a> channel.</li>
                                    </ul>
                 <div class="gradient-line"></div>
@@ -313,7 +313,7 @@ position: 6
                     <p>Optical Design Engineer</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: #acacac;font-size: 13px;">Key Responsibilities</li>
                     <li>Designing and constructing optical setups to demonstrate optical phenomena to the public. Several optical phenomena demonstrated include holography, polarization, interference, diffraction, and dispersion, among others.</li>
                      </ul>
                 <div class="gradient-line"></div>
@@ -343,7 +343,7 @@ position: 6
                     <p>Research Assistance</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: #acacac;font-size: 13px;">Key Responsibilities</li>
                      <li>Image processing of interferometric patterns to measure roughness of thin films.</li>
                       <li>Atomic Force Microscopy characterization of thin films.</li>
                        <li>Producing optical components with &lambda;/4 flatness, and interferometric surface characterization.</li>
@@ -377,7 +377,7 @@ position: 6
                     <p>Lab Instructor and Research Teacher</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: #acacac;font-size: 13px;">Key Responsibilities</li>
                      <li>Supervising students for the International Young Physicists' Tournament (IYPT).</li>
                       <li>Teaching students the relevant practical theories and how to use laboratory equipment.</li>
                 </ul>
@@ -395,7 +395,7 @@ position: 6
                     <p>Tutor</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: #acacac;font-size: 13px;">Key Responsibilities</li>
                      <li>Tutoring high school students in math and physics.</li>
                 </ul>
                 <div class="gradient-line"></div>
