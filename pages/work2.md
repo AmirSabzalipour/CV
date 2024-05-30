@@ -281,10 +281,7 @@ position: 6
 <br>
 
 
-
-
-<body>
-    <section>
+<section>
         <div class="textbox">
             <div class="title-container">
                 <i class="fa fa-briefcase"></i>
@@ -327,5 +324,92 @@ position: 6
             </div>
         </div>
        
+
+
+
+
+
+<section>
+        <div class="textbox">
+            <div class="title-container">
+                <i class="fa fa-briefcase"></i>
+                <p>Material Characterization, Optical Metrology</p>
+            </div>
+        </div>
+        <br>
+        <div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                    <p>Research Assistance</p>
+                </div>
+                <ul>
+                    <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                     <li>Image processing of interferometric patterns to measure roughness of thin films.</li>
+                      <li>Atomic Force Microscopy characterization of thin films.</li>
+                       <li>Producing optical components with &lambda;/4 flatness, and interferometric surface characterization.</li>
+                                   </ul>
+                <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <span class="date" style="margin-top: -30px;" >05.2008 - 08.2009</span>
+                <span class="location" style="margin-top: 20px;">Univeristy of Tehran</span>
+            </div>
+        </div>
+        <br>
+
+
+
+
+
+
+
+<section>
+        <div class="textbox">
+            <div class="title-container">
+                <i class="fa fa-briefcase"></i>
+                <p>Teaching</p>
+            </div>
+        </div>
+        <br>
+        <div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                    <p>Lab Instructor and Research Teacher</p>
+                </div>
+                <ul>
+                    <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                     <li>Supervising students for the International Young Physicists' Tournament (IYPT).</li>
+                      <li>Teaching students the relevant practical theories and how to use laboratory equipment.</li>
+                </ul>
+                <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <span class="date" style="margin-top: -30px;" >09.2010 - 08.2011/span>
+                <span class="location" style="margin-top: 20px;">Mofid High School, Tehran</span>
+            </div>
+        </div>
+        <br>
+    <div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                    <p>Tutor</p>
+                </div>
+                <ul>
+                    <li style="list-style-type: none; color: #BCD4E6;font-size: 13px;">Key Responsibilities</li>
+                     <li>Tutoring high school students in math and physics.</li>
+                </ul>
+                <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <span class="date" style="margin-top: -30px;" >09.2009 - 08.2010</span>
+                <span class="location" style="margin-top: 20px;">Institute of Khaje Nasir, Tehran</span>
+            </div>
+        </div>
+        <br>
+
+
+
+
+
 
 
