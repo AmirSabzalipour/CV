@@ -98,7 +98,7 @@ position: 6
     left: 0px;
     width: var(--gradient-line-width);
     height: 3px;
-    background: linear-gradient(to right, rgba(62,121,180,.6)  82%, rgba(200,144,98,1)  18%); 
+    background: linear-gradient(to right, rgba(62,121,180,.6)  78%, rgba(200,144,98,1)  23%); 
     border-radius: 10px;
 }
 
@@ -219,7 +219,7 @@ position: 6
                 <span class="location" style="margin-top: 10px;">University of Antwerp</span>
             </div>
         </div>
- 
+ <div style="height: 30px;"></div>
 
 <div class="textbox2">
             <div class="main-content">
@@ -240,7 +240,7 @@ position: 6
             </div>
         </div>
  
-
+<div style="height: 30px;"></div>
 <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
@@ -260,7 +260,7 @@ position: 6
             </div>
         </div>
  
-
+<div style="height: 30px;"></div>
 <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
@@ -308,7 +308,7 @@ position: 6
             </div>
         </div>
     
-        
+  <div style="height: 30px;"></div>      
 <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
@@ -389,7 +389,7 @@ position: 6
             </div>
         </div>
   
-      
+  <div style="height: 30px;"></div>    
 <div class="textbox2">
             <div class="main-content">
                 <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
