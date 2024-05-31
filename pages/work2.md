@@ -87,28 +87,32 @@ position: 6
         margin-bottom: 12px;
     }
 
-    .gradient-line::before {
-        content: '';
-        position: absolute;
-        top: 54px;
-        left: 0px;
-        width: 100%;
-        height: 3px;
-         background: linear-gradient(to right, rgba(62,121,180,.6)  82%, rgba(200,144,98,1)  18%); 
-        border-radius: 10px;
-    }
+    :root {
+    --gradient-line-width: 100%; /* Define the width of the gradient line */
+}
 
-   .additional-column {
+.gradient-line::before {
+    content: '';
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    width: var(--gradient-line-width);
+    height: 3px;
+    background: linear-gradient(to right, rgba(62,121,180,.6)  82%, rgba(200,144,98,1)  18%); 
+    border-radius: 10px;
+}
+
+.additional-column {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
     padding: 0px;
     font-size: 17px;
-    width: 170px;
+    width: calc(var(--gradient-line-width) * 0.2); /* 20% of the gradient line width */
     border-radius: 20px;
     margin-right: -10px;
-    position: relative; /* Added to allow for relative positioning */
+    position: relative;
 }
 
 .additional-column span.date {
