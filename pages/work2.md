@@ -105,7 +105,7 @@ position: 6
     align-items: flex-start;
     padding: 0px;
     font-size: 17px;
-    width: 160px;
+    width: 180px;
     border-radius: 20px;
     margin-right: -10px;
     position: relative; /* Added to allow for relative positioning */
@@ -252,7 +252,7 @@ position: 6
             </div>
             <div class="additional-column">
                 <span class="date" style="margin-top: -70px;">03.2016 - 02.2017</span>
-                <span class="location" style="margin-left: 20px; margin-top: 10px;">IPM</span>
+                <span class="location" style=" margin-left: -25px; margin-top: 10px;">IPM</span>
             </div>
         </div>
  
@@ -373,7 +373,7 @@ position: 6
                     <p>Lab Instructor and Research Teacher</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none;  color: #a5a65f ;font-size: 15px;">Key Responsibilities</li>
+                    <li style="list-style-type: none;  color: gray ;font-size: 15px;">Key Responsibilities</li>
                      <li>Supervising students for the International Young Physicists' Tournament (IYPT).</li>
                       <li>Teaching students the relevant practical theories and how to use laboratory equipment.</li>
                                    </ul>
@@ -392,7 +392,7 @@ position: 6
                     <p>Tutor</p>
                 </div>
                 <ul>
-                    <li style="list-style-type: none; color: #a5a65f ;font-size: 15px;">Key Responsibilities</li>
+                    <li style="list-style-type: none; color: gray ;font-size: 15px;">Key Responsibilities</li>
                      <li>Tutoring high school students in math and physics.</li>
                  </ul>    
                 <div class="gradient-line"></div>
