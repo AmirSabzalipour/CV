@@ -18,7 +18,7 @@ position: 6
     }
 
     .title-container {
-        margin-left: -0.4em;
+        margin-left: -0.8em;
         margin-top: -0.3em;
         display: flex;
         align-items: center;
