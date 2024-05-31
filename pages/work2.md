@@ -120,7 +120,7 @@ position: 6
     color: rgba(200, 144, 98, 1);
     margin-top: -25px; /* Adjusted to bring the date closer to the location */
     padding-right: -10px;
-    margin-left: -20px;
+    margin-left: -10px;
     position: relative; /* Added to allow for relative positioning */
     top: -20px; /* Moves the date upwards */
 }
@@ -128,7 +128,7 @@ position: 6
 .additional-column span.location {
     font-size: 16px;
     color: rgba(200, 144, 98, 1);
-    margin-left: -20px;
+    margin-left: -10px;
     padding-bottom: 17px;
     padding-right: -15px;
     margin-top: 10px;
