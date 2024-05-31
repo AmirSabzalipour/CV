@@ -94,7 +94,7 @@ position: 6
         left: 0px;
         width: 100%;
         height: 3px;
-        background: rgba(62, 121, 180, .2);
+         background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(200,144,98,1)  20.5%); 
         border-radius: 10px;
     }
 
