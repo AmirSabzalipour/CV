@@ -105,7 +105,7 @@ position: 6
     align-items: flex-start;
     padding: 0px;
     font-size: 17px;
-    width: 180px;
+    width: 170px;
     border-radius: 20px;
     margin-right: -10px;
     position: relative; /* Added to allow for relative positioning */
