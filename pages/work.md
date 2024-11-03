@@ -5,6 +5,7 @@ permalink: /portfolio/
 subtitle: ""
 feature-img: "assets/img/pexels/"
 position: 1
+excluded: true
 ---
 
 <style>
