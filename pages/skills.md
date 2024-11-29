@@ -139,12 +139,34 @@ Libraries: NumPy, Pandas, Matplotlib, Spark, PyTorch, Seaborn, etc.</li>
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Machine learning</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
- <li style="margin-bottom: 10px;">Skilled in SciKit Learn: Regression, Classification (Random , Forests, Support Vector Machines), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</li>
+ <li style="margin-bottom: 10px;">Feature engineering, model training, evaluation, deployment and monitoring. Skilled in SciKit Learn: Regression, Classification (Random , Forests, Support Vector Machines), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
     border-radius: 10px 10px 10px 10px;"> </div>
      </div>
  </div>
+
+
+
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">NLP</p>
+        </div>
+    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
+ <li style="margin-bottom: 10px;">Text mining and preprocessing, sentiment analysis, topic modeling, classification.
+Tools: Beautiful Soup, NLTK, Regex, spaCy, Gensim, Mallet, TF-IDF, Stylo, BookNLP.</li>
+    </ul>
+    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
+    border-radius: 10px 10px 10px 10px;"> </div>
+     </div>
+ </div>
+
+
+
+
+
+
+
 
 
 
