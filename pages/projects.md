@@ -42,7 +42,7 @@ tags: [Page]
 
   h2 {
     font-family: Arial, sans-serif;
-    font-size: 1.5em;
+    font-size: 1em;
     color: #333;
     margin-top: 20px;
   }
@@ -104,9 +104,3 @@ tags: [Page]
     <li>Conclusion: Performs well on familiar text, struggles with new genres, fails on nonsense.</li>
   </ul>
 </section>
-
-
-
-
-
-
