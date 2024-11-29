@@ -108,7 +108,7 @@ tags: [Page]
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Programming</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
- <li style="margin-bottom: 10px;">Python, C, Mathematica, and SQL (Structured Query Language).</li>
+ <li style="margin-bottom: 10px;">Python, C, Mathematica, and SQL.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
     border-radius: 10px 10px 10px 10px;"> </div>
@@ -124,7 +124,9 @@ tags: [Page]
     <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">Data Scienc</p>
         </div>
     <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
- <li style="margin-bottom: 10px;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</li>
+ <li style="margin-bottom: 10px;">Exploratory data analysis, feature engineering, statistical analysis, visualization,
+pipeline development, post-processing, and reporting the results.
+Libraries: NumPy, Pandas, Matplotlib, Spark, PyTorch, Seaborn, etc.</li>
     </ul>
     <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 5px; background: rgba(61, 90, 128,.6); 
     border-radius: 10px 10px 10px 10px;"> </div>
