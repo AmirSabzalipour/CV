@@ -56,6 +56,7 @@ tags: [Page]
   li {
     margin-bottom: 10px;
     line-height: 1.6;
+    font-size: .6em;
     font-family: Georgia, serif;
     color: #555;
   }
