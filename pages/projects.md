@@ -33,11 +33,11 @@ tags: [Page]
   }
 
   section {
-    margin: 20px;
-    padding: 10px;
+    margin: 0px;
+    padding: 0px;
     background-color: #f9f9f9;
-    border-radius: 5px;
-    border: 1px solid #ddd;
+      border-radius: 5px; */
+    border: 1px solid white;
   }
 
   h2 {
