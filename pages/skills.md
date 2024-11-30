@@ -1,3 +1,4 @@
+---
 layout: page
 title: Skills
 permalink: /My Selected skills/
