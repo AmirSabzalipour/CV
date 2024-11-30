@@ -35,15 +35,15 @@ tags: [Page]
   section {
     margin: 0px;
     padding: 0px;
-    background-color: #f9f9f9;
+    background-color:white;
       border-radius: 5px; */
     border: 1px solid white;
   }
 
   h2 {
     font-family: Cambria, serif;
-    font-size: .8em;
-    color: #333;
+    font-size: 1em;
+    color: blue;
     margin-top: 20px;
   }
 
@@ -67,7 +67,7 @@ tags: [Page]
   }
 </style>
 
-<h1 class="education-title">Projects</h1>
+<h1 class="education-title"></h1>
 
 <section>
   <h2>Sentiment Analysis using Machine Learning Algorithms</h2>
