@@ -18,21 +18,21 @@ tags: [Page]
 
   body {
     margin: 0;
-    padding: 10px;
-    background-color: white; /* Fallback background color */
+    padding: 0px;
+    background-color: gray; /* Fallback background color */
   }
 
   .feature-img {
     display: block;
     margin: 0 auto; /* Center the image */
-    max-width: 60%; /* Prevent it from exceeding the width of the page */
+    max-width: 40%; /* Prevent it from exceeding the width of the page */
     height: auto; /* Maintain aspect ratio */
   }
 
   h1 {
     font-family: Cambria, serif;
     color: white;
-    text-align: center;
+    text-align: left;
     margin-bottom: 20px;
   }
 
