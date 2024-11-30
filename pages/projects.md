@@ -25,7 +25,7 @@ tags: [Page]
   .feature-img {
     display: block;
     margin: 0 auto; /* Center the image */
-    max-width: 100%; /* Prevent it from exceeding the width of the page */
+    max-width: 60%; /* Prevent it from exceeding the width of the page */
     height: auto; /* Maintain aspect ratio */
   }
 
