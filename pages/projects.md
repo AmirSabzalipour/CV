@@ -19,10 +19,14 @@ tags: [Page]
   body {
     margin: 0;
     padding: 10px;
-    background-image: url('assets/img/pexels/back.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover; /* Ensure the background image covers the entire viewport */
+    background-color: white; /* Fallback background color */
+  }
+
+  .feature-img {
+    display: block;
+    margin: 0 auto; /* Center the image */
+    max-width: 100%; /* Prevent it from exceeding the width of the page */
+    height: auto; /* Maintain aspect ratio */
   }
 
   h1 {
@@ -33,16 +37,17 @@ tags: [Page]
   }
 
   section {
-    margin: 0px;
-    padding: 0px;
-    background-color:white;
-      border-radius: 5px; */
-    border: 1px solid white;
+    margin: 20px auto; /* Center the section content */
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    max-width: 800px; /* Set a maximum width for better readability */
   }
 
   h2 {
     font-family: Cambria, serif;
-    font-size: 1em;
+    font-size: 1.2em;
     color: blue;
     margin-top: 20px;
   }
@@ -56,7 +61,7 @@ tags: [Page]
   li {
     margin-bottom: 10px;
     line-height: 1.6;
-    font-size: .8em;
+    font-size: 0.9em;
     font-family: Georgia, serif;
     color: #555;
   }
@@ -67,7 +72,10 @@ tags: [Page]
   }
 </style>
 
-<h1 class="education-title"></h1>
+<!-- Feature Image -->
+<img src="assets/img/pexels/back.jpg" class="feature-img" alt="Background Image">
+
+<h1 class="education-title">My Projects</h1>
 
 <section>
   <h2>Sentiment Analysis using Machine Learning Algorithms</h2>
@@ -91,7 +99,7 @@ tags: [Page]
     <li>Developed an age rating system for podcasts based on identified topics and subtopics.</li>
   </ul>
 
-  <h2 style="margin-top: 40px;" >Evaluating GPT Model Performance Using Perplexity</h2>
+  <h2 style="margin-top: 40px;">Evaluating GPT Model Performance Using Perplexity</h2>
   <ul>
     <li>Used a GPT model with GPT2Tokenizer, trained on Christopher Marlowe’s books.</li>
     <li>Evaluated on: TinyShakespeare, a science fiction dataset, and a nonsensical dataset.</li>
