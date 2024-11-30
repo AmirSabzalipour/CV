@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 subtitle: ""
-feature-img: "assets/img/pexels/back.jpg"
+feature-img: "assets/img/pexels/"
 position: 5
 tags: [Page]
 ---
@@ -19,7 +19,7 @@ tags: [Page]
   body {
     margin: 0;
     padding: 10px;
-    background-image: url('assets/img/header/back.jpg');
+    background-image: url('assets/img/pexels/back.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover; /* Ensure the background image covers the entire viewport */
