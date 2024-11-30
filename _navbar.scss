@@ -34,7 +34,7 @@
   }
    .separator {
     user-select: none;
-    opacity: 0;
+     /*opacity: 0.1;*/ 
 
     &:first-child {
       display: none;
