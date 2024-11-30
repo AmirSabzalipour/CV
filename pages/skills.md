@@ -20,6 +20,9 @@ tags: [Page]
 <style>
         /* Reset default margin and padding */
      body {
+       body {
+    
+            background-color: #cdd2ca;
             margin: 0;
             padding: 10px;
             background-image: url('assets/img/header/education.jpg');
