@@ -19,7 +19,7 @@ tags: [Page]
   body {
     margin: 0;
     padding: 10px;
-    background-image: url('assets/img/header/education.jpg');
+    background-image: url('assets/img/header/back.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover; /* Ensure the background image covers the entire viewport */
