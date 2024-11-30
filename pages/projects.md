@@ -39,9 +39,6 @@ tags: [Page]
   section {
     margin: 20px auto; /* Center the section content */
     padding: 20px;
-    background-color: white;
-    border-radius: 5px;
-    border: 1px solid #ddd;
     max-width: 800px; /* Set a maximum width for better readability */
   }
 
