@@ -19,7 +19,7 @@ tags: [Page]
   body {
     margin: 0;
     padding: 0px;
-    background-color: gray; /* Fallback background color */
+    background-color: #cdd2ca; /* Fallback background color */
   }
 
   .feature-img {
