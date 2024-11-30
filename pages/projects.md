@@ -70,9 +70,9 @@ tags: [Page]
 </style>
 
 <!-- Feature Image -->
-<img src="assets/img/pexels/back.jpg" class="feature-img" alt="Background Image">
+<img src="assets/img/pexels/back.jpg" class="feature-img" alt="">
 
-<h1 class="education-title">My Projects</h1>
+<h1 class="education-title"></h1>
 
 <section>
   <h2>Sentiment Analysis using Machine Learning Algorithms</h2>
