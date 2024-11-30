@@ -39,13 +39,13 @@ tags: [Page]
   section {
     margin: 0px auto; /* Center the section content */
     padding: 5px;
-    max-width: 1200px; /* Set a maximum width for better readability */
+    max-width: 1100px; /* Set a maximum width for better readability */
   }
 
   h2 {
     font-family: Cambria, serif;
-    font-size: 1 em;
-    color: blue;
+    font-size: .8em;
+    color:#4B9C9C;
     margin-top: 20px;
   }
 
@@ -59,7 +59,7 @@ tags: [Page]
     margin-bottom: 10px;
     line-height: 1.6;
     font-size: 0.9em;
-    font-family: Georgia, serif;
+    font-family: Cambria, serif;
     color: #555;
   }
 
