@@ -31,7 +31,7 @@ tags: [Page]
             background-size: cover; /* Ensure the background image covers the entire viewport */
        }
     .textbox {
-            background-color: #f0f0f0;
+            background-color: #cdd2ca;
             border: 1px solid white;
             border-radius: 30px 30px 30px 30px;
             padding: 10px ;
