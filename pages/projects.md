@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 subtitle: ""
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/back.jpeg"
 position: 5
 tags: [Page]
 ---
