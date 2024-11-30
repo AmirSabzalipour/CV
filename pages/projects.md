@@ -37,14 +37,14 @@ tags: [Page]
   }
 
   section {
-    margin: 20px auto; /* Center the section content */
-    padding: 20px;
-    max-width: 800px; /* Set a maximum width for better readability */
+    margin: 0px auto; /* Center the section content */
+    padding: 5px;
+    max-width: 1200px; /* Set a maximum width for better readability */
   }
 
   h2 {
     font-family: Cambria, serif;
-    font-size: 1.2em;
+    font-size: 1 em;
     color: blue;
     margin-top: 20px;
   }
