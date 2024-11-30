@@ -41,8 +41,8 @@ tags: [Page]
   }
 
   h2 {
-    font-family: Arial, sans-serif;
-    font-size: 1em;
+    font-family: Cambria, serif;
+    font-size: .8em;
     color: #333;
     margin-top: 20px;
   }
@@ -56,7 +56,7 @@ tags: [Page]
   li {
     margin-bottom: 10px;
     line-height: 1.6;
-    font-size: .6em;
+    font-size: .8em;
     font-family: Georgia, serif;
     color: #555;
   }
