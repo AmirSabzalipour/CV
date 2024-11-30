@@ -77,21 +77,21 @@ tags: [Page]
     <li>Achieved sentiment accuracy of 48% (neutral), 71% (negative), and 81% (positive).</li>
   </ul>
 
-  <h2>Automatic Detection of Machine-Generated Text</h2>
+  <h2 style="margin-top: 40px;">Automatic Detection of Machine-Generated Text</h2>
   <ul>
     <li>Analyzed web-scraped data (Reviews, Poems, Tweets, News) in English and Dutch.</li>
     <li>Achieved 97% accuracy in detecting machine-generated text using ensemble learning.</li>
     <li>The top-performing classical model surpassed deep learning models by a significant margin.</li>
   </ul>
 
-  <h2>Developing an Age-Appropriate Rating System for Podcasts</h2>
+  <h2 style="margin-top: 40px;">Developing an Age-Appropriate Rating System for Podcasts</h2>
   <ul>
     <li>Developed a topic modeling system for podcasts, integrating BERTopic and LMMs.</li>
     <li>Model directly identifies topics without post-processing, reducing computation time.</li>
     <li>Developed an age rating system for podcasts based on identified topics and subtopics.</li>
   </ul>
 
-  <h2>Evaluating GPT Model Performance Using Perplexity</h2>
+  <h2 style="margin-top: 40px;" >Evaluating GPT Model Performance Using Perplexity</h2>
   <ul>
     <li>Used a GPT model with GPT2Tokenizer, trained on Christopher Marlowe’s books.</li>
     <li>Evaluated on: TinyShakespeare, a science fiction dataset, and a nonsensical dataset.</li>
