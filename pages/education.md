@@ -8,151 +8,152 @@ tags: [Page]
 ---
 
 <style>
-        /* Reset default margin and padding */
-     body {
-            margin: 0;
-            padding: 10px;
-            background-image: url('assets/img/header/education.jpg');
-            background-repeat: no-repeat;
-            background-position: center center;
-            background-size: cover; /* Ensure the background image covers the entire viewport */
-       }
+  body {
+    margin: 0;
+    padding: 10px;
+    background-color: #cdd2ca;
+    background-image: url('assets/img/header/education.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .textbox {
+    background-color: #cdd2ca;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 0 0 10px 0;
+    box-shadow: 0 2px 2px white;
+    display: flex;
+    justify-content: space-between;
+    line-height: 90px;
+    position: relative;
+  }
+
+  .textbox::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 8px;
+    border-radius: 20px;
+  }
+
+  .textbox h3 {
+    color: #333;
+    font-size: 22px;
+    font-family: 'Garamond';
+    margin-left: 0.9em;
+  }
+
+  .textbox ul {
+    font-size: 15px;
+    font-family: 'Avenir Next LT Pro', sans-serif;
+    margin-left: 1.7em;
+    color: black;
+    list-style: none;
+    padding: 0;
+  }
+
+  .textbox ul li {
+    margin-bottom: 10px;
+  }
+
+  @media only screen and (max-width: 600px) {
     .textbox {
-            background-color: #f0f0f0;
-            border: 1px solid white;
-            border-radius: 30px 30px 30px 30px;
-            padding: 10px ;
-            margin:0;
-            box-shadow: 0 2px 2px white;
-            position: relative; 
-            display: flex;/* Ensure relative positioning for absolute positioning of pseudo-element */
+      border-radius: 17px;
+      flex-wrap: wrap;
     }
+  }
+</style>
 
-     .textbox::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%; /* Take up the full width of the box */
-            height: 8px; /* Thickness of the strip */
-            /* background: linear-gradient(to right, rgba(65, 105, 225, 0.8) 30%, rgba(65, 105, 225, 0.5) 70%);  */ */
-            border-radius: 20px 20px 20px 20px; /* Ensure rounded corners on the top */
-     }
-
-    .textbox h3 {
-            color: #333;
-            font-size: 24px;
-            margin-bottom: 10px;
-    }
-
-    .textbox p {
-            color: #666;
-            font-size: 16px;
-            line-height: 1.6;
-    }
-
-    @media only screen and (max-width: 600px) {
-            .textbox {
-                border: 1px solid #ddd;
-                border-radius: 17px;
-                padding: 10px;
-                display: flex;
-                flex-wrap: wrap;
-    }
-            .main-content {
-                width: 60%; /* Adjust this as needed */
-                margin-right: 5%; /* Adjust this as needed */
-                margin-bottom: 10px; /* Add some space between columns on small screens */
-            }
-            .additional-column {
-                width: 30%; /* Adjust this as needed */
-                padding: 5px;
-            }
-        }
-    </style>
-
-
-
-<br>
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
-    <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Master of Digital Text Analysis</p>
-</div>
-   <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
- <li style="margin-bottom: 10px;">  Applying Natural Language Processing (NLP), Machine Learning (ML), and Data Science to analyze text, audio, and video content from various sources, including web content, books, audiobooks, and speeches.</li>
-  </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left:0px; width: 100%; height: 2px; background: linear-gradient(to right, rgba(62,121,180,.6)  79.5%, rgba(250,144,98,1)  20.5%); 
-    border-radius: 10px 10px 10px 10px;"> </div>
-     </div>
-<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(250,144,98,1); position: absolute; top: 5px; left: 0px;">09.2023 - Present</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(250,144,98,1); position: absolute; top: 50px; left: 0px;">University of Antwerp</span></p>
-</div>
- </div>
-
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
-    <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;"> Ph.D. in Physics</p>
-        </div>
-    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
- <li style="margin-bottom: 10px;">Thesis title: <a href="https://repository.uantwerpen.be/docstore/d:irua:8696" style="color: lapislazuli;">"Charge Transport in Magnetic Topological Insulators"</a></li>
+<div class="textbox">
+  <div class="main-content">
+    <h3>Programming</h3>
+    <ul>
+      <li>Python, C, Mathematica, and SQL.</li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  80.7%, rgba(200,144,98,1)  19.3%); 
-    border-radius: 10px 10px 10px 10px;"> </div>
-     </div>
-<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1) ; position: absolute; top: 5px; left: 10px;">03.2017 - 10.2021</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1);  position: absolute; top: 50px; left: 10px;">University of Antwerp</span></p>
+  </div>
 </div>
- </div>
 
-
-
-
-
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
-    <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"><p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">M.Sc. in Physics</p>
-        </div>
-    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
-    <li style="margin-bottom: 10px;"> Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.</li>
-    <p style="font-size: 14px; color:gray; margin-top: 10px;">IASBS : Institute for Research in Fundamental Sciences, Tehran</p> 
+<div class="textbox">
+  <div class="main-content">
+    <h3>Data Science</h3>
+    <ul>
+      <li>
+        Exploratory data analysis, feature engineering, statistical analysis, visualization,
+        pipeline development, post-processing, and reporting the results. Libraries: NumPy, Pandas, Matplotlib, Spark, PyTorch, Seaborn, etc.
+      </li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  80.7%, rgba(200,200,98,1)  19.3%); 
-    border-radius: 10px 10px 10px 10px;"> </div>
-     </div>
-<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,200,98,1) ; position: absolute; top: 5px; left: 10px;">09.2011 - 04.2014</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,200,98,1);  position: absolute; top: 50px; left: 10px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IASBS</span></p>
+  </div>
 </div>
- </div>
 
-
-
-
-
-<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
-    <div class="main-content" style="flex: 1;">
-    <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;"> <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">B.Sc in Physics</p>
-        </div>
-    <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;"> 
-    <li style="margin-bottom: 10px;"> Thin film fabrication by Physical Vapor Deposition (PVD) techniques.</li>
-    <li style="margin-bottom: 10px;"> Investigating the thickness of thin films by image processing on optical interference pattern.            
-    </li>
+<div class="textbox">
+  <div class="main-content">
+    <h3>Machine Learning</h3>
+    <ul>
+      <li>
+        Feature engineering, model training, evaluation, deployment, and monitoring. Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines), Natural Language Processing (NLP), Deep Learning, and Neural Networks with PyTorch.
+      </li>
     </ul>
-    <div style="::before; content: ''; position: absolute; top: 47px; left: 10px; width: 98%; height: 3px; background: linear-gradient(to right, rgba(62,121,180,.6)  80.7%, rgba(150,170,150,1)  19.3%); 
-    border-radius: 10px 10px 10px 10px;"> </div>
-     </div>
-<div class="additional-column" style="width: 160px; height: 100px; position: relative;">
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: gray; position: absolute; top: 0; left: 0;"> </span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(150,170,150,1) ; position: absolute; top: 5px; left: 10px;">09.2003 - 04.2008</span></p>
-    <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(150,170,150,1);  position: absolute; top: 50px; left: 10px;">&nbsp;University of Tehran</span></p>
+  </div>
 </div>
- </div>
 
+<div class="textbox">
+  <div class="main-content">
+    <h3>NLP</h3>
+    <ul>
+      <li>
+        Text mining and preprocessing, sentiment analysis, topic modeling, classification. Tools: Beautiful Soup, NLTK, Regex, spaCy, Gensim, Mallet, TF-IDF, Stylo, BookNLP.
+      </li>
+    </ul>
+  </div>
+</div>
 
+<div class="textbox">
+  <div class="main-content">
+    <h3>Optimization</h3>
+    <ul>
+      <li>
+        Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear and nonlinear programming.
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="textbox">
+  <div class="main-content">
+    <h3>Material Modeling</h3>
+    <ul>
+      <li>
+        Large-Scale and Parallel material Simulations with High-Performance Computing (HPC) Using VASP and Quantum ESPRESSO.
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="textbox">
+  <div class="main-content">
+    <h3>Material Characterization</h3>
+    <ul>
+      <li>
+        Using physical vapor deposition (PVD) for nanocoating, thin films characterizing by interferometric methods and Atomic Force Microscopy.
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="textbox">
+  <div class="main-content">
+    <h3>Mathematical</h3>
+    <ul>
+      <li>
+        Wave Theory, Matrix Mechanics, Differential Equations, Statistics. Skills: Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
+      </li>
+    </ul>
+  </div>
+</div>
 
 
