@@ -1,95 +1,12 @@
----
-layout: page
-title: Work Experience
-permalink: /portfolio2/
-subtitle: ""
-feature-img: "assets/img/pexels/"
-position: 3
----
-
 <style>
-    /* Background color for the page */
-    body {
-        background-color: red;
-    }
-
     /* Style for the section titles */
     .textbox {
         display: flex;
-        justify-content: space-between;
-        background-color: white;
-        line-height: 40px;
-        margin-bottom: 5px;
-    }
-
-    .title-container {
-        margin-left: -0.8em;
-        margin-top: -0.3em;
-        display: flex;
-        align-items: center;
-        margin-bottom: -5px;
-    }
-
-    .title-container i {
-        margin-top: -15px;
-        margin-right: 5px;
-        font-size: 26px;
-        color: #abb8a0;
-    }
-
-    .title-container p {
         font-weight: bold;
         font-family: 'Garamond';
         font-size: 20px;
         color: #abb8a0;
-        margin-left: .1em;
-    }
-
-    /* Style for the subsections */
-    .textbox2 {
-        background-color: #f0f0f0;
-        border: 1px solid white;
-        border-radius: 30px;
-        padding: -2px;
-        margin: 0;
-        box-shadow: 0 2px 2px white;
-        position: relative;
-        display: flex;
-        align-items: center;
-        width: 100%;
-    }
-
-    .main-content {
-        flex: 1;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .main-content p {
-        font-weight: bold;
-        font-family: 'Garamond';
-        font-size: 20px;
-        color: rgba(62, 121, 180, 1);
-        margin-left: 1em;
-        margin-top: 27px; /* Adjust vertical position */
-        margin-bottom: -10px; /* Adjust vertical position */
-    }
-
-    .main-content ul {
-        font-size: 17px;
-        font-family: 'Avenir Next LT Pro Regular', sans-serif;
-        margin-left: 1.2em;
-        color: black;
-        margin-top: 20px;
-        margin-bottom: 20px;
-    }
-
-    .main-content ul li {
-        font-family: 'Avenir Next LT Pro Regular', sans-serif;
-        margin-left: 8px;
-        margin-top: 12px;
-        margin-bottom: 12px;
+        margin-left: 0.1em;
     }
 
     :root {
@@ -100,10 +17,10 @@ position: 3
         content: '';
         position: absolute;
         top: 54px;
-        left: 0px;
+        left: 0;
         width: var(--gradient-line-width);
         height: 3px;
-        background: linear-gradient(to right, rgba(62,121,180,.6) 78%, rgba(200,144,98,1) 23%); 
+        background: linear-gradient(to right, rgba(62, 121, 180, 0.6) 78%, rgba(200, 144, 98, 1) 23%);
         border-radius: 10px;
     }
 
@@ -112,7 +29,7 @@ position: 3
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-        padding: 0px;
+        padding: 0;
         font-size: 17px;
         width: calc(var(--gradient-line-width) * 0.2); /* 20% of the gradient line width */
         border-radius: 20px;
@@ -124,7 +41,6 @@ position: 3
         font-size: 17px;
         color: rgba(200, 144, 98, 1);
         margin-top: -25px; /* Adjusted to bring the date closer to the location */
-        padding-right: -10px;
         margin-left: 10px;
         position: relative; /* Added to allow for relative positioning */
         top: -20px; /* Moves the date upwards */
@@ -135,7 +51,6 @@ position: 3
         color: rgba(200, 144, 98, 1);
         margin-left: 10px;
         padding-bottom: 17px;
-        padding-right: -15px;
         margin-top: 10px;
         position: relative; /* Added to allow for relative positioning */
         top: -10px; /* Moves the location upwards */
@@ -143,61 +58,62 @@ position: 3
 
     /* Responsive adjustments for smaller screens */
     @media only screen and (max-width: 600px) {
-        .title-container {
-            flex-direction: column;
-            align-items: flex-start;
-            margin-left: 0;
-            margin-top: 0;
-            margin-bottom: 0;
-        }
-
-        .title-container i {
-            margin-right: 0;
-            margin-bottom: 5px;
-            margin-top: -20px;
-        }
-
-        .title-container p {
-            font-size: 18px;
-            margin-left: 0;
-        }
-
-        .textbox2 {
-            flex-direction: column;
-            align-items: flex-start;
-        }
-
-        .main-content p {
-            font-size: 16px;
-            margin-left: 0;
-        }
-
-        .main-content ul {
-            margin-left: 1em;
-        }
-
-        .additional-column {
-            width: 100%;
-            height: auto;
-            margin-top: 10px;
-        }
-
-        .additional-column p, .additional-column span {
-            position: static;
-            margin-top: 5px;
-        }
-
-        .textbox2 .gradient-line::before {
-            top: 47px;
+        .gradient-line::before {
+            top: 50px;
             left: 10px;
             width: 98%;
             height: 3px;
-            background: rgba(62, 121, 180, .2);
+            background: rgba(62, 121, 180, 0.2);
             border-radius: 10px;
         }
     }
 </style>
 
 <body>
-    <!-- Your content here -->
+    <section>
+        <div class="textbox">
+            <div class="title-container">
+                <i class="fa fa-briefcase"></i>
+                <h3>Computational Research on Materials</h3>
+            </div>
+        </div>
+        <br>
+        <div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                    <h4>Postdoctoral Researcher</h4>
+                </div>
+                <ul>
+                    <li style="list-style-type: none; color: gray; font-size: 15px;">Key Responsibilities</li>
+                    <li>Python-based simulation of materials properties at micron and nanometer scales.</li>
+                    <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum, and topological features.</li>
+                </ul>
+                <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <span class="date">10.2021 - 06.2023</span>
+                <span class="location">University of Antwerp</span>
+            </div>
+        </div>
+        <div style="height: 30px;"></div>
+        <div class="textbox2">
+            <div class="main-content">
+                <div style="margin-left: 0.1em; margin-top: -0.6em; margin-bottom: 0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+                    <h4>Doctoral Researcher</h4>
+                </div>
+                <ul>
+                    <li style="list-style-type: none; color: gray; font-size: 15px;">Key Responsibilities</li>
+                    <li>High-performance computing (HPC) and simulation with the VASP package.</li>
+                    <li>Mathematical modeling and computer simulation based on Mathematica and Python.</li>
+                    <li>Data visualization, analysis, and reporting findings to scientific journals.</li>
+                </ul>
+                <div class="gradient-line"></div>
+            </div>
+            <div class="additional-column">
+                <span class="date">03.2017 - 10.2021</span>
+                <span class="location">University of Antwerp</span>
+            </div>
+        </div>
+    </section>
+    <!-- Additional sections follow a similar structure -->
 </body>
