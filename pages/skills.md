@@ -5,7 +5,7 @@ permalink: /My Selected Skills/
 subtitle: ""
 feature-img: "assets/img/pexels/"
 excluded: true
-position: 2
+position: 1
 tags: [Page]
 ---
 
