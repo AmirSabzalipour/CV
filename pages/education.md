@@ -69,14 +69,6 @@ tags: [Page]
   }
 </style>
 
-<div class="textbox">
-  <div class="main-content">
-    <h3>Programming</h3>
-    <ul>
-      <li>Python, C, Mathematica, and SQL.</li>
-    </ul>
-  </div>
-</div>
 
 <div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
     <div class="main-content" style="flex: 1;">
