@@ -78,82 +78,79 @@ tags: [Page]
   </div>
 </div>
 
-<div class="textbox">
-  <div class="main-content">
-    <h3>Data Science</h3>
-    <ul>
-      <li>
-        Exploratory data analysis, feature engineering, statistical analysis, visualization,
-        pipeline development, post-processing, and reporting the results. Libraries: NumPy, Pandas, Matplotlib, Spark, PyTorch, Seaborn, etc.
-      </li>
-    </ul>
-  </div>
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+            <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">
+                Master of Digital Text Analysis
+            </p>
+        </div>
+        <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;">
+            <li style="margin-bottom: 10px;">
+                Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse text content.
+            </li>
+        </ul>
+    </div>
+    <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(250,144,98,1); position: absolute; top: 5px; left: 0px;">09.2023 - Present</span></p>
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(250,144,98,1); position: absolute; top: 50px; left: 0px;">University of Antwerp</span></p>
+    </div>
 </div>
 
-<div class="textbox">
-  <div class="main-content">
-    <h3>Machine Learning</h3>
-    <ul>
-      <li>
-        Feature engineering, model training, evaluation, deployment, and monitoring. Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines), Natural Language Processing (NLP), Deep Learning, and Neural Networks with PyTorch.
-      </li>
-    </ul>
-  </div>
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+            <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">
+                Ph.D. in Physics
+            </p>
+        </div>
+        <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;">
+            <li style="margin-bottom: 10px;">
+                Thesis title: <a href="https://repository.uantwerpen.be/docstore/d:irua:8696" style="color: lapislazuli;">"Charge Transport in Magnetic Topological Insulators"</a>
+            </li>
+        </ul>
+    </div>
+    <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1); position: absolute; top: 5px; left: 10px;">03.2017 - 10.2021</span></p>
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,144,98,1); position: absolute; top: 50px; left: 10px;">University of Antwerp</span></p>
+    </div>
 </div>
 
-<div class="textbox">
-  <div class="main-content">
-    <h3>NLP</h3>
-    <ul>
-      <li>
-        Text mining and preprocessing, sentiment analysis, topic modeling, classification. Tools: Beautiful Soup, NLTK, Regex, spaCy, Gensim, Mallet, TF-IDF, Stylo, BookNLP.
-      </li>
-    </ul>
-  </div>
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+            <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">
+                M.Sc. in Physics
+            </p>
+        </div>
+        <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;">
+            <li style="margin-bottom: 10px;">
+                Studying quantum interaction effects on the anisotropic properties of materials.
+            </li>
+        </ul>
+    </div>
+    <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,200,98,1); position: absolute; top: 5px; left: 10px;">09.2011 - 04.2014</span></p>
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(200,200,98,1); position: absolute; top: 50px; left: 10px;">IASBS</span></p>
+    </div>
 </div>
 
-<div class="textbox">
-  <div class="main-content">
-    <h3>Optimization</h3>
-    <ul>
-      <li>
-        Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear and nonlinear programming.
-      </li>
-    </ul>
-  </div>
+<div class="textbox" style="display: flex;justify-content: space-between; line-height: 90px; margin-bottom: 10px;">
+    <div class="main-content" style="flex: 1;">
+        <div style="margin-left: 0.1em; margin-top: -0.1em; display: flex; align-items: center; margin-bottom: 5px;">
+            <p style="font-weight: bold; font-size: 22px;color: rgba(46, 89, 132,1); font-family: 'Garamond'; margin-left: .9em;">
+                B.Sc in Physics
+            </p>
+        </div>
+        <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;">
+            <li style="margin-bottom: 10px;">
+                Thin film fabrication by Physical Vapor Deposition (PVD) techniques.
+            </li>
+        </ul>
+    </div>
+    <div class="additional-column" style="width: 160px; height: 100px; position: relative;">
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(150,170,150,1); position: absolute; top: 5px; left: 10px;">09.2003 - 04.2008</span></p>
+        <p><span style="font-family: 'Avenir Next LT Pro'; font-size: 15px; color: rgba(150,170,150,1); position: absolute; top: 50px; left: 10px;">University of Tehran</span></p>
+    </div>
 </div>
-
-<div class="textbox">
-  <div class="main-content">
-    <h3>Material Modeling</h3>
-    <ul>
-      <li>
-        Large-Scale and Parallel material Simulations with High-Performance Computing (HPC) Using VASP and Quantum ESPRESSO.
-      </li>
-    </ul>
-  </div>
-</div>
-
-<div class="textbox">
-  <div class="main-content">
-    <h3>Material Characterization</h3>
-    <ul>
-      <li>
-        Using physical vapor deposition (PVD) for nanocoating, thin films characterizing by interferometric methods and Atomic Force Microscopy.
-      </li>
-    </ul>
-  </div>
-</div>
-
-<div class="textbox">
-  <div class="main-content">
-    <h3>Mathematical</h3>
-    <ul>
-      <li>
-        Wave Theory, Matrix Mechanics, Differential Equations, Statistics. Skills: Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
-      </li>
-    </ul>
-  </div>
-</div>
-
 
