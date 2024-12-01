@@ -1,3 +1,14 @@
+---
+layout: page
+title: Work Experience
+permalink: /portfolio2/
+subtitle: ""
+feature-img: "assets/img/pexels/"
+position: 3
+---
+
+
+
 <style>
     /* Style for the section titles */
     .textbox {
