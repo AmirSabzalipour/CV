@@ -40,13 +40,13 @@ tags: [Page]
 
 <h2>Programming</h2>
 <ul>
-  <li>Python, C, Mathematica, and SQL.</li>
+  <li>Python, C, Mathematica, SQL.</li>
 </ul>
 <hr>
 
 <h2>Data Science</h2>
 <ul>
-  <li>Exploratory data analysis, feature engineering, statistical analysis, visualization, pipeline development, post-processing, and reporting results.</li>
+  <li>Exploratory data analysis, feature engineering, statistical analysis, visualization, pipeline development, post-processing, and reporting the results.</li>
   <li>Libraries: NumPy, Pandas, Matplotlib, Spark, PyTorch, Seaborn, etc.</li>
 </ul>
 <hr>
@@ -54,39 +54,47 @@ tags: [Page]
 <h2>Machine Learning</h2>
 <ul>
   <li>Feature engineering, model training, evaluation, deployment, and monitoring.</li>
-  <li>Tools: SciKit Learn (Regression, Classification using Random Forests, Support Vector Machines), NLP, Deep Learning, Neural Networks with PyTorch.</li>
+  <li>Models: Regression, decision trees, SVM, KNN, ensemble methods, neural networks.</li>
 </ul>
 <hr>
 
-<h2>NLP (Natural Language Processing)</h2>
+<h2>NLP</h2>
 <ul>
   <li>Text mining and preprocessing, sentiment analysis, topic modeling, classification.</li>
   <li>Tools: Beautiful Soup, NLTK, Regex, spaCy, Gensim, Mallet, TF-IDF, Stylo, BookNLP.</li>
 </ul>
 <hr>
 
+<h2>Large Language Models</h2>
+<ul>
+  <li>Applying and fine-tuning large language models for text generation, summarization, question answering, prompt engineering, RAG, few-shot learning, and perplexity evaluation.</li>
+  <li>Tasks: Hyperparameter tuning, transfer learning, regularization, domain adaptation, quantization, metrics selection.</li>
+</ul>
+<hr>
+
 <h2>Optimization</h2>
 <ul>
-  <li>Pyomo modeling language with solvers such as CPLEX and Gurobi for mixed-integer linear and nonlinear programming.</li>
+  <li>Optimizing linear and non-linear mathematical models to address business challenges.</li>
+  <li>Tasks: Cost minimization, profit maximization, resource allocation, operational improvement.</li>
+  <li>Tools: Pyomo modeling language with CPLEX, Gurobi as solvers.</li>
 </ul>
 <hr>
 
-<h2>Material Modeling</h2>
+<h2>HPC</h2>
 <ul>
-  <li>Large-scale and parallel material simulations with High-Performance Computing (HPC) using VASP and Quantum ESPRESSO.</li>
+  <li>Advanced parallel computation using clusters.</li>
+  <li>Tasks: Atomic-scale material modeling with VASP and Quantum ESPRESSO on HPC.</li>
 </ul>
 <hr>
 
-<h2>Material Characterization</h2>
+<h2>Numeric Computation</h2>
 <ul>
-  <li>Nanocoating with physical vapor deposition (PVD) techniques.</li>
-  <li>Thin film characterization using interferometric methods and Atomic Force Microscopy.</li>
+  <li>Monte Carlo simulations, finite difference methods, numerical integration, and molecular dynamics simulation.</li>
 </ul>
 <hr>
 
-<h2>Mathematical Skills</h2>
+<h2>Mathematics</h2>
 <ul>
-  <li>Wave Theory, Matrix Mechanics, Differential Equations, and Statistics.</li>
-  <li>Additional expertise: Topology, Functional Analysis, Fourier Transformations, Perturbation theory.</li>
+  <li>Fourier analysis, statistics, perturbation theory, topology, wave theory.</li>
 </ul>
 <hr>
