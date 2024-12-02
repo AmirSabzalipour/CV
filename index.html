@@ -11,121 +11,92 @@ layout: page
   <link rel="stylesheet" href="navbar.css"> <!-- Correct path to your custom CSS file -->
   <style>
 
-body {
-    margin: 0px;
-    padding:10px;
-    background-image: url('assets/img/header/');
-    background-repeat: no-repeat;
-    background-size: 100% 100%; /* Change to cover */
-    background-position: center; /* Center the background image */
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-      
-    }
-    #content-container {
-    max-width: 100px; /* Adjust max-width as needed */
-    margin: 0 auto; /* Center the content horizontally */
-    padding: 0px 10px 0px 10px; /* Add padding as needed */
-    box-sizing: border-box; /* Include padding in the width calculation */
-    }
-  
-    @media screen and (max-width: 600px) {
-      body {
-        background-size: contain; 
-        background-position: top;
-        /* Adjust the background size for smaller screens */
-      }
-    }
+<style>
+  body {
+    margin: 0;
+    padding: 10px;
+    background-color: #cdd2ca;
+    font-family: 'Avenir Next LT Pro', sans-serif;
+  }
 
-      .post-content {
-      margin: 10px; /* Add margin to the post content */
-      color: black; /* Change text color to black */
-      position: absolute; /* Set the position to absolute */
-      top: 170px; /* Adjust top position */
-      left: -10px; /* Adjust left position */
-      padding: 10px; /* Adjust padding */
-      width: 800px;
-      font-size: 14px; 
-    }
+  h2 {
+    font-size: 24px;
+    color: #2e5984;
+    margin-bottom: 10px;
+  }
 
-   
-    /* Media query for small screens */
-    @media only screen and (max-width: 2000px) {
-      .post-content {
-        max-width: calc(100% - 40px); /* Adjust maximum width for small screens */
-      }
-    }
-  </style>
-</head>
-<body>
-  <style>
-    @media screen and (max-width: 600px) {
-      .avatar {
-        width: 70%; /* Adjust the width for smaller screens */
-        position: relative; /* Change the position to relative */
-        top: -200px; /* Adjust the top position for smaller screens */
-        left: 80px; /* Adjust the position for smaller screens */
-      }
-    }
-  </style>
-  
+  ul {
+    margin: 0 0 20px 20px;
+    padding: 0;
+    list-style-type: disc;
+    color: #333;
+    font-size: 16px;
+  }
 
-  <style>
-   
-  </style>
-  
+  hr {
+    border: none;
+    border-top: 2px solid #ddd;
+    margin: 20px 0;
+  }
+</style>
 
-  <div style="position: absolute; top: -10px; left: 30px; width: 140px; padding: 0px;">
-    <h2></h2>
-    <!-- Add class="avatar" to your avatar image -->
-    <img src="assets/img/pexels/amir.jpg" alt="Avatar Image" class="avatar" style="max-width: 100%; border-radius: 50%; position: relative; top: 70px; left: -35px;">
-  </div>
-  
+<h2>Programming</h2>
+<ul>
+  <li>Python, C, Mathematica, SQL.</li>
+</ul>
+<hr>
 
-  <style>
-    #text-box {
-      padding-top: 150px; /* Adjust top padding */
-      padding-bottom: 100px; /* Adjust bottom padding */
-      padding-left: 20px; /* Adjust left padding */
-      padding-right: 200px; /* Adjust right padding */
-      margin: 0; /* Reset margin */
-      position: absolute; /* Set position to absolute */
-      top: 130px; /* Adjust top position */
-      left: 80px; /* Adjust left position */
-      width: 900px; /* Adjust width */
-    }
-  
-    @media screen and (max-width: 600px) {
-      #text-box {
-        padding-top: 10px; /* Adjust top padding for smaller screens */
-        padding-bottom: 20px; /* Adjust bottom padding for smaller screens */
-        padding-left: 10px; /* Adjust left padding for smaller screens */
-        padding-right: 10px; /* Adjust right padding for smaller screens */
-        width: auto; /* Adjust width for smaller screens */
-        top: 100px; /* Adjust top position for smaller screens */
-        left: 10px; /* Adjust left position for smaller screens */
-        right: 10px; /* Adjust right position for smaller screens */
-      }
-  
-      ul {
-        font-size: 10px; /* Reduce font size for smaller screens */
-      }
-    }
-  </style>
-  
-  </style>
-  
-  <div id="text-box">
-    <div id="color-post" class="post-content">
-      <ul style="font-size: 16px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif; text-align: justify;"> 
-        I am a passionate researcher with a strong background in physics and data science.</li>
-        My expertise lies in the areas of mathematical modeling, computer simulations, data science, machine learning, natural language processing, and optimization.</li>
-        As a result of compelling professional work on computational, theoretical, data-driven, and experimental projects, I've developed a well-rounded skill set.</li>
-        I possess an analytical mindset, out-of-the-box problem-solving skills, and the ability to communicate complex problems effectively.</li>
-      </ul>
-    </div>
-  </div>
-  
-  
-</body> 
+<h2>Data Science</h2>
+<ul>
+  <li>Exploratory data analysis, feature engineering, statistical analysis, visualization, pipeline development, post-processing, and reporting the results.</li>
+  <li>Libraries: NumPy, Pandas, Matplotlib, Spark, PyTorch, Seaborn, etc.</li>
+</ul>
+<hr>
+
+<h2>Machine Learning</h2>
+<ul>
+  <li>Feature engineering, model training, evaluation, deployment, and monitoring.</li>
+  <li>Models: Regression, decision trees, SVM, KNN, ensemble methods, neural networks.</li>
+</ul>
+<hr>
+
+<h2>NLP</h2>
+<ul>
+  <li>Text mining and preprocessing, sentiment analysis, topic modeling, classification.</li>
+  <li>Tools: Beautiful Soup, NLTK, Regex, spaCy, Gensim, Mallet, TF-IDF, Stylo, BookNLP.</li>
+</ul>
+<hr>
+
+<h2>Large Language Models</h2>
+<ul>
+  <li>Applying and fine-tuning large language models for text generation, summarization, question answering, prompt engineering, RAG, few-shot learning, and perplexity evaluation.</li>
+  <li>Tasks: Hyperparameter tuning, transfer learning, regularization, domain adaptation, quantization, metrics selection.</li>
+</ul>
+<hr>
+
+<h2>Optimization</h2>
+<ul>
+  <li>Optimizing linear and non-linear mathematical models to address business challenges.</li>
+  <li>Tasks: Cost minimization, profit maximization, resource allocation, operational improvement.</li>
+  <li>Tools: Pyomo modeling language with CPLEX, Gurobi as solvers.</li>
+</ul>
+<hr>
+
+<h2>HPC</h2>
+<ul>
+  <li>Advanced parallel computation using clusters.</li>
+  <li>Tasks: Atomic-scale material modeling with VASP and Quantum ESPRESSO on HPC.</li>
+</ul>
+<hr>
+
+<h2>Numeric Computation</h2>
+<ul>
+  <li>Monte Carlo simulations, finite difference methods, numerical integration, and molecular dynamics simulation.</li>
+</ul>
+<hr>
+
+<h2>Mathematics</h2>
+<ul>
+  <li>Fourier analysis, statistics, perturbation theory, topology, wave theory.</li>
+</ul>
+<hr>
