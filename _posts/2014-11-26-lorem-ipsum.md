@@ -3,6 +3,7 @@ layout: post
 title: The Real Lorem Ipsum
 tags: [Image, Color]
 color: turquoise
+published: false
 excerpt_separator: <!--more-->
 categories: Demo
 ---
