@@ -2,6 +2,7 @@
 layout: post
 title: "Bootstrap"
 bootstrap: true
+published: false
 tags: [Test]
 categories: Demo
 ---
